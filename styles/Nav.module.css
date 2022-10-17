@@ -7,6 +7,10 @@
     text-align: center;
 }
 
-.nav h1 {
-    padding: 0.25rem 0;
+.logo {
+    font-size: 4rem;
 }
+
+/* .nav h1 {
+    padding: 0.25rem 0;
+} */
