@@ -15,12 +15,13 @@ const Home = () => {
       </Head>
       <Nav/>
       <section className={styles.container}>
-      {cats.map((cat, k) => (
-              <li key={k}>
-                <h2>{cat.name}</h2>
-                <p>{cat.description}</p>
-              </li>
-            ))}
+        <h1>{title}</h1>
+        {cats.map((cat, k) => (
+            <li key={k}>
+              <h2>{cat.name}</h2>
+              <p>{cat.description}</p>
+            </li>
+        ))}
       </section>
     </div>
    );
