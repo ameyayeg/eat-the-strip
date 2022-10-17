@@ -8,5 +8,7 @@ cats:
     name: Lil Bub
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
+  - name: Sherlock
+    description: Sherlock is a sweet grey tabby.
 ---
 T﻿his is my new blog.
