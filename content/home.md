@@ -1,6 +1,6 @@
 ---
-title: Eas the Strip
-date: 2019-03-17T19:31:20.591Z
+title: Eat the Strip
+date: 2022-10-17T21:03:28.062Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
     name: Maru (まる)
@@ -11,7 +11,4 @@ cats:
   - name: Meechu
     description: Is a Canadian kitty.
 ---
-
-Welcome to my awesome page about cats of the internet.
-
-This page is built with NextJS, and content is managed in Netlify CMS
+T﻿his is my new blog.
