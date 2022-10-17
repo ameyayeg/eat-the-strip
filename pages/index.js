@@ -17,10 +17,10 @@ const Home = () => {
       <section className={styles.container}>
         <h1>{title}</h1>
         {cats.map((cat, k) => (
-            <li key={k}>
+            <div key={k}>
               <h2>{cat.name}</h2>
               <p>{cat.description}</p>
-            </li>
+            </div>
         ))}
       </section>
     </div>
