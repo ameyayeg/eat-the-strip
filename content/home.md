@@ -1,6 +1,6 @@
 ---
 title: Eat the Strip
-date: 2022-10-17T21:03:28.062Z
+date: 2022-10-17T23:15:48.461Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
     name: Maru (まる)
