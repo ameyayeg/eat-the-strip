@@ -1,29 +1,45 @@
-import Head from "next/head"
+
 import Image from "next/image"
-import { attributes, react as HomeContent } from '../content/home.md'
+import Link from 'next/link'
 import Nav from "../components/Nav"
 import styles from '../styles/Home.module.css'
+import fs from 'fs'
+import matter from 'gray-matter'
+
+export async function getStaticProps() {
+  const blogFiles= fs.readdirSync('./content/blogs')
+
+  const blogs = blogFiles.map(filename => {
+    const file = fs.readFileSync(`./content/blogs/${filename}`, 'utf8')
+    const matterData = matter(file)
+
+    return {
+      ...matterData.data,
+      slug: filename.slice(0, filename.indexOf('.'))
+    }
+  })
+  return {
+    props: {
+      blogs
+    }
+  }
+}
 
 
-const Home = () => {
-  const { title, cats } = attributes;
+const Home = ( {blogs} ) => {
   return ( 
-    <div>
-      <Head>
-        <title>Eat the Strip</title>
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-      </Head>
+    <>
       <Nav/>
       <section className={styles.container}>
-        <h1>{title}</h1>
-        {cats.map((cat, k) => (
-            <div key={k}>
-              <h2>{cat.name}</h2>
-              <p>{cat.description}</p>
-            </div>
-        ))}
+      {blogs.map(blog => (
+        <div key={blog.slug}>
+          <Link href={`/blog/${blog.slug}`}>
+            <a>{blog.date}:{blog.title}</a>
+          </Link>
+        </div>
+      ))}
       </section>
-    </div>
+    </>
    );
 }
  
