@@ -36,10 +36,7 @@ const Home = ( {blogs} ) => {
       {blogs.map(blog => (
         <div key={blog.slug}>
           <Link href={`/blog/${blog.slug}`}>
-            <div style={{backgroundImage: `url(${blog.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '250', width: '250px'}}>
-              {/* <img src={blog.thumbnail} className={styles.image}/> */}
-              {/* <Image src={blog.thumbnail} width="200px" height="200px" className={styles.image}/> */}
-            </div>
+            <div style={{backgroundImage: `url(${blog.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '400px', width: '400px'}}></div>
           </Link>
         </div>
       ))}
