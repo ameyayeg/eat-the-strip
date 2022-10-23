@@ -1,7 +1,6 @@
 
 import Image from "next/image"
 import Link from 'next/link'
-import Nav from "../components/Nav"
 import styles from '../styles/Home.module.css'
 import fs from 'fs'
 import matter from 'gray-matter'
@@ -28,18 +27,18 @@ export async function getStaticProps() {
 
 const Home = ( {blogs} ) => {
 
-
   return ( 
     <>
-      <Nav/>
       <section className={styles.container}>
-      {blogs.map(blog => (
-        <div key={blog.slug}>
-          <Link href={`/blog/${blog.slug}`}>
-            <div style={{backgroundImage: `url(${blog.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '400px', width: '400px'}}></div>
-          </Link>
-        </div>
-      ))}
+        {blogs.map(blog => (
+          <div className={styles.thumbnail} key={blog.slug}>
+            <Link href={`/blog/${blog.slug}`}>
+              <a>
+                <div style={{backgroundImage: `url(${blog.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '300px', width: '300px'}}></div>
+              </a>
+            </Link>
+          </div>
+        ))}
       </section>
     </>
    );

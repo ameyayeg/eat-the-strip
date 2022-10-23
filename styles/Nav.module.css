@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico:wght@400&display=swap');
 
 
-.nav {
+.container {
     font-family: 'Pacifico', sans-serif;
     font-size: 1.5rem;
     text-align: center;
@@ -11,6 +11,4 @@
     font-size: 4rem;
 }
 
-/* .nav h1 {
-    padding: 0.25rem 0;
-} */
+

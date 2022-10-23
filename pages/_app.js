@@ -1,5 +1,6 @@
 import '../styles/styles.css'
 import Head from "next/head"
+import Layout from '../components/Layout'
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -7,7 +8,9 @@ export default function MyApp({ Component, pageProps }) {
       <Head>
         <title>Eat the Strip</title>
       </Head>
-      <Component {...pageProps} />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </div>
   )
 }

@@ -5,15 +5,6 @@ import Head from 'next/head'
 
 export async function getStaticPaths() {
     const filesInProjects = fs.readdirSync('./content/blogs')
-  
-    // Getting the filenames excluding .md extension
-    // and returning an array containing slug (the filename) as params for every route
-    // It looks like this
-    // paths = [
-    //   { params: { slug: 'my-first-blog' }},
-    //   { params: { slug: 'how-to-train-a-dragon' }},
-    //   { params: { slug: 'how-to-catch-a-pokemon' }},
-    // ]
     const paths = filesInProjects.map(file => {
       const filename = file.slice(0, file.indexOf('.'))
       return { params: { slug: filename }}
@@ -38,9 +29,9 @@ export async function getStaticProps({ params: { slug } }) {
 export default function Blog({ frontmatter, markdown}) {
     return (
       <div>
-        <Head>
+        {/* <Head>
           <title>Demo Blog | {frontmatter.title}</title>
-        </Head>
+        </Head> */}
         <h1>{frontmatter.title}</h1>
         <span>{frontmatter.date}</span>
         <hr />
