@@ -4,17 +4,17 @@ import Link from 'next/link'
 
 const Nav = () => {
     return ( 
+        <>
         <nav className={styles.container}>
-            <div>
-                <Link href={`/`}>
-                    <a>
-                        <h1>Eat the Strip</h1>
-                        <GiFoodTruck className={styles.logo}/>
-                    </a>
-                </Link>
-                <hr/>
-            </div>
+            <Link href="/">
+                <a style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.25em', marginRight: 'auto'}}>
+                    <h2>Eat the Strip</h2>
+                    <GiFoodTruck className={styles.logo}/>
+                </a>
+            </Link>
         </nav>
+        <hr/>
+        </>
      );
 }
  

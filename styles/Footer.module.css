@@ -1,6 +1,6 @@
 .container {
     background-color: black;
-    padding: 1em;
+    /* padding: 1em; */
     position: fixed;
     left: 0;
     bottom: 0;

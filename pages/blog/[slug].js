@@ -2,6 +2,7 @@ import fs from 'fs'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
 import Head from 'next/head'
+import Image from 'next/image'
 
 export async function getStaticPaths() {
     const filesInProjects = fs.readdirSync('./content/blogs')
@@ -27,17 +28,19 @@ export async function getStaticProps({ params: { slug } }) {
 }
 
 export default function Blog({ frontmatter, markdown}) {
+
     return (
-      <div>
-        {/* <Head>
-          <title>Demo Blog | {frontmatter.title}</title>
-        </Head> */}
+      <>
+        <Head>
+          <title>Eat the Strip | {frontmatter.title}</title>
+        </Head>
+        <div style={{backgroundImage: `url(${frontmatter.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '50vh', width: '100%'}}></div>
         <h1>{frontmatter.title}</h1>
         <span>{frontmatter.date}</span>
         <hr />
         <ReactMarkdown>
           {markdown}
         </ReactMarkdown>
-      </div>
+      </>
     )
   }
