@@ -44,7 +44,7 @@ const Home = ( {blogs} ) => {
     <>
     <label>
       <BsSearch/>
-      <input type-="text" onChange={(e) => setQuery(e.target.value)}></input>
+      <input type-="text" value={query} onChange={(e) => setQuery(e.target.value)}></input>
     </label>
 
     <section className={styles.container}>

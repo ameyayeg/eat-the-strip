@@ -29,6 +29,8 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function Blog({ frontmatter, markdown}) {
 
+  console.log( markdown)
+
     return (
       <>
         <Head>
