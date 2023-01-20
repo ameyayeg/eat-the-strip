@@ -3,9 +3,8 @@
     margin: 4rem auto;
     width: min(90%, 75rem);
     display: grid;
-    grid-auto-flow: column;
+    grid-auto-flow: row;
     gap: 1em;
-    overflow-x: scroll;
 }
 
 .thumbnail {
@@ -14,9 +13,8 @@
     align-items: center;
 }
 
-/* @media (min-width: 40em) {
+@media (min-width: 70rem) {
     .container {
         grid-auto-flow: column;
-        margin: 8rem auto;
     }
-} */
+}
