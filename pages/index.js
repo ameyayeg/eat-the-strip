@@ -27,9 +27,8 @@ export async function getStaticProps() {
 }
 
 const Home = ( {blogs} ) => {
-  const [query, setQuery] = useState("")
 
-  console.log(query)
+  const [query, setQuery] = useState("")
 
   function getFilteredItems(query, blogs) {
     if(!query) {
@@ -42,25 +41,25 @@ const Home = ( {blogs} ) => {
 
   return ( 
     <>
-    <label>
-      <BsSearch/>
-      <input type-="text" value={query} onChange={(e) => setQuery(e.target.value)}></input>
-    </label>
+      <label>
+        <BsSearch/>
+        <input type-="text" value={query} onChange={(e) => setQuery(e.target.value)}></input>
+      </label>
 
-    <section className={styles.container}>
-      {filteredItems.map(blog => (
-        <div className={styles.thumbnail} key={blog.slug}>
-          <Link href={`/blog/${blog.slug}`}>
-            <a>
-              <div style={{backgroundImage: `url(${blog.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '300px', width: '300px', position: 'relative'}}>
-                <span style={{position: 'absolute', backgroundColor: 'yellow', color: 'black', top: '0', left: '0', textTransform: 'uppercase', padding: '0.25rem 0.5rem', fontWeight: 'bold'}}>Cuisine</span>
-                <span style={{position: 'absolute', backgroundColor: 'black', color: 'white', bottom: '0', left: '0', right: '0', padding: '0.5rem 0.75rem'}}>{blog.title}</span>
-              </div>
-            </a>
-          </Link>
-        </div>
-      ))}
-    </section>
+      <section className={styles.container}>
+        {filteredItems.map(blog => (
+          <div className={styles.thumbnail} key={blog.slug}>
+            <Link href={`/blog/${blog.slug}`}>
+              <a>
+                <div style={{backgroundImage: `url(${blog.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '300px', width: '300px', position: 'relative'}}>
+                  <span style={{position: 'absolute', backgroundColor: 'yellow', color: 'black', top: '0', left: '0', textTransform: 'uppercase', padding: '0.25rem 0.5rem', fontWeight: 'bold'}}>{blog.cuisine}</span>
+                  <span style={{position: 'absolute', backgroundColor: 'black', color: 'white', bottom: '0', left: '0', right: '0', padding: '0.5rem 0.75rem'}}>{blog.title}</span>
+                </div>
+              </a>
+            </Link>
+          </div>
+        ))}
+      </section>
     </>
    );
 }

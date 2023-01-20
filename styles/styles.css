@@ -6,16 +6,16 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: 'Poppins', sans-serif;
-    max-width: 80%;
-    margin: 0 auto;
     background-color: #f3f3f3;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    align-items: space-between;
+    justify-content: center;
 }
+
 
 a {
     cursor: pointer;

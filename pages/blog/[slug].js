@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
 import Head from 'next/head'
 import Image from 'next/image'
+import {AiOutlineStar} from 'react-icons/ai'
 
 export async function getStaticPaths() {
     const filesInProjects = fs.readdirSync('./content/blogs')
@@ -29,18 +30,27 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function Blog({ frontmatter, markdown}) {
 
+  const rating = () => {
+    return <span></span>
+  }
+  
+
     return (
-      <>
+      <div>
         <Head>
           <title>Eat the Strip | {frontmatter.title}</title>
         </Head>
-        <div style={{backgroundImage: `url(${frontmatter.thumbnail})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '50vh', width: '100%'}}></div>
-        <h1>{frontmatter.title}</h1>
-        <span>{frontmatter.date}</span>
+        <div>
+          <div style={{backgroundImage: `url(${frontmatter.image})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '50vh', width: '100%'}}></div>
+          <h1>{frontmatter.title}</h1>
+          {}
+          <p>{frontmatter.date}</p>
+        </div>
         <hr />
         <ReactMarkdown>
           {markdown}
         </ReactMarkdown>
-      </>
+      </div>
+
     )
   }
