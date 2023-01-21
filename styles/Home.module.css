@@ -1,10 +1,11 @@
 
 .container {
-    margin: 4rem auto;
+    margin: 6rem auto;
     width: min(90%, 75rem);
     display: grid;
     grid-auto-flow: row;
-    gap: 1em;
+    gap: 1.5em;
+    border: 5px solid red;
 }
 
 .thumbnail {
@@ -34,10 +35,10 @@
 }
 .searchInput:focus {
     border: solid 3px black; 
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
-@media (min-width: 70rem) {
+@media (min-width: 85rem) {
     .container {
         grid-auto-flow: column;
     }

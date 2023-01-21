@@ -28,6 +28,7 @@ export async function getStaticProps() {
 
 const Home = ( {blogs} ) => {
 
+
   const [query, setQuery] = useState("")
 
   function getFilteredItems(query, blogs) {
