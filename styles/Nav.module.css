@@ -3,7 +3,7 @@
 
 
 .container {
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', cursive, sans-serif;
     font-size: 1.5rem;
     text-align: center;
     padding: 0.25em 0.5em;

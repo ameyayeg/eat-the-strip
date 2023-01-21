@@ -1,6 +1,6 @@
 
 .container {
-    margin: 6rem auto;
+    margin: 5rem auto;
     width: min(90%, 75rem);
     display: grid;
     grid-auto-flow: row;
@@ -15,21 +15,18 @@
 }
 
 .searchWrapper {
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-        
 }
 
 .searchInput {
     margin-top: 1em;
-    outline: none;
     border: solid 3px #fff;
     box-sizing: border-box;
-    font-size:2em;
-    height:2em;
-    padding:.5em;
+    font-size: 1em;
+    height: 1em;
+    padding: 0.5em;
     transition: all 0.5s ease-in;
 
 }
@@ -41,5 +38,10 @@
 @media (min-width: 85rem) {
     .container {
         grid-auto-flow: column;
+    }
+    .searchInput {
+        font-size:2em;
+        height:2em;
+        padding:.5em;
     }
 }
