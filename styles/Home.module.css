@@ -4,8 +4,8 @@
     width: min(90%, 75rem);
     display: grid;
     grid-auto-flow: row;
-    gap: 1.5em;
-    border: 5px solid red;
+    gap: 1em;
+ 
 }
 
 .thumbnail {
