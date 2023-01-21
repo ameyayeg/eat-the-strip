@@ -10,11 +10,11 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f3f3f3;
-    /* min-height: 100vh; */
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* justify-content: flex-end;
-    align-items: space-between; */
+    align-items: space-between;
+    /* justify-content: flex-end; */
 }
 
 
@@ -24,7 +24,7 @@ a {
     color: inherit;
 }
 
-a, span, ul, li, h1, div, h2, h3, p, hr, header, footer, nav, label, input, section, main {
+/* a, span, ul, li, h1, div, h2, h3, p, hr, header, footer, nav, label, input, section, main {
     margin: 0;
     padding: 0;
-}
+} */
