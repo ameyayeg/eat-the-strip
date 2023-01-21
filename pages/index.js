@@ -41,11 +41,12 @@ const Home = ( {blogs} ) => {
 
   return ( 
     <>
-      <label>
-        <BsSearch/>
-        <input type-="text" value={query} onChange={(e) => setQuery(e.target.value)}></input>
-      </label>
-
+      <div className={styles.searchWrapper}>
+        <label className={styles.searchBar}>
+          <input className={styles.searchInput} placeholder="Search..." type-="text" value={query} onChange={(e) => setQuery(e.target.value)}></input>
+        </label>
+      </div>
+   
       <section className={styles.container}>
         {filteredItems.map(blog => (
           <div className={styles.thumbnail} key={blog.slug}>
