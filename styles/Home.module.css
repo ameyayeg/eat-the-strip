@@ -21,19 +21,16 @@
 }
 
 .searchInput {
+    outline: none;
     margin-top: 1em;
     border: solid 3px #fff;
     box-sizing: border-box;
-    font-size: 1em;
-    height: 1em;
-    padding: 0.5em;
+    font-size: 1.2em;
+    height: 1.3em;
+    padding: 1em;
     transition: all 0.5s ease-in;
+}
 
-}
-.searchInput:focus {
-    border: solid 3px black; 
-    transform: scale(1.2);
-}
 
 @media (min-width: 85rem) {
     .container {
@@ -43,5 +40,10 @@
         font-size:2em;
         height:2em;
         padding:.5em;
+    }
+
+    .searchInput:focus {
+        border: solid 3px black; 
+        transform: scale(1.2);
     }
 }

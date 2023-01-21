@@ -35,7 +35,7 @@ const Home = ( {blogs} ) => {
     if(!query) {
       return blogs
     }
-    return blogs.filter(blog => blog.slug.includes(query))
+    return blogs.filter(blog => blog.title.toLowerCase().includes(query)) 
   }
 
   const filteredItems = getFilteredItems(query, blogs)
