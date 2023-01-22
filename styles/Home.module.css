@@ -1,11 +1,11 @@
 
 .container {
     margin: 5rem auto;
-    width: min(90%, 75rem);
+    width: min(90%, 85rem);
     display: grid;
     grid-auto-flow: row;
     gap: 1em;
- 
+    border: 5px solid red;
 }
 
 .thumbnail {
@@ -32,7 +32,7 @@
 }
 
 
-@media (min-width: 85rem) {
+@media (min-width: 90rem) {
     .container {
         grid-auto-flow: column;
     }
@@ -46,5 +46,4 @@
         border: solid 3px black; 
         transform: scale(1.2);
     }
-
 }

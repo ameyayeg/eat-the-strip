@@ -15,7 +15,7 @@ const Footer = () => {
                 </ul>
             </div>
             <div className={styles.copyright}>
-                <p>Made by <a class="twitter" href="https://twitter.com/ameyayeg" target="_blank">@ameyayeg</a> &copy; {date.getFullYear()}</p>
+                <p>Made by <a className="twitter" href="https://twitter.com/ameyayeg" target="_blank">@ameyayeg</a> &copy; {date.getFullYear()}</p>
             </div>
             <div className={styles.socials}>
                 <AiFillFacebook/>

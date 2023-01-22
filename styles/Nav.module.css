@@ -1,9 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap');
 
 
 .container {
-    font-family: 'Lobster', cursive, sans-serif;
+    font-family: 'Lobster', cursive, 'Pacifico', cursive, sans-serif;
     font-size: 1.5rem;
     text-align: center;
     padding: 0.25em 0.5em;

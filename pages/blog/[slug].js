@@ -5,6 +5,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { AiFillStar } from 'react-icons/ai'
 
+
 export async function getStaticPaths() {
     const filesInProjects = fs.readdirSync('./content/blogs')
     const paths = filesInProjects.map(file => {
@@ -34,14 +35,14 @@ export default function Blog({ frontmatter, markdown }) {
 
 
     return (
-      <div style={{}}>
+      <div>
         <Head>
-          <title>Eat the Strip | {frontmatter.title}</title>
+          <title>{`Eat the Strip | ${frontmatter.title}`}</title>
         </Head>
         <div>
           <div style={{backgroundImage: `url(${frontmatter.image})`, backgroundSize: `cover`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', height: '50vh', width: '100%'}}></div>
           <h1>{frontmatter.title}</h1>
-          {starsArray.map(star => <span style={{color: 'orange'}}>{star}</span>)}
+          {starsArray.map((star, idx) => <span key={idx} style={{color: 'orange'}}>{star}</span>)}
           <p>{frontmatter.date}</p>
         </div>
         <hr />

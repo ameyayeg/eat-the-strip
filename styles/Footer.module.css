@@ -1,9 +1,5 @@
 .container {
     background-color: black;
-   /* position: absolute;
-   bottom: 0;
-   right: 0;
-   left: 0; */
 }
 
 .copyright {
@@ -19,5 +15,3 @@
     color: white;
     font-size: 1.6rem;
 }
-
-/* Non mobile position:absolute for footer */
