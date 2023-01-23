@@ -1,11 +1,10 @@
 
 .container {
     margin: 5rem auto;
-    width: min(90%, 85rem);
+    width: min(90%);
     display: grid;
     grid-auto-flow: row;
     gap: 1em;
-    border: 5px solid red;
 }
 
 .thumbnail {
