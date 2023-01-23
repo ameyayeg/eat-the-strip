@@ -1,10 +1,12 @@
 
 .container {
     margin: 5rem auto;
-    width: min(90%);
+    width: min(90%, 80rem);
     display: grid;
-    grid-auto-flow: row;
+    /* grid-auto-flow: row; */
+    grid-template-columns: 1fr;
     gap: 1em;
+   
 }
 
 .thumbnail {
@@ -31,9 +33,10 @@
 }
 
 
-@media (min-width: 90rem) {
+@media (min-width: 40rem) {
     .container {
-        grid-auto-flow: column;
+        grid-template-columns: repeat(4, 1fr);
+        overflow: scroll;
     }
     .searchInput {
         font-size:2em;
