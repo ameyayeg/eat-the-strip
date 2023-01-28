@@ -3,7 +3,6 @@
     margin: 5rem auto;
     width: min(90%, 80rem);
     display: grid;
-    /* grid-auto-flow: row; */
     grid-template-columns: 1fr;
     gap: 1em;
    
@@ -15,37 +14,10 @@
     align-items: center;
 }
 
-.searchWrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.searchInput {
-    outline: none;
-    margin-top: 1em;
-    border: solid 3px #fff;
-    box-sizing: border-box;
-    font-size: 1.2em;
-    height: 1.3em;
-    padding: 1em;
-    transition: all 0.5s ease-in;
-}
-
 
 @media (min-width: 40rem) {
     .container {
         grid-template-columns: repeat(4, 1fr);
         overflow: scroll;
-    }
-    .searchInput {
-        font-size:2em;
-        height:2em;
-        padding:.5em;
-    }
-
-    .searchInput:focus {
-        border: solid 3px black; 
-        transform: scale(1.2);
     }
 }

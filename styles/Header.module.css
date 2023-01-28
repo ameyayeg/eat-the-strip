@@ -1,0 +1,25 @@
+
+.container {
+    font-family: 'Lobster', sans-serif;
+    height: 50vh;
+    position: relative;
+
+}
+
+.imageWrapper {
+    z-index: -1;
+}
+
+.heroContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: clamp(2.44rem, calc(2.38vw + 1.85rem), 3.75rem);
+}
+
+
+.hero {
+    opacity: 0.6;
+}

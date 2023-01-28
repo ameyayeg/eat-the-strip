@@ -4,6 +4,8 @@ import matter from 'gray-matter'
 import Head from 'next/head'
 import Image from 'next/image'
 import { AiFillStar } from 'react-icons/ai'
+import styles from '../../styles/Blog.module.css'
+import LayoutWithoutHeader from '../../components/LayoutWithoutHeader'
 
 
 export async function getStaticPaths() {
@@ -35,7 +37,7 @@ export default function Blog({ frontmatter, markdown }) {
 
 
     return (
-      <div>
+      <div className={styles.container}>
         <Head>
           <title>{`Eat the Strip | ${frontmatter.title}`}</title>
         </Head>
@@ -45,11 +47,16 @@ export default function Blog({ frontmatter, markdown }) {
           {starsArray.map((star, idx) => <span key={idx} style={{color: 'orange'}}>{star}</span>)}
           <p>{frontmatter.date}</p>
         </div>
-        <hr />
         <ReactMarkdown>
           {markdown}
         </ReactMarkdown>
       </div>
 
     )
+    
   }
+
+  Blog.getLayout = function(page) {
+    return <LayoutWithoutHeader>{page}</LayoutWithoutHeader>;
+  };
+  
