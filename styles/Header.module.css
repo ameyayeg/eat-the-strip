@@ -2,6 +2,7 @@
 .container {
     font-family: 'Lobster', sans-serif;
     height: 50vh;
+    width: 100vw;
     position: relative;
 
 }
@@ -16,10 +17,17 @@
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-    font-size: clamp(2.44rem, calc(2.38vw + 1.85rem), 3.75rem);
+    font-size: clamp(1rem, calc(0.34vw + 0.91rem), 1.19rem);
 }
 
 
 .hero {
     opacity: 0.6;
+}
+
+@media (min-width: 40rem) {
+    
+    .heroContent {
+        font-size: clamp(1.95rem, calc(1.56vw + 1.56rem), 2.81rem);
+    }
 }

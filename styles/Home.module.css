@@ -1,7 +1,8 @@
 
 .container {
     margin: 5rem auto;
-    width: min(90%, 80rem);
+    /* width: min(90%, 70rem); */
+    max-width: 70%;
     display: grid;
     grid-template-columns: 1fr;
     gap: 1em;
