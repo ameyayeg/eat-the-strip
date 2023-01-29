@@ -8,7 +8,7 @@ const LayoutWithoutHeader = ({ children }) => {
             <main className={styles.main}>{children}</main>
             <Footer/>
         </div>
-     );
+     )
 }
  
 export default LayoutWithoutHeader;

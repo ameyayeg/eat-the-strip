@@ -57,13 +57,12 @@ const Home = ( {blogs} ) => {
                   </a>
                 </Link>
               </div>
-            )) : (
+            )) : 
               <Skeleton variant="rectangular" width={300} height={300} />
-            )
           }
       </section>
     </>
-   );
+   )
 }
  
 export default Home;

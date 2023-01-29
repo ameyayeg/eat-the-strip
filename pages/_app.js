@@ -9,9 +9,9 @@ export default function MyApp({ Component, pageProps }) {
       return (
       <>
       <Head><title>Eat the Strip</title></Head>
-      <Layout>{page}</Layout>;
+      <Layout>{page}</Layout>
       </>
-    )};
+    )}
 
-  return renderWithLayout(<Component {...pageProps} />);
+  return renderWithLayout(<Component {...pageProps} />)
 }
