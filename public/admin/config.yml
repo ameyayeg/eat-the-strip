@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 media_folder: 'public/uploads' # Where media files will be stored
-public_folder: '/uploads' # Where the media files can be accesed from the server
+public_folder: '/uploads' # Where the media files can be accessed from the server
 publish_mode: editorial_workflow # For Drafts
 
 collections:
