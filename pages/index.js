@@ -18,7 +18,9 @@ export async function getStaticProps() {
       ...matterData.data,
       slug: filename.slice(0, filename.indexOf('.'))
     }
-  })
+  }).sort(function(a,b) {
+    return new Date(b.date) - new Date(a.date);
+  });
   return {
     props: {
       blogs
@@ -26,7 +28,9 @@ export async function getStaticProps() {
   }
 }
 
+
 const Home = ( {blogs} ) => {
+
   const [query, setQuery] = useState("")
   const filteredItems = getFilteredItems(query, blogs)
 
