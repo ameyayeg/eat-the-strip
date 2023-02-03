@@ -20,7 +20,7 @@ const Header = () => {
             </div>
 
             <div className={styles.heroContent}>
-                <h1>Eat the Strip</h1>
+                <Link href="/"><a><h1>Eat the Strip</h1></a></Link>
             </div>
 
         </header>
