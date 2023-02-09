@@ -1,14 +1,13 @@
-
 .header {
-    font-family: 'Lobster', sans-serif;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 0.25em 0.5em;
+  font-family: 'Lobster', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.25em 0.5em;
 }
 
 .container {
-    margin: 0 auto;
-    max-width: 90%;
+  margin: 0 auto;
+  max-width: 90%;
 }

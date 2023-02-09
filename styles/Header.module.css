@@ -1,33 +1,29 @@
-
 .container {
-    font-family: 'Lobster', sans-serif;
-    height: 50vh;
-    width: 100vw;
-    position: relative;
-
+  font-family: 'Lobster', sans-serif;
+  height: 50vh;
+  width: 100vw;
+  position: relative;
 }
 
 .imageWrapper {
-    z-index: -1;
+  z-index: -1;
 }
 
 .heroContent {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-    font-size: clamp(1.25rem, calc(0.61vw + 1.1rem), 1.58rem);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(1.25rem, calc(0.61vw + 1.1rem), 1.58rem);
 }
 
-
 .hero {
-    opacity: 0.6;
+  opacity: 0.6;
 }
 
 @media (min-width: 40rem) {
-    
-    .heroContent {
-        font-size: clamp(1.95rem, calc(1.56vw + 1.56rem), 2.81rem);
-    }
+  .heroContent {
+    font-size: clamp(1.95rem, calc(1.56vw + 1.56rem), 2.81rem);
+  }
 }
