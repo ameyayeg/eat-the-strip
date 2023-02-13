@@ -27,10 +27,18 @@ collections:
       - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Rating (scale of 1-5)', name: 'rating', widget: 'number' }
       - {
-          label: 'Coordinates',
-          name: 'coordinates',
+          label: 'Positive coordinates',
+          name: 'positives',
           widget: 'number',
           value_type: 'float',
         }
+
+      - {
+          label: 'Negative coordinates',
+          name: 'negatives',
+          widget: 'number',
+          value_type: 'float',
+        }
+
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Secondary image', name: 'image', widget: 'image' }

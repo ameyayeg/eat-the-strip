@@ -6,6 +6,10 @@
   gap: 1em;
 }
 
+.skeleton {
+  display: flex;
+}
+
 .thumbnail {
   display: flex;
   justify-content: center;
