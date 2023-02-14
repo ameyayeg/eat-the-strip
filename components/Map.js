@@ -5,10 +5,10 @@ import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility
 import * as L from 'leaflet'
 import 'leaflet-defaulticon-compatibility'
 
-export default function Map() {
+export default function Map(props) {
   const [geoData, setGeoData] = useState({
-    lat: 45.34299725708286,
-    lng: -75.75570274602492,
+    lat: props.positiveLat,
+    lng: props.negativeLat,
   })
 
   const center = [geoData.lat, geoData.lng]

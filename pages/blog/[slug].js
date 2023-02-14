@@ -79,7 +79,10 @@ export default function Blog({ frontmatter, markdown }) {
         <hr />
       </div>
       <ReactMarkdown>{markdown}</ReactMarkdown>
-      <MapWithNoSSR />
+      <MapWithNoSSR
+        positiveLat={frontmatter.positives}
+        negativeLat={frontmatter.negatives}
+      />
     </div>
   )
 }

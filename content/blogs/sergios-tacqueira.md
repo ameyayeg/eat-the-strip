@@ -5,6 +5,8 @@ cuisine: Mexican
 date: January 6, 2023 7:51 AM
 thumbnail: /uploads/pexels-chitokan-c-2092507.jpg
 rating: 5
+positives: 45.36422064043654
+negatives: -75.73301894988712
 image: /uploads/431_2020-02-19-614_blog.jpg
 ---
 
