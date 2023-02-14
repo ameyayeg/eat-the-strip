@@ -33,8 +33,10 @@ export async function getStaticProps() {
 
 const Home = ({ blogs }) => {
   const [query, setQuery] = useState('')
-  const filteredItems = getFilteredItems(query, blogs)
   const [loading, setLoading] = useState(true)
+  const [blogsLoaded, setBlogsLoaded] = useState(blogs)
+
+  const filteredItems = getFilteredItems(query, blogs)
 
   function getFilteredItems(query, blogs) {
     if (!query) {
@@ -60,7 +62,7 @@ const Home = ({ blogs }) => {
 
   useEffect(() => {
     setLoading(false)
-  }, [blogs])
+  }, [blogsLoaded])
 
   return (
     <>
