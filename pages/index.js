@@ -5,8 +5,6 @@ import matter from 'gray-matter'
 import { BsSearch } from 'react-icons/bs'
 import Search from '../components/Search'
 import { useState, useEffect } from 'react'
-import Skeleton from 'react-loading-skeleton'
-import 'react-loading-skeleton/dist/skeleton.css'
 
 export async function getStaticProps() {
   const blogFiles = fs.readdirSync('./content/blogs')
@@ -34,7 +32,6 @@ export async function getStaticProps() {
 const Home = ({ blogs }) => {
   const [query, setQuery] = useState('')
   const [loading, setLoading] = useState(true)
-  const [blogsLoaded, setBlogsLoaded] = useState(blogs)
 
   const filteredItems = getFilteredItems(query, blogs)
 
@@ -60,59 +57,47 @@ const Home = ({ blogs }) => {
     )
   }
 
-  useEffect(() => {
-    setLoading(false)
-  }, [blogsLoaded])
-
   return (
     <>
       <Search query={query} setQuery={setQuery} />
       <section className={styles.container}>
-        {loading ? (
-          <Skeleton
-            containerClassName={styles.skeleton}
-            wrapper={Box}
-            count={blogs.length}
-          />
-        ) : (
-          filteredItems.map((blog) => (
-            <div className={styles.thumbnail} key={blog.slug}>
-              <Link href={`/blog/${blog.slug}`}>
-                <a>
-                  <div style={{ backgroundImage: `url(${blog.thumbnail})` }}>
-                    <span
-                      style={{
-                        position: 'absolute',
-                        backgroundColor: 'yellow',
-                        color: 'black',
-                        top: '0',
-                        left: '0',
-                        textTransform: 'uppercase',
-                        padding: '0.25rem 0.5rem',
-                        borderRadius: '16px',
-                      }}
-                    >
-                      {blog.cuisine}
-                    </span>
-                    <span
-                      style={{
-                        position: 'absolute',
-                        backgroundColor: 'black',
-                        color: 'white',
-                        bottom: '0',
-                        left: '0',
-                        right: '0',
-                        padding: '0.5rem 0.75rem',
-                      }}
-                    >
-                      {blog.title}
-                    </span>
-                  </div>
-                </a>
-              </Link>
-            </div>
-          ))
-        )}
+        {filteredItems.map((blog) => (
+          <div className={styles.thumbnail} key={blog.slug}>
+            <Link href={`/blog/${blog.slug}`}>
+              <a>
+                <div style={{ backgroundImage: `url(${blog.thumbnail})` }}>
+                  <span
+                    style={{
+                      position: 'absolute',
+                      backgroundColor: 'yellow',
+                      color: 'black',
+                      top: '0',
+                      left: '0',
+                      textTransform: 'uppercase',
+                      padding: '0.25rem 0.5rem',
+                      borderRadius: '16px',
+                    }}
+                  >
+                    {blog.cuisine}
+                  </span>
+                  <span
+                    style={{
+                      position: 'absolute',
+                      backgroundColor: 'black',
+                      color: 'white',
+                      bottom: '0',
+                      left: '0',
+                      right: '0',
+                      padding: '0.5rem 0.75rem',
+                    }}
+                  >
+                    {blog.title}
+                  </span>
+                </div>
+              </a>
+            </Link>
+          </div>
+        ))}
       </section>
     </>
   )
