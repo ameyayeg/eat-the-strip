@@ -45,17 +45,16 @@ export default function Blog({ frontmatter, markdown }) {
       <Head>
         <title>{`Eat the Strip | ${frontmatter.title}`}</title>
       </Head>
-      <header className={styles.header}>
+      {/* <header className={styles.header}>
         <Link href="/">
           <a>
             <AiOutlineHome style={{ fontSize: 'var(--font-size-xxl)' }} />
           </a>
         </Link>
         <h1>Eat the Strip</h1>
-      </header>
+      </header> */}
       <div>
         <div
-          className={styles.headerImage}
           style={{
             backgroundImage: `url(${frontmatter.image})`,
             backgroundSize: `cover`,

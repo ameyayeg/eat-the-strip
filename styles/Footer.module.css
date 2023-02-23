@@ -1,17 +1,26 @@
 .container {
-    background-color: black;
+  background-color: black;
 }
 
 .copyright {
-    color: white;
+  color: whitesmoke;
+}
+
+.menu h1 {
+  font-family: 'Lobster', sans-serif;
+  font-size: var(--font-size-md);
+  background-color: black;
+  color: whitesmoke;
+  font-size: var(--font-size-lg);
+  display: inline;
 }
 
 .menu > ul > li {
-    color: white;
-    list-style-type: none;
+  color: white;
+  list-style-type: none;
 }
 
 .socials {
-    color: white;
-    font-size: 1.6rem;
+  color: white;
+  font-size: 1.6rem;
 }
