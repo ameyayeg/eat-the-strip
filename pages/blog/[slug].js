@@ -41,29 +41,29 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function Blog({ frontmatter, markdown }) {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>{`Eat the Strip | ${frontmatter.title}`}</title>
       </Head>
-      {/* <header className={styles.header}>
+      <header className={styles.header}>
         <Link href="/">
           <a>
             <AiOutlineHome style={{ fontSize: 'var(--font-size-xxl)' }} />
           </a>
         </Link>
         <h1>Eat the Strip</h1>
-      </header> */}
-      <div>
-        <div
-          style={{
-            backgroundImage: `url(${frontmatter.image})`,
-            backgroundSize: `cover`,
-            backgroundRepeat: 'no-repeat',
-            backgroundPosition: 'center center',
-            height: '50vh',
-            width: '100%',
-          }}
-        ></div>
+      </header>
+      <div
+        style={{
+          backgroundImage: `url(${frontmatter.image})`,
+          backgroundSize: `cover`,
+          backgroundRepeat: 'no-repeat',
+          backgroundPosition: 'center center',
+          height: '60vh',
+          width: '100%',
+        }}
+      ></div>
+      <div className={styles.container}>
         <div className={styles.frontmatterDiv}>
           <h1>{frontmatter.title}</h1>
           {range(frontmatter.rating).map((num, idx) => (
@@ -79,22 +79,48 @@ export default function Blog({ frontmatter, markdown }) {
           <p>{frontmatter.date}</p>
           <hr />
         </div>
-      </div>
-      <ReactMarkdown
-        className={styles.markdown}
-        components={{
-          img: (props) => (
-            <Image src={props.src} alt={props.alt} width={1200} height={800} />
-          ),
-        }}
-      >
-        {markdown}
-      </ReactMarkdown>
-      <div className={styles.map}>
-        <MapWithNoSSR
-          positiveLat={frontmatter.positives}
-          negativeLat={frontmatter.negatives}
-        />
+        <ReactMarkdown
+          className={styles.markdown}
+          components={{
+            img: (props) => (
+              <figure>
+                <img
+                  src={props.src}
+                  alt={props.alt}
+                  style={{ maxWidth: '100%' }}
+                />
+                <figcaption
+                  style={{
+                    borderBottom: '1px solid #d8d8d8',
+                    color: '#545454',
+                    display: 'block',
+                    fontSize: '14px',
+                    lineHeight: '20px',
+                    marginBottom: '16px',
+                    paddingBottom: '16px',
+                  }}
+                >
+                  {props.alt}
+                </figcaption>
+              </figure>
+
+              // <Image
+              //   src={props.src}
+              //   alt={props.alt}
+              //   width={1200}
+              //   height={800}
+              // />
+            ),
+          }}
+        >
+          {markdown}
+        </ReactMarkdown>
+        <div className={styles.map}>
+          <MapWithNoSSR
+            positiveLat={frontmatter.positives}
+            negativeLat={frontmatter.negatives}
+          />
+        </div>
       </div>
     </div>
   )
