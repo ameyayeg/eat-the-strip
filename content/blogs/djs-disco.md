@@ -15,3 +15,5 @@ D﻿J makes the most amazing ramen. It's mouth watering and delicious. It nouris
 This food is so good it'll keep making you come back for more.
 
 ![It's a delicious](/uploads/pexels-prabal-pratap-singh-9609846.jpg "Delicious omnoms")
+
+![Yummy](/uploads/1501791674-delish-chicken-curry-horizontal.jpg "Look, another dish")
