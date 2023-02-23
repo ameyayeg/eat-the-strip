@@ -7,11 +7,6 @@
   padding: 0.25em 0.5em;
 }
 
-/* .container {
-  margin: 0 auto;
-  max-width: 90%;
-} */
-
 .header {
   font-size: var(--font-size-md);
 }

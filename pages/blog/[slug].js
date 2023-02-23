@@ -81,7 +81,16 @@ export default function Blog({ frontmatter, markdown }) {
           <hr />
         </div>
       </div>
-      <ReactMarkdown className={styles.markdown}>{markdown}</ReactMarkdown>
+      <ReactMarkdown
+        className={styles.markdown}
+        components={{
+          img: (props) => (
+            <Image src={props.src} alt={props.alt} width={1200} height={800} />
+          ),
+        }}
+      >
+        {markdown}
+      </ReactMarkdown>
       <div className={styles.map}>
         <MapWithNoSSR
           positiveLat={frontmatter.positives}
