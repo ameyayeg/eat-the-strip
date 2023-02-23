@@ -41,9 +41,4 @@ collections:
         }
 
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - {
-          label: 'Secondary image',
-          name: 'image',
-          widget: 'image',
-          allow_multiple: 'true',
-        }
+      - { label: 'Secondary image', name: 'image', widget: 'image' }
