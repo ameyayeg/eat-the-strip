@@ -9,12 +9,9 @@ positives: 45.36422064043654
 negatives: -75.73301894988712
 image: /uploads/1_4379517.jpg
 ---
-
 D﻿J makes the most amazing ramen. It's mouth watering and delicious. It nourishes not just your body but also your soul and nothing else can satisfy the craving of DJ's delicious ramen.
 \
 \
 This food is so good it'll keep making you come back for more.
 
-![It's a delicious](/uploads/pexels-prabal-pratap-singh-9609846.jpg 'Delicious omnoms')
-
-![Yummy](/uploads/1501791674-delish-chicken-curry-horizontal.jpg 'Look, another dish')
+![]()
