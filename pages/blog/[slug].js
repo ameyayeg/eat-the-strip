@@ -48,13 +48,14 @@ export default function Blog({ frontmatter, markdown }) {
       <header className={styles.header}>
         <Link href="/">
           <a>
-            <AiOutlineHome style={{ fontSize: '3rem' }} />
+            <AiOutlineHome style={{ fontSize: 'var(--font-size-xxl)' }} />
           </a>
         </Link>
         <h1>Eat the Strip</h1>
       </header>
       <div>
         <div
+          className={styles.headerImage}
           style={{
             backgroundImage: `url(${frontmatter.image})`,
             backgroundSize: `cover`,
@@ -64,25 +65,29 @@ export default function Blog({ frontmatter, markdown }) {
             width: '100%',
           }}
         ></div>
-        <h1>{frontmatter.title}</h1>
-        {range(frontmatter.rating).map((num, idx) => (
-          <AiFillStar
-            key={idx}
-            style={{ color: 'orange', fontSize: '1.5rem' }}
-          />
-        ))}
-        {frontmatter.rating < 5 &&
-          range(5 - frontmatter.rating).map((num, idx) => (
-            <AiOutlineStar key={idx} style={{ fontSize: '1.5rem' }} />
+        <div className={styles.frontmatterDiv}>
+          <h1>{frontmatter.title}</h1>
+          {range(frontmatter.rating).map((num, idx) => (
+            <AiFillStar
+              key={idx}
+              style={{ color: 'orange', fontSize: '1.5rem' }}
+            />
           ))}
-        <p>{frontmatter.date}</p>
-        <hr />
+          {frontmatter.rating < 5 &&
+            range(5 - frontmatter.rating).map((num, idx) => (
+              <AiOutlineStar key={idx} style={{ fontSize: '1.5rem' }} />
+            ))}
+          <p>{frontmatter.date}</p>
+          <hr />
+        </div>
       </div>
-      <ReactMarkdown>{markdown}</ReactMarkdown>
-      <MapWithNoSSR
-        positiveLat={frontmatter.positives}
-        negativeLat={frontmatter.negatives}
-      />
+      <ReactMarkdown className={styles.markdown}>{markdown}</ReactMarkdown>
+      <div className={styles.map}>
+        <MapWithNoSSR
+          positiveLat={frontmatter.positives}
+          negativeLat={frontmatter.negatives}
+        />
+      </div>
     </div>
   )
 }

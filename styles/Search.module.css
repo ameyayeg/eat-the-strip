@@ -1,26 +1,24 @@
-
 .searchWrapper {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
 }
 
 .searchInput {
-
-    outline: none;
-    box-sizing: border-box;
-    font-size: 1.2em;
-    height: 1.3em;
-    padding: 1em;
-    border: solid 3px black; 
+  outline: none;
+  box-sizing: border-box;
+  font-size: var(--font-size-md);
+  height: 1.3em;
+  padding: 1em;
+  border: solid 3px black;
 }
 
 @media (min-width: 40rem) {
-    .searchInput {
-        font-size:2em;
-        height:2em;
-        padding:.5em;
-    }
+  .searchInput {
+    font-size: 2em;
+    height: 2em;
+    padding: 0.5em;
+  }
 }

@@ -4,7 +4,7 @@ import fs from 'fs'
 import matter from 'gray-matter'
 import { BsSearch } from 'react-icons/bs'
 import Search from '../components/Search'
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 
 export async function getStaticProps() {
   const blogFiles = fs.readdirSync('./content/blogs')
@@ -31,7 +31,6 @@ export async function getStaticProps() {
 
 const Home = ({ blogs }) => {
   const [query, setQuery] = useState('')
-  const [loading, setLoading] = useState(true)
 
   const filteredItems = getFilteredItems(query, blogs)
 
@@ -40,21 +39,6 @@ const Home = ({ blogs }) => {
       return blogs
     }
     return blogs.filter((blog) => blog.title.toLowerCase().includes(query))
-  }
-
-  function Box({ children }) {
-    return (
-      <div
-        style={{
-          display: 'flex',
-          padding: '1rem',
-          width: '290px',
-          height: '290px',
-        }}
-      >
-        {children}
-      </div>
-    )
   }
 
   return (

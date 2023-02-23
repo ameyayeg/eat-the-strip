@@ -6,14 +6,11 @@
   gap: 1em;
 }
 
-.skeleton {
-  display: flex;
-}
-
 .thumbnail {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: var(--font-size-base);
 }
 
 .thumbnail div {
