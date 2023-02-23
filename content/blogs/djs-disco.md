@@ -13,5 +13,3 @@ D﻿J makes the most amazing ramen. It's mouth watering and delicious. It nouris
 \
 \
 This food is so good it'll keep making you come back for more.
-
-![]()
