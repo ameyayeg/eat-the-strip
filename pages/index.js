@@ -34,6 +34,8 @@ const Home = ({ blogs }) => {
 
   const filteredItems = getFilteredItems(query, blogs)
 
+  console.log(blogs)
+
   function getFilteredItems(query, blogs) {
     if (!query) {
       return blogs
