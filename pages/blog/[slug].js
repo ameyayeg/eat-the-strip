@@ -103,13 +103,6 @@ export default function Blog({ frontmatter, markdown }) {
                   {props.alt}
                 </figcaption>
               </figure>
-
-              // <Image
-              //   src={props.src}
-              //   alt={props.alt}
-              //   width={1200}
-              //   height={800}
-              // />
             ),
           }}
         >
@@ -119,6 +112,7 @@ export default function Blog({ frontmatter, markdown }) {
           <MapWithNoSSR
             positiveLat={frontmatter.positives}
             negativeLat={frontmatter.negatives}
+            name={frontmatter.title}
           />
         </div>
       </div>

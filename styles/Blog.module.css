@@ -17,4 +17,11 @@
 .markdown {
   font-size: var(--font-size-base);
   line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (min-width: 70rem) {
+  .container {
+    margin: 0 20%;
+  }
 }
