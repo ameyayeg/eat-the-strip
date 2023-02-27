@@ -9,6 +9,7 @@ import Link from 'next/link'
 import range from '../../utils/utils'
 import Head from 'next/head'
 import dynamic from 'next/dynamic'
+import { FacebookProvider, Comments } from 'react-facebook'
 
 export async function getStaticPaths() {
   const filesInProjects = fs.readdirSync('./content/blogs')
@@ -64,21 +65,6 @@ export default function Blog({ frontmatter, markdown }) {
         }}
       ></div>
       <div className={styles.container}>
-        <div className={styles.frontmatterDiv}>
-          <h1>{frontmatter.title}</h1>
-          {range(frontmatter.rating).map((num, idx) => (
-            <AiFillStar
-              key={idx}
-              style={{ color: 'orange', fontSize: '1.5rem' }}
-            />
-          ))}
-          {frontmatter.rating < 5 &&
-            range(5 - frontmatter.rating).map((num, idx) => (
-              <AiOutlineStar key={idx} style={{ fontSize: '1.5rem' }} />
-            ))}
-          <p>{frontmatter.date}</p>
-          <hr />
-        </div>
         <ReactMarkdown
           className={styles.markdown}
           components={{
@@ -115,6 +101,9 @@ export default function Blog({ frontmatter, markdown }) {
             name={frontmatter.title}
           />
         </div>
+        <FacebookProvider appId="9238213419552701">
+          <Comments href="http://localhost:3000" />
+        </FacebookProvider>
       </div>
     </div>
   )
