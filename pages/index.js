@@ -72,13 +72,6 @@ const Home = ({ blogs }) => {
     }
   }
 
-  // function getFilteredItems(query, blogs) {
-  //   if (!query) {
-  //     return blogs
-  //   } else
-  //     return blogs.filter((blog) => blog.cuisine.toLowerCase().includes(query))
-  // }
-
   useEffect(() => {
     if (navigator?.geolocation) {
       navigator.geolocation.getCurrentPosition((location) => {
@@ -91,38 +84,26 @@ const Home = ({ blogs }) => {
     }
   }, [status])
 
-  // function handleLocation() {
-  //   const setFilteredByDistance = blogs.filter((blog) => {
-  //     const distance = haversineDistance(userCoordinates, [
-  //       blog.positives,
-  //       blog.negatives,
-  //     ])
-
-  //     if (distance < 5) {
-  //       return true
-  //     } else return false
-  //   })
-
-  //   if (filteredByDistance) {
-  //     setDisplayState('location')
-  //   } else {
-  //     setDisplayState('none')
-  //   }
-  // }
+  function resetRestaurants() {
+    setAllRestaurants(blogs)
+    setStatus('loaded')
+  }
 
   return (
     <>
-      <Search query={query} setQuery={setQuery} />
-      <BiCurrentLocation
-        style={{
-          fontSize: '2rem',
-          position: 'absolute',
-          top: '5px',
-          left: '5px',
-          cursor: 'pointer',
-        }}
-        onClick={handleLocation}
-      />
+      <div className={styles.searchContainer}>
+        <Search query={query} setQuery={setQuery} />
+        <BiCurrentLocation
+          style={{
+            fontSize: '2rem',
+            position: 'absolute',
+            top: '36px',
+            right: '36px',
+            cursor: 'pointer',
+          }}
+          onClick={handleLocation}
+        />
+      </div>
       <section className={styles.container}>
         {status === 'loading' && <p>Loading...</p>}
         {status === 'loaded' &&
@@ -163,46 +144,25 @@ const Home = ({ blogs }) => {
               </Link>
             </div>
           ))}
-        {/* {displayState === 'location' &&
-          filteredByDistance.map((blog) => (
-            <div className={styles.thumbnail} key={blog.slug}>
-              <Link href={`/blog/${blog.slug}`}>
-                <a>
-                  <div style={{ backgroundImage: `url(${blog.thumbnail})` }}>
-                    <span
-                      style={{
-                        position: 'absolute',
-                        backgroundColor: 'yellow',
-                        color: 'black',
-                        top: '0',
-                        left: '0',
-                        textTransform: 'uppercase',
-                        padding: '0.25rem 0.5rem',
-                        borderRadius: '16px',
-                      }}
-                    >
-                      {blog.cuisine}
-                    </span>
-                    <span
-                      style={{
-                        position: 'absolute',
-                        backgroundColor: 'black',
-                        color: 'white',
-                        bottom: '0',
-                        left: '0',
-                        right: '0',
-                        padding: '0.5rem 0.75rem',
-                      }}
-                    >
-                      {blog.title}
-                    </span>
-                  </div>
-                </a>
-              </Link>
-            </div>
-          ))}
-        {displayState === 'none' && <p>No restaurants nearby!</p>} */}
-        {status === 'none' && <p>No restaurants nearby!</p>}
+        {status === 'none' && (
+          <p
+            style={{
+              position: 'absolute',
+              top: '65%',
+              left: '50%',
+              transform: 'translate(-50%, -50%)',
+            }}
+          >
+            No restaurants nearby! Click{' '}
+            <span
+              style={{ textDecoration: 'underline', cursor: 'pointer' }}
+              onClick={resetRestaurants}
+            >
+              here
+            </span>{' '}
+            to view all restaurants.
+          </p>
+        )}
       </section>
     </>
   )

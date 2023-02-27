@@ -10,6 +10,7 @@ import range from '../../utils/utils'
 import Head from 'next/head'
 import dynamic from 'next/dynamic'
 import { FacebookProvider, Comments } from 'react-facebook'
+import { slide as Menu } from 'react-burger-menu'
 
 export async function getStaticPaths() {
   const filesInProjects = fs.readdirSync('./content/blogs')
@@ -41,11 +42,28 @@ export async function getStaticProps({ params: { slug } }) {
 }
 
 export default function Blog({ frontmatter, markdown }) {
+  function showSettings() {
+    e.preventDefault()
+  }
   return (
     <div>
       <Head>
         <title>{`Eat the Strip | ${frontmatter.title}`}</title>
       </Head>
+      <Menu>
+        <a id="home" className="menu-item" href="/">
+          Home
+        </a>
+        <a id="about" className="menu-item" href="/about">
+          About
+        </a>
+        <a id="contact" className="menu-item" href="/contact">
+          Contact
+        </a>
+        <a onClick={showSettings} className="menu-item--small" href="">
+          Settings
+        </a>
+      </Menu>
       <header className={styles.header}>
         <Link href="/">
           <a>
