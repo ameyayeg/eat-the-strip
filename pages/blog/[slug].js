@@ -11,6 +11,7 @@ import Head from 'next/head'
 import dynamic from 'next/dynamic'
 import { FacebookProvider, Comments } from 'react-facebook'
 import { slide as Menu } from 'react-burger-menu'
+require('dotenv').config()
 
 export async function getStaticPaths() {
   const filesInProjects = fs.readdirSync('./content/blogs')
@@ -37,11 +38,11 @@ export async function getStaticProps({ params: { slug } }) {
   const markdown = fileContent.content
 
   return {
-    props: { frontmatter, markdown },
+    props: { frontmatter, markdown, slug },
   }
 }
 
-export default function Blog({ frontmatter, markdown }) {
+export default function Blog({ frontmatter, markdown, slug }) {
   function showSettings() {
     e.preventDefault()
   }
@@ -50,20 +51,7 @@ export default function Blog({ frontmatter, markdown }) {
       <Head>
         <title>{`Eat the Strip | ${frontmatter.title}`}</title>
       </Head>
-      <Menu>
-        <a id="home" className="menu-item" href="/">
-          Home
-        </a>
-        <a id="about" className="menu-item" href="/about">
-          About
-        </a>
-        <a id="contact" className="menu-item" href="/contact">
-          Contact
-        </a>
-        <a onClick={showSettings} className="menu-item--small" href="">
-          Settings
-        </a>
-      </Menu>
+
       <header className={styles.header}>
         <Link href="/">
           <a>
@@ -134,8 +122,8 @@ export default function Blog({ frontmatter, markdown }) {
             name={frontmatter.title}
           />
         </div>
-        <FacebookProvider appId="9238213419552701">
-          <Comments href="http://localhost:3000" />
+        <FacebookProvider appId={process.env.REACT_APP_API_KEY}>
+          <Comments href={`http://localhost:3000/blog/dumplingz`} />
         </FacebookProvider>
       </div>
     </div>
