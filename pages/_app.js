@@ -10,6 +10,7 @@ export default function MyApp({ Component, pageProps }) {
         <>
           <Head>
             <title>Eat the Strip</title>
+            <link rel="shortcut icon" href="/favicon.ico" />
           </Head>
 
           <Layout>{page}</Layout>
