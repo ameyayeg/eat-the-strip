@@ -1,5 +1,9 @@
 const About = () => {
-  return <p>Hello, welcome to about page</p>
+  return (
+    <>
+      <h1>Showing some love to the strip mall gems. 🧡</h1>
+    </>
+  )
 }
 
 export default About

@@ -37,6 +37,7 @@ const Home = ({ blogs }) => {
   const [userCoordinates, setUserCoordinates] = useState(null)
   const [allRestaurants, setAllRestaurants] = useState(blogs)
   const [status, setStatus] = useState('loading')
+  const [isLocationsActivated, setIsLocationActivated] = useState(false)
 
   useEffect(() => {
     if (!query) {
@@ -52,7 +53,6 @@ const Home = ({ blogs }) => {
   }, [query])
 
   function handleLocation() {
-    console.log(userCoordinates)
     if (userCoordinates) {
       const filteredByDistance = allRestaurants.filter((restaurant) => {
         const distance = haversineDistance(userCoordinates, [
@@ -67,6 +67,13 @@ const Home = ({ blogs }) => {
         setStatus('none')
       } else {
         setAllRestaurants(filteredByDistance)
+        if (!isLocationsActivated) {
+          setIsLocationActivated(true)
+        } else {
+          setAllRestaurants(blogs)
+
+          setIsLocationActivated(false)
+        }
         setStatus('loaded')
       }
     }
@@ -89,20 +96,30 @@ const Home = ({ blogs }) => {
     setStatus('loaded')
   }
 
+  function distanceCalculator(restaurantCoordinates) {
+    const decimalNumber = haversineDistance(
+      userCoordinates,
+      restaurantCoordinates
+    )
+    return `${Math.ceil(decimalNumber)} km`
+  }
+
   return (
     <>
       <div className={styles.searchContainer}>
         <Search query={query} setQuery={setQuery} />
-        <BiCurrentLocation
-          style={{
-            fontSize: '2rem',
-            position: 'absolute',
-            top: '36px',
-            right: '36px',
-            cursor: 'pointer',
-          }}
-          onClick={handleLocation}
-        />
+        {userCoordinates && (
+          <BiCurrentLocation
+            style={{
+              fontSize: '2rem',
+              position: 'absolute',
+              top: '36px',
+              right: '36px',
+              cursor: 'pointer',
+            }}
+            onClick={handleLocation}
+          />
+        )}
       </div>
       <section className={styles.container}>
         {status === 'loading' && <p>Loading...</p>}
@@ -126,6 +143,22 @@ const Home = ({ blogs }) => {
                     >
                       {blog.cuisine}
                     </span>
+                    {isLocationsActivated && (
+                      <span
+                        style={{
+                          position: 'absolute',
+                          backgroundColor: 'yellow',
+                          color: 'black',
+                          top: '0',
+                          right: '0',
+                          textTransform: 'uppercase',
+                          padding: '0.25rem 0.5rem',
+                          borderRadius: '16px',
+                        }}
+                      >
+                        {distanceCalculator([blog.positives, blog.negatives])}
+                      </span>
+                    )}
                     <span
                       style={{
                         position: 'absolute',

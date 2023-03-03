@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    customKey: '1123229258373016',
+    customKey: 'eatthestrip',
   },
   webpack: (cfg) => {
     cfg.module.rules.push({

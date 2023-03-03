@@ -9,8 +9,8 @@ import Link from 'next/link'
 import range from '../../utils/utils'
 import Head from 'next/head'
 import dynamic from 'next/dynamic'
-import { FacebookProvider, Comments } from 'react-facebook'
 import { slide as Menu } from 'react-burger-menu'
+import Comments from '../../components/Comments'
 
 export async function getStaticPaths() {
   const filesInProjects = fs.readdirSync('./content/blogs')
@@ -121,9 +121,7 @@ export default function Blog({ frontmatter, markdown, slug }) {
             name={frontmatter.title}
           />
         </div>
-        <FacebookProvider appId={process.env.customKey}>
-          <Comments href={`http://localhost:3000/blog/${slug}`} />
-        </FacebookProvider>
+        <Comments slug={slug} title={frontmatter.title} />
       </div>
     </div>
   )
