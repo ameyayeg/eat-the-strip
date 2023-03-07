@@ -19,6 +19,9 @@ const Layout = ({ children }) => {
         <a id="contact" className="menu-item" href="/contact">
           Contact
         </a>
+        <a id="all" className="menu-item" href="/all">
+          All restaurants
+        </a>
       </Menu>
       <Header />
       <main className={styles.main}>{children}</main>
