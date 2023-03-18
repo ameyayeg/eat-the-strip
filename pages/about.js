@@ -38,10 +38,9 @@ const About = () => {
           </a>
         </p>
       </div>
-      <form>
+      <div>
         <h2>Want to suggest a strip mall gem? Write to us!</h2>
-        <Contact />
-      </form>
+      </div>
     </div>
   )
 }
