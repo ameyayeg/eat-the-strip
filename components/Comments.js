@@ -1,4 +1,5 @@
 import dynamic from 'next/dynamic'
+import { useState } from 'react'
 
 // Dynamically import `DiscussionEmbed` on the client-side only
 const DiscussionEmbed = dynamic(
@@ -7,15 +8,22 @@ const DiscussionEmbed = dynamic(
 )
 
 const Comments = ({ slug, title }) => {
+  const [showComments, setShowComments] = useState(false)
+
   return (
-    <DiscussionEmbed
-      shortname={process.env.NEXT_PUBLIC_API_KEY}
-      config={{
-        url: `http://www.eatthestrip.com/blog/${slug}`,
-        identifier: slug,
-        title: title,
-      }}
-    />
+    <>
+      <button onClick={() => setShowComments(true)}>Load Comments</button>
+      {showComments && (
+        <DiscussionEmbed
+          shortname={process.env.NEXT_PUBLIC_API_KEY}
+          config={{
+            url: `http://www.eatthestrip.com/blog/${slug}`,
+            identifier: slug,
+            title: title,
+          }}
+        />
+      )}
+    </>
   )
 }
 
