@@ -1,4 +1,5 @@
 import styles from '../styles/About.module.css'
+import Contact from '../components/Contact'
 
 const About = () => {
   return (
@@ -39,6 +40,7 @@ const About = () => {
       </div>
       <form>
         <h2>Want to suggest a strip mall gem? Write to us!</h2>
+        <Contact />
       </form>
     </div>
   )
