@@ -1,4 +1,10 @@
-import { DiscussionEmbed } from 'disqus-react'
+import dynamic from 'next/dynamic'
+
+// Dynamically import `DiscussionEmbed` on the client-side only
+const DiscussionEmbed = dynamic(
+  () => import('disqus-react').then((mod) => mod.DiscussionEmbed),
+  { ssr: false }
+)
 
 const Comments = ({ slug, title }) => {
   return (
