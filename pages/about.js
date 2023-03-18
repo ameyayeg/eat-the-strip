@@ -30,7 +30,11 @@ const About = () => {
           Ottawa-based Javascript developer, former parliamentary staffer and
           recovering journalist. We would like also like to thank Matt Dupont
           and Daniel Corner for their help and mentorship in building the
-          website.
+          website. Developers can see the source code, built in React and Next
+          JS,{' '}
+          <a href="https://github.com/ameyayeg/eat-the-strip">
+            <span style={{ borderBottom: '3px solid black' }}>here.</span>
+          </a>
         </p>
       </div>
       <form>
