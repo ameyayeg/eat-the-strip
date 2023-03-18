@@ -2,10 +2,9 @@ import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 import fs from 'fs'
 import matter from 'gray-matter'
-import { BsSearch } from 'react-icons/bs'
 import Search from '../components/Search'
 import { useState } from 'react'
-import { BiCurrentLocation } from 'react-icons/bi'
+import { ImLocation } from 'react-icons/im'
 import { useEffect } from 'react'
 import haversineDistance from '../utils/haversine'
 
@@ -43,12 +42,17 @@ const Home = ({ blogs }) => {
     if (!query) {
       setAllRestaurants(blogs)
       setStatus('loaded')
+      setIsLocationActivated(false)
     } else {
       const searchedRestaurants = allRestaurants.filter((restaurant) => {
         return restaurant.cuisine.toLowerCase().includes(query)
       })
-      setAllRestaurants(searchedRestaurants)
-      setStatus('loaded')
+      if (searchedRestaurants.length < 1) {
+        setStatus('none')
+      } else {
+        setAllRestaurants(searchedRestaurants)
+        setStatus('loaded')
+      }
     }
   }, [query])
 
@@ -74,7 +78,6 @@ const Home = ({ blogs }) => {
 
           setIsLocationActivated(false)
         }
-        setStatus('loaded')
       }
     }
   }
@@ -94,6 +97,7 @@ const Home = ({ blogs }) => {
   function resetRestaurants() {
     setAllRestaurants(blogs)
     setStatus('loaded')
+    setQuery('')
   }
 
   function distanceCalculator(restaurantCoordinates) {
@@ -109,7 +113,7 @@ const Home = ({ blogs }) => {
       <div className={styles.searchContainer}>
         <Search query={query} setQuery={setQuery} />
         {userCoordinates && (
-          <BiCurrentLocation
+          <ImLocation
             style={{
               fontSize: '2rem',
               position: 'absolute',
@@ -186,7 +190,7 @@ const Home = ({ blogs }) => {
               transform: 'translate(-50%, -50%)',
             }}
           >
-            No restaurants nearby! Click{' '}
+            No restaurants found! Click{' '}
             <span
               style={{ textDecoration: 'underline', cursor: 'pointer' }}
               onClick={resetRestaurants}

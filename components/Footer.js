@@ -14,7 +14,16 @@ const Footer = () => {
           </a>
         </Link>
         <ul>
-          <li>About</li>
+          <li>
+            <Link href="/about">
+              <a>About</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/all">
+              <a>Map</a>
+            </Link>
+          </li>
         </ul>
       </div>
       <div className={styles.copyright}>
@@ -31,7 +40,11 @@ const Footer = () => {
         </p>
       </div>
       <div className={styles.socials}>
-        <AiFillTwitterCircle />
+        <Link href="https://twitter.com/ameyayeg">
+          <a target="_blank">
+            <AiFillTwitterCircle />
+          </a>
+        </Link>
       </div>
     </footer>
   )

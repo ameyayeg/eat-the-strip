@@ -16,11 +16,9 @@ const Layout = ({ children }) => {
         <a id="about" className="menu-item" href="/about">
           About
         </a>
-        <a id="contact" className="menu-item" href="/contact">
-          Contact
-        </a>
+
         <a id="all" className="menu-item" href="/all">
-          All restaurants
+          Map
         </a>
       </Menu>
       <Header />

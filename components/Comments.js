@@ -5,7 +5,7 @@ const Comments = ({ slug, title }) => {
     <DiscussionEmbed
       shortname={process.env.customKey}
       config={{
-        url: `http://localhost:3000/blog/${slug}`,
+        url: `http://www.eatthestrip.com/blog/${slug}`,
         identifier: slug,
         title: title,
       }}
