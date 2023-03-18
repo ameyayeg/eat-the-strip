@@ -40,6 +40,7 @@ const About = () => {
       </div>
       <div>
         <h2>Want to suggest a strip mall gem? Write to us!</h2>
+        <Contact />
       </div>
     </div>
   )
