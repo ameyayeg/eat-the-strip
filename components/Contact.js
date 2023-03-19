@@ -1,13 +1,21 @@
+import styles from '../styles/Contact.module.css'
+
 const Contact = () => {
   return (
-    <form name="contact" method="POST" data-netlify="true" action="/success">
+    <form
+      name="contact"
+      method="POST"
+      data-netlify="true"
+      action="/success"
+      className={styles.form}
+    >
       <input type="hidden" name="form-name" value="contact" />
       <p>
-        <label htmlFor="yourname">Your Name:</label> <br />
+        <label htmlFor="yourname">Name:</label> <br />
         <input type="text" name="name" id="yourname" />
       </p>
       <p>
-        <label htmlFor="youremail">Your Email:</label> <br />
+        <label htmlFor="youremail">Email:</label> <br />
         <input type="email" name="email" id="youremail" />
       </p>
       <p>

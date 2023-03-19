@@ -1,0 +1,53 @@
+.form {
+  margin-bottom: 1em;
+}
+
+.form label,
+.form input,
+.form textarea {
+  width: 100%;
+}
+
+.form input,
+.form textarea {
+  padding: 0.25em 0.5em;
+}
+
+.form button {
+  background: #1aab8a;
+  color: #fff;
+  border: none;
+  position: relative;
+  height: 60px;
+  font-size: 1.6em;
+  padding: 0 2em;
+  cursor: pointer;
+  transition: 800ms ease all;
+  outline: none;
+}
+.form button:hover {
+  background: #fff;
+  color: #1aab8a;
+}
+.form button:before,
+.form button:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 2px;
+  width: 0;
+  background: #1aab8a;
+  transition: 400ms ease all;
+}
+.form button:after {
+  right: inherit;
+  top: inherit;
+  left: 0;
+  bottom: 0;
+}
+.form button:hover:before,
+.form button:hover:after {
+  width: 100%;
+  transition: 800ms ease all;
+}

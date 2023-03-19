@@ -50,3 +50,18 @@
   font-weight: bold;
   margin-top: 1em;
 }
+
+.formContainer {
+  background-color: #78c0a8;
+  padding: 1.25em 1.5em;
+  border: 3px solid #555555;
+  margin-bottom: 1em;
+  border-radius: 5px;
+}
+
+@media (min-width: 40rem) {
+  .container {
+    display: flex;
+    align-items: center;
+  }
+}

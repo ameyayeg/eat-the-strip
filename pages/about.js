@@ -38,7 +38,7 @@ const About = () => {
           </a>
         </p>
       </div>
-      <div>
+      <div className={styles.formContainer}>
         <h2>Want to suggest a strip mall gem? Write to us!</h2>
         <Contact />
       </div>
