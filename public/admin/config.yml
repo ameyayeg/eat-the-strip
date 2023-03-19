@@ -16,6 +16,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
       - { label: 'Cuisine', name: 'cuisine', widget: 'string' }
+      - { label: 'Address', name: 'address', widget: 'string' }
       - {
           label: 'Publish Date',
           name: 'date',
