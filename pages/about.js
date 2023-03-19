@@ -6,18 +6,17 @@ const About = () => {
     <div className={styles.container}>
       <div className={styles.about}>
         <h2>
-          Eat the Strip is a our humble tribute to the mom-and-pop food joints
-          peppered across Ottawa suburbs. We feel the folks who run these
-          restaurants, diners and bars don't get the credit they deserve. So, we
-          created a restaurant review blog that only caters to strip mall gems.
-          🧡
+          Eat the Strip is our tribute to the mom-and-pop food joints peppered
+          across Ottawa's suburbs. We feel the folks who run these restaurants,
+          diners and bars don't get the credit they deserve for contributing to
+          our city's food culture. So, we created a restaurant review blog that
+          only caters to strip mall gems. 🧡
         </h2>
         <p>
-          For too long foodies with large social media followings and food
-          bloggers have long overlooked these establishments, which tend to be
-          tucked away in the periphery of the city. No, here you won't find any
-          reviews or features of chain restaurants downtown. Here, it's a 100
-          per cent strip malls.
+          For too long social media foodies and bloggers have overlooked these
+          establishments, which tend to be tucked away in the periphery of the
+          city. No, here you won't find any reviews or features of chain
+          restaurants downtown. Here, it's 100 per cent strip malls.
         </p>
         <blockquote className={styles.blockquote}>
           Strip mall: A retail complex consisting of stores or restaurants in
@@ -34,7 +33,7 @@ const About = () => {
           website. Developers can see the source code, built in React and Next
           JS,{' '}
           <a href="https://github.com/ameyayeg/eat-the-strip">
-            <span style={{ borderBottom: '3px solid black' }}>here.</span>
+            <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
           </a>
         </p>
       </div>

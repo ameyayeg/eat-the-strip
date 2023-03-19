@@ -2,6 +2,7 @@ import { MapContainer, Marker, TileLayer, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import L from 'leaflet'
 import { useState } from 'react'
+import Link from 'next/link'
 
 export default function Map(props) {
   const position = [45.4215, -75.6972]
@@ -21,14 +22,19 @@ export default function Map(props) {
     return arrCoordinates.map((coordinata, index) => {
       return (
         <Marker key={index} position={coordinata.coordinates} icon={icon}>
-          <Popup>{coordinata.name}</Popup>
+          <Popup>
+            {arrCoordinates.length > 1 && (
+              <Link href={`/blog/${coordinata.slug}`}>{coordinata.name}</Link>
+            )}
+            {arrCoordinates.length === 1 && coordinata.name}
+          </Popup>
         </Marker>
       )
     })
   }
 
   return (
-    <MapContainer center={position} zoom={12} style={{ height: '60vh' }}>
+    <MapContainer center={position} zoom={11} style={{ height: '60vh' }}>
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

@@ -11,6 +11,11 @@ export default function MyApp({ Component, pageProps }) {
           <Head>
             <title>Eat the Strip</title>
             <link rel="shortcut icon" href="/favicon.ico" />
+            <meta
+              name="description"
+              content=" Eat the Strip is our tribute to the mom-and-pop food joints peppered
+              across Ottawa's suburbs."
+            />
           </Head>
 
           <Layout>{page}</Layout>

@@ -2,6 +2,7 @@ import dynamic from 'next/dynamic'
 import fs from 'fs'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
+import styles from '../styles/All.module.css'
 
 export async function getStaticProps() {
   const blogFiles = fs.readdirSync('./content/blogs')
@@ -30,10 +31,12 @@ const AllRestaurants = ({ blogs }) => {
   const coordinatesArray = blogs.map((blog) => ({
     name: blog.title,
     coordinates: [blog.positives, blog.negatives],
+    slug: blog.slug,
   }))
   return (
     <>
-      <div>
+      <div className={styles.container}>
+        <h1>Map of all restaurants</h1>
         <MapWithNoSSR coordinates={coordinatesArray} />
       </div>
     </>
