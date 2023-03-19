@@ -49,11 +49,6 @@ export default function Blog({ frontmatter, markdown, slug }) {
     <div>
       <Head>
         <title>{`Eat the Strip | ${frontmatter.title}`}</title>
-        <meta
-          name="description"
-          content=" Eat the Strip is our tribute to the mom-and-pop food joints peppered
-              across Ottawa's suburbs."
-        />
       </Head>
 
       <header className={styles.header}>
@@ -77,6 +72,9 @@ export default function Blog({ frontmatter, markdown, slug }) {
       <div className={styles.container}>
         <div className={styles.frontmatterDiv}>
           <h1>{frontmatter.title}</h1>
+          <p>
+            <i>{frontmatter.address}</i>
+          </p>
           {range(frontmatter.rating).map((num, idx) => (
             <AiFillStar
               key={idx}
