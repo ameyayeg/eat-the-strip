@@ -119,8 +119,6 @@ export default function Blog({ frontmatter, markdown, slug }) {
         </ReactMarkdown>
         <div className={styles.map}>
           <MapWithNoSSR
-            // coordinates={[[frontmatter.positives, frontmatter.negatives]]}
-            // name={frontmatter.title}
             coordinates={[
               {
                 name: frontmatter.title,
