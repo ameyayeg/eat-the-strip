@@ -24,11 +24,9 @@ We ordered three chicken shawarmas and a large side of garlic potatoes served wi
 
 Despite us being there well after peak lunch hour, there was a steady stream of people grabbing a bite to eat. We got a seat by the window and started feasting on the shawarmas.
 
-The meat was tender, the vegetables crunchy and the spicy garlic sauce rounded out the flavour perfectly. We all agreed the shawarma could have used a little more time on the grill. The real showstoppers, however, were the garlic potatoes. They were perfectly roasted, doused in generous flakes of garlic and perfectly smothered with the spicy garlic sauce. 
+The meat was tender, the vegetables crunchy and the spicy garlic sauce rounded out the flavour perfectly. We all agreed the shawarma could have used a little more time on the grill. The real showstoppers, however, were the garlic potatoes. They were perfectly roasted, doused in generous flakes of garlic and smothered with the spicy garlic sauce. Delicious.
 
-![These garlic potatoes were some of the best in the region](/uploads/img_9291.jpeg "Potatoes")
-
-Delicious.
+![These garlic potatoes are some of the best in the region](/uploads/img_9291.jpeg "Potatoes")
 
 After taxes, the total came to $36. We left satisfied with both the food and the affordable prices. There was just one last thing I needed to tell Dhillon.
 
