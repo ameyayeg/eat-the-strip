@@ -32,4 +32,6 @@ The dish was also served with a side of pickled onions. Tangy and crunchy, the o
 
 We wrapped up our meal and headed to the counter pay. The total damage, after taxes, was $14.68. We left with our bellies happy, already discussing the paranthas we’ll order next time we visit our local desi joint.
 
+A﻿s I wrap up writing this review, Danielle reminds to give a shoutout to Punjabi Canteen for their Indian sweets and samosas, both of which we rely on heavily for apetizers, or as a last-minute purchase for potlucks.
+
 \-﻿ Ameya Charnalia
