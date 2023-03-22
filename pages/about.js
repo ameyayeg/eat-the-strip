@@ -1,5 +1,5 @@
-import styles from '../styles/About.module.css'
-import Contact from '../components/Contact'
+import styles from "../styles/About.module.css";
+import Contact from "../components/Contact";
 
 const About = () => {
   return (
@@ -28,12 +28,11 @@ const About = () => {
           All reviews have been written by Ameya Charnalia, Danielle Jeffery and
           their friends. Eat the Strip was designed and developed by Ameya, an
           Ottawa-based Javascript developer, former parliamentary staffer and
-          recovering journalist. We would like also like to thank Matt Dupont
-          and Daniel Corner for their help and mentorship in building the
-          website. Developers can see the source code, built in React and Next
-          JS,{' '}
+          recovering journalist. We would like also like to thank Mat Dupont and
+          Daniel Corner for their help and mentorship in building the website.
+          Developers can see the source code, built in React and Next JS,{" "}
           <a href="https://github.com/ameyayeg/eat-the-strip">
-            <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
+            <span style={{ borderBottom: "3px solid #78c0a8" }}>here.</span>
           </a>
         </p>
       </div>
@@ -42,7 +41,7 @@ const About = () => {
         <Contact />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;
