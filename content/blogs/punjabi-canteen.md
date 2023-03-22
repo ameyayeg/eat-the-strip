@@ -10,7 +10,6 @@ positives: 45.37036784475336
 negatives: -75.73315426271334
 image: /uploads/img_9258.jpeg
 ---
-
 For our first Eat the Strip adventure, it was fitting that we chose something close to home.
 
 Not only is Punjabi Canteen, a busy corner unit in the strip mall by Merivale Drive and Central Park Drive, in our neighbourhood of Carlington, but it also serves up cuisine from the country of my birth: India.
@@ -32,3 +31,5 @@ We decided to share an order of the Amritsari kulcha between the two of us. The 
 The dish was also served with a side of pickled onions. Tangy and crunchy, the onions provided heat relief between mouthfuls of kulcha and chickpea curry.
 
 We wrapped up our meal and headed to the counter pay. The total damage, after taxes, was $14.68. We left with our bellies happy, already discussing the paranthas we’ll order next time we visit our local desi joint.
+
+\-﻿ Ameya Charnalia
