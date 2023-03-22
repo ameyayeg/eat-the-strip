@@ -28,6 +28,8 @@ Primarily a breakfast and lunch spot, with its core diners being the starved lab
 
 So, what kind of sandwich can you expect? The kind that shuts you up for 30 minutes to an hour of unpaid lunch time. 
 
+![The author opted for a Fuhgeddaboudit with salami, capocollo, prosciutto and Havarti cheese, topped with lettuce tomato, red onion, pickles, banana peppers, green olives and hot eggplant, served on an Italian herb bread and dressed with mustard and Italian dressing](/uploads/25ca145b-c46d-422e-9330-8d64505ab299.jpeg "Fuhgeddaboudit")
+
 A quick look at their menu, and you’ll see that the primary focus is on Italian-inspired sandwiches with cold cuts, varied cheeses and delightful toppings. There’s the “Eataliano” with genoa salami, capocollo, prosciutto cotto and provolone cheese; the “Fuhgeddaboudit” with hot and mild salami, hot and mild capocollo, prosciutto and Havarti cheese; and the “Godfather” with fresh mozzarella, prosciutto and roasted red peppers. 
 
 But it doesn’t just stop there. You can get a Buffalo Pollo sandwich with hot chicken breast and cheddar cheese; a classic roast beef and Swiss cheese sandwich, a tuna sandwich, a “Stuffa U Face” sandwich with literally every deli meat they have that day, topped with cheddar & provolone; and more than two dozen other sandwiches, wraps and salads. 
