@@ -28,6 +28,6 @@ The meat was tender, the vegetables crunchy and the spicy garlic sauce rounded o
 
 ![These garlic potatoes are some of the best in the region](/uploads/img_9291.jpeg "Potatoes")
 
-After taxes, the total came to $36. We left satisfied with both the food and the affordable prices. There was just one last thing I needed to tell Dhillon.
+After taxes, the total came to $36. We left satisfied with both the food and the affordable prices. There was just one last thing I needed to tell Dhillon: Super Bite Shawarma still serves the best shawarma in the city.
 
-Super Bite Shawarma still serves the best shawarma in the city.
+\-﻿ Ameya Charnalia
