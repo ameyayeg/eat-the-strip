@@ -1,5 +1,5 @@
 ---
-title: 50 TWO Sandwiches & More
+title: 50 Two Sandwiches & More
 layout: blog
 cuisine: Italian
 address: 52 Antares Dr, Nepean, ON K2E 7W6
