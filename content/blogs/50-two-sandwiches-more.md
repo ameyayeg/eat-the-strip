@@ -12,7 +12,7 @@ image: /uploads/40abe6da-80e0-4d80-99ba-d29a279e54f1.jpeg
 ---
 Hidden away in a strip mall deep within an ocean of business parks, 50 Two Sandwiches & More stands in a class of its own. There’s always a line, and never a dissatisfied customer.
 
-Outside, a lone sign hidden behind a snowbank warns those foolish enough to brave the weather and lack of sidewalks looking for a unique lunchtime treat: “Warning: HIGHLY ADDICTIVE SANDWICHES."
+Outside, a lone sign hidden behind a snowbank warns those foolish enough to brave the weather and lack of sidewalks looking for a unique lunchtime treat: “WARNING: HIGHLY ADDICTIVE SANDWICHES."
 
 ![They aren't messing around with their sandwiches (and more!)](/uploads/c5093722-259e-4144-b9e2-ca8d4fc6262e.jpeg "Sandwich")
 
