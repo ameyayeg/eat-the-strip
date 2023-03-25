@@ -20,11 +20,15 @@ Fellow strip mall adventurer Angad Dhillon came along for the ride. We arrived a
 
 Dhillon ordered a plate of the chicken skewers served on a bed of rice, bread, hummus, garlic sauce, roasted vegetables, all served with a side of parsley-coated salad.
 
+![The portions at Alhalabi were generous and the service was quick](/uploads/img_9405.jpeg "Chicken skewers")
+
 The chicken was soft, the vegetables flavourful and the dish—despite the hefty portions—was quite light.
 
 Then we turned out attention to my dish: the lamb mandi.
 
 Off the hop, we quipped that it looked like biryani, a dish commonly found across South Asia. Served in a clay pot, two shanks of charcoal-seared lamb sat on a bed of spiced basmati rice. The whole dish was topped with a generous sprinkling of almonds and parsley. The dish was served with a side of tangy tomato and onion chutney and a salad. 
+
+![The crowning dish during of our early dinner at Alhalabi was the mandi, ordered at the suggestion of the server](/uploads/img_9407.jpeg "Mandi")
 
 The server told us the mandi had been slow cooked for nearly five hours. No wonder the lamb was so soft, it came off the bone without any resistance. The juices of the meat had seeped into the rice while it was cooking, packing it with flavour that was only enhanced by the subtle Middle Eastern spices and chutney. 
 
