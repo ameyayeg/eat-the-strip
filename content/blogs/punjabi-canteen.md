@@ -9,7 +9,9 @@ rating: 4
 positives: 45.37036784475336
 negatives: -75.73315426271334
 image: /uploads/img_9258.jpeg
+author: Ameya Charnalia
 ---
+
 For our first Eat the Strip adventure, it was fitting that we chose something close to home.
 
 Not only is Punjabi Canteen, a busy corner unit in the strip mall by Merivale Drive and Central Park Drive, in our neighbourhood of Carlington, but it also serves up cuisine from the country of my birth: India.

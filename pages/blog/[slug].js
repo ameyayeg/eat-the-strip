@@ -72,9 +72,6 @@ export default function Blog({ frontmatter, markdown, slug }) {
       <div className={styles.container}>
         <div className={styles.frontmatterDiv}>
           <h1>{frontmatter.title}</h1>
-          <p>
-            <i>{frontmatter.address}</i>
-          </p>
           {range(frontmatter.rating).map((num, idx) => (
             <AiFillStar
               key={idx}
@@ -85,7 +82,12 @@ export default function Blog({ frontmatter, markdown, slug }) {
             range(5 - frontmatter.rating).map((num, idx) => (
               <AiOutlineStar key={idx} style={{ fontSize: '1.5rem' }} />
             ))}
+          <p>
+            <i>{frontmatter.address}</i>
+          </p>
+
           <p>{frontmatter.date}</p>
+          <p>By: {frontmatter.author}</p>
           <hr />
         </div>
         <ReactMarkdown

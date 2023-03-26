@@ -1,5 +1,5 @@
-import styles from "../styles/About.module.css";
-import Contact from "../components/Contact";
+import styles from '../styles/About.module.css'
+import Contact from '../components/Contact'
 
 const About = () => {
   return (
@@ -7,10 +7,10 @@ const About = () => {
       <div className={styles.about}>
         <h2>
           Eat the Strip is our tribute to the mom-and-pop food joints peppered
-          across Ottawa's suburbs. We feel the folks who run these restaurants,
-          diners and bars don't get the credit they deserve for contributing to
-          our city's food culture. So, we created a restaurant review blog that
-          only caters to strip mall gems. 🧡
+          across the Ottawa-Gatineau suburbs. We feel the folks who run these
+          restaurants, diners and bars don't get the credit they deserve for
+          contributing to our city's food culture. So, we created a review blog
+          that only caters to strip mall gems. 🧡
         </h2>
         <p>
           For too long social media foodies and bloggers have overlooked these
@@ -25,14 +25,15 @@ const About = () => {
           <span>Dictionary.com</span>
         </blockquote>
         <p>
-          All reviews have been written by Ameya Charnalia, Danielle Jeffery and
-          their friends. Eat the Strip was designed and developed by Ameya, an
+          Eat the Strip is designed, developed and run by Ameya Charnalia, an
           Ottawa-based Javascript developer, former parliamentary staffer and
-          recovering journalist. We would like also like to thank Mat Dupont and
-          Daniel Corner for their help and mentorship in building the website.
-          Developers can see the source code, built in React and Next JS,{" "}
+          recovering journalist. All reviews are written by him, with
+          contributions from his friends and family. This site would not have
+          been possible without the technical mentorship of Ottawa-area
+          developers Mat Dupont and Daniel Corner. Developers can see the source
+          code, built in React and Next JS,{' '}
           <a href="https://github.com/ameyayeg/eat-the-strip">
-            <span style={{ borderBottom: "3px solid #78c0a8" }}>here.</span>
+            <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
           </a>
         </p>
       </div>
@@ -41,7 +42,7 @@ const About = () => {
         <Contact />
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default About;
+export default About
