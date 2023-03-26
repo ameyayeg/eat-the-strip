@@ -39,5 +39,3 @@ But it doesn’t just stop there. You can get a Buffalo Pollo sandwich with hot 
 You can make your sandwich your own by adding toppings including the classic tomato, lettuce, red onion, pickles, hot peppers as well as green olives and hot eggplant. And you get to choose your dressing as well, they have everything from plain mayo and mustard to balsamic glaze and homemade garlic sauce.
 
 On your way out, don’t forget to pick up a half-dozen homemade cookies, you wouldn’t want to regret it later.
-
-\-﻿ Sergio Gonzalez
