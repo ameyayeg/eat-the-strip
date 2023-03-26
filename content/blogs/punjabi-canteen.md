@@ -3,15 +3,14 @@ title: Punjabi Canteen
 layout: blog
 cuisine: Indian
 address: 1234 Merivale Rd, Ottawa, ON K2C 4C3
+author: Ameya Charnalia
 date: March 19, 2023 1:11 PM
 thumbnail: /uploads/img_9269.jpeg
 rating: 4
 positives: 45.37036784475336
 negatives: -75.73315426271334
 image: /uploads/img_9258.jpeg
-author: Ameya Charnalia
 ---
-
 For our first Eat the Strip adventure, it was fitting that we chose something close to home.
 
 Not only is Punjabi Canteen, a busy corner unit in the strip mall by Merivale Drive and Central Park Drive, in our neighbourhood of Carlington, but it also serves up cuisine from the country of my birth: India.
@@ -34,4 +33,4 @@ The dish was also served with a side of pickled onions. Tangy and crunchy, the o
 
 We wrapped up our meal and headed to the counter pay. The total damage, after taxes, was $14.68. We left with our bellies happy, already discussing the paranthas we’ll order next time we visit our local desi joint.
 
-A﻿s I wrap up writing this review, Danielle reminds to give a shoutout to Punjabi Canteen for their Indian sweets and samosas, both of which we rely on heavily for apetizers, or as a last-minute purchase for potlucks.
+A﻿s I wrap up writing this review, my partner Danielle reminds me to give a shoutout to Punjabi Canteen for their Indian sweets and samosas, both of which we rely on heavily for apetizers, or as a last-minute purchase for potlucks.
