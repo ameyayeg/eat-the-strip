@@ -3,15 +3,14 @@ title: Alhalabi
 layout: blog
 cuisine: Syrian
 address: 1638 Bank St, Ottawa, ON K1V 7Y6
+author: Ameya Charnalia
 date: March 25, 2023 2:22 PM
 thumbnail: /uploads/img_9402.jpeg
 rating: 5
 positives: 45.37696267611341
 negatives: -75.66710470481962
 image: /uploads/img_9414.jpeg
-author: Ameya Charnalia
 ---
-
 Sometimes, a tip pays off.
 
 Since CBC’s Ottawa Morning had us on to talk about Eat the Strip this week, we’ve had a good number of readers reach out to us with suggestions for strip mall gems to review.
@@ -22,7 +21,7 @@ Fellow strip mall adventurer Angad Dhillon came along for the ride. We arrived a
 
 Dhillon ordered a plate of the chicken skewers served on a bed of rice, bread, hummus, garlic sauce, roasted vegetables, all served with a side of parsley-coated salad.
 
-![The portions at Alhalabi were generous and the service was quick](/uploads/img_9405.jpeg 'Chicken skewers')
+![Service was great at Alhalabi and the portions were quite generous](/uploads/img_9405.jpeg 'Chicken skewers')
 
 The chicken was soft, the vegetables flavourful and the dish—despite the hefty portions—was quite light.
 
@@ -30,7 +29,7 @@ Then we turned out attention to my dish: the lamb mandi.
 
 Off the hop, we quipped that it looked like biryani, a dish commonly found across South Asia. Served in a clay pot, two shanks of charcoal-seared lamb sat on a bed of spiced basmati rice. The whole dish was topped with a generous sprinkling of almonds and parsley. The dish was served with a side of tangy tomato and onion chutney and a salad.
 
-![The crowning dish during of our early dinner at Alhalabi was the mandi, ordered at the suggestion of the server](/uploads/img_9407.jpeg 'Mandi')
+![The crowning dish during of our early dinner at Alhalabi was the lamb mandi, which, while a little steep at $24.99 for a two-piece of lamb, was worth it because of the hours of labour that goes into making it](/uploads/img_9407.jpeg 'Mandi')
 
 The server told us the mandi had been slow cooked for nearly five hours. No wonder the lamb was so soft, it came off the bone without any resistance. The juices of the meat had seeped into the rice while it was cooking, packing it with flavour that was only enhanced by the subtle Middle Eastern spices and chutney.
 
