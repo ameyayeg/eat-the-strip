@@ -3,20 +3,19 @@ title: Palais Libanais
 layout: blog
 cuisine: Lebanese
 address: 332 Boulevard Gréber Gatineau, QC J8T 8H4
+author: Ameya Charnalia
 date: March 20, 2023 1:59 PM
 thumbnail: /uploads/img_9296.jpeg
 rating: 4
 positives: 45.47812054792318
 negatives: -75.70149848457321
 image: /uploads/img_9283.jpeg
-author: Ameya Charnalia
 ---
-
 Everybody has their favourite shawarma place in Ottawa-Gatineau.
 
 Mine recently was the cause of a row within our friend circle. I made the innocuous declaration to some friends the other day that Super Bite Shawarma, located in Alta Vista, serves the best shawarma in the city. Big mistake. Our friend Angad Dhillon has since then made it his mission to prove to us that it is in fact Shawarma Palace that serves the best shawarma in the capital region.
 
-As Shawarma Palace is both a franchise and not located in a strip mall, we decided to give Dhillon the opportunity to choose another shawarma restaurant that would meet our site's requirements for review. He chose Palais Libanais in Gatineau. Our buddy Sergio Gonzalez would join us for the adventure.
+We decided to give Dhillon the opportunity to choose another shawarma restaurant that would meet our site's requirements for review. He chose Palais Libanais in Gatineau. Our buddy Sergio Gonzalez would join us for the adventure.
 
 Right off the hop, we were greeted with the smell of roasting meat in the parking lot. We followed the scent into the establishment, located off Maloney Boulevard, next to a gas station. This seemed promising.
 
