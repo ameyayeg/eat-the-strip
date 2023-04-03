@@ -24,6 +24,16 @@ const Footer = () => {
               <a>Map</a>
             </Link>
           </li>
+          <li>
+            <Link href="/privacy">
+              <a>Privacy</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/terms">
+              <a>Terms and conditions</a>
+            </Link>
+          </li>
         </ul>
       </div>
       <div className={styles.copyright}>

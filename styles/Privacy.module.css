@@ -1,0 +1,10 @@
+.container {
+  font-family: 'Roboto', sans-serif;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container h1,
+.container p {
+  margin: 1em 0;
+}
