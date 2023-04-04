@@ -10,7 +10,10 @@ export default function MyApp({ Component, pageProps }) {
         <>
           <Head>
             <title>Eat the Strip</title>
-
+            <meta
+              name="description"
+              content="Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs."
+            />
             <meta property="og:title" content="Eat the Strip" />
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://www.eatthestrip.com" />
