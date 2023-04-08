@@ -59,7 +59,7 @@ We were served what I later found out to be the Pita Bell family platter. It ser
 
 The meal is presented in a copper serving plate, the size of a skateboard. At the edges, there are two mounds of rice adorned with raisins and almonds. (There is a fries substitution option). Between the valley of rice, the kebabs are laid out, covered by charred onions and peppers from the same grill. This platter had Adana kebab (long, hand-minced lamb meat), Shish taouk (marinated chicken, we got ours spicy), and a filet mignon kebab so perfectly cooked that you could cut with a spoon. (I had lost my fork at some point). And more pita. 
 
-![The platter arrived shortly after evening prayers ended and the dining room, filled with families, dug into their meals as the servers brought out even larger platters of perfectly grilled meats, rice, breads and vegetables from the kitchen ](/uploads/img_9606.jpeg "Family platter")
+![The platter arrived shortly after evening prayers ended and the dining room, filled with families, dug into their meals as the servers brought out even larger platters of perfectly grilled meats, rice, breads and vegetables from the kitchen ](/uploads/img_9607.jpeg "Family platter")
 
 You must have more pita. 
 
