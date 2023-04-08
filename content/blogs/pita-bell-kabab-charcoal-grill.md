@@ -33,7 +33,7 @@ We arrived shortly before Iftar, the evening fast-breaking meal during Ramadan.
 
 We had Turkish-style tea, brewed and served in a dual teapot. The top chamber having the concentrated tea and the bottom one boiling-hot water. Served in beautiful glass and copper pots, with sugar to taste.
 
-![Turkish tea to wet our beaks before the mammoth dinner arrived](/uploads/img_9594.jpeg)
+![Turkish tea is typically prepared using two stacked teapots called "çaydanlık" specifically designed for tea preparation where water is brought to a boil in the larger lower teapot and then some of the water is used to fill the smaller teapot on top and steep several spoons of loose tea leaves, producing tea with a strong flavour](/uploads/img_9594.jpeg "Turkish tea")
 
 As the Maghrib prayer ended, we had dates, a complementary lentil stew and a fresh garden salad.
 
@@ -45,7 +45,7 @@ We were not ready.
 
 The first thing to arrive was a hummus plate with some warm pita cut into small triangles. Then what I would call the best toum (garlic sauce) I’ve ever had in Canada. After that, baba ghanoush. And more pita.
 
-![This was probably the best garlic sauce the author has ever tasted in Canada](/uploads/img_9601.jpeg)
+![A common variation of toum (garlic sauce) is made with garlic, salt, olive oil or vegetable oil, and lemon juice, traditionally crushed together using a wooden mortar and pestle](/uploads/img_9601.jpeg "Garlic sauce")
 
 I had already eaten supper prior to arriving the restaurant, thinking I was there for a small taste of their menu, and after all the dips, dates, soup, salads and pita, I wasn’t sure I could eat much more. 
 
@@ -59,7 +59,7 @@ We were served what I later found out to be the Pita Bell family platter. It ser
 
 The meal is presented in a copper serving plate, the size of a skateboard. At the edges, there are two mounds of rice adorned with raisins and almonds. (There is a fries substitution option). Between the valley of rice, the kebabs are laid out, covered by charred onions and peppers from the same grill. This platter had Adana kebab (long, hand-minced lamb meat), Shish taouk (marinated chicken, we got ours spicy), and a filet mignon kebab so perfectly cooked that you could cut with a spoon. (I had lost my fork at some point). And more pita. 
 
-![After a while, the pièce de résistance arrived and all of us had to take a moment before feasting on how amazing everything looked ](/uploads/img_9606.jpeg)
+![The platter arrived shortly after evening prayers ended and the dining room, filled with families, dug into their meals as the servers brought out even larger platters of perfectly grilled meats, rice, breads and vegetables from the kitchen ](/uploads/img_9606.jpeg "Family platter")
 
 You must have more pita. 
 
