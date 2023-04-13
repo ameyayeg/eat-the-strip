@@ -1,6 +1,7 @@
 import styles from '../styles/Footer.module.css'
 import { AiFillTwitterCircle } from 'react-icons/ai'
 import Link from 'next/link'
+import Subscribe from '../components/Subscribe'
 
 const Footer = () => {
   const date = new Date()
@@ -55,6 +56,9 @@ const Footer = () => {
             <AiFillTwitterCircle />
           </a>
         </Link>
+        <div>
+          <Subscribe />
+        </div>
       </div>
     </footer>
   )

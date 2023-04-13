@@ -1,6 +1,6 @@
 .container {
   background-color: black;
-  padding: 2em;
+  padding: 0.5em;
 }
 
 .copyright {
@@ -24,4 +24,12 @@
 .socials {
   color: white;
   font-size: 2.6rem;
+}
+
+@media (min-width: 60rem) {
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
