@@ -2,6 +2,7 @@ import styles from '../styles/Footer.module.css'
 import { AiFillTwitterCircle } from 'react-icons/ai'
 import Link from 'next/link'
 import Subscribe from '../components/Subscribe'
+import { MdRssFeed } from 'react-icons/md'
 
 const Footer = () => {
   const date = new Date()
@@ -54,6 +55,11 @@ const Footer = () => {
         <Link href="https://twitter.com/ameyayeg">
           <a target="_blank">
             <AiFillTwitterCircle />
+          </a>
+        </Link>
+        <Link href="http://eatthestrip.com/rss.xml">
+          <a rel="noreferrer" target="_blank">
+            <MdRssFeed color="#ee802f" />
           </a>
         </Link>
         <div>

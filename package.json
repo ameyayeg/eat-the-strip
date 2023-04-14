@@ -31,6 +31,7 @@
     "react-facebook": "^9.0.12",
     "react-icons": "^4.6.0",
     "react-leaflet": "^4.2.0",
-    "react-markdown": "^8.0.3"
+    "react-markdown": "^8.0.3",
+    "rss": "^1.2.2"
   }
 }

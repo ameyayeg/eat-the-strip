@@ -1,29 +1,16 @@
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
-import fs from 'fs'
-import matter from 'gray-matter'
 import Search from '../components/Search'
 import { useState } from 'react'
 import { ImLocation } from 'react-icons/im'
 import { useEffect } from 'react'
 import haversineDistance from '../utils/haversine'
+import { getSortedPosts } from '../utils/mdx'
+import generateRssFeed from '../utils/generateRSSFeed'
 
 export async function getStaticProps() {
-  const blogFiles = fs.readdirSync('./content/blogs')
-
-  const blogs = blogFiles
-    .map((filename) => {
-      const file = fs.readFileSync(`./content/blogs/${filename}`, 'utf8')
-      const matterData = matter(file)
-
-      return {
-        ...matterData.data,
-        slug: filename.slice(0, filename.indexOf('.')),
-      }
-    })
-    .sort(function (a, b) {
-      return new Date(b.date) - new Date(a.date)
-    })
+  await generateRssFeed()
+  const blogs = await getSortedPosts()
   return {
     props: {
       blogs,

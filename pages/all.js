@@ -1,21 +1,11 @@
 import dynamic from 'next/dynamic'
-import fs from 'fs'
-import ReactMarkdown from 'react-markdown'
-import matter from 'gray-matter'
+
 import styles from '../styles/All.module.css'
+import { getSortedPosts } from '../utils/mdx'
 
 export async function getStaticProps() {
-  const blogFiles = fs.readdirSync('./content/blogs')
+  const blogs = await getSortedPosts()
 
-  const blogs = blogFiles.map((filename) => {
-    const file = fs.readFileSync(`./content/blogs/${filename}`, 'utf8')
-    const matterData = matter(file)
-
-    return {
-      ...matterData.data,
-      slug: filename.slice(0, filename.indexOf('.')),
-    }
-  })
   return {
     props: {
       blogs,
