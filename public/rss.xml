@@ -1,53 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
     <channel>
         <title><![CDATA[Eat the Strip | RSS Feed]]></title>
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <image>
-            <url>favicon.png</url>
+            <url>https://eatthestrip.com/_ipx/w_3840,q_75/%2F_next%2Fstatic%2Fmedia%2Fpexels-makafood-8984408.a837cd84.jpg?url=%2F_next%2Fstatic%2Fmedia%2Fpexels-makafood-8984408.a837cd84.jpg&amp;w=3840&amp;q=75</url>
             <title>Eat the Strip | RSS Feed</title>
             <link>https://eatthestrip.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Apr 2023 18:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 18:28:37 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Apr 2023 18:05:12 GMT</pubDate>
+        <pubDate>Fri, 14 Apr 2023 18:28:37 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Ameya Charnalia]]></copyright>
         <item>
             <title><![CDATA[Pita Bell Kabab Charcoal Grill]]></title>
             <link>https://eatthestrip.com//blog/pita-bell-kabab-charcoal-grill</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/pita-bell-kabab-charcoal-grill</guid>
+            <dc:creator><![CDATA[Sergio Gonzalez]]></dc:creator>
             <pubDate>Sat, 08 Apr 2023 14:13:00 GMT</pubDate>
+            <geo:lat>45.37927803150858</geo:lat>
+            <geo:long>-75.75052016984671</geo:long>
         </item>
         <item>
             <title><![CDATA[Mona’s Café and Restaurant]]></title>
             <link>https://eatthestrip.com//blog/mona’s-café-and-restaurant</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/mona’s-café-and-restaurant</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
             <pubDate>Fri, 31 Mar 2023 19:30:00 GMT</pubDate>
+            <geo:lat>45.402689649622715</geo:lat>
+            <geo:long>-75.60547436365361</geo:long>
         </item>
         <item>
             <title><![CDATA[Alhalabi]]></title>
             <link>https://eatthestrip.com//blog/alhalabi</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/alhalabi</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
             <pubDate>Sat, 25 Mar 2023 18:22:00 GMT</pubDate>
+            <geo:lat>45.37696267611341</geo:lat>
+            <geo:long>-75.66710470481962</geo:long>
         </item>
         <item>
             <title><![CDATA[50 Two Sandwiches & More]]></title>
             <link>https://eatthestrip.com//blog/50-two-sandwiches-more</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/50-two-sandwiches-more</guid>
+            <dc:creator><![CDATA[Sergio Gonzalez]]></dc:creator>
             <pubDate>Wed, 22 Mar 2023 20:31:00 GMT</pubDate>
+            <geo:lat>45.33134572739942</geo:lat>
+            <geo:long>-75.71057567106996</geo:long>
         </item>
         <item>
             <title><![CDATA[Palais Libanais]]></title>
             <link>https://eatthestrip.com//blog/palais-libanais</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/palais-libanais</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
             <pubDate>Mon, 20 Mar 2023 17:59:00 GMT</pubDate>
+            <geo:lat>45.47812054792318</geo:lat>
+            <geo:long>-75.70149848457321</geo:long>
         </item>
         <item>
             <title><![CDATA[Punjabi Canteen]]></title>
             <link>https://eatthestrip.com//blog/punjabi-canteen</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/punjabi-canteen</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
             <pubDate>Sun, 19 Mar 2023 17:11:00 GMT</pubDate>
+            <geo:lat>45.37036784475336</geo:lat>
+            <geo:long>-75.73315426271334</geo:long>
         </item>
     </channel>
 </rss>
