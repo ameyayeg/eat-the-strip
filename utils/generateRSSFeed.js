@@ -27,6 +27,7 @@ export default async function generateRssFeed() {
       author: post.author,
       lat: post.positives,
       long: post.negatives,
+      description: post.cuisine,
     })
   })
 
