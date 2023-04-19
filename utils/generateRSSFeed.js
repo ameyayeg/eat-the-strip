@@ -28,6 +28,7 @@ export default async function generateRssFeed() {
       lat: post.positives,
       long: post.negatives,
       description: post.cuisine,
+      guid: `${post.slug}`,
     })
   })
 
