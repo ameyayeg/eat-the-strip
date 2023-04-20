@@ -1,7 +1,7 @@
 ---
 title: Al Raheem South Asian Marketplace and Shinwari BBQ and Pizza
 layout: blog
-cuisine: Indian
+cuisine: Pakistani
 address: "34 Highbury Park Dr #3, Nepean, ON K2J 5X9"
 author: Danielle Jeffery
 date: April 20, 2023 4:54 PM
