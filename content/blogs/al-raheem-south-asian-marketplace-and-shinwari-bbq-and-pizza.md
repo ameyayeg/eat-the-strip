@@ -1,7 +1,7 @@
 ---
 title: Al Raheem South Asian Marketplace and Shinwari BBQ and Pizza
 layout: blog
-cuisine: Pakistani
+cuisine: South Asian
 address: "34 Highbury Park Dr #3, Nepean, ON K2J 5X9"
 author: Danielle Jeffery
 date: April 20, 2023 4:54 PM
@@ -9,7 +9,7 @@ thumbnail: /uploads/img_9637.jpeg
 rating: 4
 positives: 45.27738348871281
 negatives: -75.74861785342175
-image: /uploads/img_9634.jpeg
+image: /uploads/img_9788.jpg
 ---
 There’s this amazing pizza place in Edinburgh called Pizza Pakwan that we went to three times in two weeks during our trip to Scotland in 2022.
 
