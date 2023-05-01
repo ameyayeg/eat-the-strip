@@ -11,7 +11,7 @@ positives: 45.332082811491325
 negatives: -75.72383686931217
 image: /uploads/img_0083.jpeg
 ---
-Move aside donair, there’s a new sheriff in town.
+Move over donair, there’s a new sheriff in town.
 
 Chevapi is a kebab-based dish found in the countries of the former Yugoslavia. While not as famous as its meat-in-a-bun cousin—the shawarma or the donair—it definitely deserves its day of glory.
 
@@ -31,7 +31,7 @@ Kajmak is a—you guessed it—Balkan cheese traditionally made from unpasteuriz
 
 After a 15-minute wait, we were served a hot plate of chevapi and a slice of burek. 
 
-This dish is greater than the sum of its parts. Each ingredient is unquestionably tasty, but, when I took a bite of everything together—the crumbling meat, the soft cheese, the crunch of the onions and the saucy spread—the flavours worked their magic to take me back to weekends during my university days when we’d look for the perfect grub to soak up the from a night out. 
+This former is a dish greater than the sum of its parts. Each ingredient is unquestionably tasty, but, when I took a bite of everything together—the crumbling meat, the soft cheese, the crunch of the onions and the saucy spread—the flavours worked their magic to take me back to weekends during my university days when we’d look for the perfect grub to soak up beer from a night out. 
 
 Don’t be fooled, however. This is a sophisticated dish and not one suitable just for university or college kids running around with the beer munchies. 
 
