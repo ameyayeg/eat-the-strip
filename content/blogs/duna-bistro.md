@@ -11,7 +11,7 @@ positives: 45.321069129898014
 negatives: -75.83481065397507
 image: /uploads/img_0359.jpeg
 ---
-After moving to the quiet suburban neighbourhood of Bell’s Corners in 2021, my wife and I were pleasantly surprised with the diverse cuisine choices of the many restaurants that are scattered in isolated strip malls along Robertson Road. Amongst the many, our favorite is in a small strip mall hidden behind the shadows of the large golden arches of the McDonalds at Moodie and Robertson Road—Duna Bistro.
+After moving to the quiet suburban neighbourhood of Bells Corners in 2021, my wife and I were pleasantly surprised with the diverse cuisine choices of the many restaurants that are scattered in isolated strip malls along Robertson Road. Amongst the many, our favorite is in a small strip mall hidden behind the shadows of the large golden arches of the McDonalds at Moodie and Robertson Road—Duna Bistro.
 
 Duna serves authentic and delicious Central and Eastern European cuisine. In Ottawa, Eastern European restaurants are, it seems, quite uncommon, which is surprising given that we seek comfort food that is well matched with beer and wine. Furthermore, German, Hungarian, and Austrian food tends to have crisp and tender meat that is tremendously paired with acidic sides—sauerkraut, spaetzle, or braised cabbage. 
 
