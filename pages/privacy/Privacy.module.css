@@ -1,10 +1,10 @@
 .container {
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--font-family-roboto);
   width: 80%;
   margin: 0 auto;
 }
 
 .container h1,
 .container p {
-  margin: 1em 0;
+  margin: 1rem 0;
 }

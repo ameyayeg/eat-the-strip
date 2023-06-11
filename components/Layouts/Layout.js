@@ -1,6 +1,6 @@
-import Header from '../components/Header'
-import Footer from '../components/Footer'
-import styles from '../styles/Layout.module.css'
+import Header from '../Header/Header'
+import Footer from '../Footer/Footer'
+import styles from './Layout.module.css'
 import { slide as Menu } from 'react-burger-menu'
 
 const Layout = ({ children }) => {

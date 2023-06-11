@@ -1,6 +1,6 @@
-import '../styles/styles.css'
+import '../styles/globals.css'
 import Head from 'next/head'
-import Layout from '../components/Layout'
+import Layout from '../components/Layouts/Layout'
 
 export default function MyApp({ Component, pageProps }) {
   const renderWithLayout =

@@ -1,23 +1,25 @@
 .container {
-  width: 900px;
-  max-width: 90%;
-  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 100%;
+  padding: 0.5rem 1rem;
 }
 
 .header {
-  font-family: 'Lobster', sans-serif;
+  font-family: var(--font-family-lobster);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: var(--font-size-md);
-  padding: 0.5em 0.75em;
+  padding: 0.5rem 0.75rem;
 }
 
 .frontmatterDiv {
   font-size: var(--font-size-base);
   line-height: 1.6;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--font-family-roboto);
   white-space: pre-line;
   font-weight: 800;
 }
@@ -25,13 +27,13 @@
 .markdown {
   font-size: var(--font-size-base);
   line-height: 1.6;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--font-family-roboto);
   white-space: pre-line;
-  margin-top: 0.25em;
+  margin-top: 0.25rem;
 }
 
 .map {
-  padding: 0.5em 0;
+  padding: 0.5rem 0;
 }
 
 @media (min-width: 70rem) {

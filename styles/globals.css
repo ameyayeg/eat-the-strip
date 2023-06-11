@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-html {
+:root {
   --font-size-sm: clamp(0.8rem, calc(0.17vw + 0.76rem), 0.89rem);
   --font-size-base: clamp(1rem, calc(0.34vw + 0.91rem), 1.19rem);
   --font-size-md: clamp(1.25rem, calc(0.61vw + 1.1rem), 1.58rem);
@@ -16,6 +16,8 @@ html {
   --font-size-xl: clamp(1.95rem, calc(1.56vw + 1.56rem), 2.81rem);
   --font-size-xxl: clamp(2.44rem, calc(2.38vw + 1.85rem), 3.75rem);
   --font-size-xxxl: clamp(3.05rem, calc(3.54vw + 2.17rem), 5rem);
+  --font-family-lobster: 'Lobster', sans-serif;
+  --font-family-roboto: 'Roboto', sans-serif;
 }
 
 body {
@@ -77,8 +79,8 @@ Note: Beware of modifying this element as it can break the animations - you shou
 /* General sidebar styles */
 .bm-menu {
   background: #373a47;
-  padding: 2.5em 1.5em 0;
-  font-size: 1.15em;
+  padding: 2.5rem 1.5rem 0;
+  font-size: 1.15rem;
 }
 
 /* Morph shape necessary with bubble or elastic */
@@ -89,7 +91,7 @@ Note: Beware of modifying this element as it can break the animations - you shou
 /* Wrapper for item list */
 .bm-item-list {
   color: #b8b7ad;
-  padding: 0.8em;
+  padding: 0.8rem;
 }
 
 /* Individual item */

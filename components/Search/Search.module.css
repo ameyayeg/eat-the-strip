@@ -10,15 +10,15 @@
   outline: none;
   box-sizing: border-box;
   font-size: var(--font-size-md);
-  height: 1.3em;
-  padding: 1em;
+  height: 1.3rem;
+  padding: 1rem;
   border: solid 3px black;
 }
 
 @media (min-width: 40rem) {
   .searchInput {
-    font-size: 2em;
-    height: 2em;
-    padding: 0.5em;
+    font-size: 2rem;
+    height: 4rem;
+    padding: 0.5rem;
   }
 }

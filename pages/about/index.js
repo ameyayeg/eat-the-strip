@@ -1,5 +1,5 @@
-import styles from '../styles/About.module.css'
-import Contact from '../components/Contact'
+import styles from './About.module.css'
+import Contact from '../../components/Contact/Contact'
 
 const About = () => {
   return (
