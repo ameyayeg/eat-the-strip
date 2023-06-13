@@ -171,10 +171,8 @@ const Home = ({ blogs }) => {
         {status === 'none' && (
           <p
             style={{
-              position: 'absolute',
-              top: '65%',
-              left: '50%',
-              transform: 'translate(-50%, -50%)',
+              gridColumnStart: 2,
+              gridColumnEnd: 4,
             }}
           >
             No restaurants found! Click{' '}

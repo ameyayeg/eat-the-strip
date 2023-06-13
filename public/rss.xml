@@ -4,10 +4,17 @@
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jun 2023 14:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 19:34:34 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Jun 2023 14:46:40 GMT</pubDate>
+        <pubDate>Tue, 13 Jun 2023 19:34:34 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Ameya Charnalia]]></copyright>
+        <item>
+            <title><![CDATA[Sundari's Kitchen]]></title>
+            <link>https://eatthestrip.com//blog/sundaris-kitchen</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sundaris-kitchen</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 10 Jun 2023 15:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mezbaan Restaurant]]></title>
             <link>https://eatthestrip.com//blog/mezbaan-restaurant</link>
