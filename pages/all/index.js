@@ -1,7 +1,7 @@
 import dynamic from 'next/dynamic'
 
-import styles from '../styles/All.module.css'
-import { getSortedPosts } from '../utils/mdx'
+import styles from './All.module.css'
+import { getSortedPosts } from '../../utils/mdx'
 
 export async function getStaticProps() {
   const blogs = await getSortedPosts()
@@ -13,7 +13,7 @@ export async function getStaticProps() {
   }
 }
 
-const MapWithNoSSR = dynamic(() => import('../components/Map'), {
+const MapWithNoSSR = dynamic(() => import('../../components/Map'), {
   ssr: false,
 })
 

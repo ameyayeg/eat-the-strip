@@ -1,9 +1,9 @@
 .container {
-  margin: 5rem auto;
+  margin: 3rem auto;
   width: min(90%, 70rem);
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1em;
+  gap: 1rem;
 }
 
 .thumbnail {
@@ -18,7 +18,7 @@
   background-repeat: no-repeat;
   background-position: center center;
   height: 290px;
-  width: 290px;
+  width: 320px;
   position: relative;
   border-radius: 4px;
   overflow: auto;

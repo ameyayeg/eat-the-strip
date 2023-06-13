@@ -1,12 +1,12 @@
 import Link from 'next/link'
-import styles from '../styles/Home.module.css'
-import Search from '../components/Search'
+import styles from './Home.module.css'
+import Search from '../../components/Search/Search'
 import { useState } from 'react'
 import { ImLocation } from 'react-icons/im'
 import { useEffect } from 'react'
-import haversineDistance from '../utils/haversine'
-import { getSortedPosts } from '../utils/mdx'
-import generateRssFeed from '../utils/generateRSSFeed'
+import haversineDistance from '../../utils/haversine'
+import { getSortedPosts } from '../../utils/mdx'
+import generateRssFeed from '../../utils/generateRSSFeed'
 
 export async function getStaticProps() {
   await generateRssFeed()

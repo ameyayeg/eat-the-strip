@@ -7,22 +7,22 @@
 .about {
   font-size: var(--font-size-base);
   line-height: 1.6;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--font-family-roboto);
 }
 
 .about p,
 .about h2 {
-  margin: 0.75em 0;
+  margin: 0.75rem 0;
 }
 
 .blockquote {
-  font-size: 1.4em;
+  font-size: var(--font-size-base);
   width: 80%;
   margin: 50px auto;
-  font-family: Open Sans;
+  font-family: var(--font-family-roboto);
   font-style: italic;
   color: #555555;
-  padding: 1.2em 30px 1.2em 75px;
+  padding: 1.2rem 30px 1.2rem 75px;
   border-left: 8px solid #78c0a8;
   line-height: 1.6;
   position: relative;
@@ -30,10 +30,9 @@
 }
 
 .blockquote::before {
-  font-family: Arial;
   content: '\201C';
   color: #78c0a8;
-  font-size: 4em;
+  font-size: var(--font-size-xxl);
   position: absolute;
   left: 10px;
   top: -10px;
@@ -48,14 +47,14 @@
   color: #333333;
   font-style: normal;
   font-weight: bold;
-  margin-top: 1em;
+  margin-top: 1rem;
 }
 
 .formContainer {
   background-color: #78c0a8;
-  padding: 1.25em 1.5em;
+  padding: 1.25rem 1.5rem;
   border: 3px solid #555555;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
   border-radius: 5px;
 }
 

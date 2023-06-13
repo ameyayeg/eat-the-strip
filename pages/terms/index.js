@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/Privacy.module.css'
+import styles from './Terms.module.css'
 
 const Terms = () => {
   return (

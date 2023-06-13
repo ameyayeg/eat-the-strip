@@ -1,5 +1,5 @@
 .container {
-  font-family: 'Lobster', sans-serif;
+  font-family: var(--font-family-lobster);
   height: 50vh;
   width: 100vw;
   position: relative;

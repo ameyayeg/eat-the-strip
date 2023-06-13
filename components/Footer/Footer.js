@@ -1,7 +1,7 @@
-import styles from '../styles/Footer.module.css'
+import styles from './Footer.module.css'
 import { AiFillTwitterCircle } from 'react-icons/ai'
 import Link from 'next/link'
-import Subscribe from '../components/Subscribe'
+import Subscribe from '../Subscribe'
 import { MdRssFeed } from 'react-icons/md'
 
 const Footer = () => {
