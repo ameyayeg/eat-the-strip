@@ -9,7 +9,7 @@ thumbnail: /uploads/img_0672.jpeg
 rating: 5
 positives: 45.380837177905605
 negatives: -75.7286434074074
-image: /uploads/img_0702.jpeg
+image: /uploads/img_0664.jpeg
 ---
 If you live in Carlington, you may have noticed the scent of something delicious lingering at the corner of Shillington Avenue and Hollington Street.
 
