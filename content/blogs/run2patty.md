@@ -19,7 +19,7 @@ This unpretentious takeout-only joint is not just our go-to spot for Caribbean f
 
 My eyes immediately drift to the menu’s vast selection of patties each time I visit the restaurant. We recently ordered oxtail and beef patties and the shrimp po' boy platter.
 
-![The po' boy camed with remoulade—a traditional French sauce, originally made with ingredients such as mayonnaise, herbs, capers, pickles, and perhaps some anchovy oil or horseradish](/uploads/img_0702.jpeg "Po' boy")
+![The po' boy came with remoulade—a traditional French sauce, originally made with ingredients such as mayonnaise, herbs, capers, pickles, and perhaps some anchovy oil or horseradish](/uploads/img_0702.jpeg "Po' boy")
 
 The po' boy’s battered, crispy shrimp comes nestled in a bun with coleslaw, topped with a house made remoulade sauce, served with macaroni salad and fries.
 
