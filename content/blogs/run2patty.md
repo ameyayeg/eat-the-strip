@@ -35,5 +35,4 @@ Moreover, you won’t have to break the bank as patties range from $2.25 to $3.2
 
 Run2Patty’s website says their food uses “authentic spices that take you all the way back to your granny’s kitchen.”
 
-Their hearty food, warm reception and generous portions certainly took me back 
-to mine.
+Their hearty food, warm reception and generous portions certainly took me back to mine.
