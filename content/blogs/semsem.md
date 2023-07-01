@@ -31,7 +31,7 @@ We enjoyed the sojok sunflower and cheese sunflower, which were freshly baked, m
 
 ![The 'sunflower' dishes were a huge hit and had been recommended to Eat the Strip by several readers](/uploads/img_0801.jpeg "Sojok Sunflower")
 
-We complimented this with piping hot falafels with a crispy exterior and pillowy core. I was instantly reminded of the splendid falafels my brother and I would share growing up in the historic Bur Dubai district of Dubai. 
+We complemented this with piping hot falafels with a crispy exterior and pillowy core. I was instantly reminded of the splendid falafels my brother and I would share growing up in the historic Bur Dubai district of Dubai. 
 
 ![The falafel was served with a veggie plate and fresh pita bread](/uploads/img_0806.jpeg "Falafel")
 
