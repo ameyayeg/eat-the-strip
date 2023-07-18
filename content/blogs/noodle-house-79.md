@@ -19,7 +19,7 @@ However, Noodle House 79 is a newer addition to the area. Opened only in January
 
 We were not disappointed. 
 
-With over a hundred different options ranging from photo, to paid thai, to coconut curry soups, there are options for everyone. Emma and I are both plant-based and appreciated the vegetable broth and coconut milk bases that were available to choose from.
+With over a hundred different options ranging from pho, to paid thai, to coconut curry soups, there are options for everyone. Emma and I are both plant-based and appreciated the vegetable broth and coconut milk bases that were available to choose from.
 
 Our food arrived quite quickly, steam rising readily from the various bowls. My eyes perhaps bigger than my stomach, I ordered the large vegetable and tofu pho and received a deep bowl easily the size of a large dinner plate. 
 
