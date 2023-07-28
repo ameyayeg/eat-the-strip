@@ -27,7 +27,7 @@ export default function MyApp({ Component, pageProps }) {
             id="adsbygoogle-init"
             strategy="lazyOnload"
             crossOrigin="anonymous"
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${NEXT_PUBLIC_GOOGLE_ADS_CLIENT_ID}`}
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_GOOGLE_ADS_CLIENT_ID}`}
           />
 
           <Layout>{page}</Layout>

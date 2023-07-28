@@ -4,10 +4,52 @@
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jun 2023 20:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 04:21:19 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Jun 2023 20:34:43 GMT</pubDate>
+        <pubDate>Fri, 28 Jul 2023 04:21:19 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Ameya Charnalia]]></copyright>
+        <item>
+            <title><![CDATA[Maple Delight Pizza]]></title>
+            <link>https://eatthestrip.com//blog/maple-delight-pizza</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/maple-delight-pizza</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Thu, 27 Jul 2023 23:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roberto's Corner]]></title>
+            <link>https://eatthestrip.com//blog/robertos-corner</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/robertos-corner</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 24 Jul 2023 02:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noodle House 79]]></title>
+            <link>https://eatthestrip.com//blog/noodle-house-79</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/noodle-house-79</guid>
+            <dc:creator><![CDATA[Sophia Lindfield]]></dc:creator>
+            <pubDate>Tue, 18 Jul 2023 13:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Semsem]]></title>
+            <link>https://eatthestrip.com//blog/semsem</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/semsem</guid>
+            <dc:creator><![CDATA[Kapil Mehra]]></dc:creator>
+            <pubDate>Sat, 01 Jul 2023 16:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Run2Patty]]></title>
+            <link>https://eatthestrip.com//blog/run2patty</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/run2patty</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2023 21:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chili Craft Pizza]]></title>
+            <link>https://eatthestrip.com//blog/chili-craft-pizza</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/chili-craft-pizza</guid>
+            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <pubDate>Thu, 15 Jun 2023 15:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sundari's Kitchen]]></title>
             <link>https://eatthestrip.com//blog/sundaris-kitchen</link>
