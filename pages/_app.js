@@ -23,13 +23,6 @@ export default function MyApp({ Component, pageProps }) {
               content="https://eatthestrip.com/_ipx/w_1920,q_75/%2F_next%2Fstatic%2Fmedia%2Fpexels-makafood-8984408.a837cd84.jpg?url=%2F_next%2Fstatic%2Fmedia%2Fpexels-makafood-8984408.a837cd84.jpg&w=1920&q=75"
             />
           </Head>
-          <Script
-            id="adsbygoogle-init"
-            strategy="beforeInteractive"
-            crossOrigin="anonymous"
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_GOOGLE_ADS_CLIENT_ID}`}
-          />
-
           <Layout>{page}</Layout>
         </>
       )
