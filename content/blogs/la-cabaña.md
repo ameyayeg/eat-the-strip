@@ -23,7 +23,7 @@ Danielle ordered the El Guanaco sampler, which came with one tamal, one pupusa, 
 
 ![The pupusas and tamale in the El Guanaco platter were incredibly fresh and instant hits in our home](/uploads/img_1510.jpeg "El Guanaco")
 
-I ordered two pupusas, one chicharron—savoury pork smothered with salsa—and a queso con lorocco. Loroco is a bud native to Central America. It has a disinct earthy taste, with some likening it to rapini with acidic and nutty undertones.
+I ordered two pupusas, one chicharron—savoury pork smothered with salsa—and a queso con lorocco. Loroco is a bud native to Central America. It has a distinct earthy taste, with some likening it to rapini with acidic and nutty undertones. 
 
 We were also feeling a little adventurous, so we ordered the sopa de pata, a Salvadoran soup made from cow's feet and tripe, cassava, chayotes, corn and an assortment of other vegetables.
 
