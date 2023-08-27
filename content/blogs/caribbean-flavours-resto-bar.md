@@ -3,7 +3,7 @@ title: Caribbean Flavours Resto-Bar
 layout: blog
 cuisine: Haitian
 address: 956 Merivale Rd, Ottawa, ON K1Z 7S1
-author: Ameya Charnalia
+author: Danielle Jeffery
 date: August 27, 2023 5:43 PM
 thumbnail: /uploads/img_1593.jpeg
 rating: 5
