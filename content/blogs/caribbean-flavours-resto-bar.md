@@ -11,7 +11,7 @@ positives: 45.381931752109665
 negatives: -75.73220634631873
 image: /uploads/img_1589.jpeg
 ---
-Caribbean Flavours Resto-Bar is a new delight in our neighbourhood, having opened less than three months ago. If you’re driving South on Merivale from Carling, you could blink and miss it, but the colourful sign will hopefully catch your eye. 
+Caribbean Flavours Resto-Bar is a new delight in our neighbourhood, having opened less than three months ago. If you’re driving south on Merivale Road from Carling Avenue, you could blink and miss it, but the colourful sign will hopefully catch your eye.
 
 Having lived with a lovely Haitian woman in the recent past, we had experienced some amazing home-made Haitian food, while learning about distinct Caribbean spices used to jazz up meals. This experience really grew our desire to find food of a similar calibre now that we no longer have roommate leftovers.
 
