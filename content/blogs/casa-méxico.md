@@ -7,8 +7,8 @@ author: Anna Miedema
 date: May 14, 2023 11:22 AM
 thumbnail: /uploads/img_0078.jpeg
 rating: 3
-positives: 45.359020175338095
-negatives: -79
+positives: 45.35901574009315
+negatives: -75.73604924634166
 image: /uploads/img_0066.jpeg
 ---
 Our experience started as we hopped in an Uber on a rainy Saturday afternoon on our way to Casa Mexico, a restaurant located about 20 minutes out of downtown nestled in, of course, a strip mall. 
