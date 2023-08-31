@@ -7,8 +7,8 @@ author: Sergio Gonzalez
 date: March 22, 2023 4:31 PM
 thumbnail: /uploads/25ca145b-c46d-422e-9330-8d64505ab299.jpeg
 rating: 5
-positives: 45.35917761366358
-negatives: -75.73605612211765
+positives: 45.3315751984632
+negatives: -75.7105558789824
 image: /uploads/40abe6da-80e0-4d80-99ba-d29a279e54f1.jpeg
 ---
 
