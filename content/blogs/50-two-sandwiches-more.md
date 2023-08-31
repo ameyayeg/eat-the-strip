@@ -3,13 +3,13 @@ title: 50 Two Sandwiches & More
 layout: blog
 cuisine: Italian
 address: 52 Antares Dr, Nepean, ON K2E 7W6
+author: Sergio Gonzalez
 date: March 22, 2023 4:31 PM
 thumbnail: /uploads/25ca145b-c46d-422e-9330-8d64505ab299.jpeg
 rating: 5
-positives: 45.33134572739942
-negatives: -75.71057567106996
+positives: 45.35917761366358
+negatives: -75.73605612211765
 image: /uploads/40abe6da-80e0-4d80-99ba-d29a279e54f1.jpeg
-author: Sergio Gonzalez
 ---
 
 Hidden away in a strip mall deep within an ocean of business parks, 50 Two Sandwiches & More stands in a class of its own. There’s always a line, and never a dissatisfied customer.
