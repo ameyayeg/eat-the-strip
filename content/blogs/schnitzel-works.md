@@ -7,8 +7,8 @@ author: Ameya Charnalia
 date: August 31, 2023 4:04 PM
 thumbnail: /uploads/img_1633.jpeg
 rating: 4
-positives: 45.42130903022567
-negatives: -78
+positives: 45.421429511914795
+negatives: -75.62099605494609
 image: /uploads/img_1629.jpeg
 ---
 Ever had those days where you wake up craving schnitzel?
