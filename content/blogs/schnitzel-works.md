@@ -23,7 +23,7 @@ I reached the restaurant around an hour before closing time, well after the lunc
 
 I was greeted by a server called Aaliyah, the owner’s granddaughter. She recommended the jaegerschnitzel platter. I also ordered a takeout sandwich for Danielle. 
 
-The Spanish sandwich was served with sauteed onions, hot peppers, tomato and melted cheese. All sandwiches are served on a fresh kaiser bun with mayonnaise, lettuce, tomato.
+The Spanish sandwich was served with sauteed onions, hot peppers and melted cheese. All sandwiches are served on a fresh kaiser bun with mayonnaise, lettuce, tomato.
 
 ![Despite being takeout, Danielle's kaiser bun remained soft and the chicken crispy](/uploads/img_1641.jpeg "Spanish schnitzel sandwich")
 
