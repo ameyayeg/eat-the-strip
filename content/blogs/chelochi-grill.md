@@ -6,7 +6,7 @@ address: "2900 Gibford Dr UNIT #8, Ottawa, ON K1V 1C3"
 author: Ameya Charnalia
 date: October 9, 2023 12:16 AM
 thumbnail: /uploads/img_2081.jpeg
-rating: 4
+rating: 3
 positives: 45.34369952024933
 negatives: -75.66830911534338
 image: /uploads/img_2073.jpeg
@@ -27,7 +27,7 @@ Many dishes here have either saffron infused in them, or are topped with it, lik
 
 Both the curry and the kebabs were mild, unlike Indian kebabs and curries that can be fiery. If you are looking for spicy meat, then this is not the place for you. Iranian meat has mild spices but is characterised by a natural taste, where you actually taste the meat and not just the spices.
 
-We rounded it up by a desert which was rice pudding with cinnamon and saffron. I ordered it thinking that it would be similar to the Indian 'kheer' or rice pudding. But it was different. This one had a jelly-like texture and was yellow in colour because of the saffron added to it.  The Indian kheer is a liquid mixture of rice, milk and cardamon and is predominantly white in colour.
+We rounded it up by a desert which was rice pudding with cinnamon and saffron. I ordered it thinking that it would be similar to the Indian kheer, or rice pudding. But it was different. This one had a jelly-like texture and was yellow in colour because of the saffron added to it.  The Indian kheer is a liquid mixture of rice, milk and cardamon and is predominantly white in colour.
 
 ![The in-house saffron ice-cream is made with a blend of milk, real cream, saffron and pistachio.](/uploads/img_2086.jpeg "Chelochi Grill saffron ice-cream")
 
