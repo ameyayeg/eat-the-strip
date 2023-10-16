@@ -9,7 +9,7 @@ thumbnail: /uploads/img_2272.jpeg
 rating: 5
 positives: 45.42468467933648
 negatives: -75.63491405047478
-image: /uploads/img_2282.jpeg
+image: /uploads/img_2283.jpeg
 ---
 Disappointed in the quality of falafel around town, Ottawa Morning listener Mary Hayes wrote to us excitedly this spring when she discovered an east-end spot that serves excellent falafel.
 
