@@ -1,21 +1,21 @@
 ---
 title: Chelochi Grill
 layout: blog
-cuisine: Iranian
+cuisine: Persian
 address: "2900 Gibford Dr UNIT #8, Ottawa, ON K1V 1C3"
 author: Ameya Charnalia
 date: October 9, 2023 12:16 AM
 thumbnail: /uploads/img_2081.jpeg
-rating: 3
+rating: 4
 positives: 45.34369952024933
 negatives: -75.66830911534338
 image: /uploads/img_2073.jpeg
 ---
-Iranian food has always beckoned to me as someone who grew up in South Asia because of a shared culinary heritage between the Middle East and the Indian subcontinent. 
+Persian food has always beckoned to me as someone who grew up in South Asia because of a shared culinary heritage between the Middle East and the Indian subcontinent. 
 
 Much like in Iran and Afghanistan, skewers of minced meat and generous portions of fragrant basmati rice became a favourite east of the Hindu Kush mountains. Biryani—a subcontinental favourite—is said to have its origin in the Central Asian pilaf and was brought by Muslim rulers from Persia to the Indian subcontinent. 
 
-Imagine my excitement then for our first Eat the Strip Iranian food outing. For this, we decided to head to a strip mall in the Hunt Club area called Chelochi Grill.
+Imagine my excitement then for our first Eat the Strip Persian food outing. For this, we decided to head to a strip mall in the Hunt Club area called Chelochi Grill.
 
 There was a selection of kebabs and other meat dishes, as well as some veggie ones on the menu. We chose the royal plate platter with chicken and beef kebabs. It was accompanied by grilled tomatoes. The chicken kebabs were chewy but juicy. The beef ones were of two kinds, one made from ground beef and the other resembling shanks. The ground beef ones were flat in shape; both were soft and succulent and seasoned well. 
 
