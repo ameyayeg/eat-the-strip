@@ -17,7 +17,7 @@ To be frank, we’ll often forget we have any options at all, until our neighbou
 
 Bowman’s opened its doors in December 2013 and is open every day from 11:30 a.m. except Monday.
 
-Like a true hidden gem, the cozy interiors will surprise you if you’ve only taken a quick glance at the restaurant while driving past. Inside, you’ll find a fully stocked bar a sizeable seating area with traditional tavern-style wooden tables and booths. 
+Like a true hidden gem, the cozy interiors will surprise you if you’ve only taken a quick glance at the restaurant while driving past. Inside, you’ll find a fully stocked bar and a sizeable seating area with traditional tavern-style wooden tables and booths. 
 
 We were very happy to join Troy on a recent outing to Bowman’s to sample their mom-and-pop style comfort food. 
 
