@@ -24,6 +24,16 @@ export default function MyApp({ Component, pageProps }) {
             />
           </Head>
           <Layout>{page}</Layout>
+          <Script
+            id="Adsense-id"
+            data-ad-client="ca-pub-2447810247618678"
+            async
+            strategy="afterInteractive"
+            onError={(e) => {
+              console.error('Script failed to load', e)
+            }}
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+          />
         </>
       )
     }
