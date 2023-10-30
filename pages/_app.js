@@ -28,7 +28,7 @@ export default function MyApp({ Component, pageProps }) {
             id="Adsense-id"
             data-ad-client="ca-pub-2447810247618678"
             async
-            strategy="afterInteractive"
+            strategy="beforeInteractive"
             onError={(e) => {
               console.error('Script failed to load', e)
             }}
