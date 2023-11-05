@@ -7,8 +7,8 @@ author: Ameya Charnalia
 date: October 29, 2023 2:35 PM
 thumbnail: /uploads/img_2357.jpeg
 rating: 5
-positives: 45.37802501699185
-negatives: -75.70594479206028
+positives: 45.37760298742148
+negatives: -75.70555855396347
 image: /uploads/img_2354.jpeg
 ---
 Tucked away in the bowels of an office building on Price of Wales Drive is a new Japanese restaurant serving up delicious home-style food.
