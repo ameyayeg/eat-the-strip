@@ -15,7 +15,7 @@ Tucked away in the bowels of an office building on Price of Wales Drive is a new
 
 Like several restaurants featured on Eat the Strip, Takedon Ottawa, a takeout joint that opened in 2021, is easy to miss. It’s located on the ground floor of an office building offering several healthcare services.
 
-We decided to visit after a promising email from Ottawa Morning listener Nikki. “Takedon Ottawa is this amazing Japanese little place off of Prince,” she wrote. 
+We decided to visit after a promising email from Ottawa Morning listener Nikki. “Takedon Ottawa is this amazing Japanese little place off of Prince of Wales that we found and was amazing,” she wrote. 
 
 “Try it, you won't be disappointed.”
 
