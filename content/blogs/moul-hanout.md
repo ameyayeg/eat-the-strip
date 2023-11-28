@@ -13,7 +13,7 @@ image: /uploads/img_2655.jpeg
 ---
 Do yourself a solid and venture South on Bank Street, past Billings Bridge, in search of good Middle Eastern food.
 
-We’re no strangers to this stretch of Bank Street, as some of our favourite Levantine eateries are located here. Turns out the choice is much broader than we thought, as a new Moroccan spot opened recently at a strip mall on Bank Street and Heron Road recently—and Anna, an Eat the Strip reader, told us to go check it out.
+We’re no strangers to this stretch of Bank Street, as some of our favourite Levantine eateries are located here. Turns out the choice is much broader than we thought, as a new Moroccan spot opened recently at a strip mall on Bank Street and Heron Road—and Anna, an Eat the Strip reader, told us to go check it out.
 
 Husband and wife duo Souhail Bouachri and Kawtar Boutbaa opened Moul Hanout in 2022. The restaurant serves traditional Moroccan dishes with a regional twist. The couple is proud to be from Essaouira, a city on Morocco’s Atlantic coast famous for its port culture and seafront dotted with blue boats.
 
