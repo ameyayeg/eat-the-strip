@@ -5,11 +5,11 @@ cuisine: Thai
 address: 474 Hazeldean Rd. Kanata, ON, Unit 5
 author: Danielle Jeffery
 date: December 5, 2023 9:42 AM
-thumbnail: /uploads/img_2797.jpeg
+thumbnail: /uploads/img_2800.jpeg
 rating: 4
 positives: 45.29803604043076
 negatives: -75.88801814603086
-image: /uploads/img_2800.jpeg
+image: /uploads/img_2797.jpeg
 ---
 We hopped into a in a car with friends and family last Friday to test another strip mall gem harbouring a hankering for That food after our original plans for the evening had fallen through.
 
