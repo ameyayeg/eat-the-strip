@@ -11,7 +11,7 @@ positives: 45.29803604043076
 negatives: -75.88801814603086
 image: /uploads/img_2797.jpeg
 ---
-We hopped into a in a car with friends and family last Friday to test another strip mall gem harbouring a hankering for That food after our original plans for the evening had fallen through.
+We hopped into a car with friends and family last Friday to test another strip mall gem, harbouring a hankering for Thai food after our original plans for the evening had fallen through.
 
 Eat the Strip reader Penny had sent us the tip to go to My Thai Village in Kanata, located off Hazeldean Road. We arrived an hour before closing and were met with lovely smiles from the owners and fabulous Thai décor.
 
