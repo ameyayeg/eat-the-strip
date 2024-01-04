@@ -15,14 +15,13 @@ Faisal’s warm smile greeted us as we walked into 3Cents Resto & Café, a Yemen
 
 Without skipping a beat, he put a pot of kadak chai, the sweet and milky tea served across South Asia, on the stove and beckoned us to a table near the counter.
 
-![The kadak chai reminded of the milky and sweet Indian chai we drank growing up](/uploads/img_3091.jpeg "3Cents Reto & Cafe kadak chai")
+![The kadak chai reminded us of the milky and sweet Indian chai we drank growing up](/uploads/img_3091.jpeg "3Cents Reto & Cafe kadak chai")
 
-Photos of Arab singers and movie stars adorn the walls of this popular Yemeni café buzzing with activity even at 10 p.m. on a Wednesday evening. Books line a wall-length shelf and the ceiling is decorated with thick-fibred rope to give the ceiling the appearance of a Gulf dhow.
+Photos of Arab singers and movie stars adorn the walls of this popular Yemeni café buzzing with activity even at 10 p.m. on a Wednesday evening. Books line wall-length shelves and the ceiling is decorated with thick-fibred rope to give the ceiling the appearance of a Gulf dhow. 
 
-We learned about 3Cents from a message from Eat the Strip reader Ann. She was also the source of our tip about Moul Hanout—a Moroccan restaurant that blew us away last year. 
-If you want a cappuccino along with your liver-and-onion breakfast, she wrote, then 3Cents might be worth checking out. As she has a knack for discovering delicious eateries tucked away in strip malls, we knew we were in for a treat. 
+We learned about 3Cents from a message from Eat the Strip reader, Ann. She was also the source of our tip about Moul Hanout—a Moroccan restaurant that blew us away last year. If you want a cappuccino along with your liver-and-onion breakfast, she wrote, then 3Cents might be worth checking out. As she has a knack for discovering delicious eateries tucked away in strip malls, we knew we were in for a treat. 
 
-She had our attention. So, after a leisurely day at the Nordik Spa-Nature spa in Chelsea, Eat the Strip went along with two of our friends—Kapil Mehra and Matthew Couto—to check out the restaurant. (The former wrote our review for Semsem.)
+She had our attention. So, after a leisurely day at the Nordik Spa-Nature in Chelsea, Eat the Strip went along with two of our friends—Kapil Mehra and Matthew Couto—to check out the restaurant. (The former wrote our review for Semsem.)
 
 We ordered the chicken platter and fava bean platter. Both dishes came with a generous portion of tandoori bread, which we used to dip into our curries.
 
