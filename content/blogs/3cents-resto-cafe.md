@@ -21,7 +21,7 @@ Photos of Arab singers and movie stars adorn the walls of this popular Yemeni ca
 
 We learned about 3Cents from a message from Eat the Strip reader, Ann. She was also the source of our tip about Moul Hanout—a Moroccan restaurant that blew us away last year. If you want a cappuccino along with your liver-and-onion breakfast, she wrote, then 3Cents might be worth checking out. As she has a knack for discovering delicious eateries tucked away in strip malls, we knew we were in for a treat. 
 
-She had our attention. So, after a leisurely day at the Nordik Spa-Nature in Chelsea, Eat the Strip went along with two of our friends—Kapil Mehra and Matthew Couto—to check out the restaurant. (The former wrote our review for Semsem.)
+So, after a leisurely day at the Nordik Spa-Nature in Chelsea, Eat the Strip went along with two of our friends—Kapil Mehra and Matthew Couto—to check out the restaurant. (The former wrote our review for Semsem.
 
 We ordered the chicken platter and fava bean platter. Both dishes came with a generous portion of tandoori bread, which we used to dip into our curries.
 
@@ -33,8 +33,8 @@ The fava beans were clearly the crowd favourite. Served in a piping hot stone di
 
 ![The fava beans were cooked with a special sauce, lemon and topped with olive oil and served in a traditional stone bowl](/uploads/img_3100.jpeg "3cents Resto & Cafe fava bean")
 
-“It hurts so good,” Matt said of the temperature. Kapil tried to get bits of onion, beans and chillies in each scoop of his tandoori naan. It’s kind of like guacamole, where “you want to scoop up all the good bits,” he said.
+“It hurts so good,” Matt said of the temperature. Kapil tried to get bits of onion, beans and chillies in each scoop of his tandoori naan. It’s kind of like guacamole, where “you want to scoop up all the good bits,” he added.
 
-We took sips of chai between, using a saffron-infused sugar stick to sweeten the tea. Faisal told us about the Egyptian and Yemeni origins of the food, while patrons sipped their tea and chatted away.
+We took sips of chai between bites, using a saffron-infused sugar stick to sweeten the tea. Faisal told us about the Egyptian and Yemeni origins of the food, while patrons sipped their tea and chatted away. 
 
 In total, our meal cost us around $50. We left already dreaming about our next meal at the cafe. Perhaps a breakfast, sipping cappuccino and digging into spicy liver.
