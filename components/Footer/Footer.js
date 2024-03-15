@@ -1,5 +1,5 @@
 import styles from './Footer.module.css'
-import { AiFillTwitterCircle } from 'react-icons/ai'
+import { FaSquareXTwitter } from 'react-icons/fa6'
 import Link from 'next/link'
 import Subscribe from '../Subscribe'
 import { MdRssFeed } from 'react-icons/md'
@@ -54,7 +54,7 @@ const Footer = () => {
       <div className={styles.socials}>
         <Link href="https://twitter.com/ameyayeg">
           <a target="_blank">
-            <AiFillTwitterCircle />
+            <FaSquareXTwitter />
           </a>
         </Link>
         <Link href="http://eatthestrip.com/rss.xml">
