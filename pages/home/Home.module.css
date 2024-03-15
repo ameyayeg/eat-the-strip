@@ -14,14 +14,7 @@
 }
 
 .thumbnail div {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  height: 290px;
-  width: 320px;
-  position: relative;
   border-radius: 4px;
-  overflow: auto;
 }
 
 .thumbnail div:hover,

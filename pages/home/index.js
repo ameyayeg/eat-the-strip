@@ -7,6 +7,7 @@ import { useEffect } from 'react'
 import haversineDistance from '../../utils/haversine'
 import { getSortedPosts } from '../../utils/mdx'
 import generateRssFeed from '../../utils/generateRSSFeed'
+import Image from 'next/image'
 
 export async function getStaticProps() {
   await generateRssFeed()
@@ -118,53 +119,61 @@ const Home = ({ blogs }) => {
           allRestaurants.map((blog) => (
             <div className={styles.thumbnail} key={blog.slug}>
               <Link href={`/blog/${blog.slug}`}>
-                <a>
-                  <div style={{ backgroundImage: `url(${blog.thumbnail})` }}>
+                <div style={{ position: 'relative' }}>
+                  <Image
+                    src={blog.thumbnail}
+                    alt={blog.title}
+                    width={320}
+                    height={290}
+                    style={{
+                      position: 'fixed',
+                      zIndex: -1,
+                    }}
+                  />
+                  <span
+                    style={{
+                      position: 'absolute',
+                      backgroundColor: 'yellow',
+                      color: 'black',
+                      top: '0',
+                      left: '0',
+                      textTransform: 'uppercase',
+                      padding: '0.25rem 0.5rem',
+                      borderRadius: '16px',
+                    }}
+                  >
+                    {blog.cuisine}
+                  </span>
+                  {isLocationsActivated && (
                     <span
                       style={{
                         position: 'absolute',
                         backgroundColor: 'yellow',
                         color: 'black',
                         top: '0',
-                        left: '0',
+                        right: '0',
                         textTransform: 'uppercase',
                         padding: '0.25rem 0.5rem',
                         borderRadius: '16px',
                       }}
                     >
-                      {blog.cuisine}
+                      {distanceCalculator([blog.positives, blog.negatives])}
                     </span>
-                    {isLocationsActivated && (
-                      <span
-                        style={{
-                          position: 'absolute',
-                          backgroundColor: 'yellow',
-                          color: 'black',
-                          top: '0',
-                          right: '0',
-                          textTransform: 'uppercase',
-                          padding: '0.25rem 0.5rem',
-                          borderRadius: '16px',
-                        }}
-                      >
-                        {distanceCalculator([blog.positives, blog.negatives])}
-                      </span>
-                    )}
-                    <span
-                      style={{
-                        position: 'absolute',
-                        backgroundColor: 'black',
-                        color: 'white',
-                        bottom: '0',
-                        left: '0',
-                        right: '0',
-                        padding: '0.5rem 0.75rem',
-                      }}
-                    >
-                      {blog.title}
-                    </span>
-                  </div>
-                </a>
+                  )}
+                  <span
+                    style={{
+                      position: 'absolute',
+                      backgroundColor: 'black',
+                      color: 'white',
+                      bottom: '0',
+                      left: '0',
+                      right: '0',
+                      padding: '0.5rem 0.75rem',
+                    }}
+                  >
+                    {blog.title}
+                  </span>
+                </div>
               </Link>
             </div>
           ))}

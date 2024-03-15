@@ -4,247 +4,366 @@
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Oct 2023 15:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 01:36:52 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Oct 2023 15:42:36 GMT</pubDate>
-        <copyright><![CDATA[All rights reserved 2023, Ameya Charnalia]]></copyright>
+        <pubDate>Fri, 15 Mar 2024 01:36:52 GMT</pubDate>
+        <copyright><![CDATA[All rights reserved 2024, Ameya Charnalia]]></copyright>
+        <item>
+            <title><![CDATA[Everest Cuisine]]></title>
+            <link>https://eatthestrip.com//blog/everest-cuisine</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/everest-cuisine</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 11 Mar 2024 22:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pizzalicious]]></title>
+            <link>https://eatthestrip.com//blog/pizzalicious</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/pizzalicious</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 09 Mar 2024 16:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merivale Station Restaurant]]></title>
+            <link>https://eatthestrip.com//blog/merivale-station-restaurant</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/merivale-station-restaurant</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 02 Mar 2024 20:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sona the Indian Kitchen]]></title>
+            <link>https://eatthestrip.com//blog/sona-the-indian-kitchen</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sona-the-indian-kitchen</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Wed, 28 Feb 2024 14:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jasmine Bakery]]></title>
+            <link>https://eatthestrip.com//blog/jasmine-bakery</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/jasmine-bakery</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 24 Feb 2024 18:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bienvenidos Latin Market]]></title>
+            <link>https://eatthestrip.com//blog/bienvenidos-latin-market</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/bienvenidos-latin-market</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Tue, 13 Feb 2024 02:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mellos Coffee Shop]]></title>
+            <link>https://eatthestrip.com//blog/mellos-coffee-shop</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/mellos-coffee-shop</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Fri, 09 Feb 2024 18:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sabaya Shack]]></title>
+            <link>https://eatthestrip.com//blog/sabaya-shack</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sabaya-shack</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 03 Feb 2024 22:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Misto Fine Food Shop]]></title>
+            <link>https://eatthestrip.com//blog/misto-fine-food-shop</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/misto-fine-food-shop</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Fri, 19 Jan 2024 17:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esther's Cakes N Sweets]]></title>
+            <link>https://eatthestrip.com//blog/esthers-cakes-n-sweets</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/esthers-cakes-n-sweets</guid>
+            <dc:creator><![CDATA[Amy Rawding]]></dc:creator>
+            <pubDate>Wed, 10 Jan 2024 23:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3Cents Resto & Cafe]]></title>
+            <link>https://eatthestrip.com//blog/3cents-resto-cafe</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/3cents-resto-cafe</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Thu, 04 Jan 2024 19:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sadelko]]></title>
+            <link>https://eatthestrip.com//blog/sadelko</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sadelko</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 25 Dec 2023 04:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Bocca Juice]]></title>
+            <link>https://eatthestrip.com//blog/la-bocca-juice</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/la-bocca-juice</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 18 Dec 2023 23:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noodle's Invitation]]></title>
+            <link>https://eatthestrip.com//blog/noodles-invitation</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/noodles-invitation</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Wed, 13 Dec 2023 00:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Thai Village]]></title>
+            <link>https://eatthestrip.com//blog/my-thai-village</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/my-thai-village</guid>
+            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 14:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moul Hanout]]></title>
+            <link>https://eatthestrip.com//blog/moul-hanout</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/moul-hanout</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Fri, 24 Nov 2023 14:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amma's Biryani]]></title>
+            <link>https://eatthestrip.com//blog/ammas-biryani</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/ammas-biryani</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Wed, 15 Nov 2023 23:26:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Takedon Ottawa]]></title>
             <link>https://eatthestrip.com//blog/takedon-ottawa</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/takedon-ottawa</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Sun, 29 Oct 2023 20:35:00 GMT</pubDate>
+            <pubDate>Sun, 29 Oct 2023 18:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adnan's Catering]]></title>
             <link>https://eatthestrip.com//blog/adnans-catering</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/adnans-catering</guid>
             <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
-            <pubDate>Tue, 24 Oct 2023 04:02:00 GMT</pubDate>
+            <pubDate>Tue, 24 Oct 2023 02:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bowman's Bar and Grill]]></title>
             <link>https://eatthestrip.com//blog/bowmans-bar-and-grill</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/bowmans-bar-and-grill</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Fri, 20 Oct 2023 22:25:00 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 20:25:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ottawa Falafel House]]></title>
             <link>https://eatthestrip.com//blog/ottawa-falafel-house</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/ottawa-falafel-house</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 16 Oct 2023 20:38:00 GMT</pubDate>
+            <pubDate>Mon, 16 Oct 2023 18:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelochi Grill]]></title>
             <link>https://eatthestrip.com//blog/chelochi-grill</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/chelochi-grill</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 09 Oct 2023 06:16:00 GMT</pubDate>
+            <pubDate>Mon, 09 Oct 2023 04:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pookie's Thai]]></title>
             <link>https://eatthestrip.com//blog/pookies-thai</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/pookies-thai</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 02 Oct 2023 05:10:00 GMT</pubDate>
+            <pubDate>Mon, 02 Oct 2023 03:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkish Kebab House]]></title>
             <link>https://eatthestrip.com//blog/turkish-kebab-house</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/turkish-kebab-house</guid>
             <dc:creator><![CDATA[Marianne Jeffery]]></dc:creator>
-            <pubDate>Mon, 25 Sep 2023 04:11:00 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 02:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Takumi BBQ]]></title>
             <link>https://eatthestrip.com//blog/takumi-bbq</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/takumi-bbq</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Tue, 12 Sep 2023 20:01:00 GMT</pubDate>
+            <pubDate>Tue, 12 Sep 2023 18:01:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schnitzel Works]]></title>
             <link>https://eatthestrip.com//blog/schnitzel-works</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/schnitzel-works</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Thu, 31 Aug 2023 22:04:00 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 20:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Caribbean Flavours Resto-Bar]]></title>
             <link>https://eatthestrip.com//blog/caribbean-flavours-resto-bar</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/caribbean-flavours-resto-bar</guid>
             <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
-            <pubDate>Sun, 27 Aug 2023 23:43:00 GMT</pubDate>
+            <pubDate>Sun, 27 Aug 2023 21:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cozy's Express]]></title>
             <link>https://eatthestrip.com//blog/cozys-express</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/cozys-express</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Wed, 23 Aug 2023 17:44:00 GMT</pubDate>
+            <pubDate>Wed, 23 Aug 2023 15:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La Cabaña]]></title>
             <link>https://eatthestrip.com//blog/la-cabaña</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/la-cabaña</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Fri, 18 Aug 2023 21:31:00 GMT</pubDate>
+            <pubDate>Fri, 18 Aug 2023 19:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chahaya Malaysia]]></title>
             <link>https://eatthestrip.com//blog/chahaya-malaysia</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/chahaya-malaysia</guid>
             <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
-            <pubDate>Tue, 15 Aug 2023 16:57:00 GMT</pubDate>
+            <pubDate>Tue, 15 Aug 2023 14:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Asli Dining]]></title>
             <link>https://eatthestrip.com//blog/asli-dining</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/asli-dining</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Tue, 08 Aug 2023 18:17:00 GMT</pubDate>
+            <pubDate>Tue, 08 Aug 2023 16:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baan Thai]]></title>
             <link>https://eatthestrip.com//blog/baan-thai</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/baan-thai</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Fri, 04 Aug 2023 17:56:00 GMT</pubDate>
+            <pubDate>Fri, 04 Aug 2023 15:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maple Delight Pizza]]></title>
             <link>https://eatthestrip.com//blog/maple-delight-pizza</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/maple-delight-pizza</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Fri, 28 Jul 2023 01:14:00 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2023 23:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roberto's Corner]]></title>
             <link>https://eatthestrip.com//blog/robertos-corner</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/robertos-corner</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 24 Jul 2023 04:29:00 GMT</pubDate>
+            <pubDate>Mon, 24 Jul 2023 02:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noodle House 79]]></title>
             <link>https://eatthestrip.com//blog/noodle-house-79</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/noodle-house-79</guid>
             <dc:creator><![CDATA[Sophia Lindfield]]></dc:creator>
-            <pubDate>Tue, 18 Jul 2023 15:08:00 GMT</pubDate>
+            <pubDate>Tue, 18 Jul 2023 13:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Semsem]]></title>
             <link>https://eatthestrip.com//blog/semsem</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/semsem</guid>
             <dc:creator><![CDATA[Kapil Mehra]]></dc:creator>
-            <pubDate>Sat, 01 Jul 2023 18:37:00 GMT</pubDate>
+            <pubDate>Sat, 01 Jul 2023 16:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Run2Patty]]></title>
             <link>https://eatthestrip.com//blog/run2patty</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/run2patty</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 19 Jun 2023 23:53:00 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 21:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chili Craft Pizza]]></title>
             <link>https://eatthestrip.com//blog/chili-craft-pizza</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/chili-craft-pizza</guid>
             <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
-            <pubDate>Thu, 15 Jun 2023 17:43:00 GMT</pubDate>
+            <pubDate>Thu, 15 Jun 2023 15:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundari's Kitchen]]></title>
             <link>https://eatthestrip.com//blog/sundaris-kitchen</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/sundaris-kitchen</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Sat, 10 Jun 2023 17:33:00 GMT</pubDate>
+            <pubDate>Sat, 10 Jun 2023 15:33:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mezbaan Restaurant]]></title>
             <link>https://eatthestrip.com//blog/mezbaan-restaurant</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/mezbaan-restaurant</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Thu, 01 Jun 2023 16:55:00 GMT</pubDate>
+            <pubDate>Thu, 01 Jun 2023 14:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duna Bistro]]></title>
             <link>https://eatthestrip.com//blog/duna-bistro</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/duna-bistro</guid>
             <dc:creator><![CDATA[Colin Knox]]></dc:creator>
-            <pubDate>Tue, 23 May 2023 04:58:00 GMT</pubDate>
+            <pubDate>Tue, 23 May 2023 02:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Casa México]]></title>
             <link>https://eatthestrip.com//blog/casa-méxico</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/casa-méxico</guid>
             <dc:creator><![CDATA[Anna Miedema]]></dc:creator>
-            <pubDate>Sun, 14 May 2023 17:22:00 GMT</pubDate>
+            <pubDate>Sun, 14 May 2023 15:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skela Foods]]></title>
             <link>https://eatthestrip.com//blog/skela-foods</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/skela-foods</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 01 May 2023 05:59:00 GMT</pubDate>
+            <pubDate>Mon, 01 May 2023 03:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shinwari BBQ and Pizza]]></title>
             <link>https://eatthestrip.com//blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza</guid>
             <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
-            <pubDate>Thu, 20 Apr 2023 22:54:00 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 20:54:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ali Baba Bakery]]></title>
             <link>https://eatthestrip.com//blog/ali-baba-bakery</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/ali-baba-bakery</guid>
             <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
-            <pubDate>Mon, 17 Apr 2023 00:17:00 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2023 22:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pita Bell Kabab Charcoal Grill]]></title>
             <link>https://eatthestrip.com//blog/pita-bell-kabab-charcoal-grill</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/pita-bell-kabab-charcoal-grill</guid>
             <dc:creator><![CDATA[Sergio Gonzalez]]></dc:creator>
-            <pubDate>Sat, 08 Apr 2023 16:13:00 GMT</pubDate>
+            <pubDate>Sat, 08 Apr 2023 14:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mona’s Café and Restaurant]]></title>
             <link>https://eatthestrip.com//blog/mona’s-café-and-restaurant</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/mona’s-café-and-restaurant</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Fri, 31 Mar 2023 21:30:00 GMT</pubDate>
+            <pubDate>Fri, 31 Mar 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alhalabi]]></title>
             <link>https://eatthestrip.com//blog/alhalabi</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/alhalabi</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Sat, 25 Mar 2023 20:22:00 GMT</pubDate>
+            <pubDate>Sat, 25 Mar 2023 18:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[50 Two Sandwiches & More]]></title>
             <link>https://eatthestrip.com//blog/50-two-sandwiches-more</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/50-two-sandwiches-more</guid>
             <dc:creator><![CDATA[Sergio Gonzalez]]></dc:creator>
-            <pubDate>Wed, 22 Mar 2023 22:31:00 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 20:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Palais Libanais]]></title>
             <link>https://eatthestrip.com//blog/palais-libanais</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/palais-libanais</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Mon, 20 Mar 2023 19:59:00 GMT</pubDate>
+            <pubDate>Mon, 20 Mar 2023 17:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Punjabi Canteen]]></title>
             <link>https://eatthestrip.com//blog/punjabi-canteen</link>
             <guid isPermaLink="true">https://eatthestrip.com//blog/punjabi-canteen</guid>
             <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
-            <pubDate>Sun, 19 Mar 2023 19:11:00 GMT</pubDate>
+            <pubDate>Sun, 19 Mar 2023 17:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
