@@ -17,13 +17,13 @@ We drove there this past weekend to try out some authentic Turkish breakfast. Th
 
 Eat the Strip reader Daniel dropped us a tip earlier this year: “Try Nazli's Kitchen & Cafe, Daniel wrote. “I had the kafte sandwich and a latte. The sandwich had crisp lettuce, great tomatoes and onions. The meatballs were tasty.”
 
-This weekend, we paid heed to Denis’ recommendation and made the roughly-25-kilometre drive west on the Queensway to try Nazli's Kitchen & Cafe. Now, admittedly, the restaurant is not located in a strip mall. But the overwhelmingly positive reviews on Google—an average of 4.9 out of five—coupled with our readers’ rave reviews, meant we had to go.
+This weekend, we paid heed to Daniel’s recommendation and made the roughly-25-kilometre drive west on the Queensway to try Nazli's Kitchen & Cafe. Now, admittedly, the restaurant is not located in a strip mall. But the overwhelmingly positive reviews on Google—an average of 4.9 out of five—coupled with our readers’ rave reviews, meant we had to go.
 
-Operated by Nazli and her husband Frank, we got to the restaurant around 1 p.m. It’s located on the main road that leads you downtown. Inside, Turkish music plays on the speakers as Frank beckons at one of the four sun kissed tables. When I ask for his preferred item on the breakfast menu, he tells me everything is excellent as it’s made by his wife.
+Operated by Nazli and her husband, Frank, we got to the restaurant around 1 p.m. It’s located on the main road that leads you downtown. Inside, Turkish music plays on the speakers as Frank beckons at one of the four sun kissed tables. When I ask for his preferred item on the breakfast menu, he tells me everything is excellent as it’s made by his wife.
 
 He undoubtedly gets a few brownie points for that.
 
-We decided to go with menemem and the mihlama. For beverages, we ordered a Turkish coffee and a hot glass of salep, a traditional Turkish beverage made from sweetened milk, cinnamon and ground orchid tubers, which are used to thicken the beverage.
+We decided to go with menemen and the mihlama. For beverages, we ordered a Turkish coffee and a hot glass of salep, a traditional Turkish beverage made from sweetened milk, cinnamon and ground orchid tubers, which are used to thicken the beverage.
 
 ![Menemen is a popular Turkish dish that includes eggs, tomato, green peppers and spices such as ground black and red pepper cooked in olive oil](/uploads/img_4113.jpeg "Nazli's Kitchen & Cafe menemen")
 
