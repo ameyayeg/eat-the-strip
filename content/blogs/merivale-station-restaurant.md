@@ -7,8 +7,8 @@ author: Ameya Charnalia
 date: March 2, 2024 3:36 PM
 thumbnail: /uploads/img_3897.jpeg
 rating: 4
-positives: 43
-negatives: -75.7233849274947
+positives: 45.33181782531482
+negatives: -75.72339151264104
 image: /uploads/img_3892.jpeg
 ---
 Everything may be bigger in Texas, but have you been to Merivale Station Restaurant?
