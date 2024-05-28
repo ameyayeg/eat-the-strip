@@ -19,7 +19,7 @@ Full disclosure: this is my favourite Indian restaurant in Ottawa. Their curries
 
 ![Fish pakora, a delicacy from the city of Amritsar in Punjab, is coated in a spicy gram flour, spices and carom seeds and fried till crispy](/uploads/img_4411.jpeg "Brampton Authentic Indian Food fish pakora")
 
-Today, the newly renovated space is constancy abuzz, with students from nearby Algonquin College and others driving from across the city to try their excellent food. They even opened a paratha stand recently, serving up the delightful savoury stuffed bread at almost all hours of the day. 
+Today, the newly renovated space is abuzz with students from nearby Algonquin College and others driving from across the city to try their excellent food. They even opened a paratha stand recently, serving up the delightful savoury stuffed bread at almost all hours of the day. 
 
 But success didn’t arrive overnight. 
 
