@@ -15,7 +15,7 @@ Ravinder moved to Canada around the same time I arrived here to study at univers
 
 During one of his visits to Ottawa around 2010, Ravinder’s friend convinced him to open a restaurant that would serve food familiar to folks from Punjab and neighbouring states in North India. After racking up around 20,000 kilometres in mileage commuting between Brampton and Ottawa to find a space and equip it, Ravinder and his wife Navneet finally opened the doors in 2013. In a nod to Brampton’s iconic Punjabi community, they decided to name their new restaurant Brampton Authentic Indian Food.
 
-Full disclosure: this is my favourite Indian restaurant in Ottawa. Their curries, regionally conscious cooking and excellent service transport me back to my childhood in North India, every time, without fail.
+Full disclosure: this is my favourite South Asian restaurant in Ottawa. Their curries, regionally conscious cooking and excellent service transport me back to my childhood, every time, without fail. 
 
 ![Fish pakora, a delicacy from the city of Amritsar in Punjab, is coated in a spicy gram flour, spices and carom seeds and fried till crispy](/uploads/img_4411.jpeg "Brampton Authentic Indian Food fish pakora")
 
