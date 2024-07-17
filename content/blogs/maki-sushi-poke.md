@@ -11,7 +11,7 @@ positives: 45.28123541288158
 negatives: -75.91307093384637
 image: /uploads/img_5496.jpeg
 ---
-In late June we received an email from one of our readers recommending we make a trip to Stitsville to try a new sushi place that was getting people in the area talking.
+In late June we received an email from one of our readers recommending we make a trip to Stittsville to try a new sushi place that was getting people in the area talking.
 
 “We had sushi here last night and it was amazing,” wrote Mary Ann. “Maybe the best I've ever had.”
 
