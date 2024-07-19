@@ -4,10 +4,115 @@
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 Mar 2024 02:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 14:16:57 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Mar 2024 02:00:07 GMT</pubDate>
+        <pubDate>Fri, 19 Jul 2024 14:16:57 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024, Ameya Charnalia]]></copyright>
+        <item>
+            <title><![CDATA[Maki Sushi + Poke]]></title>
+            <link>https://eatthestrip.com//blog/maki-sushi-poke</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/maki-sushi-poke</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Tue, 16 Jul 2024 01:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saigon Bistro]]></title>
+            <link>https://eatthestrip.com//blog/saigon-bistro</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/saigon-bistro</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 08 Jul 2024 23:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sherwood Market & Deli]]></title>
+            <link>https://eatthestrip.com//blog/sherwood-market-deli</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sherwood-market-deli</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 24 Jun 2024 02:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grenfell Catering]]></title>
+            <link>https://eatthestrip.com//blog/grenfell-catering</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/grenfell-catering</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 16 Jun 2024 18:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Idriss Mediterranean]]></title>
+            <link>https://eatthestrip.com//blog/idriss-mediterranean</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/idriss-mediterranean</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 09 Jun 2024 20:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brampton Authentic Indian Foods]]></title>
+            <link>https://eatthestrip.com//blog/brampton-authentic-indian-foods</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/brampton-authentic-indian-foods</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 27 May 2024 00:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fishys Original Jerk]]></title>
+            <link>https://eatthestrip.com//blog/fishys-original-jerk</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/fishys-original-jerk</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 13 May 2024 21:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Djakarta Taste]]></title>
+            <link>https://eatthestrip.com//blog/djakarta-taste</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/djakarta-taste</guid>
+            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <pubDate>Mon, 06 May 2024 01:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chai Talks]]></title>
+            <link>https://eatthestrip.com//blog/chai-talks</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/chai-talks</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ng's Cuisine]]></title>
+            <link>https://eatthestrip.com//blog/ngs-cuisine</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/ngs-cuisine</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 21 Apr 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sheikh Almandi]]></title>
+            <link>https://eatthestrip.com//blog/sheikh-almandi</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sheikh-almandi</guid>
+            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <pubDate>Sun, 14 Apr 2024 21:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sushi 29]]></title>
+            <link>https://eatthestrip.com//blog/sushi-29</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/sushi-29</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cedar Valley Lebanese Food]]></title>
+            <link>https://eatthestrip.com//blog/cedar-valley-lebanese-food</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/cedar-valley-lebanese-food</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 06 Apr 2024 22:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nazli's Kitchen & Cafe]]></title>
+            <link>https://eatthestrip.com//blog/nazlis-kitchen-cafe</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/nazlis-kitchen-cafe</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Tue, 26 Mar 2024 02:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bite & Bite Shanghai Fried Bun]]></title>
+            <link>https://eatthestrip.com//blog/bite-bite-shanghai-fried-bun</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/bite-bite-shanghai-fried-bun</guid>
+            <dc:creator><![CDATA[Neha Charnalia]]></dc:creator>
+            <pubDate>Mon, 18 Mar 2024 14:52:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everest Cuisine]]></title>
             <link>https://eatthestrip.com//blog/everest-cuisine</link>

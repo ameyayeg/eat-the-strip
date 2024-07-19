@@ -34,6 +34,18 @@ export default function MyApp({ Component, pageProps }) {
             }}
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
           />
+          <Script
+            strategy="afterInteractive"
+            src="https://www.googletagmanager.com/gtag/js?id=G-S2M86NVLWK"
+          />
+          <Script>
+            {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-S2M86NVLWK');
+            `}
+          </Script>
         </>
       )
     }

@@ -8,8 +8,6 @@ export default function Map(props) {
   const position = [45.4215, -75.6972]
   const [arrCoordinates, setArrCoordinates] = useState(props.coordinates)
 
-  console.log(arrCoordinates)
-
   const icon = L.icon({
     iconSize: [25, 41],
     iconAnchor: [10, 41],
