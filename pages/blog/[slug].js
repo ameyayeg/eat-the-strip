@@ -1,15 +1,11 @@
 import fs from 'fs'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
-import Image from 'next/image'
-import { AiFillStar, AiOutlineHome, AiOutlineStar } from 'react-icons/ai'
 import styles from './Blog.module.css'
 import LayoutWithoutHeader from '../../components/Layouts/LayoutWithoutHeader'
 import Link from 'next/link'
-import range from '../../utils/range'
 import Head from 'next/head'
 import dynamic from 'next/dynamic'
-import { slide as Menu } from 'react-burger-menu'
 import Comments from '../../components/Comments'
 
 export async function getStaticPaths() {
@@ -21,7 +17,7 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: false, // This shows a 404 page if the page is not found
+    fallback: false,
   }
 }
 
