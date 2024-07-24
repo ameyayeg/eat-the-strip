@@ -7,6 +7,7 @@ import Link from 'next/link'
 import Head from 'next/head'
 import dynamic from 'next/dynamic'
 import Comments from '../../components/Comments'
+import { AiOutlineHome } from 'react-icons/ai'
 
 export async function getStaticPaths() {
   const filesInProjects = fs.readdirSync('./content/blogs')
