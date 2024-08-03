@@ -1,5 +1,5 @@
 .container {
-  margin: 3rem auto;
+  margin: 0 auto 3rem auto;
   width: min(90%, 70rem);
   display: grid;
   grid-template-columns: 1fr;
