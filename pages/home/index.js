@@ -142,6 +142,22 @@ const Home = ({ blogs }) => {
                   >
                     {blog.cuisine}
                   </span>
+                  {blog.closed && (
+                    <span
+                      style={{
+                        position: 'absolute',
+                        backgroundColor: 'red',
+                        color: 'black',
+                        top: '0',
+                        right: '0',
+                        textTransform: 'uppercase',
+                        padding: '0.25rem 0.5rem',
+                        borderRadius: '16px',
+                      }}
+                    >
+                      Closed
+                    </span>
+                  )}
                   {isLocationsActivated && (
                     <span
                       style={{
