@@ -98,21 +98,19 @@ const Home = ({ blogs }) => {
 
   return (
     <>
-      <div className={styles.searchContainer}>
-        <Search query={query} setQuery={setQuery} />
-        {userCoordinates && (
-          <ImLocation
-            style={{
-              fontSize: '2rem',
-              position: 'absolute',
-              top: '36px',
-              right: '36px',
-              cursor: 'pointer',
-            }}
-            onClick={handleLocation}
-          />
-        )}
-      </div>
+      <Search query={query} setQuery={setQuery} />
+      {userCoordinates && (
+        <ImLocation
+          style={{
+            fontSize: '2rem',
+            position: 'absolute',
+            top: '36px',
+            right: '36px',
+            cursor: 'pointer',
+          }}
+          onClick={handleLocation}
+        />
+      )}
       <section className={styles.container}>
         {status === 'loading' && <p>Loading...</p>}
         {status === 'loaded' &&
