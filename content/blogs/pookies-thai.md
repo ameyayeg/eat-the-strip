@@ -6,10 +6,11 @@ address: 2280 Carling Ave unit 7, Ottawa, ON K2B 7G1
 author: Ameya Charnalia
 date: October 1, 2023 11:10 PM
 thumbnail: /uploads/img_1997.jpeg
-rating: 4
+closed: true
 positives: 45.36868150180195
-negatives: -75.77402877393163
 image: /uploads/img_1994.jpeg
+rating: 4
+negatives: -75.77402877393163
 ---
 You can’t have a serious conversation about Ottawa’s best Thai food without Pookie’s Thai being in the mix.
 
