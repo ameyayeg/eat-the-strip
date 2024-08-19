@@ -23,7 +23,7 @@ I ordered a breakfast hash and a pot of tea. This was perhaps the quickest I’v
 
 ![The breakfast hash came with a choice of two eggs, toast and homefries topped with bacon, sausage, green peppers, onions and cheese](/uploads/img_5775.jpeg "Cindy's Restaurant breakfast hash")
 
-I combine my crunchy bell peppers, sunny-side eggs, onions, cheese and bacon into a gooey mix that I scoop up with my warm and buttered toast. It was perfectly salty. The sausages and bacon cooked perfectly, with the nice and crispy.  As I tucked in, Cindy told me to take my time to finish, even though the clock had struck noon—their closing time on Saturdays.
+I combine my crunchy bell peppers, sunny-side eggs, onions, cheese and bacon into a gooey mix that I scoop up with my warm and buttered toast. It was perfectly salty. The sausages and bacon cooked perfectly, with the latter nice and crispy.  As I tucked in, Cindy told me to take my time to finish, even though the clock had struck noon—their closing time on Saturdays. 
 
 Cindy inherited the 35-year-old restaurant from her aunt. She first worked for the family business for 15 years and then took it over around 13 years ago. “Most of our customers that are customers that have been coming forever,” she said. “I feel like this is more my family than my own family.”
 
