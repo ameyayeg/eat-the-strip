@@ -4,10 +4,59 @@
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Aug 2024 02:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 23:47:43 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Aug 2024 02:13:46 GMT</pubDate>
+        <pubDate>Sun, 15 Sep 2024 23:47:43 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024, Ameya Charnalia]]></copyright>
+        <item>
+            <title><![CDATA[Safia Restaurant]]></title>
+            <link>https://eatthestrip.com//blog/safia-restaurant</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/safia-restaurant</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Fri, 13 Sep 2024 16:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thai Lanna]]></title>
+            <link>https://eatthestrip.com//blog/thai-lanna</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/thai-lanna</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 09 Sep 2024 16:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wei's Noodle House]]></title>
+            <link>https://eatthestrip.com//blog/weis-noodle-house</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/weis-noodle-house</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Fri, 30 Aug 2024 16:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baa Desi Dine]]></title>
+            <link>https://eatthestrip.com//blog/baa-desi-dine</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/baa-desi-dine</guid>
+            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <pubDate>Sat, 24 Aug 2024 03:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cindy's Restaurant]]></title>
+            <link>https://eatthestrip.com//blog/cindys-restaurant</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/cindys-restaurant</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 18 Aug 2024 19:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tortilla Maker]]></title>
+            <link>https://eatthestrip.com//blog/the-tortilla-maker</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/the-tortilla-maker</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 11 Aug 2024 18:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soleil des Iles]]></title>
+            <link>https://eatthestrip.com//blog/soleil-des-iles</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/soleil-des-iles</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 04 Aug 2024 19:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meule et Caquelon]]></title>
             <link>https://eatthestrip.com//blog/meule-et-caquelon</link>

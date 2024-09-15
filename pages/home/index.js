@@ -51,9 +51,9 @@ const Home = ({ blogs }) => {
           restaurant.positives,
           restaurant.negatives,
         ])
-        if (distance < 5) {
+        if (distance < 1) {
           return true
-        } else return false
+        }
       })
       if (filteredByDistance.length < 1) {
         setStatus('none')
@@ -171,7 +171,7 @@ const Home = ({ blogs }) => {
                         borderRadius: '16px',
                       }}
                     >
-                      {distanceCalculator([blog.positives, blog.negatives])}
+                      &lt; 1km
                     </span>
                   )}
                   <span
