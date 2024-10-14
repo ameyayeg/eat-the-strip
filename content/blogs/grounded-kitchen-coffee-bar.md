@@ -19,7 +19,7 @@ We decided to make a trip to this old haunt of mine earlier this week. There is 
 
 Of course, the main reason for our adventure was the food. Having worked at Grounded before, I knew that the dynamic scratch-kitchen was going to put immense creativity into every bite, and that has not changed one bit. My partner and co-writer of the blog Ameya and I opted for the chicken parmesan sliders and the mushroom melt burger special. 
 
-![Grounded's sliders were a hit off the hop, with the breaded and crispy chicken hitting all the right notes](/uploads/img_6332.jpeg "Grounded Kitchen, Coffee & Bar")
+![Grounded's sliders were a hit off the hop, with the breaded and crispy chicken hitting all the right notes](/uploads/img_6332.jpeg "Grounded Kitchen, Coffee & Bar chicken parmesan sliders")
 
 In the past, when I have ordered chicken parmesan, there has always been something that I didn’t like, such as too much breading, or too much tomato flooding the sauce. I do not know how Grounded succeeded, but these chicken parmesan sliders had a Goldilocks level of perfection with the ratio and flavors of the tomato sauce, havarti, parmesan, basil oil and panko breaded chicken. While I would recommend including a side with your order if you’re excessively hungry, the flavour of these top-of-the-line chicken parm sliders will have you coming back for more. 
 
