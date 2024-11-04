@@ -2,14 +2,15 @@
 title: Djakarta Taste
 layout: blog
 cuisine: Indonesian
-address: 41 Bd Fournier, Gatineau, QC J8X 3P3
+address: 395 Alexandre-Taché Blvd, Gatineau, Quebec J9A 1M6
 author: Danielle Jeffery
 date: May 5, 2024 9:15 PM
 thumbnail: /uploads/img_4811.jpeg
-rating: 5
+closed: false
 positives: 45.44519546576857
-negatives: -75.71336405833466
 image: /uploads/img_4804.jpeg
+rating: 5
+negatives: -75.71336405833466
 ---
 Indonesia. The country sounds as cool as the food is tasty. Thankfully, we didn’t have to travel quite as far to taste the flavours of this wonderful archipelago. 
 
