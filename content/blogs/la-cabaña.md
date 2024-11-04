@@ -2,18 +2,19 @@
 title: La Cabaña
 layout: blog
 cuisine: Salvadoran
-address: 848 Merivale Rd, Ottawa, ON K1Z 5Z4
+address: 83 Holland Ave, Ottawa, ON K1Y 0Y1
 author: Ameya Charnalia
 date: August 18, 2023 3:31 PM
 thumbnail: /uploads/img_1508.jpeg
-rating: 4
-positives: 45.385943495396425
-negatives: -75.73269994718392
+closed: false
+positives: 45.400934637368
 image: /uploads/img_1500.jpeg
+rating: 4
+negatives: -75.73238914078321
 ---
 There’s no better sign of a strip mall gem than a grocery store that sells hot, fresh food.
 
-La Cabaña is no exception. Ottawa’s sole El Salvadoran restaurant—and one of its oldest—is a famous Carlington-area stop for fresh papusas, seafood and breakfast specials served in an unpretentious strip mall on near Carling Avenue and Merivale Road.
+La Cabaña is no exception. Ottawa’s sole El Salvadoran restaurant—and one of its oldest—is a famous Carlington-area stop for fresh papusas, seafood and breakfast specials.
 
 It’s a spot we’ve been to before as it’s down the road from us and it was high time we made another trip for an Eat the Strip review.
 
