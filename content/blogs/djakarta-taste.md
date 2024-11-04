@@ -7,10 +7,10 @@ author: Danielle Jeffery
 date: May 5, 2024 9:15 PM
 thumbnail: /uploads/img_4811.jpeg
 closed: false
-positives: 45.44519546576857
+positives: 45.42151738911493
 image: /uploads/img_4804.jpeg
 rating: 5
-negatives: -75.71336405833466
+negatives: -75.74601646994033
 ---
 Indonesia. The country sounds as cool as the food is tasty. Thankfully, we didn’t have to travel quite as far to taste the flavours of this wonderful archipelago. 
 
