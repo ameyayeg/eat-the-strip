@@ -17,7 +17,7 @@ The restaurant itself is small but charming, with just seven tables, making it t
 
 ![Taramasalata is a creamy, tangy Greek dip made from salted caviar, olive oil, lemon juice, and bread or potato](/uploads/img_7447.jpeg "The Greek Souvlaki House taramasalata")
 
-We started our meal with a classic Greek appetizer: the taramosalata. This creamy, tangy dip, made from salted roe, instantly transported us to the Mediterranean. It had just the right amount of saltiness, with a texture that felt smooth yet hearty. Danielle mentioned that it reminded her of being by the sea—a perfect start to our meal.
+We started our meal with a classic Greek appetizer: the taramosalata. This creamy, tangy dip, made from salted roe, instantly transported us to the Mediterranean. It had just the right amount of saltiness, with a texture that felt smooth yet hearty. My partner and co-writer of the blog Danielle mentioned that it reminded her of being by the sea—a perfect start to our meal.
 
 For the main course, we ordered the chicken souvlaki platter and were impressed by the freshness and flavour of the ingredients. The Greek salad was fresh and zesty, with crunchy vegetables and feta in just the right proportion. The homemade dressing added a lovely tang, and the potatoes, which were beautifully charred and crispy, rounded out the dish perfectly. The chicken was grilled to perfection—juicy on the inside, with a deliciously smoky flavour from the charred bits. The tzatziki, with its subtle dill notes, elevated the entire meal, providing a creamy contrast to the savoury chicken.
 
