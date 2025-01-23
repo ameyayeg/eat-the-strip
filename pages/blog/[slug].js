@@ -8,6 +8,7 @@ import Head from 'next/head'
 import dynamic from 'next/dynamic'
 import Comments from '../../components/Comments'
 import { AiOutlineHome } from 'react-icons/ai'
+import Image from 'next/image'
 
 export async function getStaticPaths() {
   const filesInProjects = fs.readdirSync('./content/blogs')
@@ -56,19 +57,33 @@ export default function Blog({ frontmatter, markdown, slug }) {
         </Link>
         <h1>Eat the Strip</h1>
       </header>
-      <div
-        style={{
-          backgroundImage: `url(${frontmatter.image})`,
-          backgroundSize: `cover`,
-          backgroundRepeat: 'no-repeat',
-          backgroundPosition: 'center center',
-          height: '60vh',
-          width: '100%',
-        }}
-      ></div>
+      <div style={{ position: 'relative', width: '100%', height: '60vh' }}>
+        <Image
+          src={frontmatter.image}
+          alt={frontmatter.title}
+          layout="fill"
+          objectFit="cover"
+          objectPosition="center"
+        />
+      </div>
       <div className={styles.container}>
         <div className={styles.frontmatterDiv}>
           <h1>{frontmatter.title}</h1>
+          {frontmatter.closed && (
+            <span
+              style={{
+                backgroundColor: 'red',
+                color: 'black',
+                top: '0',
+                right: '0',
+                textTransform: 'uppercase',
+                padding: '0.25rem 0.5rem',
+                borderRadius: '16px',
+              }}
+            >
+              Closed
+            </span>
+          )}
           <p>
             <i>{frontmatter.address}</i>
           </p>

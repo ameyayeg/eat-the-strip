@@ -4,10 +4,87 @@
         <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
         <link>https://eatthestrip.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Sep 2024 23:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 15:28:05 GMT</lastBuildDate>
         <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Sep 2024 23:47:43 GMT</pubDate>
-        <copyright><![CDATA[All rights reserved 2024, Ameya Charnalia]]></copyright>
+        <pubDate>Thu, 23 Jan 2025 15:28:05 GMT</pubDate>
+        <copyright><![CDATA[All rights reserved 2025, Ameya Charnalia]]></copyright>
+        <item>
+            <title><![CDATA[The Greek Souvlaki House]]></title>
+            <link>https://eatthestrip.com//blog/the-greek-souvlaki-house</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/the-greek-souvlaki-house</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Wed, 22 Jan 2025 02:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Samoona Grill & Bakery]]></title>
+            <link>https://eatthestrip.com//blog/mr-samoona-grill-bakery</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/mr-samoona-grill-bakery</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 13 Jan 2025 22:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Detola's Kitchen]]></title>
+            <link>https://eatthestrip.com//blog/detolas-kitchen</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/detolas-kitchen</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Wed, 08 Jan 2025 03:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chickpeas]]></title>
+            <link>https://eatthestrip.com//blog/chickpeas</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/chickpeas</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Mon, 30 Dec 2024 01:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Subtown]]></title>
+            <link>https://eatthestrip.com//blog/subtown</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/subtown</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Tue, 19 Nov 2024 21:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Maison du Kouign-Amann]]></title>
+            <link>https://eatthestrip.com//blog/la-maison-du-kouign-amann</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/la-maison-du-kouign-amann</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 17 Nov 2024 19:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Divisoria Market]]></title>
+            <link>https://eatthestrip.com//blog/divisoria-market</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/divisoria-market</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Fri, 01 Nov 2024 17:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delina's Restaurant and Bar]]></title>
+            <link>https://eatthestrip.com//blog/delinas-restaurant-and-bar</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/delinas-restaurant-and-bar</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sun, 20 Oct 2024 17:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grounded Kitchen, Coffee & Bar]]></title>
+            <link>https://eatthestrip.com//blog/grounded-kitchen-coffee-bar</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/grounded-kitchen-coffee-bar</guid>
+            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <pubDate>Mon, 14 Oct 2024 15:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yummy Touch Kitchen]]></title>
+            <link>https://eatthestrip.com//blog/yummy-touch-kitchen</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/yummy-touch-kitchen</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Sat, 05 Oct 2024 02:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saffron Kabab Restaurant]]></title>
+            <link>https://eatthestrip.com//blog/saffron-kabab-restaurant</link>
+            <guid isPermaLink="true">https://eatthestrip.com//blog/saffron-kabab-restaurant</guid>
+            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <pubDate>Thu, 19 Sep 2024 19:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Safia Restaurant]]></title>
             <link>https://eatthestrip.com//blog/safia-restaurant</link>
