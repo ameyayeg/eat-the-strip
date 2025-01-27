@@ -17,6 +17,8 @@ Located in an unassuming strip mall, the restaurant immediately grabs your atten
 
 Despite its dive-bar exterior, the food is a standout. The menu, a blend of Canadian pub favourites and Punjabi comfort food, offers something for everyone. As I flipped through the options, it was the traditional Indian dishes that caught my eye—especially sarson ka saag, a wintertime classic from Punjab. I couldn’t resist trying it. When the dish arrived, it was everything I hoped for: spicy, creamy, and full of depth. The mustard greens were cooked to perfection, delivering a mustardy, slightly tangy kick, and paired beautifully with tandoori roti. 
 
+![Sarson ka saag is a traditional Punjabi dish made from mustard greens, cooked with spices, and often enjoyed with makki di roti, making it a perfect match for a cold beer](/uploads/img_7470.jpeg "Blue Diamond Bar & Grill sarson ka saag")
+
 While Blue Diamond serves up familiar pub staples like burgers and wraps, the Punjabi dishes are what truly set it apart. Saj’s mother, who runs the kitchen, is behind every flavourful plate, and her expertise is evident in each bite. The restaurant, which opened in 2017, has grown in popularity thanks to word-of-mouth alone. Saj notes that while there’s been zero marketing, the restaurant’s authentic, home-style cooking and community feel have made it a favourite for locals—especially for breakfast, which is always bustling with families and early risers.
 
 For those new to the menu, the butter chicken mac and cheese is a popular choice, combining Canadian comfort with Indian flavours. But it’s the traditional Punjabi dishes, like sarson ka saag, that truly shine.
