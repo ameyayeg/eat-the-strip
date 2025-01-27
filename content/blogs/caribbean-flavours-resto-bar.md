@@ -6,10 +6,11 @@ address: 956 Merivale Rd, Ottawa, ON K1Z 7S1
 author: Danielle Jeffery
 date: August 27, 2023 5:43 PM
 thumbnail: /uploads/img_1593.jpeg
-rating: 5
+closed: true
 positives: 45.381931752109665
-negatives: -75.73220634631873
 image: /uploads/img_1589.jpeg
+rating: 5
+negatives: -75.73220634631873
 ---
 Caribbean Flavours Resto-Bar is a new delight in our neighbourhood, having opened less than three months ago. If you’re driving south on Merivale Road from Carling Avenue, you could blink and miss it, but the colourful sign will hopefully catch your eye.
 
