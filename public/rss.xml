@@ -1,614 +1,628 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
     <channel>
-        <title><![CDATA[Eat the Strip | RSS Feed]]></title>
-        <description><![CDATA[Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.]]></description>
-        <link>https://eatthestrip.com/</link>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jan 2025 15:28:05 GMT</lastBuildDate>
-        <atom:link href="https://eatthestrip.com//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jan 2025 15:28:05 GMT</pubDate>
-        <copyright><![CDATA[All rights reserved 2025, Ameya Charnalia]]></copyright>
+        <title>Eat the Strip | RSS Feed</title>
+        <link>localhost:3000</link>
+        <description>Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.</description>
+        <lastBuildDate>Tue, 04 Feb 2025 18:33:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Eat the Strip</generator>
+        <copyright>All rights reserved 2025, Ameya Charnalia</copyright>
+        <item>
+            <title><![CDATA[Polka Delicatessen]]></title>
+            <link>localhost:3000/blog/polka-delicatessen</link>
+            <guid>localhost:3000/blog/polka-delicatessen</guid>
+            <pubDate>Sat, 01 Feb 2025 01:05:00 GMT</pubDate>
+            <description><![CDATA[It’s easy to overlook Polka Delicatessen, located in a strip mall between a cell phone repair shop and a make-your-own wine space. But step inside, and it’s clear this small, unassuming store has become a fixture for Ottawa’s Polish community—and for anyone craving a taste of authentic Eastern European deli fare....]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Blue Diamond Bar & Grill]]></title>
+            <link>localhost:3000/blog/blue-diamond-bar-grill</link>
+            <guid>localhost:3000/blog/blue-diamond-bar-grill</guid>
+            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the heart of Richmond, Blue Diamond Bar & Grill blends the best of both worlds: a family-friendly sports bar and a bustling small-town breakfast joint, all while serving up authentic Punjabi cuisine. ...]]></description>
+        </item>
         <item>
             <title><![CDATA[The Greek Souvlaki House]]></title>
-            <link>https://eatthestrip.com//blog/the-greek-souvlaki-house</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/the-greek-souvlaki-house</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/the-greek-souvlaki-house</link>
+            <guid>localhost:3000/blog/the-greek-souvlaki-house</guid>
             <pubDate>Wed, 22 Jan 2025 02:21:00 GMT</pubDate>
+            <description><![CDATA[If you're craving authentic Greek flavours in a cozy, welcoming setting, look no further than The Greek Souvlaki House. This family-owned gem has been serving up delicious, home-cooked Greek classics since 2013. With its blue and white décor, reminiscent of the beautiful Greek islands, stepping inside feels like entering a warm, inviting home. It's the kind of place where regulars are greeted by name, and the smell of charbroiled meats fills the air....]]></description>
         </item>
         <item>
             <title><![CDATA[Mr. Samoona Grill & Bakery]]></title>
-            <link>https://eatthestrip.com//blog/mr-samoona-grill-bakery</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/mr-samoona-grill-bakery</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/mr-samoona-grill-bakery</link>
+            <guid>localhost:3000/blog/mr-samoona-grill-bakery</guid>
             <pubDate>Mon, 13 Jan 2025 22:39:00 GMT</pubDate>
+            <description><![CDATA[If you're ever driving down Bank Street and find yourself drawn to the tantalizing smell of sizzling meat and spices, follow your nose to Samoona. Nestled in a strip mall near Billings Bridge, this small but cozy Iraqi eatery has been quietly winning over food lovers since opening two years ago. Though it’s easy to miss at first, a stop here is more than worth it—especially if you're craving fresh, flavourful kebabs, creamy hummus, and homemade flatbreads....]]></description>
         </item>
         <item>
             <title><![CDATA[Detola's Kitchen]]></title>
-            <link>https://eatthestrip.com//blog/detolas-kitchen</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/detolas-kitchen</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/detolas-kitchen</link>
+            <guid>localhost:3000/blog/detolas-kitchen</guid>
             <pubDate>Wed, 08 Jan 2025 03:10:00 GMT</pubDate>
+            <description><![CDATA[I left work tonight craving Nigerian food—grilled meats, spicy curries, and pounded yams were all I could think of as I raced across the parking lot toward my car, with the temperature dropping to -13°C....]]></description>
         </item>
         <item>
             <title><![CDATA[Chickpeas]]></title>
-            <link>https://eatthestrip.com//blog/chickpeas</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/chickpeas</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/chickpeas</link>
+            <guid>localhost:3000/blog/chickpeas</guid>
             <pubDate>Mon, 30 Dec 2024 01:43:00 GMT</pubDate>
+            <description><![CDATA[For our last Eat the Strip outing of 2024, we headed east towards the Ottawa Train Yards....]]></description>
         </item>
         <item>
             <title><![CDATA[Subtown]]></title>
-            <link>https://eatthestrip.com//blog/subtown</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/subtown</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/subtown</link>
+            <guid>localhost:3000/blog/subtown</guid>
             <pubDate>Tue, 19 Nov 2024 21:47:00 GMT</pubDate>
+            <description><![CDATA[We were looking to try something different when we received an email recently from one of our readers about a place serving submarine sandwiches with an interesting twist....]]></description>
         </item>
         <item>
             <title><![CDATA[La Maison du Kouign-Amann]]></title>
-            <link>https://eatthestrip.com//blog/la-maison-du-kouign-amann</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/la-maison-du-kouign-amann</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/la-maison-du-kouign-amann</link>
+            <guid>localhost:3000/blog/la-maison-du-kouign-amann</guid>
             <pubDate>Sun, 17 Nov 2024 19:07:00 GMT</pubDate>
+            <description><![CDATA[My friend and former colleague Cynthia took me to Kanata to surprise me with some delicious baked treats back when we were in the throes of the pandemic....]]></description>
         </item>
         <item>
             <title><![CDATA[Divisoria Market]]></title>
-            <link>https://eatthestrip.com//blog/divisoria-market</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/divisoria-market</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/divisoria-market</link>
+            <guid>localhost:3000/blog/divisoria-market</guid>
             <pubDate>Fri, 01 Nov 2024 17:23:00 GMT</pubDate>
+            <description><![CDATA[Scouring strip malls can sometimes lead to gastronomic gold....]]></description>
         </item>
         <item>
             <title><![CDATA[Delina's Restaurant and Bar]]></title>
-            <link>https://eatthestrip.com//blog/delinas-restaurant-and-bar</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/delinas-restaurant-and-bar</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/delinas-restaurant-and-bar</link>
+            <guid>localhost:3000/blog/delinas-restaurant-and-bar</guid>
             <pubDate>Sun, 20 Oct 2024 17:40:00 GMT</pubDate>
+            <description><![CDATA[I often get a hankering for Ethiopian food....]]></description>
         </item>
         <item>
             <title><![CDATA[Grounded Kitchen, Coffee & Bar]]></title>
-            <link>https://eatthestrip.com//blog/grounded-kitchen-coffee-bar</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/grounded-kitchen-coffee-bar</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/grounded-kitchen-coffee-bar</link>
+            <guid>localhost:3000/blog/grounded-kitchen-coffee-bar</guid>
             <pubDate>Mon, 14 Oct 2024 15:29:00 GMT</pubDate>
+            <description><![CDATA[Grounded Kitchen, Coffee & Bar has always exuded good vibes, right from the moment I first handed in a resume, to the first day on the job, and now as a returning customer....]]></description>
         </item>
         <item>
             <title><![CDATA[Yummy Touch Kitchen]]></title>
-            <link>https://eatthestrip.com//blog/yummy-touch-kitchen</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/yummy-touch-kitchen</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/yummy-touch-kitchen</link>
+            <guid>localhost:3000/blog/yummy-touch-kitchen</guid>
             <pubDate>Sat, 05 Oct 2024 02:24:00 GMT</pubDate>
+            <description><![CDATA[We were told to take a healthy appetite to Yummy Touch Kitchen, a Middle Eastern restaurant that opened around a year ago in southeast Ottawa....]]></description>
         </item>
         <item>
             <title><![CDATA[Saffron Kabab Restaurant]]></title>
-            <link>https://eatthestrip.com//blog/saffron-kabab-restaurant</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/saffron-kabab-restaurant</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/saffron-kabab-restaurant</link>
+            <guid>localhost:3000/blog/saffron-kabab-restaurant</guid>
             <pubDate>Thu, 19 Sep 2024 19:57:00 GMT</pubDate>
+            <description><![CDATA[Our group of five arrived around dinnertime at Saffron Kabab Restaurant’s Bank Street location, just as the smell of marinated meats being grilled began to waft from the kitchen....]]></description>
         </item>
         <item>
             <title><![CDATA[Safia Restaurant]]></title>
-            <link>https://eatthestrip.com//blog/safia-restaurant</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/safia-restaurant</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/safia-restaurant</link>
+            <guid>localhost:3000/blog/safia-restaurant</guid>
             <pubDate>Fri, 13 Sep 2024 16:45:00 GMT</pubDate>
+            <description><![CDATA[When Ahmed Abdulkadir is not busy brokering peace deals in conflict zones, he’s busy making some of the best Somali flatbread in town at his family-run restaurant....]]></description>
         </item>
         <item>
             <title><![CDATA[Thai Lanna]]></title>
-            <link>https://eatthestrip.com//blog/thai-lanna</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/thai-lanna</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/thai-lanna</link>
+            <guid>localhost:3000/blog/thai-lanna</guid>
             <pubDate>Mon, 09 Sep 2024 16:30:00 GMT</pubDate>
+            <description><![CDATA[When we got wind of the fact that a restaurant in Ottawa’s south end may have received the blessings of the Thai embassy as authentic Thai cooking, we knew we had to visit....]]></description>
         </item>
         <item>
             <title><![CDATA[Wei's Noodle House]]></title>
-            <link>https://eatthestrip.com//blog/weis-noodle-house</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/weis-noodle-house</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/weis-noodle-house</link>
+            <guid>localhost:3000/blog/weis-noodle-house</guid>
             <pubDate>Fri, 30 Aug 2024 16:23:00 GMT</pubDate>
+            <description><![CDATA[For months we’ve had our vegan friends tell us about a hidden gem tucked away in the basement of a commercial building on Bronson Avenue....]]></description>
         </item>
         <item>
             <title><![CDATA[Baa Desi Dine]]></title>
-            <link>https://eatthestrip.com//blog/baa-desi-dine</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/baa-desi-dine</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/baa-desi-dine</link>
+            <guid>localhost:3000/blog/baa-desi-dine</guid>
             <pubDate>Sat, 24 Aug 2024 03:15:00 GMT</pubDate>
+            <description><![CDATA[I have been wanting to feature Baa Desi Dine ever since my partner brought home a take-out anda shami burger and beef kebab wrap. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Cindy's Restaurant]]></title>
-            <link>https://eatthestrip.com//blog/cindys-restaurant</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/cindys-restaurant</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/cindys-restaurant</link>
+            <guid>localhost:3000/blog/cindys-restaurant</guid>
             <pubDate>Sun, 18 Aug 2024 19:34:00 GMT</pubDate>
+            <description><![CDATA[While getting older surely means fewer nights out, the desire to get a nice greasy spoon  breakfast the morning after a night out hasn’t diminished....]]></description>
         </item>
         <item>
             <title><![CDATA[The Tortilla Maker]]></title>
-            <link>https://eatthestrip.com//blog/the-tortilla-maker</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/the-tortilla-maker</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/the-tortilla-maker</link>
+            <guid>localhost:3000/blog/the-tortilla-maker</guid>
             <pubDate>Sun, 11 Aug 2024 18:41:00 GMT</pubDate>
+            <description><![CDATA[It was around Thanksgiving last year that Eat the Strip reader Diodora suggested we head to Orleans to check out a Mexican takeout joint specializing in tortillas and salsas. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Soleil des Iles]]></title>
-            <link>https://eatthestrip.com//blog/soleil-des-iles</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/soleil-des-iles</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/soleil-des-iles</link>
+            <guid>localhost:3000/blog/soleil-des-iles</guid>
             <pubDate>Sun, 04 Aug 2024 19:44:00 GMT</pubDate>
+            <description><![CDATA[Soleil des Iles is a no-nonsense Haitian restaurant tucked away in a gem of a strip mall in Vanier....]]></description>
         </item>
         <item>
             <title><![CDATA[Meule et Caquelon]]></title>
-            <link>https://eatthestrip.com//blog/meule-et-caquelon</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/meule-et-caquelon</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/meule-et-caquelon</link>
+            <guid>localhost:3000/blog/meule-et-caquelon</guid>
             <pubDate>Wed, 31 Jul 2024 16:29:00 GMT</pubDate>
+            <description><![CDATA[Rarely does one forget their first ever raclette....]]></description>
         </item>
         <item>
             <title><![CDATA[Que pasa? Tacos]]></title>
-            <link>https://eatthestrip.com//blog/que-pasa-tacos</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/que-pasa-tacos</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/que-pasa-tacos</link>
+            <guid>localhost:3000/blog/que-pasa-tacos</guid>
             <pubDate>Sun, 21 Jul 2024 16:49:00 GMT</pubDate>
+            <description><![CDATA[A tip from friends who were in the west end the other day caught us off guard....]]></description>
         </item>
         <item>
             <title><![CDATA[Maki Sushi + Poke]]></title>
-            <link>https://eatthestrip.com//blog/maki-sushi-poke</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/maki-sushi-poke</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/maki-sushi-poke</link>
+            <guid>localhost:3000/blog/maki-sushi-poke</guid>
             <pubDate>Tue, 16 Jul 2024 01:16:00 GMT</pubDate>
+            <description><![CDATA[In late June we received an email from one of our readers recommending we make a trip to Stittsville to try a new sushi place that was getting people in the area talking....]]></description>
         </item>
         <item>
             <title><![CDATA[Saigon Bistro]]></title>
-            <link>https://eatthestrip.com//blog/saigon-bistro</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/saigon-bistro</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/saigon-bistro</link>
+            <guid>localhost:3000/blog/saigon-bistro</guid>
             <pubDate>Mon, 08 Jul 2024 23:52:00 GMT</pubDate>
+            <description><![CDATA[It was in the spring of 2023, not too long after we launched Eat the Strip, that one of our readers wrote to us to check out Saigon Bistro....]]></description>
         </item>
         <item>
             <title><![CDATA[Sherwood Market & Deli]]></title>
-            <link>https://eatthestrip.com//blog/sherwood-market-deli</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sherwood-market-deli</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/sherwood-market-deli</link>
+            <guid>localhost:3000/blog/sherwood-market-deli</guid>
             <pubDate>Mon, 24 Jun 2024 02:11:00 GMT</pubDate>
+            <description><![CDATA[Imagine walking into a small convenience store and seeing a lineup snaking around the aisles, leading up to a deli counter at the back....]]></description>
         </item>
         <item>
             <title><![CDATA[Grenfell Catering]]></title>
-            <link>https://eatthestrip.com//blog/grenfell-catering</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/grenfell-catering</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/grenfell-catering</link>
+            <guid>localhost:3000/blog/grenfell-catering</guid>
             <pubDate>Sun, 16 Jun 2024 18:40:00 GMT</pubDate>
+            <description><![CDATA[If it’s not already abundantly clear, there’s a special place in my heart for takeout joints that operate in industrial parks, sandwiched between business that usually have less to do with food and more to do with car parts. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Idriss Mediterranean]]></title>
-            <link>https://eatthestrip.com//blog/idriss-mediterranean</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/idriss-mediterranean</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/idriss-mediterranean</link>
+            <guid>localhost:3000/blog/idriss-mediterranean</guid>
             <pubDate>Sun, 09 Jun 2024 20:44:00 GMT</pubDate>
+            <description><![CDATA[Idirss Mediterranean is one of those few restaurants that succeed in serving you amazing food all while capturing your imagination and transporting you to a distant land while you slowly slip into a food coma....]]></description>
         </item>
         <item>
             <title><![CDATA[Brampton Authentic Indian Foods]]></title>
-            <link>https://eatthestrip.com//blog/brampton-authentic-indian-foods</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/brampton-authentic-indian-foods</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/brampton-authentic-indian-foods</link>
+            <guid>localhost:3000/blog/brampton-authentic-indian-foods</guid>
             <pubDate>Mon, 27 May 2024 00:28:00 GMT</pubDate>
+            <description><![CDATA[Ravinder moved to Canada around the same time I arrived here to study at university. While we both were disappointed with the lack of authentic Punjabi fare in the Ottawa area, only one of us decided to do something about it....]]></description>
         </item>
         <item>
             <title><![CDATA[Fishys Original Jerk]]></title>
-            <link>https://eatthestrip.com//blog/fishys-original-jerk</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/fishys-original-jerk</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/fishys-original-jerk</link>
+            <guid>localhost:3000/blog/fishys-original-jerk</guid>
             <pubDate>Mon, 13 May 2024 21:23:00 GMT</pubDate>
+            <description><![CDATA[A nice evening with friends discussing Jamaican cuisine left us with, well, a hankering for Caribbean food....]]></description>
         </item>
         <item>
             <title><![CDATA[Djakarta Taste]]></title>
-            <link>https://eatthestrip.com//blog/djakarta-taste</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/djakarta-taste</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/djakarta-taste</link>
+            <guid>localhost:3000/blog/djakarta-taste</guid>
             <pubDate>Mon, 06 May 2024 01:15:00 GMT</pubDate>
+            <description><![CDATA[Indonesia. The country sounds as cool as the food is tasty. Thankfully, we didn’t have to travel quite as far to taste the flavours of this wonderful archipelago. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Chai Talks]]></title>
-            <link>https://eatthestrip.com//blog/chai-talks</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/chai-talks</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/chai-talks</link>
+            <guid>localhost:3000/blog/chai-talks</guid>
             <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Merivale Road has been dubbed an emerging little South Asia in Ottawa....]]></description>
         </item>
         <item>
             <title><![CDATA[Ng's Cuisine]]></title>
-            <link>https://eatthestrip.com//blog/ngs-cuisine</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/ngs-cuisine</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/ngs-cuisine</link>
+            <guid>localhost:3000/blog/ngs-cuisine</guid>
             <pubDate>Sun, 21 Apr 2024 18:30:00 GMT</pubDate>
+            <description><![CDATA[It’s no secret, Ng’s Cuisine serves some of the best Chinese food in Ottawa....]]></description>
         </item>
         <item>
             <title><![CDATA[Sheikh Almandi]]></title>
-            <link>https://eatthestrip.com//blog/sheikh-almandi</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sheikh-almandi</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/sheikh-almandi</link>
+            <guid>localhost:3000/blog/sheikh-almandi</guid>
             <pubDate>Sun, 14 Apr 2024 21:11:00 GMT</pubDate>
+            <description><![CDATA[Not long ago, a long-time reader recommended an Iraqi spot in the west-end. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Sushi 29]]></title>
-            <link>https://eatthestrip.com//blog/sushi-29</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sushi-29</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/sushi-29</link>
+            <guid>localhost:3000/blog/sushi-29</guid>
             <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[A lot of Eat the Strip readers have written to us about good sushi joints recently....]]></description>
         </item>
         <item>
             <title><![CDATA[Cedar Valley Lebanese Food]]></title>
-            <link>https://eatthestrip.com//blog/cedar-valley-lebanese-food</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/cedar-valley-lebanese-food</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/cedar-valley-lebanese-food</link>
+            <guid>localhost:3000/blog/cedar-valley-lebanese-food</guid>
             <pubDate>Sat, 06 Apr 2024 22:51:00 GMT</pubDate>
+            <description><![CDATA[City council passed a motion this week to declare Ottawa the Shawarma Capital of Canada, so it was only fitting we went to break bread with the councillor who introduced the motion....]]></description>
         </item>
         <item>
             <title><![CDATA[Nazli's Kitchen & Cafe]]></title>
-            <link>https://eatthestrip.com//blog/nazlis-kitchen-cafe</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/nazlis-kitchen-cafe</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/nazlis-kitchen-cafe</link>
+            <guid>localhost:3000/blog/nazlis-kitchen-cafe</guid>
             <pubDate>Tue, 26 Mar 2024 02:44:00 GMT</pubDate>
+            <description><![CDATA[Next time you’re on the highway and see the exit to Carp, take it—your belly won’t regret it....]]></description>
         </item>
         <item>
             <title><![CDATA[Bite & Bite Shanghai Fried Bun]]></title>
-            <link>https://eatthestrip.com//blog/bite-bite-shanghai-fried-bun</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/bite-bite-shanghai-fried-bun</guid>
-            <dc:creator><![CDATA[Neha Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/bite-bite-shanghai-fried-bun</link>
+            <guid>localhost:3000/blog/bite-bite-shanghai-fried-bun</guid>
             <pubDate>Mon, 18 Mar 2024 14:52:00 GMT</pubDate>
+            <description><![CDATA[I don’t know about you, but there are times I just crave true comfort food—wontons, buns and noodle soup. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Everest Cuisine]]></title>
-            <link>https://eatthestrip.com//blog/everest-cuisine</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/everest-cuisine</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/everest-cuisine</link>
+            <guid>localhost:3000/blog/everest-cuisine</guid>
             <pubDate>Mon, 11 Mar 2024 22:09:00 GMT</pubDate>
+            <description><![CDATA[There’s nothing like hot momos to warm you up on a cold day....]]></description>
         </item>
         <item>
             <title><![CDATA[Pizzalicious]]></title>
-            <link>https://eatthestrip.com//blog/pizzalicious</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/pizzalicious</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/pizzalicious</link>
+            <guid>localhost:3000/blog/pizzalicious</guid>
             <pubDate>Sat, 09 Mar 2024 16:28:00 GMT</pubDate>
+            <description><![CDATA[Everywhere you look there seems to be a new pizza place popping up along Merivale Road....]]></description>
         </item>
         <item>
             <title><![CDATA[Merivale Station Restaurant]]></title>
-            <link>https://eatthestrip.com//blog/merivale-station-restaurant</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/merivale-station-restaurant</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/merivale-station-restaurant</link>
+            <guid>localhost:3000/blog/merivale-station-restaurant</guid>
             <pubDate>Sat, 02 Mar 2024 20:36:00 GMT</pubDate>
+            <description><![CDATA[Everything may be bigger in Texas, but have you been to Merivale Station Restaurant?...]]></description>
         </item>
         <item>
             <title><![CDATA[Sona the Indian Kitchen]]></title>
-            <link>https://eatthestrip.com//blog/sona-the-indian-kitchen</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sona-the-indian-kitchen</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/sona-the-indian-kitchen</link>
+            <guid>localhost:3000/blog/sona-the-indian-kitchen</guid>
             <pubDate>Wed, 28 Feb 2024 14:16:00 GMT</pubDate>
+            <description><![CDATA[A taste of the homeland is never too far away in Ottawa....]]></description>
         </item>
         <item>
             <title><![CDATA[Jasmine Bakery]]></title>
-            <link>https://eatthestrip.com//blog/jasmine-bakery</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/jasmine-bakery</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/jasmine-bakery</link>
+            <guid>localhost:3000/blog/jasmine-bakery</guid>
             <pubDate>Sat, 24 Feb 2024 18:45:00 GMT</pubDate>
+            <description><![CDATA[It was a busy work week and all I could think of was meat pies to kick off the weekend. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Bienvenidos Latin Market]]></title>
-            <link>https://eatthestrip.com//blog/bienvenidos-latin-market</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/bienvenidos-latin-market</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/bienvenidos-latin-market</link>
+            <guid>localhost:3000/blog/bienvenidos-latin-market</guid>
             <pubDate>Tue, 13 Feb 2024 02:47:00 GMT</pubDate>
+            <description><![CDATA[We glanced at the clock and realized we’d make it to Bienvenidos Latin Market half an hour before closing if we got out of the door right away....]]></description>
         </item>
         <item>
             <title><![CDATA[Mellos Coffee Shop]]></title>
-            <link>https://eatthestrip.com//blog/mellos-coffee-shop</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/mellos-coffee-shop</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/mellos-coffee-shop</link>
+            <guid>localhost:3000/blog/mellos-coffee-shop</guid>
             <pubDate>Fri, 09 Feb 2024 18:37:00 GMT</pubDate>
+            <description><![CDATA[Restaurants are popping up at such a dizzying pace on Merivale Road, south of Carling Avenue, that we can barely keep up. That said, there are some eateries in the neighbourhood that have withstood the test of time. We recently took a trip down Merivale Road—and memory lane—to pay homage to one such spot....]]></description>
         </item>
         <item>
             <title><![CDATA[Sabaya Shack]]></title>
-            <link>https://eatthestrip.com//blog/sabaya-shack</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sabaya-shack</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/sabaya-shack</link>
+            <guid>localhost:3000/blog/sabaya-shack</guid>
             <pubDate>Sat, 03 Feb 2024 22:08:00 GMT</pubDate>
+            <description><![CDATA[We drove southeast towards city limits, hungry to try some legendary chicken wraps we had read about online....]]></description>
         </item>
         <item>
             <title><![CDATA[Misto Fine Food Shop]]></title>
-            <link>https://eatthestrip.com//blog/misto-fine-food-shop</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/misto-fine-food-shop</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/misto-fine-food-shop</link>
+            <guid>localhost:3000/blog/misto-fine-food-shop</guid>
             <pubDate>Fri, 19 Jan 2024 17:22:00 GMT</pubDate>
+            <description><![CDATA[I decided to stop by Misto Fine Food Shop on a recent visit to a nearby business....]]></description>
         </item>
         <item>
             <title><![CDATA[Esther's Cakes N Sweets]]></title>
-            <link>https://eatthestrip.com//blog/esthers-cakes-n-sweets</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/esthers-cakes-n-sweets</guid>
-            <dc:creator><![CDATA[Amy Rawding]]></dc:creator>
+            <link>localhost:3000/blog/esthers-cakes-n-sweets</link>
+            <guid>localhost:3000/blog/esthers-cakes-n-sweets</guid>
             <pubDate>Wed, 10 Jan 2024 23:17:00 GMT</pubDate>
+            <description><![CDATA[When you’ve been baking for 15 years and finally open shop, you’re going to be pretty excited....]]></description>
         </item>
         <item>
             <title><![CDATA[3Cents Resto & Cafe]]></title>
-            <link>https://eatthestrip.com//blog/3cents-resto-cafe</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/3cents-resto-cafe</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/3cents-resto-cafe</link>
+            <guid>localhost:3000/blog/3cents-resto-cafe</guid>
             <pubDate>Thu, 04 Jan 2024 19:16:00 GMT</pubDate>
+            <description><![CDATA[Faisal’s warm smile greeted us as we walked into 3Cents Resto & Café, a Yemeni café located in a strip mall off Bank Street. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Sadelko]]></title>
-            <link>https://eatthestrip.com//blog/sadelko</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sadelko</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/sadelko</link>
+            <guid>localhost:3000/blog/sadelko</guid>
             <pubDate>Mon, 25 Dec 2023 04:44:00 GMT</pubDate>
+            <description><![CDATA[Sadelko—a Cameroonian restaurant that opened just a few months ago in a mall—reminded us recently why Aylmer is one of our favourite food destinations in the region....]]></description>
         </item>
         <item>
             <title><![CDATA[La Bocca Juice]]></title>
-            <link>https://eatthestrip.com//blog/la-bocca-juice</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/la-bocca-juice</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/la-bocca-juice</link>
+            <guid>localhost:3000/blog/la-bocca-juice</guid>
             <pubDate>Mon, 18 Dec 2023 23:46:00 GMT</pubDate>
+            <description><![CDATA[A few months ago, I discovered La Bocca Juice, a Lebanese dessert shop located in the Towngate Shopping Centre on Bank Street....]]></description>
         </item>
         <item>
             <title><![CDATA[Noodle's Invitation]]></title>
-            <link>https://eatthestrip.com//blog/noodles-invitation</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/noodles-invitation</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/noodles-invitation</link>
+            <guid>localhost:3000/blog/noodles-invitation</guid>
             <pubDate>Wed, 13 Dec 2023 00:51:00 GMT</pubDate>
+            <description><![CDATA[I’d spent several months thinking of an email we received in September about a Chinese restaurant in a south-end industrial park....]]></description>
         </item>
         <item>
             <title><![CDATA[My Thai Village]]></title>
-            <link>https://eatthestrip.com//blog/my-thai-village</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/my-thai-village</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/my-thai-village</link>
+            <guid>localhost:3000/blog/my-thai-village</guid>
             <pubDate>Tue, 05 Dec 2023 14:42:00 GMT</pubDate>
+            <description><![CDATA[We hopped into a car with friends and family last Friday to test another strip mall gem, harbouring a hankering for Thai food after our original plans for the evening had fallen through....]]></description>
         </item>
         <item>
             <title><![CDATA[Moul Hanout]]></title>
-            <link>https://eatthestrip.com//blog/moul-hanout</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/moul-hanout</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/moul-hanout</link>
+            <guid>localhost:3000/blog/moul-hanout</guid>
             <pubDate>Fri, 24 Nov 2023 14:20:00 GMT</pubDate>
+            <description><![CDATA[Do yourself a solid and venture South on Bank Street, past Billings Bridge, in search of good Middle Eastern food....]]></description>
         </item>
         <item>
             <title><![CDATA[Amma's Biryani]]></title>
-            <link>https://eatthestrip.com//blog/ammas-biryani</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/ammas-biryani</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/ammas-biryani</link>
+            <guid>localhost:3000/blog/ammas-biryani</guid>
             <pubDate>Wed, 15 Nov 2023 23:26:00 GMT</pubDate>
+            <description><![CDATA[Long-time readers of Eat the Strip know we have a soft spot for eateries tucked away at the back of grocery stores....]]></description>
         </item>
         <item>
             <title><![CDATA[Takedon Ottawa]]></title>
-            <link>https://eatthestrip.com//blog/takedon-ottawa</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/takedon-ottawa</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/takedon-ottawa</link>
+            <guid>localhost:3000/blog/takedon-ottawa</guid>
             <pubDate>Sun, 29 Oct 2023 18:35:00 GMT</pubDate>
+            <description><![CDATA[Tucked away in the bowels of an office building on Price of Wales Drive is a new Japanese restaurant serving up delicious home-style food....]]></description>
         </item>
         <item>
             <title><![CDATA[Adnan's Catering]]></title>
-            <link>https://eatthestrip.com//blog/adnans-catering</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/adnans-catering</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/adnans-catering</link>
+            <guid>localhost:3000/blog/adnans-catering</guid>
             <pubDate>Tue, 24 Oct 2023 02:02:00 GMT</pubDate>
+            <description><![CDATA[We usually drive to Montreal to buy a specific type of kebab from the Indian subcontinent....]]></description>
         </item>
         <item>
             <title><![CDATA[Bowman's Bar and Grill]]></title>
-            <link>https://eatthestrip.com//blog/bowmans-bar-and-grill</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/bowmans-bar-and-grill</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/bowmans-bar-and-grill</link>
+            <guid>localhost:3000/blog/bowmans-bar-and-grill</guid>
             <pubDate>Fri, 20 Oct 2023 20:25:00 GMT</pubDate>
+            <description><![CDATA[When it comes to local watering holes, we’re not exactly spoiled for choice in Ottawa’s west-end Carlington neighbourhood....]]></description>
         </item>
         <item>
             <title><![CDATA[Ottawa Falafel House]]></title>
-            <link>https://eatthestrip.com//blog/ottawa-falafel-house</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/ottawa-falafel-house</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/ottawa-falafel-house</link>
+            <guid>localhost:3000/blog/ottawa-falafel-house</guid>
             <pubDate>Mon, 16 Oct 2023 18:38:00 GMT</pubDate>
+            <description><![CDATA[Disappointed in the quality of falafel around town, Ottawa Morning listener Mary Hayes wrote to us excitedly this spring when she discovered an east-end spot that serves excellent falafel....]]></description>
         </item>
         <item>
             <title><![CDATA[Chelochi Grill]]></title>
-            <link>https://eatthestrip.com//blog/chelochi-grill</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/chelochi-grill</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/chelochi-grill</link>
+            <guid>localhost:3000/blog/chelochi-grill</guid>
             <pubDate>Mon, 09 Oct 2023 04:16:00 GMT</pubDate>
+            <description><![CDATA[Persian food has always beckoned to me as someone who grew up in South Asia because of a shared culinary heritage between the Middle East and the Indian subcontinent. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Pookie's Thai]]></title>
-            <link>https://eatthestrip.com//blog/pookies-thai</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/pookies-thai</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/pookies-thai</link>
+            <guid>localhost:3000/blog/pookies-thai</guid>
             <pubDate>Mon, 02 Oct 2023 03:10:00 GMT</pubDate>
+            <description><![CDATA[You can’t have a serious conversation about Ottawa’s best Thai food without Pookie’s Thai being in the mix....]]></description>
         </item>
         <item>
             <title><![CDATA[Turkish Kebab House]]></title>
-            <link>https://eatthestrip.com//blog/turkish-kebab-house</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/turkish-kebab-house</guid>
-            <dc:creator><![CDATA[Marianne Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/turkish-kebab-house</link>
+            <guid>localhost:3000/blog/turkish-kebab-house</guid>
             <pubDate>Mon, 25 Sep 2023 02:11:00 GMT</pubDate>
+            <description><![CDATA[Walking into the Turkish Kebab House in Kanata, you are immediately welcomed with the smiles from the owners, their families and around two dozen staff who work together to bring you authentic Turkish meats grilled on charcoal. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Takumi BBQ]]></title>
-            <link>https://eatthestrip.com//blog/takumi-bbq</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/takumi-bbq</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/takumi-bbq</link>
+            <guid>localhost:3000/blog/takumi-bbq</guid>
             <pubDate>Tue, 12 Sep 2023 18:01:00 GMT</pubDate>
+            <description><![CDATA[There’s something special brewing at a small strip mall located next to a gas station on Merivale Road and Anna Avenue....]]></description>
         </item>
         <item>
             <title><![CDATA[Schnitzel Works]]></title>
-            <link>https://eatthestrip.com//blog/schnitzel-works</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/schnitzel-works</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/schnitzel-works</link>
+            <guid>localhost:3000/blog/schnitzel-works</guid>
             <pubDate>Thu, 31 Aug 2023 20:04:00 GMT</pubDate>
+            <description><![CDATA[Ever had those days where you wake up craving schnitzel?...]]></description>
         </item>
         <item>
             <title><![CDATA[Caribbean Flavours Resto-Bar]]></title>
-            <link>https://eatthestrip.com//blog/caribbean-flavours-resto-bar</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/caribbean-flavours-resto-bar</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/caribbean-flavours-resto-bar</link>
+            <guid>localhost:3000/blog/caribbean-flavours-resto-bar</guid>
             <pubDate>Sun, 27 Aug 2023 21:43:00 GMT</pubDate>
+            <description><![CDATA[Caribbean Flavours Resto-Bar is a new delight in our neighbourhood, having opened less than three months ago. If you’re driving south on Merivale Road from Carling Avenue, you could blink and miss it, but the colourful sign will hopefully catch your eye....]]></description>
         </item>
         <item>
             <title><![CDATA[Cozy's Express]]></title>
-            <link>https://eatthestrip.com//blog/cozys-express</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/cozys-express</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/cozys-express</link>
+            <guid>localhost:3000/blog/cozys-express</guid>
             <pubDate>Wed, 23 Aug 2023 15:44:00 GMT</pubDate>
+            <description><![CDATA[I’m not the first to crave an old-fashioned breakfast after a late night out, nor will I be the last. Fortunately, there are plenty of Eat the Strip readers who recommend strip-mall eateries that rise to the occasion. ...]]></description>
         </item>
         <item>
             <title><![CDATA[La Cabaña]]></title>
-            <link>https://eatthestrip.com//blog/la-cabaña</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/la-cabaña</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/la-cabaña</link>
+            <guid>localhost:3000/blog/la-cabaña</guid>
             <pubDate>Fri, 18 Aug 2023 19:31:00 GMT</pubDate>
+            <description><![CDATA[There’s no better sign of a strip mall gem than a grocery store that sells hot, fresh food....]]></description>
         </item>
         <item>
             <title><![CDATA[Chahaya Malaysia]]></title>
-            <link>https://eatthestrip.com//blog/chahaya-malaysia</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/chahaya-malaysia</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/chahaya-malaysia</link>
+            <guid>localhost:3000/blog/chahaya-malaysia</guid>
             <pubDate>Tue, 15 Aug 2023 14:57:00 GMT</pubDate>
+            <description><![CDATA[There is something special about being taken out for dinner when you need a little bit of cheering up. After a long, excruciating day of car hunting last year, this is how we discovered Chahaya Malaysia. While this esteemed establishment has been in Ottawa for many years—starting in the Glebe long ago before moving to Montreal Road—we were only lucky enough to discover it recently. Yet, the clientele has remained loyal and travel the extra mile for the sole Malaysian restaurant in Ottawa....]]></description>
         </item>
         <item>
             <title><![CDATA[Asli Dining]]></title>
-            <link>https://eatthestrip.com//blog/asli-dining</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/asli-dining</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/asli-dining</link>
+            <guid>localhost:3000/blog/asli-dining</guid>
             <pubDate>Tue, 08 Aug 2023 16:17:00 GMT</pubDate>
+            <description><![CDATA[My battery was running low, beeping at me every couple of minutes as honking cars whizzed past. Turns out dodging cars on Bank Street on an e-scooter can help build your appetite. So, by the time I reached Asli Dining, a Somali restaurant opened in 2017—and one of my new favourite restaurants—I was famished. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Baan Thai]]></title>
-            <link>https://eatthestrip.com//blog/baan-thai</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/baan-thai</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/baan-thai</link>
+            <guid>localhost:3000/blog/baan-thai</guid>
             <pubDate>Fri, 04 Aug 2023 15:56:00 GMT</pubDate>
+            <description><![CDATA[A journey west can often lead you east....]]></description>
         </item>
         <item>
             <title><![CDATA[Maple Delight Pizza]]></title>
-            <link>https://eatthestrip.com//blog/maple-delight-pizza</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/maple-delight-pizza</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/maple-delight-pizza</link>
+            <guid>localhost:3000/blog/maple-delight-pizza</guid>
             <pubDate>Thu, 27 Jul 2023 23:14:00 GMT</pubDate>
+            <description><![CDATA[There seems to be a new pizza shop with desi offerings popping up every week outside the downtown core—and I, for one, am here for it....]]></description>
         </item>
         <item>
             <title><![CDATA[Roberto's Corner]]></title>
-            <link>https://eatthestrip.com//blog/robertos-corner</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/robertos-corner</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/robertos-corner</link>
+            <guid>localhost:3000/blog/robertos-corner</guid>
             <pubDate>Mon, 24 Jul 2023 02:29:00 GMT</pubDate>
+            <description><![CDATA[A lunchtime line-up for an Italian sandwich at the back of a gas station is always a good sign....]]></description>
         </item>
         <item>
             <title><![CDATA[Noodle House 79]]></title>
-            <link>https://eatthestrip.com//blog/noodle-house-79</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/noodle-house-79</guid>
-            <dc:creator><![CDATA[Sophia Lindfield]]></dc:creator>
+            <link>localhost:3000/blog/noodle-house-79</link>
+            <guid>localhost:3000/blog/noodle-house-79</guid>
             <pubDate>Tue, 18 Jul 2023 13:08:00 GMT</pubDate>
+            <description><![CDATA[The LRT was down. A common enough experience for all of us living in Ottawa, but my friend Emma happened to be visiting from Halifax and was shocked at the two packed-to-the-windshield buses that we used to travel from downtown to Merivale and our ultimate destination of Noodle House 79....]]></description>
         </item>
         <item>
             <title><![CDATA[Semsem]]></title>
-            <link>https://eatthestrip.com//blog/semsem</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/semsem</guid>
-            <dc:creator><![CDATA[Kapil Mehra]]></dc:creator>
+            <link>localhost:3000/blog/semsem</link>
+            <guid>localhost:3000/blog/semsem</guid>
             <pubDate>Sat, 01 Jul 2023 16:37:00 GMT</pubDate>
+            <description><![CDATA[Leaving the BBQ joints of Austin behind, I found myself standing outside an unassuming gem of a restaurant in Ottawa during my weekend visit to my high-school friend, Ameya. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Run2Patty]]></title>
-            <link>https://eatthestrip.com//blog/run2patty</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/run2patty</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/run2patty</link>
+            <guid>localhost:3000/blog/run2patty</guid>
             <pubDate>Mon, 19 Jun 2023 21:53:00 GMT</pubDate>
+            <description><![CDATA[If you live in Carlington, you may have noticed the scent of something delicious lingering at the corner of Shillington Avenue and Hollington Street....]]></description>
         </item>
         <item>
             <title><![CDATA[Chili Craft Pizza]]></title>
-            <link>https://eatthestrip.com//blog/chili-craft-pizza</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/chili-craft-pizza</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/chili-craft-pizza</link>
+            <guid>localhost:3000/blog/chili-craft-pizza</guid>
             <pubDate>Thu, 15 Jun 2023 15:43:00 GMT</pubDate>
+            <description><![CDATA[Saturdays in our household are busy. More so after running a six kilometre mud race. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Sundari's Kitchen]]></title>
-            <link>https://eatthestrip.com//blog/sundaris-kitchen</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/sundaris-kitchen</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/sundaris-kitchen</link>
+            <guid>localhost:3000/blog/sundaris-kitchen</guid>
             <pubDate>Sat, 10 Jun 2023 15:33:00 GMT</pubDate>
+            <description><![CDATA[I knew Sundari’s Kitchen was doing something special when I spotted the menu during an Eat the Strip outing at an adjacent strip mall gem....]]></description>
         </item>
         <item>
             <title><![CDATA[Mezbaan Restaurant]]></title>
-            <link>https://eatthestrip.com//blog/mezbaan-restaurant</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/mezbaan-restaurant</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/mezbaan-restaurant</link>
+            <guid>localhost:3000/blog/mezbaan-restaurant</guid>
             <pubDate>Thu, 01 Jun 2023 14:55:00 GMT</pubDate>
+            <description><![CDATA[Growing up in a Delhi neighbourhood with a large Afghan refugee population, I grew accustomed to Afghan shops and restaurants on nearly every street corner. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Duna Bistro]]></title>
-            <link>https://eatthestrip.com//blog/duna-bistro</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/duna-bistro</guid>
-            <dc:creator><![CDATA[Colin Knox]]></dc:creator>
+            <link>localhost:3000/blog/duna-bistro</link>
+            <guid>localhost:3000/blog/duna-bistro</guid>
             <pubDate>Tue, 23 May 2023 02:58:00 GMT</pubDate>
+            <description><![CDATA[After moving to the quiet suburban neighbourhood of Bells Corners in 2021, my wife and I were pleasantly surprised with the diverse cuisine choices of the many restaurants that are scattered in isolated strip malls along Robertson Road. Amongst the many, our favorite is in a small strip mall hidden behind the shadows of the large golden arches of the McDonalds at Moodie and Robertson Road—Duna Bistro....]]></description>
         </item>
         <item>
             <title><![CDATA[Casa México]]></title>
-            <link>https://eatthestrip.com//blog/casa-méxico</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/casa-méxico</guid>
-            <dc:creator><![CDATA[Anna Miedema]]></dc:creator>
+            <link>localhost:3000/blog/casa-méxico</link>
+            <guid>localhost:3000/blog/casa-méxico</guid>
             <pubDate>Sun, 14 May 2023 15:22:00 GMT</pubDate>
+            <description><![CDATA[Our experience started as we hopped in an Uber on a rainy Saturday afternoon on our way to Casa Mexico, a restaurant located about 20 minutes out of downtown nestled in, of course, a strip mall. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Skela Foods]]></title>
-            <link>https://eatthestrip.com//blog/skela-foods</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/skela-foods</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/skela-foods</link>
+            <guid>localhost:3000/blog/skela-foods</guid>
             <pubDate>Mon, 01 May 2023 03:59:00 GMT</pubDate>
+            <description><![CDATA[Move aside donair, there’s a new sheriff in town....]]></description>
         </item>
         <item>
             <title><![CDATA[Shinwari BBQ and Pizza]]></title>
-            <link>https://eatthestrip.com//blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza</link>
+            <guid>localhost:3000/blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza</guid>
             <pubDate>Thu, 20 Apr 2023 20:54:00 GMT</pubDate>
+            <description><![CDATA[There’s this amazing pizza place in Edinburgh called Pizza Pakwan that we went to three times in two weeks during our trip to Scotland in 2022....]]></description>
         </item>
         <item>
             <title><![CDATA[Ali Baba Bakery]]></title>
-            <link>https://eatthestrip.com//blog/ali-baba-bakery</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/ali-baba-bakery</guid>
-            <dc:creator><![CDATA[Danielle Jeffery]]></dc:creator>
+            <link>localhost:3000/blog/ali-baba-bakery</link>
+            <guid>localhost:3000/blog/ali-baba-bakery</guid>
             <pubDate>Sun, 16 Apr 2023 22:17:00 GMT</pubDate>
+            <description><![CDATA[Middle Eastern meat pies have become a staple for us since we were introduced to them a few years ago. ...]]></description>
         </item>
         <item>
             <title><![CDATA[Pita Bell Kabab Charcoal Grill]]></title>
-            <link>https://eatthestrip.com//blog/pita-bell-kabab-charcoal-grill</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/pita-bell-kabab-charcoal-grill</guid>
-            <dc:creator><![CDATA[Sergio Gonzalez]]></dc:creator>
+            <link>localhost:3000/blog/pita-bell-kabab-charcoal-grill</link>
+            <guid>localhost:3000/blog/pita-bell-kabab-charcoal-grill</guid>
             <pubDate>Sat, 08 Apr 2023 14:13:00 GMT</pubDate>
+            <description><![CDATA[A hidden gem, if I’ve ever seen one....]]></description>
         </item>
         <item>
             <title><![CDATA[Mona’s Café and Restaurant]]></title>
-            <link>https://eatthestrip.com//blog/mona’s-café-and-restaurant</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/mona’s-café-and-restaurant</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/mona’s-café-and-restaurant</link>
+            <guid>localhost:3000/blog/mona’s-café-and-restaurant</guid>
             <pubDate>Fri, 31 Mar 2023 19:30:00 GMT</pubDate>
+            <description><![CDATA[After a later-than-usual Thursday evening out with some old pals from university, I woke up this morning with a hankering for baked beans, sausages and eggs....]]></description>
         </item>
         <item>
             <title><![CDATA[Alhalabi]]></title>
-            <link>https://eatthestrip.com//blog/alhalabi</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/alhalabi</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/alhalabi</link>
+            <guid>localhost:3000/blog/alhalabi</guid>
             <pubDate>Sat, 25 Mar 2023 18:22:00 GMT</pubDate>
+            <description><![CDATA[Sometimes, a tip pays off....]]></description>
         </item>
         <item>
             <title><![CDATA[50 Two Sandwiches & More]]></title>
-            <link>https://eatthestrip.com//blog/50-two-sandwiches-more</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/50-two-sandwiches-more</guid>
-            <dc:creator><![CDATA[Sergio Gonzalez]]></dc:creator>
+            <link>localhost:3000/blog/50-two-sandwiches-more</link>
+            <guid>localhost:3000/blog/50-two-sandwiches-more</guid>
             <pubDate>Wed, 22 Mar 2023 20:31:00 GMT</pubDate>
+            <description><![CDATA[...]]></description>
         </item>
         <item>
             <title><![CDATA[Palais Libanais]]></title>
-            <link>https://eatthestrip.com//blog/palais-libanais</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/palais-libanais</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/palais-libanais</link>
+            <guid>localhost:3000/blog/palais-libanais</guid>
             <pubDate>Mon, 20 Mar 2023 17:59:00 GMT</pubDate>
+            <description><![CDATA[Everybody has their favourite shawarma place in Ottawa-Gatineau....]]></description>
         </item>
         <item>
             <title><![CDATA[Punjabi Canteen]]></title>
-            <link>https://eatthestrip.com//blog/punjabi-canteen</link>
-            <guid isPermaLink="true">https://eatthestrip.com//blog/punjabi-canteen</guid>
-            <dc:creator><![CDATA[Ameya Charnalia]]></dc:creator>
+            <link>localhost:3000/blog/punjabi-canteen</link>
+            <guid>localhost:3000/blog/punjabi-canteen</guid>
             <pubDate>Sun, 19 Mar 2023 17:11:00 GMT</pubDate>
+            <description><![CDATA[For our first Eat the Strip adventure, it was fitting that we chose something close to home....]]></description>
         </item>
     </channel>
 </rss>

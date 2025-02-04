@@ -1,32 +1,41 @@
 import fs from 'fs'
-import RSS from 'rss'
+import { Feed } from 'feed'
 import { getSortedPosts } from '../utils/mdx'
 
 export default async function generateRssFeed() {
-  const site_url = 'https://eatthestrip.com/'
-
   const allPosts = await getSortedPosts()
+
+  const site_url = 'https://eatthestrip.com/'
 
   const feedOptions = {
     title: 'Eat the Strip | RSS Feed',
     description: `Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.`,
-    site_url: site_url,
-    feed_url: `${site_url}/rss.xml`,
-    pubDate: new Date(),
+    id: site_url,
+    link: site_url,
     copyright: `All rights reserved ${new Date().getFullYear()}, Ameya Charnalia`,
+    generator: 'Feed for Eat the Strip',
+    feedLinks: {
+      rss2: `${site_url}/rss.xml`,
+    },
   }
 
-  const feed = new RSS(feedOptions)
+  const feed = new Feed(feedOptions)
 
-  allPosts.map((post) => {
-    feed.item({
+  allPosts.forEach((post) => {
+    feed.addItem({
       title: post.title,
-      url: `${site_url}/blog/${post.slug}`,
-      date: post.date,
-      author: post.author,
-      media: post.image,
+      id: `${site_url}/blog/${post.slug}`,
+      link: `${site_url}/blog/${post.slug}`,
+      description: post.description.split('\n')[0] + '...',
+      author: [
+        {
+          name: 'Ameya Charnalia',
+        },
+      ],
+      date: new Date(post.date),
+      image: post.image,
     })
   })
 
-  fs.writeFileSync('./public/rss.xml', feed.xml({ indent: true }))
+  fs.writeFileSync('./public/rss.xml', feed.rss2())
 }

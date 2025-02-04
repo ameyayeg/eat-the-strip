@@ -12,6 +12,7 @@ export async function getSortedPosts() {
       return {
         ...matterData.data,
         slug: filename.slice(0, filename.indexOf('.')),
+        description: matterData.content,
       }
     })
     .sort(function (a, b) {
