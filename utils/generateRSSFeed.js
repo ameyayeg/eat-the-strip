@@ -27,13 +27,7 @@ export default async function generateRssFeed() {
       id: `${site_url}/blog/${post.slug}`,
       link: `${site_url}/blog/${post.slug}`,
       description: post.description.split('\n')[0] + '...',
-      author: [
-        {
-          name: 'Ameya Charnalia',
-        },
-      ],
       date: new Date(post.date),
-      image: post.image,
     })
   })
 
