@@ -48,15 +48,6 @@ export default function Blog({ frontmatter, markdown, slug }) {
       <Head>
         <title>{`Eat the Strip | ${frontmatter.title}`}</title>
       </Head>
-      <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
-        <img
-          height="36"
-          style={{ position: 'absolute', height: '36px', top: 5, right: 5 }}
-          src="https://storage.ko-fi.com/cdn/kofi3.png?v=6"
-          border="0"
-          alt="Buy Me a Coffee at ko-fi.com"
-        />
-      </a>
 
       <header className={styles.header}>
         <Link href="/">
