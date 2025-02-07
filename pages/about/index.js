@@ -26,12 +26,11 @@ const About = () => {
         </blockquote>
         <p>
           Eat the Strip is designed, developed and run by Ameya Charnalia, an
-          Ottawa-based Javascript developer, former parliamentary staffer and
-          recovering journalist. All reviews are written by him, with
-          contributions from his friends and family. This site would not have
-          been possible without the technical mentorship of Ottawa-area
-          developers Mat Dupont and Daniel Corner. Developers can see the source
-          code, built in React and Next JS,{' '}
+          Ottawa-based web developer, former parliamentary staffer and
+          recovering journalist. This site would not have been possible without
+          the technical mentorship of Ottawa-area developers Brian Tavares, Mat
+          Dupont and Daniel Corner. Developers can see the source code, built in
+          Next.js and React,{' '}
           <a href="https://github.com/ameyayeg/eat-the-strip">
             <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
           </a>
