@@ -6,10 +6,11 @@ address: 2019 Bank St, Ottawa, ON K1V 0N1
 author: Ameya Charnalia
 date: August 8, 2023 12:17 PM
 thumbnail: /uploads/img_1414.jpeg
-rating: 5
+closed: true
 positives: 45.3658724024456
-negatives: -75.65944736931647
 image: /uploads/img_1428.jpeg
+rating: 5
+negatives: -75.65944736931647
 ---
 My battery was running low, beeping at me every couple of minutes as honking cars whizzed past. Turns out dodging cars on Bank Street on an e-scooter can help build your appetite. So, by the time I reached Asli Dining, a Somali restaurant opened in 2017—and one of my new favourite restaurants—I was famished. 
 
