@@ -23,7 +23,7 @@ As we chatted with the couple, a regular customer eagerly recommended the choux 
 
 The La new yorkaise, a savoury creation, features marinated ground beef, cheddar, pickle, salad, and tomato. The crêpe itself was delicate and soft, and the fresh basil, caramelized onions, and Dijon-style sauce blended perfectly with the melted cheese. It was a satisfying and refreshing start to our day.
 
-![A savoury bite of Paris in every fold, with marinated ground beef, cheddar, and caramelized onions wrapped in a delicate crêpe](/uploads/img_7560.jpeg "Le Petit Paris - Crêpes et Compagnie Inc. La new yorkaise")
+![A savoury bite of Paris in every fold, with marinated ground beef, cheddar, and caramelized onions wrapped in a delicate crêpe](/uploads/img_7563.jpeg "Le Petit Paris - Crêpes et Compagnie Inc. La new yorkaise")
 
 For dessert, we opted for the La caramilsee, a sweet combination of Nutella and homemade salted caramel. Despite not being a fan of salted caramel, my partner and co-writer of the blog Danielle couldn’t resist the rich, oozing caramel with its rum-brandy essence. It was a decadent indulgence, though one that’s best shared—it’s rich enough to make a mess, especially when enjoyed in the car, as we did.
 
