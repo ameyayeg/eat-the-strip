@@ -6,10 +6,11 @@ address: 1950 Merivale Rd unit 14, Nepean, ON K2G 5T5
 author: Danielle Jeffery
 date: October 23, 2023 10:02 PM
 thumbnail: /uploads/img_2318.jpeg
-rating: 5
+closed: true
 positives: 45.32685841129022
-negatives: -75.71996618465661
 image: /uploads/img_2309.jpeg
+rating: 5
+negatives: -75.71996618465661
 ---
 We usually drive to Montreal to buy a specific type of kebab from the Indian subcontinent.
 
