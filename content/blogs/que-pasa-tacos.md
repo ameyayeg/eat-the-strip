@@ -6,10 +6,11 @@ address: 2280 Carling Ave, Ottawa, ON K2B 7G1
 author: Ameya Charnalia
 date: July 21, 2024 12:49 PM
 thumbnail: /uploads/img_5532.jpeg
-rating: 5
+closed: true
 positives: 45.36808029289358
-negatives: -75.77434192560283
 image: /uploads/img_5526.jpeg
+rating: 5
+negatives: -75.77434192560283
 ---
 A tip from friends who were in the west end the other day caught us off guard.
 
