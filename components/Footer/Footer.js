@@ -2,6 +2,7 @@ import styles from './Footer.module.css'
 import Link from 'next/link'
 import Subscribe from '../Subscribe'
 import { MdRssFeed } from 'react-icons/md'
+import { FaInstagram } from 'react-icons/fa'
 
 const Footer = () => {
   const date = new Date()
@@ -55,6 +56,11 @@ const Footer = () => {
         <Link href="http://eatthestrip.com/rss.xml">
           <a rel="noreferrer" target="_blank">
             <MdRssFeed color="#ee802f" />
+          </a>
+        </Link>
+        <Link href="https://www.instagram.com/eatthestripyow/">
+          <a rel="noreferrer" target="_blank">
+            <FaInstagram color="#ee802f" />
           </a>
         </Link>
         <div>

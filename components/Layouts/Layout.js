@@ -2,6 +2,7 @@ import Header from '../Header/Header'
 import Footer from '../Footer/Footer'
 import styles from './Layout.module.css'
 import { slide as Menu } from 'react-burger-menu'
+import { FaInstagram } from 'react-icons/fa'
 
 const Layout = ({ children }) => {
   function showSettings() {
@@ -33,6 +34,13 @@ const Layout = ({ children }) => {
             border="0"
             alt="Buy Me a Coffee at ko-fi.com"
           />
+        </a>
+        <a
+          href="https://www.instagram.com/eatthestripyow/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <FaInstagram color="#ee802f" />
         </a>
       </Menu>
       <Header />
