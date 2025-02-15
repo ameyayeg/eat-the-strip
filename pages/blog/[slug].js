@@ -129,8 +129,11 @@ export default function Blog({ frontmatter, markdown, slug }) {
               {
                 name: frontmatter.title,
                 coordinates: [frontmatter.positives, frontmatter.negatives],
+                slug: slug,
               },
             ]}
+            defaultZoom={11}
+            defaultCenter={[45.4215, -75.6972]}
           />
         </div>
         <Comments slug={slug} title={frontmatter.title} />

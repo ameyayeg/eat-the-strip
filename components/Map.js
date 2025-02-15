@@ -5,8 +5,18 @@ import { useState } from 'react'
 import Link from 'next/link'
 
 export default function Map(props) {
-  const position = [45.4215, -75.6972]
-  const [arrCoordinates, setArrCoordinates] = useState(props.coordinates)
+  const defaultProps = {
+    coordinates: [],
+    defaultZoom: 10,
+    defaultCenter: [45.4215, -75.6972], // Ottawa coordinates
+  }
+
+  const { coordinates, defaultZoom, defaultCenter } = {
+    ...defaultProps,
+    ...props,
+  }
+
+  const [arrCoordinates, setArrCoordinates] = useState(coordinates)
 
   const icon = L.icon({
     iconSize: [25, 41],
@@ -16,25 +26,47 @@ export default function Map(props) {
     shadowUrl: 'https://unpkg.com/leaflet@1.6/dist/images/marker-shadow.png',
   })
 
+  // Calculate center and zoom based on number of markers
+  const calculateMapBounds = () => {
+    if (arrCoordinates.length === 0)
+      return { center: defaultCenter, zoom: defaultZoom }
+    if (arrCoordinates.length === 1) {
+      return {
+        center: arrCoordinates[0].coordinates,
+        zoom: 17, // Closer zoom for single location
+      }
+    }
+
+    const group = L.featureGroup(
+      arrCoordinates.map((item) => L.marker(item.coordinates))
+    )
+    const bounds = group.getBounds()
+    return {
+      center: bounds.getCenter(),
+      zoom: bounds.getZoom || defaultZoom,
+    }
+  }
+
+  const { center, zoom } = calculateMapBounds()
+
   function MultipleMarkers() {
-    return arrCoordinates.map((coordinata, index) => {
-      return (
-        <Marker key={index} position={coordinata.coordinates} icon={icon}>
-          <Popup>
-            {arrCoordinates.length > 1 && (
-              <Link href={`/blog/${coordinata.slug}`}>{coordinata.name}</Link>
-            )}
-            {arrCoordinates.length === 1 && coordinata.name}
-          </Popup>
-        </Marker>
-      )
-    })
+    return arrCoordinates.map((coordinate, index) => (
+      <Marker key={index} position={coordinate.coordinates} icon={icon}>
+        <Popup>
+          {arrCoordinates.length > 1 ? (
+            <Link href={`/blog/${coordinate.slug}`}>{coordinate.name}</Link>
+          ) : (
+            coordinate.name
+          )}
+        </Popup>
+      </Marker>
+    ))
   }
 
   return (
-    <MapContainer center={position} zoom={11} style={{ height: '60vh' }}>
+    <MapContainer center={center} zoom={zoom} style={{ height: '60vh' }}>
       <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        attribution="© OpenStreetMap contributors"
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       <MultipleMarkers />
