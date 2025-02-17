@@ -16,7 +16,7 @@ const Header = () => {
           About
         </a>
         <a id="all" className="menu-item" href="/all">
-          Restaurants map
+          Restaurants Map
         </a>
         <a id="privacy" className="menu-item" href="/privacy">
           Privacy
