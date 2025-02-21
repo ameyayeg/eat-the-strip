@@ -1,5 +1,5 @@
 ---
-title: La Cabana
+title: La Cabaña
 layout: blog
 cuisine: Salvadoran
 address: 83 Holland Ave, Ottawa, ON K1Y 0Y1
@@ -12,9 +12,11 @@ image: /uploads/img_1500.jpeg
 rating: 4
 negatives: -75.73238914078321
 ---
+UPDATE: Please note that as of February 2025 this restaurant has moved to a new location. The address has been updated, but note that elements of the article may, as such, be out of date.
+
 There’s no better sign of a strip mall gem than a grocery store that sells hot, fresh food.
 
-La Cabana is no exception. Ottawa’s sole El Salvadoran restaurant—and one of its oldest—is a famous Carlington-area stop for fresh papusas, seafood and breakfast specials.
+La Cabaña is no exception. Ottawa’s sole El Salvadoran restaurant—and one of its oldest—is a famous Carlington-area stop for fresh papusas, seafood and breakfast specials.
 
 It’s a spot we’ve been to before as it’s down the road from us and it was high time we made another trip for an Eat the Strip review.
 
@@ -34,6 +36,6 @@ The pupusas and tamal were gone very quickly. We scarfed them down with curtido,
 
 I really enjoyed the queso con lorocco pupusa. It reminded a bit of the pickled cactus used in Mexican food. It was tangy, cheesy and the cornmeal pupusa was warm and perfectly seared from the griddle.
 
-The hearty bone broth soup featured generous chunks of meat and vegetables. Recognizing tripe and trotters isn’t for everyone, La Cabana also offers five other kinds of soup, including sopa de siete mares, or the seven seas soup, featuring shrimp, fish, octopus, clam and mussels in a spicy seafood broth.
+The hearty bone broth soup featured generous chunks of meat and vegetables. Recognizing tripe and trotters isn’t for everyone, La Cabaña also offers five other kinds of soup, including sopa de siete mares, or the seven seas soup, featuring shrimp, fish, octopus, clam and mussels in a spicy seafood broth.
 
-Our entire order came to just over $50. With leftovers that will tide us over through dinner, we know we’ll be back to La Cabana for their delicious home-style cooking and excellent prices.
+Our entire order came to just over $50. With leftovers that will tide us over through dinner, we know we’ll be back to La Cabaña for their delicious home-style cooking and excellent prices.
