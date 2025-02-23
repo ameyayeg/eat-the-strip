@@ -12,6 +12,10 @@ image: /uploads/img_4804.jpeg
 rating: 5
 negatives: -75.74601646994033
 ---
+UPDATE: Please note that as of February 2025 this restaurant has moved to a new location. The address has been updated, but note that elements of the article may, as such, be out of date.
+
+*﻿**
+
 Indonesia. The country sounds as cool as the food is tasty. Thankfully, we didn’t have to travel quite as far to taste the flavours of this wonderful archipelago. 
 
 We did, however, travel a little way from our home in Carlington to get to Djakarta Taste in Gatineau. It opened in 2022 and is today located in a little strip mall where a Mexican restaurant stood until quite recently. The signs have still not been fully changed. Hopefully Indonesian food will become the next neighbourhood haunt on Boulevard Fournier. 
