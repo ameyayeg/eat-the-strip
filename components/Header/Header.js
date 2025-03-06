@@ -41,16 +41,16 @@ const Header = () => {
           <FaInstagram color="#ee802f" />
         </a>
       </Menu>
-      <div className={styles.imageWrapper}>
-        <Image
-          className={styles.hero}
-          src={heroImage}
-          alt="Fried egg"
-          layout="fill"
-          objectFit="cover"
-          objectPosition="center"
-        />
-      </div>
+
+      <Image
+        className={styles.hero}
+        src={heroImage}
+        alt="Fried egg"
+        layout="fill"
+        objectFit="cover"
+        objectPosition="center"
+        priority
+      />
 
       <div className={styles.heroContent}>
         <Link href="/">

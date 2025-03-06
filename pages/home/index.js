@@ -123,10 +123,6 @@ const Home = ({ blogs }) => {
                     alt={blog.title}
                     width={320}
                     height={290}
-                    style={{
-                      position: 'fixed',
-                      zIndex: -1,
-                    }}
                   />
                   <span
                     style={{
