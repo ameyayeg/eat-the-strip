@@ -19,7 +19,7 @@ Owner Manny Mellios, who opened The Sandwich Stop in 2017, brings 45 years of re
 
 Despite describing his location as "the worst in the city of Ottawa," regulars flock here from across town. Customers drive from Kanata specifically to visit, with one enthusiast declaring it "the best part of my week." Manny takes pride in knowing people make the effort to seek out his shop, saying, "Everything we do, we make the sandwich for you. Every sandwich is personal."
 
-![A behemoth of a sandwich that defies conventional lifting techniques, The Sandwich Stop's beer brisket creation combines tender house-cut meat with caramelized onions atop a sturdy Kaiser roll - a meal that doubles as both lunch and dinner](/uploads/img_7833.jpeg "The Sandwich Stop beef brisket sandwich")
+![A behemoth of a sandwich that defies conventional lifting techniques, The Sandwich Stop's beef brisket creation combines tender house-cut meat with caramelized onions atop a sturdy Kaiser roll - a meal that doubles as both lunch and dinner](/uploads/img_7833.jpeg "The Sandwich Stop beef brisket sandwich")
 
 The beef brisket sandwich exemplifies this commitment to quality. Available exclusively on Fridays, this specialty offering costs just over $16 - a premium price justified by the generous portion and exceptional quality. Cut in-house daily, the meat melts in your mouth with the richness reminiscent of Montreal smoked meat. Paired with caramelized onions and served on a crispy Kaiser roll, these massive portions easily serve as both lunch and dinner. As noted by my partner and co-writer of the blog Danielle, "you need four hands to lift the sandwiches" - a testament to the generous serving size.
 
