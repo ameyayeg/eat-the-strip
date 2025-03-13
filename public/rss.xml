@@ -4,10 +4,45 @@
         <title>Eat the Strip | RSS Feed</title>
         <link>https://eatthestrip.com/</link>
         <description>Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.</description>
-        <lastBuildDate>Sat, 15 Feb 2025 14:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 23:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Eat the Strip</generator>
         <copyright>All rights reserved 2025, Ameya Charnalia</copyright>
+        <item>
+            <title><![CDATA[Desi Takeout]]></title>
+            <link>https://eatthestrip.com//blog/desi-takeout</link>
+            <guid>https://eatthestrip.com//blog/desi-takeout</guid>
+            <pubDate>Thu, 13 Mar 2025 19:49:00 GMT</pubDate>
+            <description><![CDATA[Hidden within the walls of Desi Price Club, a South Asian grocery store in Ottawa's industrial landscape, Minhazuddin Ahmed has brought forth a culinary gem that embodies the authentic spirit of Bengali cuisine.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Sandwich Stop]]></title>
+            <link>https://eatthestrip.com//blog/the-sandwich-stop</link>
+            <guid>https://eatthestrip.com//blog/the-sandwich-stop</guid>
+            <pubDate>Fri, 07 Mar 2025 19:17:00 GMT</pubDate>
+            <description><![CDATA[Hidden in an industrial park, across from a winter snow dump, lies The Sandwich Stop - a culinary treasure that proves sometimes the best food comes from unexpected places.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nagi Sushi]]></title>
+            <link>https://eatthestrip.com//blog/nagi-sushi</link>
+            <guid>https://eatthestrip.com//blog/nagi-sushi</guid>
+            <pubDate>Thu, 27 Feb 2025 20:39:00 GMT</pubDate>
+            <description><![CDATA[In the strip malls and industrial parks of Ottawa’s suburbs, some of the best dining experiences hide in plain sight. And if you’re a sushi lover with a penchant for the sublime, Nagi Sushi is one of those hidden gems, nestled quietly in Orléans. It’s a spot that, if you haven’t heard of it yet, you’re doing yourself a disservice by not seeking it out.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Olive Branch]]></title>
+            <link>https://eatthestrip.com//blog/the-olive-branch</link>
+            <guid>https://eatthestrip.com//blog/the-olive-branch</guid>
+            <pubDate>Thu, 20 Feb 2025 23:17:00 GMT</pubDate>
+            <description><![CDATA[Manotick may feel like the boonies to some, but it’s home to a few hidden gems that are well worth the drive. Tucked in a humble strip mall between a weed shop and an indie grocery store is The Olive Branch, a cozy spot that proves you don’t need to be in the city centre to serve up fantastic food.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rayan Poissonnerie & Restaurant]]></title>
+            <link>https://eatthestrip.com//blog/rayan-poissonnerie-restaurant</link>
+            <guid>https://eatthestrip.com//blog/rayan-poissonnerie-restaurant</guid>
+            <pubDate>Sat, 15 Feb 2025 18:20:00 GMT</pubDate>
+            <description><![CDATA[Tucked away in a strip mall in Orleans, Rayan Poissonnerie & Restaurant offers a unique seafood experience that takes you straight to the Mediterranean—no passport required.]]></description>
+        </item>
         <item>
             <title><![CDATA[Le Petit Paris - Crêpes et Compagnie Inc.]]></title>
             <link>https://eatthestrip.com//blog/le-petit-paris-crêpes-et-compagnie-inc</link>
@@ -167,7 +202,7 @@
             <link>https://eatthestrip.com//blog/que-pasa-tacos</link>
             <guid>https://eatthestrip.com//blog/que-pasa-tacos</guid>
             <pubDate>Sun, 21 Jul 2024 16:49:00 GMT</pubDate>
-            <description><![CDATA[A tip from friends who were in the west end the other day caught us off guard.]]></description>
+            <description><![CDATA[UPDATE: Please note that as of February 2025 this restaurant is under new ownership.]]></description>
         </item>
         <item>
             <title><![CDATA[Maki Sushi + Poke]]></title>
@@ -223,7 +258,7 @@
             <link>https://eatthestrip.com//blog/djakarta-taste</link>
             <guid>https://eatthestrip.com//blog/djakarta-taste</guid>
             <pubDate>Mon, 06 May 2024 01:15:00 GMT</pubDate>
-            <description><![CDATA[Indonesia. The country sounds as cool as the food is tasty. Thankfully, we didn’t have to travel quite as far to taste the flavours of this wonderful archipelago. ]]></description>
+            <description><![CDATA[UPDATE: Please note that as of February 2025 this restaurant has moved to a new location. The address has been updated, but note that elements of the article may, as such, be out of date.]]></description>
         </item>
         <item>
             <title><![CDATA[Chai Talks]]></title>
@@ -398,7 +433,6 @@
             <link>https://eatthestrip.com//blog/adnans-catering</link>
             <guid>https://eatthestrip.com//blog/adnans-catering</guid>
             <pubDate>Tue, 24 Oct 2023 02:02:00 GMT</pubDate>
-            <description><![CDATA[We usually drive to Montreal to buy a specific type of kebab from the Indian subcontinent.]]></description>
         </item>
         <item>
             <title><![CDATA[Bowman's Bar and Grill]]></title>
@@ -464,11 +498,11 @@
             <description><![CDATA[I’m not the first to crave an old-fashioned breakfast after a late night out, nor will I be the last. Fortunately, there are plenty of Eat the Strip readers who recommend strip-mall eateries that rise to the occasion. ]]></description>
         </item>
         <item>
-            <title><![CDATA[La Cabana]]></title>
+            <title><![CDATA[La Cabaña]]></title>
             <link>https://eatthestrip.com//blog/la-cabaña</link>
             <guid>https://eatthestrip.com//blog/la-cabaña</guid>
             <pubDate>Fri, 18 Aug 2023 19:31:00 GMT</pubDate>
-            <description><![CDATA[There’s no better sign of a strip mall gem than a grocery store that sells hot, fresh food.]]></description>
+            <description><![CDATA[UPDATE: Please note that as of February 2025 this restaurant has moved to a new location. The address has been updated, but note that elements of the article may, as such, be out of date.]]></description>
         </item>
         <item>
             <title><![CDATA[Chahaya Malaysia]]></title>

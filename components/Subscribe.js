@@ -4,7 +4,6 @@ import FormLabel from '@mui/joy/FormLabel'
 import FormHelperText from '@mui/joy/FormHelperText'
 import Input from '@mui/joy/Input'
 import Button from '@mui/joy/Button'
-import axios from 'axios'
 
 export default function InputSubscription() {
   const [data, setData] = React.useState({

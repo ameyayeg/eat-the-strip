@@ -55,17 +55,22 @@ const Privacy = () => {
         you choose to refuse our cookies, you may not be able to use some
         portions of our Service.
       </p>
-
       <h2>Service Providers</h2>
       <p>
         We may employ third-party companies and individuals due to the following
         reasons:
       </p>
       <ul>
-        <li>To facilitate our Service;</li>
-        <li>To provide the Service on our behalf;</li>
-        <li>To perform Service-related services; or</li>
-        <li>To assist us in analyzing how our Service is used.</li>
+        <li style={{ marginLeft: '20px' }}>To facilitate our Service;</li>
+        <li style={{ marginLeft: '20px' }}>
+          To provide the Service on our behalf;
+        </li>
+        <li style={{ marginLeft: '20px' }}>
+          To perform Service-related services; or
+        </li>
+        <li style={{ marginLeft: '20px' }}>
+          To assist us in analyzing how our Service is used.
+        </li>
       </ul>
       <p>
         We want to inform our Service users that these third parties have access

@@ -4,6 +4,7 @@ import Image from 'next/image'
 import heroImage from '../../public/uploads/pexels-makafood-8984408.jpg'
 import { slide as Menu } from 'react-burger-menu'
 import { FaInstagram } from 'react-icons/fa'
+import Subscribe from '../Subscribe'
 
 const Header = () => {
   return (
@@ -24,22 +25,28 @@ const Header = () => {
         <a id="terms" className="menu-item" href="/terms">
           Terms and conditions
         </a>
-        <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
-          <img
-            height="36"
-            style={{ border: '0px', height: '36px' }}
-            src="https://storage.ko-fi.com/cdn/kofi2.png?v=6"
-            border="0"
-            alt="Buy Me a Coffee at ko-fi.com"
-          />
-        </a>
-        <a
-          href="https://www.instagram.com/eatthestripyow/"
-          rel="noreferrer"
-          target="_blank"
-        >
-          <FaInstagram color="#ee802f" />
-        </a>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+          <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
+            <img
+              height="36"
+              style={{ border: '0px', height: '40px' }}
+              src="https://storage.ko-fi.com/cdn/kofi2.png?v=6"
+              border="0"
+              alt="Buy Me a Coffee at ko-fi.com"
+            />
+          </a>
+          <a
+            href="https://www.instagram.com/eatthestripyow/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <FaInstagram color="#ee802f" size="lg" />
+          </a>
+        </div>
+
+        <div>
+          <Subscribe />
+        </div>
       </Menu>
 
       <Image
