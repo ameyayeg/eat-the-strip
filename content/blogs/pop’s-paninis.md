@@ -15,7 +15,7 @@ Tucked into a quiet Carling strip mall, Pop’s Paninis brings serious sandwich 
 
 Pop’s is the kind of spot that feels like it was built on lunch breaks and word-of-mouth. According to manager Caitlin, they’ve been “really busy”—a fact made obvious by the steady lunch-hour stream from nearby businesses, including a loyal dental office crew who come by on the regular. That loyal customer base might have something to do with the charming extras: a crisp coleslaw, a fresh-baked cookie, and a panini built like someone actually cares what your lunch tastes like.
 
-Opened in 2019 by Steven—aka “Pop”—the restaurant traces its origins back to the owner’s childhood sandwich experiments, refined over years of feeding his own kids before taking the leap to open a proper shop. Today, Pop’s Paninis operates two locations: this one, just off Woodward near Carling, and another out in Gloucester.
+Opened in 2019 by Steven—aka “Pop”—the restaurant traces its origins back to the owner’s childhood sandwich experiments, refined over years of feeding his own kids before taking the leap to open a proper shop. Today, Pop’s Paninis operates two locations: this one, just off Woodroffe near Carling, and another out in Gloucester.
 
 You can tell there's a good team vibe here. Caitlin mentions their active TikTok account, where they post some “silly stuff,” and a ten-second timer challenge that lets customers try their luck at winning a free sandwich. There's even a working vintage rotary phone in the corner that, yes, actually makes calls.
 
