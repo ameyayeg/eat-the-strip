@@ -13,7 +13,7 @@ image: /uploads/img_8788.jpeg
 ---
 You know it’ll be good when the food is brought out on a banana leaf.
 
-A reader tip brought us to the fluorescent-lit aisles of Manila Food Mart on Carling, where, tucked beneath the main floor and down a quiet stairwell to the left, Thilaks waits like a secret you're glad someone told you. It’s not the kind of place you’d stumble upon by accident—but it’s exactly the kind of place this blog lives for.
+A reader tip brought us to the fluorescent-lit aisles of Manila Mart Grocery Store on Carling, where, tucked beneath the main floor and down a quiet stairwell to the left, Thilaks waits like a secret you're glad someone told you. It’s not the kind of place you’d stumble upon by accident—but it’s exactly the kind of place this blog lives for.
 
 The dining room is modest: about a dozen tables, a laminate floor, floral murals on two walls and bright produce wallpaper on the third. No sign out front (yet), no frills, no fuss—just the smell of spice, the hum of kitchen activity, and a quiet warmth from behind the counter.
 
@@ -26,6 +26,8 @@ The black pork, a hallmark of southern Sri Lankan cooking, is deeply spiced and 
 It’s unapologetically spicy. The black pork brings heat, but it’s the fresh green chillies scattered across the plate that kick things up a notch. The mango, tart and tender, acts as a lifeline between bites, offering relief like a homemade chutney. The yellow lentils have a mustardy kick and carry that soul-warming comfort of something slow-cooked and cared for. And the greens—think curried collards—round things out with just the right bitterness.
 
 We weren’t even that hungry going in. We cleaned the leaf.
+
+And here’s the kicker: the whole meal cost just over $15. For the size, quality, and sheer depth of flavour, it’s one of the better deals we’ve found anywhere in the city—strip mall or otherwise.
 
 Arjuna Thilakarathna, the restaurant’s namesake and owner, brings serious culinary credibility to the table. A former software engineer turned culinary school grad, Arjuna once ran a burger joint before the pandemic wiped out nearly $800,000 in investments. But food—specifically Sri Lankan food—is what he knows and loves.
 
