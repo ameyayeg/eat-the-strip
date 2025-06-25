@@ -12,7 +12,6 @@ negatives: -75.73261577055602
 image: /uploads/img_8749.jpeg
 ---
 NOTE: In this piece, “Hakka food” refers to the Indo-Chinese cuisine that originated in India through Chinese immigrant communities—some of whom were Hakka. It’s a fusion cuisine, distinct from traditional Hakka dishes found in China, Taiwan, and Southeast Asia.\
-\
 \*﻿\**
 
 In the old La Cabana spot on Merivale, IC 22 is quietly setting the stage for Ottawa’s most electric Hakka experience yet.
