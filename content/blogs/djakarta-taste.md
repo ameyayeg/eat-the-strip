@@ -2,15 +2,15 @@
 title: Djakarta Taste
 layout: blog
 cuisine: Indonesian
-address: 395 Alexandre-Taché Blvd, Gatineau, Quebec J9A 1M6
+address: 122 Eddy St, Gatineau, Quebec J8X 3B2
 author: Danielle Jeffery
 date: May 5, 2024 9:15 PM
 thumbnail: /uploads/img_4811.jpeg
 closed: false
-positives: 45.42151738911493
+positives: 45.42881420271763
 image: /uploads/img_4804.jpeg
 rating: 5
-negatives: -75.74601646994033
+negatives: -75.7199241124949
 ---
 UPDATE: Please note that as of February 2025 this restaurant has moved to a new location. The address has been updated, but note that elements of the article may, as such, be out of date.
 
