@@ -11,6 +11,10 @@ positives: 45.38544938046622
 negatives: -75.73261577055602
 image: /uploads/img_8749.jpeg
 ---
+NOTE: In this piece, “Hakka food” refers to the Indo-Chinese cuisine that originated in India through Chinese immigrant communities—some of whom were Hakka. It’s a fusion cuisine, distinct from traditional Hakka dishes found in China, Taiwan, and Southeast Asia.\
+\
+\*﻿\**
+
 In the old La Cabana spot on Merivale, IC 22 is quietly setting the stage for Ottawa’s most electric Hakka experience yet.
 
 No dine-in just yet—just a bold new sign, a fresh coat of ambition, and a takeout counter where co-owner Navneet Shetty is fielding questions with the same energy that pulses through his kitchen. He’s joined by Siddharth Phuria, and together they’ve brought Hakka food—a beloved Indo-Chinese hybrid cuisine—to a corner of Ottawa that’s been waiting for just this kind of fire.
