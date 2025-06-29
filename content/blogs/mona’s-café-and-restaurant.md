@@ -6,10 +6,11 @@ address: 1325 Humber Pl, Ottawa, ON K1B 5K9
 author: Ameya Charnalia
 date: March 31, 2023 3:30 PM
 thumbnail: /uploads/img_9548.jpeg
-rating: 4
+closed: true
 positives: 45.402689649622715
-negatives: -75.60547436365361
 image: /uploads/img_9544.jpeg
+rating: 4
+negatives: -75.60547436365361
 ---
 After a later-than-usual Thursday evening out with some old pals from university, I woke up this morning with a hankering for baked beans, sausages and eggs.
 
