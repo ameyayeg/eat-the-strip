@@ -1,5 +1,5 @@
 ---
-title: Mr.Kebab
+title: Mr.Kabab
 layout: blog
 cuisine: Syrian
 address: 1549 Bank St, Ottawa, ON K1H 7Z1
