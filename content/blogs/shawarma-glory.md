@@ -6,7 +6,7 @@ address: 1309 Carling Ave, Ottawa, ON K1Z 7L3
 author: Ameya Charnalia
 date: April 1, 2025 2:47 PM
 thumbnail: /uploads/img_8046.jpeg
-closed: false
+closed: true
 positives: 45.38677884612121
 negatives: -75.73552259603272
 image: /uploads/img_8044.jpeg
