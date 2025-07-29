@@ -11,7 +11,7 @@ positives: 45.33884965690112
 negatives: -75.77152947702194
 image: /uploads/img_9294.jpeg
 ---
-Tucked beside a physiotherapy centre in a Centrepointe strip mall, Lil' Negril Island Grill isn’t the kind of place you stumble upon. You come here because someone told you to, because you read about it, or because you’ve been before and you’re coming back. That last group? It’s big. When we visited on a grey Saturday afternoon, a table of seven regulars were finishing a birthday meal—someone had just turned 96—and the vibe was unmistakably celebratory.
+Tucked beside a physiotherapy centre in a Centrepointe strip mall, Lil' Negril Island Grill isn’t the kind of place you stumble upon. You come here because someone told you to, because you read about it, or because you’ve been before and you’re coming back. That last group? It’s big. When we visited recently, a table of seven regulars were finishing a birthday meal—someone had just turned 96—and the vibe was unmistakably celebratory.
 
 At the centre of it all is Jaydean, who greets us with the kind of warmth that makes you feel like you’ve walked into her living room. She’s quick with a joke, full of stories, and effortlessly welcoming. Her partner, Glenmore, runs the kitchen—a trained chef originally from Jamaica by way of the Cayman Islands, where the couple met. Together, they opened Lil’ Negril in 2013. It was, they tell us, always the dream.
 
