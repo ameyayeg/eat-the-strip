@@ -39,6 +39,9 @@ They’ve since opened a second location nearby and plan to eventually move into
 
 There’s a quiet strength behind Aztec Tacos. It’s in the way the staff greet you like you’ve been there before. It’s in the food, which speaks in bold, confident flavours without ever trying too hard. And it’s in the way they’ve rebuilt—twice now—without ever compromising their identity.
 
+And let’s talk value. We ordered generously—tacos, tamales, drinks, the works—and still came out at around $25 a person. Most tacos hover around the five-dollar mark, which makes them cheaper than many non-authentic spots in the city (unless you catch a happy hour), but here they come packed with flavour and tradition. Larger platters, like the flautas or sopes, sit comfortably under 20 bucks and arrive with enough food to satisfy even the hungriest lunch crowd.
+
+
 Eat the Strip isn’t about trend-chasing or hype machines. It’s about stories like this—of resilience, of flavour, of tacos so good they stick with you. Aztec Tacos is exactly the kind of hidden gem we’re here for.
 
 And the quesabirria? Worth the wait. Worth the hype. Worth the return visit.
