@@ -13,7 +13,7 @@ export default function MyApp({ Component, pageProps }) {
             <title>Eat the Strip</title>
             <meta
               name="description"
-              content="Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs."
+              content="Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau and Fredericton suburbs."
             />
             <meta property="og:title" content="Eat the Strip" />
             <meta property="og:type" content="website" />

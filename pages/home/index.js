@@ -25,6 +25,7 @@ const Home = ({ blogs }) => {
   const [allRestaurants, setAllRestaurants] = useState(blogs)
   const [status, setStatus] = useState('loading')
   const [isLocationsActivated, setIsLocationActivated] = useState(false)
+  const [city, setCity] = useState('Ottawa') // default
 
   useEffect(() => {
     if (!query) {
@@ -96,6 +97,15 @@ const Home = ({ blogs }) => {
     return `${Math.ceil(decimalNumber)} km`
   }
 
+  function handleCityToggle() {
+    setCity(city === 'Ottawa' ? 'Fredericton' : 'Ottawa')
+  }
+
+  // Filter restaurants by city (default Ottawa if city not set)
+  const filteredRestaurants = allRestaurants.filter(
+    (r) => (r.city || 'Ottawa') === city
+  )
+
   return (
     <>
       <Search query={query} setQuery={setQuery} />
@@ -111,10 +121,50 @@ const Home = ({ blogs }) => {
           onClick={handleLocation}
         />
       )}
+      <div
+        style={{
+          marginBottom: '1rem',
+          position: 'absolute',
+          top: '10px',
+          right: '10px',
+        }}
+      >
+        <button
+          onClick={() => setCity('Ottawa')}
+          style={{
+            fontWeight: city === 'Ottawa' ? 'bold' : 'normal',
+            textDecoration: city === 'Ottawa' ? 'underline' : 'none',
+            background: 'none',
+            border: 'none',
+            cursor: 'pointer',
+            marginRight: '1rem',
+            fontSize: '1rem',
+          }}
+          aria-pressed={city === 'Ottawa'}
+        >
+          Ottawa
+        </button>
+        <span>|</span>
+        <button
+          onClick={() => setCity('Fredericton')}
+          style={{
+            fontWeight: city === 'Fredericton' ? 'bold' : 'normal',
+            textDecoration: city === 'Fredericton' ? 'underline' : 'none',
+            background: 'none',
+            border: 'none',
+            cursor: 'pointer',
+            marginLeft: '1rem',
+            fontSize: '1rem',
+          }}
+          aria-pressed={city === 'Fredericton'}
+        >
+          Fredericton
+        </button>
+      </div>
       <section className={styles.container}>
         {status === 'loading' && <p>Loading...</p>}
         {status === 'loaded' &&
-          allRestaurants.map((blog) => (
+          filteredRestaurants.map((blog) => (
             <div className={styles.thumbnail} key={blog.slug}>
               <Link href={`/blog/${blog.slug}`}>
                 <div style={{ position: 'relative' }}>
