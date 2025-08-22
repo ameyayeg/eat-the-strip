@@ -14,6 +14,13 @@ collections:
     slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'City',
+          name: 'city',
+          widget: 'select',
+          options: ['Ottawa', 'Fredericton'],
+          required: false,
+        }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
       - { label: 'Cuisine', name: 'cuisine', widget: 'string' }
       - { label: 'Address', name: 'address', widget: 'string' }

@@ -6,17 +6,18 @@ const About = () => {
     <div className={styles.container}>
       <div className={styles.about}>
         <h2>
-          Eat the Strip is our tribute to the mom-and-pop food joints peppered
-          across the Ottawa-Gatineau suburbs. We feel the folks who run these
-          restaurants, diners and bars don't get the credit they deserve for
-          contributing to our city's food culture. So, we created a review blog
-          that only caters to strip mall gems. 🧡
+          Eat the Strip is our tribute to the mom-and-pop food joints tucked
+          into the suburbs of Ottawa-Gatineau and Fredericton. We believe the
+          people behind these restaurants, diners, and bars don’t get the
+          recognition they deserve for shaping our local food culture. So we
+          created a blog that shines a light exclusively on strip mall spots,
+          industrial park eateries, and other hidden gems. 🧡
         </h2>
         <p>
-          For too long social media foodies and bloggers have overlooked these
-          establishments, which tend to be tucked away in the periphery of the
-          city. No, here you won't find any reviews or features of chain
-          restaurants downtown. Here, it's 100 per cent strip malls.
+          For too long, social media foodies and bloggers have overlooked these
+          spots—often tucked away on the edges of the city. You won’t find
+          reviews of downtown chain restaurants here. This blog is (almost)
+          entirely dedicated to strip malls.
         </p>
         <blockquote className={styles.blockquote}>
           Strip mall: A retail complex consisting of stores or restaurants in
@@ -25,13 +26,12 @@ const About = () => {
           <span>Dictionary.com</span>
         </blockquote>
         <p>
-          Eat the Strip is designed, developed and run by Ameya Charnalia, an
-          Ottawa-based web developer, former parliamentary staffer and
-          recovering journalist. This site would not have been possible without
-          the technical mentorship of Ottawa-area developers Brian Tavares, Mat
-          Dupont and Daniel Corner, and the support of Sergio Gonzalez, who gave
-          the website its name. Developers can see the source code, built in
-          Next.js and React,{' '}
+          Eat the Strip is designed, developed, and maintained by Ameya
+          Charnalia. The site wouldn’t have been possible without the technical
+          mentorship of developers Brian Tavares, Mat Dupont, and Daniel Corner,
+          as well as the support of Sergio Gonzalez—who also gave the site its
+          name. Developers can check out the source code, built with Next.js and
+          React,{' '}
           <a href="https://github.com/ameyayeg/eat-the-strip">
             <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
           </a>
