@@ -24,6 +24,8 @@ You seat yourself, then head to the counter to place your order. The server who 
 
 We started with the okonomiyaki, a savoury Japanese pancake folded with shrimp and finished with a creamy, tangy sauce. It’s deeply umami, with a texture somewhere between crispy omelette and molten pancake. The shrimp were impossibly tender, almost melting into the batter, while the edges stayed golden and crisp.
 
+![Golden-edged and impossibly tender, Tokyo Ramen’s okonomiyaki delivers a savoury, shrimp-studded start that sets the tone with soul and flavour.](/uploads/img_9647.jpeg "Tokyo Ramen okonomiyaki")
+
 Next came the tonkotsu ramen, the classic pork bone broth with chashu pork, bamboo shoots, and noodles. The broth is thick and creamy, rich without being overpowering. The pork is the star—fatty, fall-apart tender, and just the right kind of indulgent. Bamboo shoots bring a crunchy contrast, and the whole bowl feels thoughtfully constructed. If you’re new to ramen, this is the gateway.
 
 But it was the spicy bulgogi ramen that stood out most. The broth hits with a pleasant, lingering heat—enough to warm you, but never too much. The sweetness of the bulgogi balances the spice, and the vegetables scattered generously across the top add both texture and brightness. Corn, beans, and bamboo shoots all hold their own here, and the noodles have that perfect just-chewy bite. It’s the kind of bowl that feels like a small reward after a long day, especially with the evenings starting to cool down in late August.
