@@ -28,6 +28,7 @@ export default async function generateRssFeed() {
       link: `${site_url}/blog/${post.slug}`,
       description: post.description.split('\n')[0],
       date: new Date(post.date),
+      ...(post.city && { city: post.city }),
     })
   })
 

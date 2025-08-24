@@ -4,10 +4,17 @@
         <title>Eat the Strip | RSS Feed</title>
         <link>https://eatthestrip.com/</link>
         <description>Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau suburbs. We feel the folks who run these restaurants, diners and bars don't get the credit they deserve for contributing to our city's food culture. So, we created a review blog that only caters to strip mall gems.</description>
-        <lastBuildDate>Tue, 12 Aug 2025 19:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 15:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Eat the Strip</generator>
         <copyright>All rights reserved 2025, Ameya Charnalia</copyright>
+        <item>
+            <title><![CDATA[Tokyo Ramen]]></title>
+            <link>https://eatthestrip.com//blog/tokyo-ramen</link>
+            <guid>https://eatthestrip.com//blog/tokyo-ramen</guid>
+            <pubDate>Fri, 22 Aug 2025 22:37:00 GMT</pubDate>
+            <description><![CDATA[Tucked in a Skyline Acres plaza in Fredericton, wedged between a low-slung motel and a pizzeria and not far from the campuses of the University of New Brunswick and Saint Thomas University, Tokyo Ramen is the kind of place you could miss if you weren’t looking for it. But once you’ve been, it’s hard to forget. Even before you step through the door, the air smells like something good is happening inside. Broth and sizzling meat, ginger and garlic, steam and soul. The kind of smells that stick to your clothes—in the best way.]]></description>
+        </item>
         <item>
             <title><![CDATA[Aztec Tacos]]></title>
             <link>https://eatthestrip.com//blog/aztec-tacos</link>
