@@ -103,3 +103,25 @@ Note: Beware of modifying this element as it can break the animations - you shou
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
 }
+
+.cityToggleLink {
+  background: none;
+  border: none;
+  color: inherit;
+  font-family: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: normal;
+  transition: border-bottom 0.2s;
+  border-bottom: 2px solid transparent;
+  padding: 0 0.25rem;
+}
+
+.cityToggleLink.active,
+.cityToggleLink:hover,
+.cityToggleLink:focus {
+  border-bottom: 2px solid #ee802f; /* Use your accent color */
+  font-weight: bold;
+  text-decoration: none;
+}

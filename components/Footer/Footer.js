@@ -23,7 +23,7 @@ const Footer = () => {
           </li>
           <li>
             <Link href="/all">
-              <a>Restaurants Map</a>
+              <a>Restaurants map</a>
             </Link>
           </li>
           <li>

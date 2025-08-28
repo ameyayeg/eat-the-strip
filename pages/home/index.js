@@ -22,7 +22,7 @@ const Home = ({ blogs }) => {
   const [userCoordinates, setUserCoordinates] = useState(null)
   const [allRestaurants, setAllRestaurants] = useState(blogs)
   const [status, setStatus] = useState('loading')
-  const [city, setCity] = useState('Ottawa') // default
+  const [city, setCity] = useState('Ottawa-Gatineau') // default
 
   useEffect(() => {
     if (!query) {
@@ -48,12 +48,12 @@ const Home = ({ blogs }) => {
   }
 
   function handleCityToggle() {
-    setCity(city === 'Ottawa' ? 'Fredericton' : 'Ottawa')
+    setCity(city === 'Ottawa-Gatineau' ? 'Fredericton' : 'Ottawa-Gatineau')
   }
 
   // Filter restaurants by city (default Ottawa if city not set)
   const filteredRestaurants = allRestaurants.filter(
-    (r) => (r.city || 'Ottawa') === city
+    (r) => (r.city || 'Ottawa-Gatineau') === city
   )
 
   return (
@@ -69,32 +69,18 @@ const Home = ({ blogs }) => {
         }}
       >
         <button
-          onClick={() => setCity('Ottawa')}
-          style={{
-            fontWeight: city === 'Ottawa' ? 'bold' : 'normal',
-            textDecoration: city === 'Ottawa' ? 'underline' : 'none',
-            background: 'none',
-            border: 'none',
-            cursor: 'pointer',
-            marginRight: '1rem',
-            fontSize: '1rem',
-          }}
-          aria-pressed={city === 'Ottawa'}
+          onClick={() => setCity('Ottawa-Gatineau')}
+          className={`cityToggleLink${
+            city === 'Ottawa-Gatineau' ? ' active' : ''
+          }`}
+          aria-pressed={city === 'Ottawa-Gatineau'}
         >
-          Ottawa
+          Ottawa-Gatineau
         </button>
         <span>|</span>
         <button
           onClick={() => setCity('Fredericton')}
-          style={{
-            fontWeight: city === 'Fredericton' ? 'bold' : 'normal',
-            textDecoration: city === 'Fredericton' ? 'underline' : 'none',
-            background: 'none',
-            border: 'none',
-            cursor: 'pointer',
-            marginLeft: '1rem',
-            fontSize: '1rem',
-          }}
+          className={`cityToggleLink${city === 'Fredericton' ? ' active' : ''}`}
           aria-pressed={city === 'Fredericton'}
         >
           Fredericton
