@@ -22,6 +22,8 @@ It didn’t take long. Less than 10 minutes later, Hana brought over a trio comb
 
 The kale was first—tender but not limp, almost sweet, like collard greens with a little sun in them. The lentils were exactly what I’d hoped for: tangy and rich, swimming in a tomato-forward sauce with just the right acidity. But the chicken? That’s the one you save for last. The sauce is deep and complex, warm with spice but not overwhelming. There’s a richness that coats your tongue without being heavy, and just enough heat to remind you it’s there. If this is what her beef dishes taste like too, you’re not going to go wrong either way.
 
+![A vibrant trio of chicken stew, spiced lentils, and tender kale, all nestled on pillowy enjera—comfort food crafted with heart, heat, and home](/uploads/img_9703.jpeg "Hana Ethiopian Cafe & Take-Out combo meal")
+
 Hana’s been cooking for as long as she can remember. “Since I was a little girl,” she told me. Raised in Addis Ababa, with family roots in the Tigray region, she brought her love of food with her when she moved to Canada. She started at the north side farmers’ market, where she cooked for nearly eight years before opening this brick-and-mortar spot about five years ago. These days, it’s a family affair—she runs the restaurant with her kids, and makes everything herself, including the enjera. Nothing prepackaged. Nothing rushed.
 
 “I cook the food the way I want to eat it," she says. If I enjoy eating it then I will serve it.”
