@@ -28,7 +28,7 @@ Because alongside the classic diner fare, Joe’s serves something that might ju
 
 We shared two dishes: the breakfast special and the bibimbap. At first glance, it feels like a mismatch—toast on one plate, sesame oil on the other—but here, it works. More than that, it makes sense.
 
-![Joe's Diner breakfast special](/uploads/img_9956.jpeg "Two sunny-side-up eggs, crispy bacon, golden home fries with onions, and toast—the kind of breakfast you wake up early for")
+![Two sunny-side-up eggs, crispy bacon, golden home fries with onions, and toast—the kind of breakfast you wake up early for](/uploads/img_9956.jpeg "Joe's Diner breakfast special ")
 
 The breakfast is exactly what you want it to be. Two eggs, sunny-side up, with yolks perfectly runny and edges just crisp. The bacon is cooked to a salty crunch, not greasy, just right. The home fries are golden, with onions mixed in for a little sweetness and depth. Isa declares that “you can’t go wrong with fried potatoes and onions,” and they’re absolutely right. It’s the kind of breakfast that gets you through the day, and then some.
 
@@ -36,7 +36,7 @@ But then comes the bibimbap.
 
 It arrives sizzling, colourful, and beautifully assembled. The beef is perfectly seasoned, tender and slightly caramelized around the edges. The vegetables—cabbage, mushrooms, onions, carrots—are sautéed until just soft, still bright, still full of flavour. It’s not overly fancy, just incredibly well done. There’s a generous drizzle of sesame oil, and the rice underneath is crisped just enough to give a little crunch in each bite. On top, there’s a fried egg with a gooey yolk, ready to be broken and stirred in.
 
-![Joe's Diner bibimbap special](/uploads/img_9957.jpeg "A sizzling bowl of beef, crisp vegetables, fried egg, and sesame oil—Korean comfort food served from the heart of a northside diner")
+![A sizzling bowl of beef, crisp vegetables, fried egg, and sesame oil—Korean comfort food served from the heart of a northside diner](/uploads/img_9957.jpeg "Joe's Diner bibimbap special")
 
 And the hot sauce? It’s not your typical bottle of red heat. It has depth and spice, maybe Korean, maybe not—but definitely something different and worth using liberally. It pulls the whole thing together.
 
