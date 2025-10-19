@@ -6,10 +6,11 @@ address: 1491 Merivale Rd, Nepean, ON K2E 5P3
 author: Anna Miedema
 date: May 14, 2023 11:22 AM
 thumbnail: /uploads/img_0078.jpeg
-rating: 3
+closed: false
 positives: 45.35901574009315
-negatives: -75.73604924634166
 image: /uploads/img_0066.jpeg
+rating: 3
+negatives: -75.73604924634166
 ---
 Our experience started as we hopped in an Uber on a rainy Saturday afternoon on our way to Casa Mexico, a restaurant located about 20 minutes out of downtown nestled in, of course, a strip mall. 
 
@@ -22,8 +23,6 @@ The staff were cheerful and eager to offer suggestions: the quesabirrias and the
 For those with dietary restrictions—vegans, vegetarians, or gluten free—you will find lots of clearly marked options to choose from.
 
 We started off with fresh chips and guacamole. We then moved onto quesebirrias, tacos dorados, mole tamales, two small tacos, and vegan entomatadas. We ordered one margarita and two micheladas—both delicious.
-
-![A michelada is a Mexican drink made with beer, lime juice, assorted sauces, spices, and chili peppers, served in a chilled, salt-rimmed glass](/uploads/img_0071.jpeg "Michelada")
 
 Highlights included the broth that came with the quesabirrias. What’s not to love about cheesy, crispy, meat stuffed tacos dipped in a mouth-watering broth? It was salty, flavourful, and quite literally good enough to eat with a spoon, which we did. The mole tamales received rave reviews. The tacos dorados, while not as flavourful, had a delicious crunchy texture and tasted quite good when mixed with the beans and rice. The vegan entomatadas were not so much of a hit. 
 
