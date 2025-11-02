@@ -6,7 +6,7 @@ cuisine: North American
 address: 301 Main St, Fredericton, NB E3A 1E3
 author: Ameya Charnalia
 date: October 8, 2025 11:05 PM
-thumbnail: /uploads/img_0017.jpeg
+thumbnail: /uploads/1946.png
 closed: false
 positives: 45.97544668264364
 negatives: -66.6457385763276
@@ -22,7 +22,7 @@ I order a double smash burger and a pint of Trailway lager. The total comes to j
 
 The burger arrives on a steel plate that feels lifted straight out of a 1960s lunch counter. It’s hot, generous, and wrapped in a kind of minimalism that feels intentional. No tomato slipping out, no lettuce threatening to wilt—just beef, cheese, sauce, and pickles, stacked on a soft, golden bun. The smash is real: those lacy, crisp edges crackle slightly under each bite, while the interior stays juicy and flavourful. The sauce is tangy, with a hint of heat, and works as a perfect counterpoint to the brine of the pickles. A buttery brioche bun hugging two crisp-edged patties, melted cheese, pickles, and a smoky chipotle-style sauce—simple, juicy, and perfectly done.
 
-![A buttery brioche bun hugging two crisp-edged patties, melted cheese, pickles, and a smoky chipotle-style sauce—simple, juicy, and perfectly done](/uploads/img_0017.jpeg "The Drome by Trailway double smash burger")
+![A buttery brioche bun hugging two crisp-edged patties, melted cheese, pickles, and a smoky chipotle-style sauce—simple, juicy, and perfectly done](/uploads/1946.png "The Drome by Trailway double smash burger")
 
 Trailway’s lager is just as refreshing as I remember it—light but not boring, full of flavour but easy-drinking. It’s also a small reminder of how local this whole operation really is. Trailway’s original taproom is just a block away, and their fingerprints are all over The Drome. It’s not just a rebranding—it’s a revival. From beer to beef, a lot of what’s served here is made in-house, and what isn’t is bought from local suppliers. Even the spring roll wrappers, I’m told, are sourced locally. Clean, crisp, and deeply satisfying—a pint brewed just down the street that goes down smooth and pairs effortlessly with whatever’s on your plate.
 
