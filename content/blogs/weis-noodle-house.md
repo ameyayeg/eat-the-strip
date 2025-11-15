@@ -2,7 +2,7 @@
 title: Wei's Noodle House
 layout: blog
 cuisine: Asian
-address: 610 Bronson Ave, Ottawa, ON K1S 4E6
+address: 706 Somerset St W, Ottawa, ON K1R 6P6
 author: Ameya Charnalia
 date: August 30, 2024 12:23 PM
 thumbnail: /uploads/img_5914.jpg
@@ -11,6 +11,10 @@ positives: 45.40393485952489
 negatives: -75.70199170419629
 image: /uploads/img_5906.jpg
 ---
+UPDATE: Please note that as of November 2025 this restaurant has moved to a new location. The address has been updated, but note that elements of the article may, as such, be out of date.
+
+\*﻿\**
+
 For months we’ve had our vegan friends tell us about a hidden gem tucked away in the basement of a commercial building on Bronson Avenue.
 
 As we tend to focus on strip malls in far-flung suburbs, Wei's Noodle House managed to slip under our radar for months. But it’s always been intriguing to us. We’ve intended to go since we started hearing about their excellent chili garlic tofu, delicious noodles, steaming stir-fries and expansive vegan options.
