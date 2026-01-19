@@ -8,8 +8,8 @@ author: Ameya Charnalia
 date: January 19, 2026 12:53 PM
 thumbnail: /uploads/img_0763.jpeg
 closed: false
-positives: 45.9408323670225
-negatives: 45.940837768145144
+positives: 45.94083190071991
+negatives: -66.65724154377267
 image: /uploads/img_0756.jpeg
 ---
 Situated on Regent Street, not far from CBC Fredericton, Yassou Souvlaki & Donair sits in a familiar strip mall alongside a barbershop, a grocery store, and a handful of other small businesses. It’s the kind of place you might pass a dozen times without thinking much about it — until you finally step inside and realize it’s been quietly feeding Fredericton for decades.
