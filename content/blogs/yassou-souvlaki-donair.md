@@ -18,11 +18,16 @@ I arrive on a Monday just before lunchtime, and there’s an easy, casual spirit
 
 I’m warmly greeted as soon as I walk in and offered a seat at the counter. The kitchen is open-concept, and I can see pita warming on the griddle as orders roll in. It’s immediately clear this is a place of regulars. About half a dozen customers are chatting comfortably, and several older folks are greeted by name. There’s an ease to it all, the kind of familiarity that only comes from years of consistency.
 
-I settle in and order the lunchtime special: a donair souvlaki with tzatziki, served with a small Greek salad. The lunch specials run from 11 a.m. to 2 p.m. and are all priced at $18 — solid value for a full, satisfying plate.
+![A warm, overstuffed donair with crispy-edged meat and creamy tzatziki wrapped in soft pita](/uploads/img_0763.jpeg "Yassou Souvlaki & Donair donair ")
+
+I settle in and order the lunchtime special: a donair with tzatziki, served with a small Greek salad. The lunch specials run from 11 a.m. to 3 p.m. and are all priced at $18 — solid value for a full, satisfying plate.
 
 I bite into the salad first and it does exactly what a good Greek salad should do: wakes up the appetite. It’s crunchy, fresh, and well seasoned, dressed generously with olive oil, onions, and herbaceous notes that lean toward sumac. A large block of feta sits on top, easily crumbling under the pressure of my fork. A few bites in, I’m ready for the main event.
 
 The donair doesn’t disappoint. The meat is savoury and deeply flavourful, with crispy edges and a juicy interior. The tzatziki is cool, creamy, and balanced, tying everything together without overwhelming the meat. The pita is warm and soft with just enough structure to hold everything together — though I still manage to bite into it clumsily, clearly too hungry to be careful. The table next to me comments on how good it looks as I eat, which feels like the highest form of validation.
+
+![A fresh, crunchy Greek salad dressed with olive oil and topped with a generous block of feta to kick things off](/uploads/img_0761.jpeg "Yassou Souvlaki & Donair Greek salad")
+
 Yassou has a long history in Fredericton. The restaurant originally opened in 1992, later changing its name to Yassou in 2007. The current owners, Charbel and Elias, took over in 2019. Charbel, who entered the food business in 1998 and came to Canada in 2011, speaks with quiet pride about the place.
 
 They’ve weathered a lot over the years, including the pandemic, which forced many restaurants to close. Reflecting on their loyal customer base and the restaurant’s survival, Charbel simply says, “We’re blessed.”
