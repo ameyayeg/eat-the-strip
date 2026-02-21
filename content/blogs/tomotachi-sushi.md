@@ -28,8 +28,6 @@ The salmon nigiri was almost buttery, extremely fresh, and uniquely delicate in 
 
 The yaki noodles were saucy in the best way. Crunchy vegetables balanced the softness of the noodles, and the grilled shrimp added a savoury bite. There were bits of sesame that gave a subtle nod to Korean influences. I loved the level of spice; Isa would have happily taken it up a notch, but we both agreed the sauce was a winner. We polished off the entire plate quickly, barely pausing between bites.
 
-![Saucy, sesame-kissed noodles packed with crunchy vegetables and perfectly grilled shrimp](/uploads/img_0962.jpeg "Tomotachi Sushi yaki noodles")
-
 Now, we do have to talk about price. Compared to some of the sub-$20 strip mall gems we often feature, this meal came in at $65 before tip. It’s a noticeable jump. But with food inflation still hitting restaurants hard — and sushi being especially dependent on high-quality, fresh seafood — it’s not entirely surprising. When freshness is your priority, it shows up on the bill. It also shows up on the plate.
 
 Kevin reflected on how many people in Western countries are first introduced to grocery store sushi, the pre-made trays that sit under bright lights. “It’s a night and day difference,” he said of freshly prepared sushi. The new owners, who are Korean, have kept their focus firmly on Japanese cuisine, aiming to offer flavours and quality comparable to what you’d find overseas. “The people here are super nice…for us the community itself they’re like the biggest reason why we’re able to keep a business here.”
