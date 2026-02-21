@@ -16,7 +16,7 @@ On a Friday at 4 pm, that quiet hour between lunch and dinner, we walked into To
 
 When we arrived there was just one occupied table and a steady trickle of takeout orders. By the time we left, nearly every seat was filled. Families, coworkers, and groups of friends filtered in, most of them ordering sushi. It felt like we had stumbled into the start of the dinner rush without even trying.
 
-Kevin, the manager, came by to chat and told us the restaurant has been under new ownership for about two and a half years, though Tomotachi itself has been around for nearly a decade. Their focus since taking over has been freshness. “We try to soruce our fish fresh,” he told us, explaining that the chefs filet the fish themselves and put serious emphasis on ingredient quality, even if it means dishes take a little longer. When we asked what we should try, he didn’t hesitate: the salmon had been delivered the day before and should be at the top of our list.
+Kevin, the manager, came by to chat and told us the restaurant has been under new ownership for about two and a half years, though Tomotachi itself has been around for nearly a decade. Their focus since taking over has been freshness. “We try to source our fish fresh,” he told us, explaining that the chefs filet the fish themselves and put serious emphasis on ingredient quality, even if it means dishes take a little longer. When we asked what we should try, he didn’t hesitate: the salmon had been delivered the day before and should be at the top of our list.
 
 We were sold.
 
@@ -27,6 +27,8 @@ The salmon nigiri was almost buttery, extremely fresh, and uniquely delicate in 
 ![Fresh salmon nigiri, rich eel, a perfectly balanced California roll, and saucy yaki noodles made for a Friday feast that felt both comforting and indulgent](/uploads/img_0964.jpeg "Tomotachi Sushi sushi matsu")
 
 The yaki noodles were saucy in the best way. Crunchy vegetables balanced the softness of the noodles, and the grilled shrimp added a savoury bite. There were bits of sesame that gave a subtle nod to Korean influences. I loved the level of spice; Isa would have happily taken it up a notch, but we both agreed the sauce was a winner. We polished off the entire plate quickly, barely pausing between bites.
+
+![Saucy yaki noodles tossed with crunchy vegetables, grilled shrimp, and a subtle sesame finish](/uploads/img_0962.jpeg "Tomotachi Sushi yaki noodles")
 
 Now, we do have to talk about price. Compared to some of the sub-$20 strip mall gems we often feature, this meal came in at $65 before tip. It’s a noticeable jump. But with food inflation still hitting restaurants hard — and sushi being especially dependent on high-quality, fresh seafood — it’s not entirely surprising. When freshness is your priority, it shows up on the bill. It also shows up on the plate.
 
