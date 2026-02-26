@@ -6,7 +6,9 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "npm run build && next export"
+    "export": "npm run build && next export",
+    "optimize-images": "node scripts/optimize-images.js",
+    "prebuild": "npm run optimize-images"
   },
   "keywords": [],
   "author": "",
