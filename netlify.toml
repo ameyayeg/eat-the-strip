@@ -1,0 +1,8 @@
+[build]
+  command = "npm run ci-build && npm run export"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Optional: if you later add Netlify Next plugin, add plugins section here
