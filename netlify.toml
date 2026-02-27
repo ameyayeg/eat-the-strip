@@ -1,6 +1,7 @@
 [build]
-  command = "npm run ci-build && npm run export"
-  publish = "out"
+  command = "npm run ci-build"
+  publish = ".next"
 
 [build.environment]
   NODE_VERSION = "20"
+  # Using Next.js Runtime on Netlify; do not run `next export` here.
