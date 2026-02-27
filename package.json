@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "ci-build": "node ./scripts/optimize-images.js && next build",
     "start": "next start",
     "export": "npm run build && next export"
   },
