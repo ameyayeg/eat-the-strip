@@ -7,7 +7,7 @@ address: 361 Smythe St, Fredericton, NB E3B 3E1
 author: Ameya Charnalia
 date: October 26, 2025 5:45 PM
 thumbnail: /uploads/img_0162.jpeg
-closed: false
+closed: true
 positives: 45.958984763050324
 negatives: -66.65643305889635
 image: /uploads/img_0158.jpeg
