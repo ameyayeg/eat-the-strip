@@ -28,7 +28,7 @@ Soon the platter arrives.
 
 Two soups sit side by side: efo riro and egusi, both brimming with meat. The goat pieces have a dark, almost charred edge that hints at the depth of flavour waiting inside the bowl. Mixed throughout are pieces of beef offal as well, cuts that add richness and texture.
 
-![Efo riro and egusi soups served with pillowy fufu and generous pieces of richly seasoned goat and traditional meats](/uploads/img_1134.jpeg "Dee's Kitchen egusi soups")
+![Egusi soup served with pillowy fufu and generous pieces of richly seasoned goat and traditional meats](/uploads/img_1134.jpeg "Dee's Kitchen egusi soups")
 
 Both dishes are deeply rooted in Yoruba cuisine, the culture Dee comes from in southwestern Nigeria. Efo riro is a vegetable soup built around leafy greens simmered down with peppers, palm oil, and spices until everything melds together into something hearty and complex. Egusi, by contrast, is made from ground melon seeds that thicken the soup and lend it a nutty, savoury flavour that has made it one of Nigeria’s most beloved dishes.
 
@@ -71,6 +71,8 @@ The response has been strong.
 She’s already working hard to spread the word, dropping flyers around the city and preparing to appear at the Garrison Night Market. While many first-time visitors gravitate toward the classics like jollof rice and egusi with fufu, she’s eager for people to try the restaurant’s finger foods and other traditional dishes as well.
 
 Looking ahead, she dreams of eventually moving into a larger space. In five years she hopes the restaurant could host events, maybe even karaoke nights or Friday gatherings where people can come together for more than just a meal. She also hopes to open another branch someday, possibly in Woodstock, where there’s a growing population of international students.
+
+![Rich, peppery and deeply comforting, the efo riro at Dee’s Kitchen layers tender goat, leafy greens, and bold Nigerian spices into a bowl that tastes like generations of home cooking](/uploads/img_1132.jpeg "Dee's Kitchen efo riro ")
 
 “My main customers are Nigerians. But it’s actually diverse. We have different people coming in.”
 
