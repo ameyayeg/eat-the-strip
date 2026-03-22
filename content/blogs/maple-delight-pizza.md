@@ -6,10 +6,11 @@ address: 1012 Merivale Rd, Ottawa, ON K1Z 6A5
 author: Ameya Charnalia
 date: July 27, 2023 7:14 PM
 thumbnail: /uploads/img_1267.jpeg
-rating: 4
+closed: true
 positives: 45.380271252451365
-negatives: -75.73378347671955
 image: /uploads/img_1268.jpeg
+rating: 4
+negatives: -75.73378347671955
 ---
 There seems to be a new pizza shop with desi offerings popping up every week outside the downtown core—and I, for one, am here for it.
 
