@@ -7,7 +7,7 @@ address: 25 Hubbard Rd, Fredericton, NB E3B 6B3
 author: Ameya Charnalia
 date: November 28, 2025 6:39 PM
 thumbnail: /uploads/img_0423.jpeg
-closed: false
+closed: true
 positives: 45.921285958358915
 negatives: -66.62152503006949
 image: /uploads/img_0412.jpeg
