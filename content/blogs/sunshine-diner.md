@@ -16,19 +16,19 @@ There are places you walk into and immediately know what you’re getting. And t
 
 You step inside and time seems to slow down a little. Conversations stretch out. Nobody’s rushing. The servers move with a kind of steady confidence—efficient, but on their own rhythm, like they’ve been doing this for years. And in many cases, they have.
 
-Isa and I arrive to find Marc and Carmen already settled in. The room feels lived in. Wood laminate floors, red leather booths lining the walls, and about a dozen tables filled with a mix of regulars and small groups catching up midweek. A chalkboard lists the day’s specials, while the walls carry old photos that look like they’ve been part of Fredericton for just as long as the diner itself. The kitchen is open, and above it, a sunshine mural watches over everything.
+My roommate and I arrived to find our friends already settled in. The room feels lived in. Wood laminate floors, red leather booths lining the walls, and about a dozen tables filled with a mix of regulars and small groups catching up midweek. A chalkboard lists the day’s specials, while the walls carry old photos that look like they’ve been part of Fredericton for just as long as the diner itself. The kitchen is open, and above it, a sunshine mural watches over everything. 
 
 There are little details that stick with you. As you pass through the entrance, you notice what used to be shelving from its earlier life as a grocery store—back when candy and knickknacks lined the walls. Off to the right, there’s a self-serve coffee station with unlimited refills, and a row of old steel teapots for anyone leaning away from coffee that morning. It’s the kind of setup that tells you this place knows its crowd.
 
 About a decade ago, I would’ve said I hoped a spot like this would be spared by hipsters. Walking in now, it feels like it was. On this Wednesday, the old-timers are out in full force, and you get the sense that a lot of people here didn’t just discover Sunshine—they’ve been coming for years.
 
-We grab coffee and settle in before the server comes by. Isa mentions how full the place is, and she replies, “We got a little busy—this is nothing though.” It says everything you need to know.
+We grab coffee and settle in before the server comes by. One of my friends mentions how full the place is, and she replies, “We got a little busy—this is nothing though.” It says everything you need to know. 
 
-We all go in different directions with our orders. Isa lands on a BLT with a side of poutine. I go for the Sunshine Benny. Carmen keeps it classic with a clam chowder and bread roll, and Marc orders the French toast. About fifteen minutes later, everything starts to arrive.
+We all go in different directions with our orders. One lands on a BLT with a side of poutine. I go for the Sunshine Benny. Another keeps it classic with a clam chowder and bread roll, and my third friend orders the French toast. About fifteen minutes later, everything starts to arrive. 
 
 The first thing that hits you isn’t presentation or flair—it’s familiarity.
 
-Isa takes a bite of their BLT and immediately lights up. The bread reminds them of something their grandma used to make. There’s a kind of nostalgia that settles in quickly, especially with the weather outside still stuck in that late-winter, early-spring limbo—grey slush on the ground, but something warmer just starting to push through. Inside, it’s the opposite. Warm, steady, comforting. The kind of meal that, as they put it, “fill your belly and your heart.” Carmen and Marc both nod along, calling it an “authentic, homemade feel,” and it’s hard to argue with that.
+The bread reminds one of my friends of something their grandma used to make. There’s a kind of nostalgia that settles in quickly, especially with the weather outside still stuck in that late-winter, early-spring limbo—grey slush on the ground, but something warmer just starting to push through. Inside, it’s the opposite. Warm, steady, comforting. The kind of meal that, as they put it, “fill your belly and your heart.” The others both nod along, calling it an “authentic, homemade feel,” and it’s hard to argue with that. 
 
 ![Runny yolks, generous hollandaise, and molasses baked beans come together in a hearty, no-frills take on a classic](/uploads/img_1239.jpeg "Sunshine Diner sunshine benny")
 
@@ -36,11 +36,11 @@ My Sunshine Benny leans into that same idea. Two fried eggs, ham on a toasted bu
 
 For just around twenty dollars after tax, it’s a generous portion, and looking around the menu, there are plenty of dishes closer to the fifteen-dollar mark too.
 
-I end up digging into Isa’s poutine as well—gooey cheese, the kind that stretches just enough to remind you it was done right. The BLT stands out because of that bread more than anything else. It’s soft, fresh, and clearly made in-house. That’s something you notice across the table. Everything here feels like it came from the same kitchen, not a freezer. What some might call a scratch kitchen, but here it just feels normal.
+I end up digging into the poutine as well—gooey cheese, the kind that stretches just enough to remind you it was done right. The BLT stands out because of that bread more than anything else. It’s soft, fresh, and clearly made in-house. That’s something you notice across the table. Everything here feels like it came from the same kitchen, not a freezer. What some might call a scratch kitchen, but here it just feels normal.
 
 ![Fresh, homemade bread layered with crisp bacon and simple fillings that lean fully into comfort and nostalgia](/uploads/img_1242.jpeg "Sunshine Diner BLT")
 
-Marc can’t quite finish his French toast, which works out for me. I’m not usually a French toast guy, but I take the last piece with some table syrup and go in. It’s simple. No over-the-top flavours, no attempt to reinvent anything. And that’s kind of the point. None of the dishes are trying to surprise you—they’re just trying to do things properly.
+I’m not usually a French toast guy, but I take the last piece with some table syrup and go in. It’s simple. No over-the-top flavours, no attempt to reinvent anything. And that’s kind of the point. None of the dishes are trying to surprise you—they’re just trying to do things properly.
 
 And they do.
 
