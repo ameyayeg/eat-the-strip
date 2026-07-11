@@ -6,10 +6,11 @@ address: 1618 Merivale Rd, Nepean, ON K2G 3G3
 author: Ameya Charnalia
 date: November 15, 2023 6:26 PM
 thumbnail: /uploads/img_2520.jpeg
-rating: 4
+closed: true
 positives: 45.348096419376425
-negatives: -75.73239177725102
 image: /uploads/img_2519.jpeg
+rating: 4
+negatives: -75.73239177725102
 ---
 Long-time readers of Eat the Strip know we have a soft spot for eateries tucked away at the back of grocery stores.
 
