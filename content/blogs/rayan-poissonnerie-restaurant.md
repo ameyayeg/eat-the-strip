@@ -6,7 +6,7 @@ address: "2020 Lanthier Dr #10, Orléans, ON K4A 3V4"
 author: Ameya Charnalia
 date: February 15, 2025 1:20 PM
 thumbnail: /uploads/img_7650.jpeg
-closed: false
+closed: true
 positives: 45.458168825050414
 negatives: -75.4935186795191
 image: /uploads/img_7637.jpeg
