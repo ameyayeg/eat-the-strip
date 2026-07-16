@@ -1,5 +1,5 @@
 ---
-title: Rayan Poissonnerie & Restaurant
+title: Khalil Seafood
 layout: blog
 cuisine: Egyptian
 address: "2020 Lanthier Dr #10, Orléans, ON K4A 3V4"
@@ -11,6 +11,10 @@ positives: 45.458168825050414
 negatives: -75.4935186795191
 image: /uploads/img_7637.jpeg
 ---
+UPDATE: As of June 2025, this restaurant has rebranded as Khalil Seafood, though it remains under the same ownership. While the title has been updated to reflect this change, the original article still refers to the restaurant by its previous name.
+
+\*﻿\**
+
 Tucked away in a strip mall in Orleans, Rayan Poissonnerie & Restaurant offers a unique seafood experience that takes you straight to the Mediterranean—no passport required.
 
 Upon entering, you're immediately greeted by the hum of the open kitchen and a lively atmosphere filled with the sounds of sizzling seafood. A striking mural of a deep-sea world, complete with fish and a view of the The Great Pyramid of Giza, transports you to a faraway seaside city—especially welcoming during Ottawa’s cold winter months.
