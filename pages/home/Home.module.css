@@ -1,30 +1,191 @@
 .container {
-  margin: 0 auto 3rem auto;
-  width: min(90%, 70rem);
+  margin: 0 auto;
+  width: min(95%, 90rem);
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
+  gap: 1.5rem;
+  padding: 0 0 3rem;
 }
 
-.thumbnail {
+.pageHeading {
+  margin: 2rem auto 1.5rem;
+  width: min(95%, 90rem);
+  padding: 0 1rem;
+}
+
+.headingInner {
+  max-width: 64rem;
+}
+
+.headingTag {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  color: #111;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.pageHeading h1 {
+  margin: 0;
+  margin-bottom: 0.85rem;
+  font-size: clamp(2.1rem, 3.6vw, 3rem);
+  line-height: 1.06;
+  color: #111;
+}
+
+.pageHeading p {
+  margin: 0;
+  max-width: 48rem;
+  color: #4e4e4e;
+  font-size: 1rem;
+  line-height: 1.9;
+}
+
+.heroPanel {
+  width: 100%;
+  min-height: 28rem;
   display: flex;
-  justify-content: center;
+  align-items: flex-end;
+  padding: 2.25rem 1.5rem;
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03)), url('/uploads/pexels-makafood-8984408.jpg') no-repeat center/cover;
+  color: #111;
+  border-radius: 18px;
+  box-shadow: 0 30px 60px rgba(15, 23, 42, 0.06);
+  margin-bottom: 1.5rem;
+}
+
+.heroPanel h1 {
+  margin-bottom: 1rem;
+  font-size: clamp(2.5rem, 4vw, 4.5rem);
+  line-height: 1.05;
+  max-width: 18ch;
+}
+
+.heroPanel p {
+  max-width: 46rem;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.buttonGroup {
+  margin-top: 1.75rem;
+}
+
+.secondaryButton {
+  display: inline-flex;
   align-items: center;
-  font-size: var(--font-size-base);
+  justify-content: center;
+  background: transparent;
+  border: 1px solid rgba(255, 191, 105, 0.95);
+  color: white;
+  border-radius: 999px;
+  padding: 0.95rem 1.6rem;
+  font-weight: 700;
+  transition: background 0.2s ease, transform 0.2s ease, color 0.2s ease;
 }
 
-.thumbnail div {
-  border-radius: 4px;
+.secondaryButton:hover,
+.secondaryButton:focus {
+  background: rgba(255, 191, 105, 0.12);
+  transform: translateY(-1px);
+  color: white;
 }
 
-.thumbnail div:hover,
-.thumbnail div:active {
-  opacity: 0.8;
+.restaurantGrid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.card {
+  background: white;
+  border-radius: 24px;
+  overflow: hidden;
+  box-shadow: 0 18px 42px rgba(15, 23, 42, 0.08);
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 28px 72px rgba(15, 23, 42, 0.12);
+}
+
+.cardImage {
+  position: relative;
+  min-height: 16rem;
+  overflow: hidden;
+}
+
+.cardBadge {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background: rgba(255, 191, 105, 0.95);
+  color: #111;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.cardClosed {
+  right: 1rem;
+  left: auto;
+  background: rgba(255, 81, 81, 0.95);
+}
+
+.cardCopy {
+  padding: 1.35rem 1.5rem 1.5rem;
+}
+
+.cardCopy h2 {
+  margin-bottom: 0.7rem;
+  font-size: 1.4rem;
+}
+
+.cardCopy p {
+  color: #5b5b5b;
+  line-height: 1.75;
+}
+
+.cardTitle,
+.cardSubtitle {
+  padding: 1rem 1.5rem 0.85rem;
+}
+
+.cardTitle {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.cardSubtitle {
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.noResults {
+  color: #5f6368;
+  padding: 1rem 1.25rem;
+  border-radius: 18px;
+  background: #fff9e7;
+  border: 1px solid #fde3a7;
 }
 
 @media (min-width: 40rem) {
-  .container {
-    grid-template-columns: repeat(4, 1fr);
-    overflow: auto;
+  .heroPanel {
+    padding: 4rem 4rem;
+  }
+
+  .restaurantGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 70rem) {
+  .restaurantGrid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }

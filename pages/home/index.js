@@ -1,8 +1,7 @@
 import Link from 'next/link'
 import styles from './Home.module.css'
 import Search from '../../components/Search/Search'
-import { useState } from 'react'
-import { useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { getSortedPosts } from '../../utils/mdx'
 import generateRssFeed from '../../utils/generateRSSFeed'
 import Image from 'next/image'
@@ -18,152 +17,89 @@ export async function getStaticProps() {
 }
 
 const Home = ({ blogs }) => {
+  const cityRestaurants = blogs.filter(
+    (blog) => (blog.city || 'Ottawa-Gatineau') === 'Ottawa-Gatineau'
+  )
   const [query, setQuery] = useState('')
-  const [userCoordinates, setUserCoordinates] = useState(null)
-  const [allRestaurants, setAllRestaurants] = useState(blogs)
-  const [status, setStatus] = useState('loading')
-  const [city, setCity] = useState('Ottawa-Gatineau') // default
+  const [restaurants, setRestaurants] = useState(cityRestaurants)
+  const [status, setStatus] = useState('loaded')
 
   useEffect(() => {
-    if (!query) {
-      setAllRestaurants(blogs)
+    const normalizedQuery = query.trim().toLowerCase()
+
+    if (!normalizedQuery) {
+      setRestaurants(cityRestaurants)
       setStatus('loaded')
-    } else {
-      const searchedRestaurants = allRestaurants.filter((restaurant) => {
-        return restaurant.cuisine.toLowerCase().includes(query)
-      })
-      if (searchedRestaurants.length < 1) {
-        setStatus('none')
-      } else {
-        setAllRestaurants(searchedRestaurants)
-        setStatus('loaded')
-      }
+      return
     }
-  }, [query])
 
-  function resetRestaurants() {
-    setAllRestaurants(blogs)
-    setStatus('loaded')
-    setQuery('')
-  }
+    const searchedRestaurants = cityRestaurants.filter((restaurant) => {
+      return (
+        restaurant.cuisine.toLowerCase().includes(normalizedQuery) ||
+        restaurant.title.toLowerCase().includes(normalizedQuery) ||
+        (restaurant.address || '').toLowerCase().includes(normalizedQuery)
+      )
+    })
 
-  function handleCityToggle() {
-    setCity(city === 'Ottawa-Gatineau' ? 'Fredericton' : 'Ottawa-Gatineau')
-  }
-
-  // Filter restaurants by city (default Ottawa if city not set)
-  const filteredRestaurants = allRestaurants.filter(
-    (r) => (r.city || 'Ottawa-Gatineau') === city
-  )
+    if (searchedRestaurants.length < 1) {
+      setRestaurants([])
+      setStatus('none')
+    } else {
+      setRestaurants(searchedRestaurants)
+      setStatus('loaded')
+    }
+  }, [query, blogs])
 
   return (
     <>
+      <section className={styles.pageHeading}>
+        <div className={styles.headingInner}>
+          <p className={styles.headingTag}>Ottawa-Gatineau</p>
+          <h1>Explore the best local food in the capital region</h1>
+          <p>
+            Search food, cuisine, or address to discover the latest
+            Ottawa-Gatineau spots.
+          </p>
+        </div>
+      </section>
+
       <Search query={query} setQuery={setQuery} />
 
-      <div
-        style={{
-          marginBottom: '1rem',
-          position: 'absolute',
-          top: '10px',
-          right: '10px',
-        }}
-      >
-        <button
-          onClick={() => setCity('Ottawa-Gatineau')}
-          className={`cityToggleLink${
-            city === 'Ottawa-Gatineau' ? ' active' : ''
-          }`}
-          aria-pressed={city === 'Ottawa-Gatineau'}
-        >
-          Ottawa-Gatineau
-        </button>
-        <span>|</span>
-        <button
-          onClick={() => setCity('Fredericton')}
-          className={`cityToggleLink${city === 'Fredericton' ? ' active' : ''}`}
-          aria-pressed={city === 'Fredericton'}
-        >
-          Fredericton
-        </button>
-      </div>
       <section className={styles.container}>
-        {status === 'loading' && <p>Loading...</p>}
-        {status === 'loaded' &&
-          filteredRestaurants.map((blog) => (
-            <div className={styles.thumbnail} key={blog.slug}>
-              <Link href={`/blog/${blog.slug}`}>
-                <div style={{ position: 'relative' }}>
+        {status === 'none' && (
+          <p className={styles.noResults}>
+            No restaurants matched that search. Try another cuisine or reset
+            the search.
+          </p>
+        )}
+
+        <div className={styles.restaurantGrid}>
+          {restaurants.map((blog) => (
+            <Link href={`/blog/${blog.slug}`} key={blog.slug}>
+              <div className={styles.card}>
+                <div className={styles.cardImage}>
                   <Image
                     src={blog.thumbnail}
                     alt={blog.title}
-                    width={320}
-                    height={290}
+                    layout="fill"
+                    objectFit="cover"
+                    objectPosition="center"
                   />
-                  <span
-                    style={{
-                      position: 'absolute',
-                      backgroundColor: 'yellow',
-                      color: 'black',
-                      top: '0',
-                      left: '0',
-                      textTransform: 'uppercase',
-                      padding: '0.25rem 0.5rem',
-                      borderRadius: '16px',
-                    }}
-                  >
-                    {blog.cuisine}
-                  </span>
+                  <span className={styles.cardBadge}>{blog.cuisine}</span>
                   {blog.closed && (
-                    <span
-                      style={{
-                        position: 'absolute',
-                        backgroundColor: 'red',
-                        color: 'black',
-                        top: '0',
-                        right: '0',
-                        textTransform: 'uppercase',
-                        padding: '0.25rem 0.5rem',
-                        borderRadius: '16px',
-                      }}
-                    >
+                    <span className={`${styles.cardBadge} ${styles.cardClosed}`}>
                       Closed
                     </span>
                   )}
-
-                  <span
-                    style={{
-                      position: 'absolute',
-                      backgroundColor: 'black',
-                      color: 'white',
-                      bottom: '0',
-                      left: '0',
-                      right: '0',
-                      padding: '0.5rem 0.75rem',
-                    }}
-                  >
-                    {blog.title}
-                  </span>
                 </div>
-              </Link>
-            </div>
+                <div className={styles.cardCopy}>
+                  <h2>{blog.title}</h2>
+                  <p>{blog.address}</p>
+                </div>
+              </div>
+            </Link>
           ))}
-        {status === 'none' && (
-          <p
-            style={{
-              gridColumnStart: 2,
-              gridColumnEnd: 4,
-            }}
-          >
-            No restaurants found! Click{' '}
-            <span
-              style={{ textDecoration: 'underline', cursor: 'pointer' }}
-              onClick={resetRestaurants}
-            >
-              here
-            </span>{' '}
-            to view all restaurants.
-          </p>
-        )}
+        </div>
       </section>
     </>
   )

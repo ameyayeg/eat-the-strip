@@ -23,6 +23,9 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #f3f3f3;
+  color: #111;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
@@ -35,6 +38,16 @@ p,
 h1 {
   margin: 0;
   padding: 0;
+}
+
+h1 {
+  font-family: var(--font-family-lobster);
+  line-height: 1.05;
+  color: #111;
+}
+
+p {
+  color: #4b4b4b;
 }
 
 /* Position and sizing of burger button */

@@ -10,8 +10,11 @@ const Header = () => {
   return (
     <header className={styles.container}>
       <Menu>
-        <a id="home" className="menu-item" href="/">
+        <a id="home" className="menu-item" href="/home">
           Home
+        </a>
+        <a id="fredericton" className="menu-item" href="/home/fredericton">
+          Fredericton
         </a>
         <a id="about" className="menu-item" href="/about">
           About

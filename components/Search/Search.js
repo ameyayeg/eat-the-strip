@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import styles from './Search.module.css'
 
 const Search = ({ query, setQuery }) => {
@@ -7,11 +6,11 @@ const Search = ({ query, setQuery }) => {
       <label className={styles.searchBar}>
         <input
           className={styles.searchInput}
-          placeholder="Search cuisine..."
-          type-="text"
+          placeholder="Search food, cuisine, or address..."
+          type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value.toLocaleLowerCase())}
-        ></input>
+        />
       </label>
     </div>
   )
