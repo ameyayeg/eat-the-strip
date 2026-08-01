@@ -29,9 +29,9 @@ const About = () => {
           Eat the Strip is designed, developed, and maintained by Ameya
           Charnalia. The site wouldn’t have been possible without the technical
           mentorship of developers Brian Tavares, Mat Dupont, and Daniel Corner,
-          as well as the support of Sergio Gonzalez—who also gave the site its
-          name. Developers can check out the source code, built with Next.js and
-          React,{' '}
+          as well as the logo design contribution from Sean Jeffery and the
+          support of Sergio Gonzalez—who also gave the site its name. Developers
+          can check out the source code, built with Next.js and React,{' '}
           <a href="https://github.com/ameyayeg/eat-the-strip">
             <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
           </a>

@@ -1,7 +1,5 @@
 import styles from './Header.module.css'
 import Link from 'next/link'
-import Image from 'next/image'
-import heroImage from '../../public/uploads/pexels-makafood-8984408.jpg'
 import { slide as Menu } from 'react-burger-menu'
 import { FaInstagram } from 'react-icons/fa'
 import Subscribe from '../Subscribe'
@@ -52,23 +50,9 @@ const Header = () => {
         </div>
       </Menu>
 
-      <Image
-        className={styles.hero}
-        src={heroImage}
-        alt="Fried egg"
-        layout="fill"
-        objectFit="cover"
-        objectPosition="center"
-        priority
-      />
-
-      <div className={styles.heroContent}>
-        <Link href="/">
-          <a>
-            <h1>Eat the Strip</h1>
-          </a>
-        </Link>
-      </div>
+      <Link href="/">
+        <a className={styles.hero} aria-label="Eat the Strip homepage" />
+      </Link>
     </header>
   )
 }

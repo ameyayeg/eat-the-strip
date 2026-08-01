@@ -15,6 +15,8 @@ export default function MyApp({ Component, pageProps }) {
               name="description"
               content="Eat the Strip is our tribute to the mom-and-pop food joints peppered across the Ottawa-Gatineau and Fredericton suburbs."
             />
+            <link rel="icon" href="/newlogo.png" />
+            <link rel="apple-touch-icon" sizes="180x180" href="/newlogo.png" />
             <meta property="og:title" content="Eat the Strip" />
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://www.eatthestrip.com" />
