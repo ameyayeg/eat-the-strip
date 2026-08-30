@@ -45,7 +45,7 @@ I start with the chow mein. It’s exactly what I want from Hakka food. The egg 
 
 Then there’s the biryani.
 
-The beef is remarkably tender, with pieces that have picked up a beautiful char. Danielle immediately notices the saffron and cardamom, which dominate the dish in a way that feels deliberate rather than heavy. There’s something about the biryani that reveals itself gradually. You take a bite and think you’ve figured it out, and then a few seconds later another spice appears. It’s the kind of dish that seems to sneak up on you, revealing a little more of itself as you keep eating.
+The beef is remarkably tender, with pieces that have picked up a beautiful char. Danielle immediately notices the saffron and cardamom, which dominate the dish in a way that feels deliberate rather than heavy. There’s something about the biryani that reveals itself gradually. You take a bite and think you’ve figured it out, and then a few seconds later another spice appears. It’s the kind of dish that seems to sneak up on you, revealing a little more of itself as you keep eating. And for $13 for the chow mein and just $15 for the beef biryani, it’s hard to argue with the value, especially when both dishes come with the kind of portions and flavour that make you want to keep digging in.
 
 And while we’re eating, it becomes easy to understand why Areeba’s Kitchen has started to build a following.
 
