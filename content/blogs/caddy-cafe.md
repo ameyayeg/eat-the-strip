@@ -43,6 +43,8 @@ The two employees told me the cafe has been through a series of owners since the
 
 The food certainly gives them something to spread.
 
+![A classic breakfast of crisp home fries, a sunny-side-up egg and The Caddy Cafe’s much-praised toast, with a coffee, for less than $10](/uploads/img_2949.jpeg "Caddy Cafe egg, toast and homefries")
+
 Everything tasted fresh from the first bite. The home fries were crisp around the edges without being overly salty, exactly the way good diner home fries should be. And the toast really is good — simple, well done and somehow worthy of all those online compliments.
 
 That simplicity is part of what Sarah is going for.
