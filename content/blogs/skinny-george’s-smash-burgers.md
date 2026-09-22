@@ -56,13 +56,3 @@ And that’s what I like about Skinny George’s. It really is a hidden gem, a s
 And perhaps the best part of the whole story is that Ottawa got it because someone in Florida wanted to learn how to make poutine.
 
 That’s a trade I can get behind.
-
-Food captions:
-
-Skinny George Burger: Two juicy smashed beef patties with grilled onions, American cheese, pickles and George’s famous sauce on a soft, buttery bun.
-
-Spicy George Burger: Two smashed beef patties topped with grilled onions, American cheese, pickled jalapeños and George’s famous sauce.
-
-Spicy Mushroom Melt: Two smashed beef patties with American cheese, grilled onions, bacon, mushrooms and Skinny Sauce.
-
-Skinny Fries: Thin, crisp fries that make a salty, crunchy companion to the burgers.
