@@ -6,7 +6,7 @@ address: 2924 Carling Ave, Ottawa, ON K2B 7J7
 author: Ameya Charnalia
 date: June 1, 2025 8:50 PM
 thumbnail: /uploads/img_8790.jpeg
-closed: false
+closed: true
 positives: 45.356508016378214
 negatives: -75.80124308030582
 image: /uploads/img_8788.jpeg
