@@ -35,11 +35,9 @@ The pork with the tomatoes, egg, rice and peppers creates a great mix of flavour
 
 After the meal, I sit down with Hero, one of the co-owners of Saboroso, for a conversation about how the restaurant came to be.
 
-Danielle, his wife and co-owner, isn’t with us that evening, but much of the story naturally involves her.
+Danielle, his wife and co-owner, isn’t with us that evening, but much of the story involves her. Saboroso opened in March 2025, but the idea for the restaurant started somewhat unexpectedly.
 
-Saboroso opened in March 2025, but the idea for the restaurant started somewhat unexpectedly.
-
-After Danielle gave birth to their second son, Hero said she got bored during the summer and suggested setting up a tent at the ByWard Market as a pop-up. Hero had worked in restaurants before, while Danielle was already known among friends for her cooking.
+After Danielle gave birth to their second son, Hero said she got bored during the summer and suggested setting up a tent at the ByWard Market as a pop-up. Hero had worked in restaurants before.
 
 One of Hero’s friends started ordering food from them, and then the orders began spreading by word of mouth.
 
@@ -51,7 +49,7 @@ They didn’t realize at first just how much attention the pop-up was getting.
 
 “It kept growing and growing.”
 
-The problem was that they couldn’t simply keep cooking out of their home. They needed a licensed commercial kitchen, so they found one on March Road and began accepting food orders there.
+They needed a licensed commercial kitchen, so they found one on March Road and began accepting food orders there.
 
 Then came a catering order for 150 people.
 
@@ -74,10 +72,6 @@ They’ve catered for the Filipino Embassy and have had opportunities to bring t
 Hero believes there is a lot of Filipino talent and food in the city, but that the community has sometimes lacked the confidence to put itself forward.
 
 “Filipino food is underrated.”
-
-He hopes that changes, and that the community becomes more willing to support and promote its own food.
-
-For Saboroso, that means showcasing the food of Iloilo and reminding people that Filipino cuisine isn’t one single style.
 
 The Philippines has a huge range of regional flavours, and the food of Iloilo has its own identity. That’s what Hero and Danielle want to bring to the table.
 
