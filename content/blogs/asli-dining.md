@@ -6,7 +6,7 @@ address: 2450 Lancaster Rd Unit 6-7, Ottawa, ON K1B 5N3
 author: Ameya Charnalia
 date: August 8, 2023 12:17 PM
 thumbnail: /uploads/img_1414.jpeg
-closed: true
+closed: false
 positives: 45.40166042100117
 image: /uploads/img_1428.jpeg
 rating: 5
