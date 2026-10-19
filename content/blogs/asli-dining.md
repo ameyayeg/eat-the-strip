@@ -7,14 +7,12 @@ author: Ameya Charnalia
 date: August 8, 2023 12:17 PM
 thumbnail: /uploads/img_1414.jpeg
 closed: true
-positives: 45.40166428496596
+positives: 45.40166042100117
 image: /uploads/img_1428.jpeg
 rating: 5
-negatives: -75.61994793600533
+negatives: -75.61992332098549
 ---
-UPDATE: Please note that as of July 2026, Asli Dining has changed locations. The article below was written in 2023 when the restaurant was at its previous location. While the address and coordinates have been updated, the text of the article remains unchanged.\
-\
-\*﻿\**
+UPDATE: Please note that as of July 2026, Asli Dining has changed locations. The article below was written in 2023 when the restaurant was at its previous location. While the address and coordinates have been updated, the text of the article remains unchanged.
 
 My battery was running low, beeping at me every couple of minutes as honking cars whizzed past. Turns out dodging cars on Bank Street on an e-scooter can help build your appetite. So, by the time I reached Asli Dining, a Somali restaurant opened in 2017—and one of my new favourite restaurants—I was famished. 
 
