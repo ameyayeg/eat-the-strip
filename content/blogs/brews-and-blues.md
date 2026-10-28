@@ -6,7 +6,7 @@ address: 1523 Stittsville Main St, Stittsville, ON K2S 1N4
 author: Ameya Charnalia
 date: June 6, 2025 5:28 PM
 thumbnail: /uploads/img_8829.jpeg
-closed: false
+closed: true
 positives: 45.25802475482014
 negatives: -75.92024280601392
 image: /uploads/img_8822.jpeg
