@@ -1,7 +1,7 @@
 import styles from './Header.module.css'
 import Link from 'next/link'
 import { slide as Menu } from 'react-burger-menu'
-import { FaInstagram } from 'react-icons/fa'
+import { FaInstagram, FaYoutube } from 'react-icons/fa'
 import Subscribe from '../Subscribe'
 
 const Header = () => {
@@ -19,6 +19,9 @@ const Header = () => {
         </a>
         <a id="all" className="menu-item" href="/all">
           Restaurants map
+        </a>
+        <a id="newsletter" className="menu-item" href="/newsletter">
+          Newsletter
         </a>
         <a id="privacy" className="menu-item" href="/privacy">
           Privacy
@@ -42,6 +45,14 @@ const Header = () => {
             target="_blank"
           >
             <FaInstagram color="#ee802f" size="lg" />
+          </a>
+          <a
+            href="https://www.youtube.com/@eatthestripyow"
+            rel="noreferrer"
+            target="_blank"
+            aria-label="Eat the Strip on YouTube"
+          >
+            <FaYoutube color="#ee802f" size="lg" />
           </a>
         </div>
 

@@ -1,0 +1,30 @@
+.container {
+  width: 900px;
+  max-width: 90%;
+  margin: 0 auto;
+  font-family: var(--font-family-roboto);
+}
+
+.pitch {
+  font-size: var(--font-size-base);
+  line-height: 1.6;
+}
+
+.pitch h1 {
+  font-family: var(--font-family-lobster);
+  font-size: var(--font-size-xl);
+  margin: 1rem 0 0.5rem;
+}
+
+.pitch p {
+  margin: 0.75rem 0;
+}
+
+.formContainer {
+  position: relative;
+  background: #ededed;
+  border-left: 8px solid #78c0a8;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0 2rem;
+  border-radius: 5px;
+}

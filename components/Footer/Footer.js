@@ -2,7 +2,7 @@ import styles from './Footer.module.css'
 import Link from 'next/link'
 import Subscribe from '../Subscribe'
 import { MdRssFeed } from 'react-icons/md'
-import { FaInstagram } from 'react-icons/fa'
+import { FaInstagram, FaYoutube } from 'react-icons/fa'
 
 const Footer = () => {
   const date = new Date()
@@ -25,6 +25,20 @@ const Footer = () => {
             <Link href="/all">
               <a>Restaurants map</a>
             </Link>
+          </li>
+          <li>
+            <Link href="/newsletter">
+              <a>Newsletter</a>
+            </Link>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/@eatthestripyow"
+              rel="noreferrer"
+              target="_blank"
+            >
+              YouTube
+            </a>
           </li>
           <li>
             <Link href="/privacy">
@@ -63,6 +77,14 @@ const Footer = () => {
             <FaInstagram color="#ee802f" />
           </a>
         </Link>
+        <a
+          href="https://www.youtube.com/@eatthestripyow"
+          rel="noreferrer"
+          target="_blank"
+          aria-label="Eat the Strip on YouTube"
+        >
+          <FaYoutube color="#ee802f" />
+        </a>
         <div>
           <Subscribe />
         </div>
