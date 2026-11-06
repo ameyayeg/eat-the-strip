@@ -68,13 +68,17 @@ const Footer = () => {
           />
         </a>
         <Link href="http://eatthestrip.com/rss.xml">
-          <a rel="noreferrer" target="_blank">
-            <MdRssFeed color="#ee802f" />
+          <a rel="noreferrer" target="_blank" aria-label="Eat the Strip RSS feed">
+            <MdRssFeed color="#ee802f" aria-hidden="true" />
           </a>
         </Link>
         <Link href="https://www.instagram.com/eatthestripyow/">
-          <a rel="noreferrer" target="_blank">
-            <FaInstagram color="#ee802f" />
+          <a
+            rel="noreferrer"
+            target="_blank"
+            aria-label="Eat the Strip on Instagram"
+          >
+            <FaInstagram color="#ee802f" aria-hidden="true" />
           </a>
         </Link>
         <a
@@ -83,7 +87,7 @@ const Footer = () => {
           target="_blank"
           aria-label="Eat the Strip on YouTube"
         >
-          <FaYoutube color="#ee802f" />
+          <FaYoutube color="#ee802f" aria-hidden="true" />
         </a>
         <div>
           <Subscribe />

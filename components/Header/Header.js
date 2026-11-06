@@ -4,6 +4,11 @@ import { slide as Menu } from 'react-burger-menu'
 import { FaInstagram, FaYoutube } from 'react-icons/fa'
 import Subscribe from '../Subscribe'
 
+// The exact size these icons rendered at with the old size="lg" (an invalid
+// size that let them stretch to fill the row beside the Ko-fi button).
+const instagramIconStyle = { width: '75.40625px', height: '86.171875px' }
+const youtubeIconStyle = { width: '75.40625px', height: '67.015625px' }
+
 const Header = () => {
   return (
     <header className={styles.container}>
@@ -43,8 +48,13 @@ const Header = () => {
             href="https://www.instagram.com/eatthestripyow/"
             rel="noreferrer"
             target="_blank"
+            aria-label="Eat the Strip on Instagram"
           >
-            <FaInstagram color="#ee802f" size="lg" />
+            <FaInstagram
+              color="#ee802f"
+              style={instagramIconStyle}
+              aria-hidden="true"
+            />
           </a>
           <a
             href="https://www.youtube.com/@eatthestripyow"
@@ -52,7 +62,11 @@ const Header = () => {
             target="_blank"
             aria-label="Eat the Strip on YouTube"
           >
-            <FaYoutube color="#ee802f" size="lg" />
+            <FaYoutube
+              color="#ee802f"
+              style={youtubeIconStyle}
+              aria-hidden="true"
+            />
           </a>
         </div>
 
