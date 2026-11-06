@@ -35,6 +35,20 @@
   padding: 0.5rem 0;
 }
 
+.contact {
+  font-size: var(--font-size-base);
+  line-height: 1.6;
+  font-family: var(--font-family-roboto);
+  margin: 1rem 0 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #d8d8d8;
+}
+
+.contact a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 @media (min-width: 70rem) {
   .container {
     margin: 0 20%;
