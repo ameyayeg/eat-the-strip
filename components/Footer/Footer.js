@@ -32,15 +32,6 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <a
-              href="https://www.youtube.com/@eatthestripyow"
-              rel="noreferrer"
-              target="_blank"
-            >
-              YouTube
-            </a>
-          </li>
-          <li>
             <Link href="/privacy">
               <a>Privacy</a>
             </Link>
