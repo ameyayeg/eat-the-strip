@@ -3,7 +3,8 @@
   padding: 0.5rem;
 }
 
-.copyright {
+.copyright,
+.copyright p {
   color: whitesmoke;
 }
 
