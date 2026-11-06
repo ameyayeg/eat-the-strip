@@ -24,6 +24,13 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
       - { label: 'Cuisine', name: 'cuisine', widget: 'string' }
       - { label: 'Address', name: 'address', widget: 'string' }
+      - {
+          label: 'Summary (search and social)',
+          name: 'description',
+          widget: 'text',
+          required: false,
+          hint: 'Optional. One or two sentences for Google results and link previews. If left blank, the first sentence of the post is used.',
+        }
       - { label: 'Author', name: 'author', widget: 'string' }
       - {
           label: 'Publish Date',

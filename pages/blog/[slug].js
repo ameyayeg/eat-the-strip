@@ -4,9 +4,10 @@ import matter from 'gray-matter'
 import styles from './Blog.module.css'
 import LayoutWithoutHeader from '../../components/Layouts/LayoutWithoutHeader'
 import Link from 'next/link'
-import Head from 'next/head'
 import dynamic from 'next/dynamic'
 import Comments from '../../components/Comments'
+import PostHead from '../../components/PostHead'
+import { getPostTitle, getPostDescription } from '../../utils/seo'
 import { AiOutlineHome } from 'react-icons/ai'
 import Image from 'next/image'
 
@@ -33,26 +34,40 @@ export async function getStaticProps({ params: { slug } }) {
   )
   let frontmatter = fileContent.data
   const markdown = fileContent.content
+  const title = getPostTitle(frontmatter)
+  const description = getPostDescription(frontmatter, markdown)
 
   return {
-    props: { frontmatter, markdown, slug },
+    props: { frontmatter, markdown, slug, title, description },
   }
 }
 
-export default function Blog({ frontmatter, markdown, slug }) {
+export default function Blog({
+  frontmatter,
+  markdown,
+  slug,
+  title,
+  description,
+}) {
   function showSettings() {
     e.preventDefault()
   }
   return (
     <div>
-      <Head>
-        <title>{`Eat the Strip | ${frontmatter.title}`}</title>
-      </Head>
+      <PostHead
+        frontmatter={frontmatter}
+        title={title}
+        description={description}
+        slug={slug}
+      />
 
       <header className={styles.header}>
         <Link href="/">
-          <a>
-            <AiOutlineHome style={{ fontSize: 'var(--font-size-xxl)' }} />
+          <a aria-label="Eat the Strip home">
+            <AiOutlineHome
+              style={{ fontSize: 'var(--font-size-xxl)' }}
+              aria-hidden="true"
+            />
           </a>
         </Link>
         <h1>Eat the Strip</h1>
