@@ -6,6 +6,7 @@ import LayoutWithoutHeader from '../../../components/Layouts/LayoutWithoutHeader
 import Link from 'next/link'
 import dynamic from 'next/dynamic'
 import ContactLine from '../../../components/ContactLine'
+import SupportBox from '../../../components/SupportBox'
 import PostHead from '../../../components/PostHead'
 import { getPostTitle, getPostDescription } from '../../../utils/seo'
 import { AiOutlineHome } from 'react-icons/ai'
@@ -146,6 +147,7 @@ export default function Blog({
             defaultCenter={[45.4215, -75.6972]}
           />
         </div>
+        <SupportBox />
         <ContactLine title={frontmatter.title} className={styles.contact} />
       </div>
     </div>
