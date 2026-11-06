@@ -5,7 +5,7 @@ import styles from '../../blog/Blog.module.css'
 import LayoutWithoutHeader from '../../../components/Layouts/LayoutWithoutHeader'
 import Link from 'next/link'
 import dynamic from 'next/dynamic'
-import Comments from '../../../components/Comments'
+import ContactLine from '../../../components/ContactLine'
 import PostHead from '../../../components/PostHead'
 import { getPostTitle, getPostDescription } from '../../../utils/seo'
 import { AiOutlineHome } from 'react-icons/ai'
@@ -146,7 +146,7 @@ export default function Blog({
             defaultCenter={[45.4215, -75.6972]}
           />
         </div>
-        <Comments slug={slug} title={frontmatter.title} />
+        <ContactLine title={frontmatter.title} className={styles.contact} />
       </div>
     </div>
   )
