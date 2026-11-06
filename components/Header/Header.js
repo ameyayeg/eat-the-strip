@@ -4,11 +4,6 @@ import { slide as Menu } from 'react-burger-menu'
 import { FaInstagram, FaYoutube } from 'react-icons/fa'
 import Subscribe from '../Subscribe'
 
-// The exact size these icons rendered at with the old size="lg" (an invalid
-// size that let them stretch to fill the row beside the Ko-fi button).
-const instagramIconStyle = { width: '75.40625px', height: '86.171875px' }
-const youtubeIconStyle = { width: '75.40625px', height: '67.015625px' }
-
 const Header = () => {
   return (
     <header className={styles.container}>
@@ -34,7 +29,15 @@ const Header = () => {
         <a id="terms" className="menu-item" href="/terms">
           Terms and conditions
         </a>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+        <div
+          style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'flex-start',
+            gap: '12px',
+            marginTop: '16px',
+          }}
+        >
           <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
             <img
               height="36"
@@ -44,30 +47,24 @@ const Header = () => {
               alt="Buy Me a Coffee at ko-fi.com"
             />
           </a>
-          <a
-            href="https://www.instagram.com/eatthestripyow/"
-            rel="noreferrer"
-            target="_blank"
-            aria-label="Eat the Strip on Instagram"
-          >
-            <FaInstagram
-              color="#ee802f"
-              style={instagramIconStyle}
-              aria-hidden="true"
-            />
-          </a>
-          <a
-            href="https://www.youtube.com/@eatthestripyow"
-            rel="noreferrer"
-            target="_blank"
-            aria-label="Eat the Strip on YouTube"
-          >
-            <FaYoutube
-              color="#ee802f"
-              style={youtubeIconStyle}
-              aria-hidden="true"
-            />
-          </a>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+            <a
+              href="https://www.instagram.com/eatthestripyow/"
+              rel="noreferrer"
+              target="_blank"
+              aria-label="Eat the Strip on Instagram"
+            >
+              <FaInstagram color="#ee802f" size={36} aria-hidden="true" />
+            </a>
+            <a
+              href="https://www.youtube.com/@eatthestripyow"
+              rel="noreferrer"
+              target="_blank"
+              aria-label="Eat the Strip on YouTube"
+            >
+              <FaYoutube color="#ee802f" size={36} aria-hidden="true" />
+            </a>
+          </div>
         </div>
 
         <div>
