@@ -80,8 +80,8 @@ const Privacy = () => {
         <li>
           <strong>Europe, the UK and Switzerland:</strong> a banner asks for
           your consent. You can choose Consent, Do not consent, or Manage
-          options. Until a settings link is added to our footer, you can reset
-          your choice by clearing this site's cookies in your browser.
+          options. You can change your choice at any time using the privacy
+          settings link at the bottom of the page.
         </li>
         <li>
           <strong>US states with privacy laws:</strong> a “Do Not Sell or Share
