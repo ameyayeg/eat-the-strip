@@ -1,251 +1,84 @@
 import React from 'react'
+import Head from 'next/head'
 import styles from './Terms.module.css'
 
 const Terms = () => {
   return (
     <div className={styles.container}>
-      <h1>
-        <strong>Terms and Conditions</strong>
-      </h1>
-      <p>Welcome to Eat the Strip!</p>
+      <Head>
+        <title>Terms of Use | Eat the Strip</title>
+      </Head>
+      <h1>Terms of Use</h1>
       <p>
-        These terms and conditions outline the rules and regulations for the use
-        of Eat the Strip's Website, located at https://eatthestrip.com/.
+        <em>Last updated: November 7, 2026</em>
       </p>
       <p>
-        By accessing this website we assume you accept these terms and
-        conditions. Do not continue to use Eat the Strip if you do not agree to
-        take all of the terms and conditions stated on this page.
+        By using eatthestrip.com you agree to these terms. If you don't agree,
+        please don't use the site.
       </p>
       <p>
-        The following terminology applies to these Terms and Conditions, Privacy
-        Statement and Disclaimer Notice and all Agreements: "Client", "You" and
-        "Your" refers to you, the person log on this website and compliant to
-        the Company's terms and conditions. "The Company", "Ourselves", "We",
-        "Our" and "Us", refers to our Company. "Party", "Parties", or "Us",
-        refers to both the Client and ourselves. All terms refer to the offer,
-        acceptance and consideration of payment necessary to undertake the
-        process of our assistance to the Client in the most appropriate manner
-        for the express purpose of meeting the Client's needs in respect of
-        provision of the Company's stated services, in accordance with and
-        subject to, prevailing law of af. Any use of the above terminology or
-        other words in the singular, plural, capitalization and/or he/she or
-        they, are taken as interchangeable and therefore as referring to same.
-        Our Terms and Conditions were created with the help of the{' '}
-        <a href="https://www.termsfeed.com/terms-conditions-generator/">
-          Terms & Conditions Generator
-        </a>
-      </p>
-      <h2>
-        <strong>Cookies</strong>
-      </h2>
-      <p>
-        We employ the use of cookies. By accessing Eat the Strip, you agreed to
-        use cookies in agreement with the Eat the Strip's Privacy Policy.
+        <strong>What the site is.</strong> Eat the Strip is a personal food
+        blog. Our reviews are our own opinions and experiences, written as
+        honestly as we can. We pay for our own meals and don't run sponsored
+        posts. If that ever changes, we will label it clearly.
       </p>
       <p>
-        Most interactive websites use cookies to let us retrieve the user's
-        details for each visit. Cookies are used by our website to enable the
-        functionality of certain areas to make it easier for people visiting our
-        website. Some of our affiliate/advertising partners may also use
-        cookies.
-      </p>
-      <h2>
-        <strong>License</strong>
-      </h2>
-      <p>
-        Unless otherwise stated, Eat the Strip and/or its licensors own the
-        intellectual property rights for all material on Eat the Strip. All
-        intellectual property rights are reserved. You may access this from Eat
-        the Strip for your own personal use subjected to restrictions set in
-        these terms and conditions.
-      </p>
-      <p>You must not:</p>
-      <ul>
-        <li style={{ marginLeft: '20px' }}>
-          Republish material from Eat the Strip
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          Sell, rent or sub-license material from Eat the Strip
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          Reproduce, duplicate or copy material from Eat the Strip
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          Redistribute content from Eat the Strip
-        </li>
-      </ul>
-      <p>This Agreement shall begin on the date hereof.</p>
-      <h2>
-        <strong>Hyperlinking to our Content</strong>
-      </h2>
-      <p>
-        The following organizations may link to our Website without prior
-        written approval:
-      </p>
-      <ul>
-        <li style={{ marginLeft: '20px' }}>Government agencies;</li>
-        <li style={{ marginLeft: '20px' }}>Search engines;</li>
-        <li style={{ marginLeft: '20px' }}>News organizations;</li>
-        <li style={{ marginLeft: '20px' }}>
-          Online directory distributors may link to our Website in the same
-          manner as they hyperlink to the Websites of other listed businesses;
-          and
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          System wide Accredited Businesses except soliciting non-profit
-          organizations, charity shopping malls, and charity fundraising groups
-          which may not hyperlink to our Web site.
-        </li>
-      </ul>
-      <p>
-        These organizations may link to our home page, to publications or to
-        other Website information so long as the link: (a) is not in any way
-        deceptive; (b) does not falsely imply sponsorship, endorsement or
-        approval of the linking party and its products and/or services; and (c)
-        fits within the context of the linking party's site.
+        <strong>Check before you go.</strong> Hours, prices, menus and locations
+        change, and restaurants close or move. We do our best to keep posts
+        accurate, but we can't promise they are current. Please check with the
+        restaurant before you travel, and tell us about corrections at
+        contact@eatthestrip.com. We aren't responsible for a wasted trip.
       </p>
       <p>
-        We may consider and approve other link requests from the following types
-        of organizations:
-      </p>
-      <ul>
-        <li style={{ marginLeft: '20px' }}>
-          commonly-known consumer and/or business information sources;
-        </li>
-        <li style={{ marginLeft: '20px' }}>dot.com community sites;</li>
-        <li style={{ marginLeft: '20px' }}>
-          associations or other groups representing charities;
-        </li>
-        <li style={{ marginLeft: '20px' }}>online directory distributors;</li>
-        <li style={{ marginLeft: '20px' }}>internet portals;</li>
-        <li style={{ marginLeft: '20px' }}>
-          accounting, law and consulting firms; and
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          educational institutions and trade associations.
-        </li>
-      </ul>
-      <p>
-        We will approve link requests from these organizations if we decide
-        that: (a) the link would not make us look unfavorably to ourselves or to
-        our accredited businesses; (b) the organization does not have any
-        negative records with us; (c) the benefit to us from the visibility of
-        the hyperlink compensates the absence of Eat the Strip; and (d) the link
-        is in the context of general resource information.
+        <strong>Our content.</strong> The writing, photos, logo and design of
+        this site belong to Eat the Strip, unless a post says otherwise. You may
+        quote a short excerpt with credit and a link back to the post. Please
+        don't copy whole posts or photos, or use them commercially, without
+        asking first.
       </p>
       <p>
-        These organizations may link to our home page so long as the link: (a)
-        is not in any way deceptive; (b) does not falsely imply sponsorship,
-        endorsement or approval of the linking party and its products or
-        services; and (c) fits within the context of the linking party's site.
+        <strong>Linking to us.</strong> You are welcome to link to any page of
+        the site. Please don't suggest that we endorse you or your product.
       </p>
       <p>
-        If you are one of the organizations listed in paragraph 2 above and are
-        interested in linking to our website, you must inform us by sending an
-        e-mail to Eat the Strip. Please include your name, your organization
-        name, contact information as well as the URL of your site, a list of any
-        URLs from which you intend to link to our Website, and a list of the
-        URLs on our site to which you would like to link. Wait 2-3 weeks for a
-        response.
-      </p>
-      <p>Approved organizations may hyperlink to our Website as follows:</p>
-      <ul>
-        <li style={{ marginLeft: '20px' }}>By use of our corporate name; or</li>
-        <li style={{ marginLeft: '20px' }}>
-          By use of the uniform resource locator being linked to; or
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          By use of any other description of our Website being linked to that
-          makes sense within the context and format of content on the linking
-          party's site.
-        </li>
-      </ul>
-      <p>
-        No use of Eat the Strip's logo or other artwork will be allowed for
-        linking absent a trademark license agreement.
-      </p>
-      <h2>
-        <strong>iFrames</strong>
-      </h2>
-      <p>
-        Without prior approval and written permission, you may not create frames
-        around our Webpages that alter in any way the visual presentation or
-        appearance of our Website.
-      </p>
-      <h2>
-        <strong>Content Liability</strong>
-      </h2>
-      <p>
-        We shall not be hold responsible for any content that appears on your
-        Website. You agree to protect and defend us against all claims that is
-        rising on your Website. No link(s) should appear on any Website that may
-        be interpreted as libelous, obscene or criminal, or which infringes,
-        otherwise violates, or advocates the infringement or other violation of,
-        any third party rights.
-      </p>
-      <h2>
-        <strong>Reservation of Rights</strong>
-      </h2>
-      <p>
-        We reserve the right to request that you remove all links or any
-        particular link to our Website. You approve to immediately remove all
-        links to our Website upon request. We also reserve the right to amen
-        these terms and conditions and it's linking policy at any time. By
-        continuously linking to our Website, you agree to be bound to and follow
-        these linking terms and conditions.
-      </p>
-      <h2>
-        <strong>Removal of links from our website</strong>
-      </h2>
-      <p>
-        If you find any link on our Website that is offensive for any reason,
-        you are free to contact and inform us any moment. We will consider
-        requests to remove links but we are not obligated to or so or to respond
-        to you directly.
+        <strong>Ads and other sites.</strong> The site shows ads and links to
+        other sites, including Ko-fi, Instagram and YouTube. Ads and links are
+        not endorsements, and we don't control other sites or what they say.
       </p>
       <p>
-        We do not ensure that the information on this website is correct, we do
-        not warrant its completeness or accuracy; nor do we promise to ensure
-        that the website remains available or that the material on the website
-        is kept up to date.
-      </p>
-      <h2>
-        <strong>Disclaimer</strong>
-      </h2>
-      <p>
-        To the maximum extent permitted by applicable law, we exclude all
-        representations, warranties and conditions relating to our website and
-        the use of this website. Nothing in this disclaimer will:
-      </p>
-      <ul>
-        <li style={{ marginLeft: '20px' }}>
-          limit or exclude our or your liability for death or personal injury;
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          limit or exclude our or your liability for fraud or fraudulent
-          misrepresentation;
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          limit any of our or your liabilities in any way that is not permitted
-          under applicable law; or
-        </li>
-        <li style={{ marginLeft: '20px' }}>
-          exclude any of our or your liabilities that may not be excluded under
-          applicable law.
-        </li>
-      </ul>
-      <p>
-        The limitations and prohibitions of liability set in this Section and
-        elsewhere in this disclaimer: (a) are subject to the preceding
-        paragraph; and (b) govern all liabilities arising under the disclaimer,
-        including liabilities arising in contract, in tort and for breach of
-        statutory duty.
+        <strong>Supporting us on Ko-fi.</strong> Support is voluntary and
+        handled by Ko-fi under its own terms. It does not buy coverage or
+        influence what we write.
       </p>
       <p>
-        As long as the website and the information and services on the website
-        are provided free of charge, we will not be liable for any loss or
-        damage of any nature.
+        <strong>Messages you send us.</strong> If you send us a restaurant
+        suggestion or a message, we may use it to decide what to visit. We won't
+        publish your message or your name without asking you first.
+      </p>
+      <p>
+        <strong>Using the site properly.</strong> Please don't try to break,
+        overload or scrape the site, and don't send spam through the sign-up or
+        contact forms. We may block access if you do.
+      </p>
+      <p>
+        <strong>No guarantees.</strong> The site is provided as it is, with no
+        promise that it will always be available or free of errors. To the
+        extent the law allows, we aren't liable for losses that come from using
+        the site or relying on a post. Nothing here limits any right you have
+        that the law doesn't allow us to limit.
+      </p>
+      <p>
+        <strong>Governing law.</strong> These terms are governed by the laws of
+        Ontario and the federal laws of Canada that apply there.
+      </p>
+      <p>
+        <strong>Changes.</strong> We may update these terms from time to time
+        and will change the date above when we do. If you keep using the site
+        after that, you accept the new version.
+      </p>
+      <p>
+        <strong>Contact.</strong> Questions about these terms are welcome at
+        contact@eatthestrip.com.
       </p>
     </div>
   )

@@ -1,127 +1,151 @@
 import React from 'react'
+import Head from 'next/head'
 import styles from './Privacy.module.css'
 
 const Privacy = () => {
   return (
     <div className={styles.container}>
-      <h1>Privacy Policy of Eat the Strip</h1>
+      <Head>
+        <title>Privacy Policy | Eat the Strip</title>
+      </Head>
+      <h1>Privacy Policy</h1>
       <p>
-        Eat the Strip operates the https://eatthestrip.com/ website, which
-        provides the SERVICE.
+        <em>Last updated: November 7, 2026</em>
       </p>
       <p>
-        This page is used to inform website visitors regarding our policies with
-        the collection, use, and disclosure of Personal Information if anyone
-        decided to use our Service, the Eat the Strip website.
+        Eat the Strip collects very little about you: an email address if you
+        join the newsletter, a message if you write to us, and ordinary visit
+        statistics and ad cookies from Google. This page says what we collect,
+        why, and who else handles it.
       </p>
       <p>
-        If you choose to use our Service, then you agree to the collection and
-        use of information in relation with this policy. The Personal
-        Information that we collect are used for providing and improving the
-        Service. We will not use or share your information with anyone except as
-        described in this Privacy Policy.
+        <strong>Who we are.</strong> Eat the Strip is a food blog about
+        family-run restaurants in strip malls across Ottawa-Gatineau and
+        Fredericton, written and run by Ameya Charnalia in Ottawa, Ontario. You
+        can reach us at contact@eatthestrip.com.
+      </p>
+
+      <h2>What we collect and why</h2>
+      <p>
+        <strong>Newsletter.</strong> If you subscribe, we collect your email
+        address and the time you signed up. We email you a confirmation link
+        first, and you are only added once you click it. Our newsletter service,
+        MailerLite, also records whether you open our emails and click links, so
+        we can see what readers enjoy. Every email has an unsubscribe link. We
+        use your address only to send the newsletter.
       </p>
       <p>
-        The terms used in this Privacy Policy have the same meanings as in our
-        Terms and Conditions, which is accessible at https://eatthestrip.com/,
-        unless otherwise defined in this Privacy Policy.
-      </p>
-      <h2>Information Collection and Use</h2>
-      <p>
-        For a better experience while using our Service, we may require you to
-        provide us with certain personally identifiable information, including
-        but not limited to your name, phone number, and postal address. The
-        information that we collect will be used to contact or identify you.
-      </p>
-      <h2>Log Data</h2>
-      <p>
-        We want to inform you that whenever you visit our Service, we collect
-        information that your browser sends to us that is called Log Data. This
-        Log Data may include information such as your computer's Internet
-        Protocol ("IP") address, browser version, pages of our Service that you
-        visit, the time and date of your visit, the time spent on those pages,
-        and other statistics.
-      </p>
-      <h2>Cookies</h2>
-      <p>
-        Cookies are files with small amount of data that is commonly used an
-        anonymous unique identifier. These are sent to your browser from the
-        website that you visit and are stored on your computer's hard drive.
+        <strong>Messages to us.</strong> If you use the contact form on the
+        About page, we collect the name, email address and message you type. If
+        you email contact@eatthestrip.com or use the “Email us” link under a
+        post, we receive your email and whatever you put in it. We use it to
+        reply and to consider restaurant suggestions, which we may record in a
+        private spreadsheet with your name or email so we can follow up. Contact
+        form messages are stored by our web host and emailed to us. Email sent
+        to contact@eatthestrip.com passes through an email forwarding service to
+        our inbox.
       </p>
       <p>
-        Our website uses these "cookies" to collection information and to
-        improve our Service. You have the option to either accept or refuse
-        these cookies, and know when a cookie is being sent to your computer. If
-        you choose to refuse our cookies, you may not be able to use some
-        portions of our Service.
+        <strong>Visit statistics.</strong> We use Google Analytics to see which
+        pages are read, roughly where readers are, what device and browser they
+        use, and how they found us. It sets cookies that last up to 400 days.
+        Google Analytics does not store your IP address. We keep this data for
+        14 months.
       </p>
-      <h2>Service Providers</h2>
       <p>
-        We may employ third-party companies and individuals due to the following
-        reasons:
+        <strong>Ads.</strong> The site shows ads through Google AdSense. Google
+        and its advertising partners may use cookies and similar technology to
+        show ads, including personalized ads, and to measure and prevent fraud.
+        We do not sell your personal information ourselves. Under some US state
+        laws, ad personalization counts as “sharing”, which is why visitors in
+        those states see a “Do Not Sell or Share My Personal Information” link.
+      </p>
+      <p>
+        <strong>Fonts, maps and images from other servers.</strong> Our pages
+        load fonts from Google Fonts, map tiles from OpenStreetMap, map icons
+        from unpkg, and the Ko-fi button image from Ko-fi. Those services see
+        your IP address and browser details when your browser asks them for
+        these files.
+      </p>
+
+      <h2>Cookies and your choices</h2>
+      <p>
+        The site sets cookies to count visits (Google Analytics, up to 400
+        days), to remember your consent choice (Google's consent tool, about a
+        year), and to show and measure ads and check that your browser accepts
+        cookies (Google AdSense). Google's advertising partners may set more
+        cookies when ads are shown.
       </p>
       <ul>
-        <li style={{ marginLeft: '20px' }}>To facilitate our Service;</li>
-        <li style={{ marginLeft: '20px' }}>
-          To provide the Service on our behalf;
+        <li>
+          <strong>Europe, the UK and Switzerland:</strong> a banner asks for
+          your consent. You can choose Consent, Do not consent, or Manage
+          options. Until a settings link is added to our footer, you can reset
+          your choice by clearing this site's cookies in your browser.
         </li>
-        <li style={{ marginLeft: '20px' }}>
-          To perform Service-related services; or
+        <li>
+          <strong>US states with privacy laws:</strong> a “Do Not Sell or Share
+          My Personal Information” link lets you opt out of personalized ads.
         </li>
-        <li style={{ marginLeft: '20px' }}>
-          To assist us in analyzing how our Service is used.
+        <li>
+          <strong>Everyone:</strong> you can block or delete cookies in your
+          browser, turn off personalized ads in Google's Ads Settings
+          (adssettings.google.com), and use Google's Analytics opt-out browser
+          add-on (tools.google.com/dlpage/gaoptout).
+        </li>
+        <li>
+          <strong>Canada, including Quebec:</strong> analytics and ads run
+          without a banner. If you would rather they didn't, use the tools
+          above, or email us and we will help.
         </li>
       </ul>
+
+      <h2>Outside Canada</h2>
       <p>
-        We want to inform our Service users that these third parties have access
-        to your Personal Information. The reason is to perform the tasks
-        assigned to them on our behalf. However, they are obligated not to
-        disclose or use the information for any other purpose.
+        Some of the services described above are based in, or store data in, the
+        United States or Europe, so your information may be processed outside
+        Canada. Each has its own privacy policy.
       </p>
-      <h2>Security</h2>
+
+      <h2>How long we keep it</h2>
       <p>
-        We value your trust in providing us your Personal Information, thus we
-        are striving to use commercially acceptable means of protecting it. But
-        remember that no method of transmission over the internet, or method of
-        electronic storage is 100% secure and reliable, and we cannot guarantee
-        its absolute security.
+        Newsletter addresses stay until you unsubscribe. MailerLite then keeps a
+        record that you opted out, so we never email you again, and we can ask
+        for it to be erased fully if you want that. We keep messages for as long
+        as they are useful for replying or considering a suggestion, and delete
+        them on request. Analytics data is kept for 14 months.
       </p>
-      <h2>Links to Other Sites</h2>
+
+      <h2>Your rights</h2>
       <p>
-        Our Service may contain links to other sites. If you click on a
-        third-party link, you will be directed to that site. Note that these
-        external sites are not operated by us. Therefore, we strongly advise you
-        to review the Privacy Policy of these websites. We have no control over,
-        and assume no responsibility for the content, privacy policies, or
-        practices of any third-party sites or services.
+        You can ask us to show you, correct or delete the information we hold
+        about you, or withdraw your consent, by emailing
+        contact@eatthestrip.com. You can unsubscribe from the newsletter at any
+        time with the link in any email. We send marketing email only with your
+        consent, as Canada's anti-spam law requires. If you are unhappy with how
+        we handle your information, you can contact the Office of the Privacy
+        Commissioner of Canada (priv.gc.ca), or, if you live in Quebec, the
+        Commission d'accès à l'information du Québec (cai.gouv.qc.ca).
       </p>
-      <p>Children's Privacy</p>
+
+      <h2>Children</h2>
       <p>
-        Our Services do not address anyone under the age of 13. We do not
-        knowingly collect personal identifiable information from children under
-        13. In the case we discover that a child under 13 has provided us with
-        personal information, we immediately delete this from our servers. If
-        you are a parent or guardian and you are aware that your child has
-        provided us with personal information, please contact us so that we will
-        be able to do necessary actions.
+        Eat the Strip is not aimed at children under 13, and we do not knowingly
+        collect their information.
       </p>
-      <h2>Changes to This Privacy Policy</h2>
+
+      <h2>Security and other sites</h2>
       <p>
-        We may update our Privacy Policy from time to time. Thus, we advise you
-        to review this page periodically for any changes. We will notify you of
-        any changes by posting the new Privacy Policy on this page. These
-        changes are effective immediately, after they are posted on this page.
+        We take reasonable steps to protect your information, but no website or
+        email system is perfectly secure. Links to Instagram, YouTube, Ko-fi and
+        other sites take you away from ours, and their privacy policies apply
+        there.
       </p>
+
+      <h2>Changes</h2>
       <p>
-        Our Privacy Policy was created with the help of the{' '}
-        <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/">
-          Privacy Policy Template
-        </a>
-      </p>
-      <h2>Contact Us</h2>
-      <p>
-        If you have any questions or suggestions about our Privacy Policy, do
-        not hesitate to contact us.
+        If we change this policy, we will update the date at the top. Questions
+        are welcome at contact@eatthestrip.com.
       </p>
     </div>
   )
