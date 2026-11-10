@@ -19,8 +19,8 @@ const Footer = () => {
         <ul>
           {navLinks
             .filter(({ id }) => id !== 'home')
-            .map(({ id, label, href }) => (
-              <li key={id}>
+            .map(({ id, label, href, divider }) => (
+              <li key={id} className={divider ? styles.divider : undefined}>
                 <Link href={href}>
                   <a>{label}</a>
                 </Link>

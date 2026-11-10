@@ -61,3 +61,8 @@
     min-width: 15rem;
   }
 }
+
+/* Space above the first legal link (navLinks.js `divider: true`). */
+.divider {
+  margin-top: 0.75rem;
+}

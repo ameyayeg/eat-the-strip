@@ -9,8 +9,13 @@ const Header = () => {
   return (
     <header className={styles.container}>
       <Menu>
-        {navLinks.map(({ id, label, href }) => (
-          <a key={id} id={id} className="menu-item" href={href}>
+        {navLinks.map(({ id, label, href, divider }) => (
+          <a
+            key={id}
+            id={id}
+            className={divider ? `menu-item ${styles.divider}` : 'menu-item'}
+            href={href}
+          >
             {label}
           </a>
         ))}
