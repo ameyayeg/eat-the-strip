@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Subscribe from '../Subscribe'
 import { MdRssFeed } from 'react-icons/md'
 import { FaInstagram, FaYoutube } from 'react-icons/fa'
+import navLinks from '../../utils/navLinks'
 
 const Footer = () => {
   const date = new Date()
@@ -16,31 +17,15 @@ const Footer = () => {
           </a>
         </Link>
         <ul>
-          <li>
-            <Link href="/about">
-              <a>About</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/all">
-              <a>Restaurants map</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/newsletter">
-              <a>Newsletter</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/privacy">
-              <a>Privacy</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/terms">
-              <a>Terms and conditions</a>
-            </Link>
-          </li>
+          {navLinks
+            .filter(({ id }) => id !== 'home')
+            .map(({ id, label, href, divider }) => (
+              <li key={id} className={divider ? styles.divider : undefined}>
+                <Link href={href}>
+                  <a>{label}</a>
+                </Link>
+              </li>
+            ))}
         </ul>
       </div>
       <div className={styles.copyright}>
