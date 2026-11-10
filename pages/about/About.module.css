@@ -1,7 +1,7 @@
 .container {
   width: 900px;
   max-width: 90%;
-  margin: 0 auto;
+  margin: 0 auto 2.5rem;
 }
 
 .about {
@@ -50,18 +50,6 @@
   margin-top: 1rem;
 }
 
-.formContainer {
-  background-color: #78c0a8;
-  padding: 1.25rem 1.5rem;
-  border: 3px solid #555555;
-  margin-bottom: 1rem;
-  border-radius: 5px;
-}
-
-@media (min-width: 40rem) {
-  .container {
-    display: flex;
-    align-items: center;
-    gap: 1.5em;
-  }
+.contactLink {
+  border-bottom: 3px solid #78c0a8;
 }

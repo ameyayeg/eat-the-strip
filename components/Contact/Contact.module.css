@@ -1,53 +1,104 @@
+/* Card styling matches components/SupportBox.module.css. */
 .form {
-  margin-bottom: 1rem;
+  background: #fdf1e7;
+  border: 1px solid #f3cfae;
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  font-family: var(--font-family-roboto);
+  color: #111;
 }
 
-.form label,
-.form input,
-.form textarea {
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-bottom: 1.25rem;
+}
+
+.field label {
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.field input,
+.field textarea,
+.field select {
   width: 100%;
-}
-
-.form input,
-.form textarea {
-  padding: 0.25rem 0.5rem;
-}
-
-.form button {
-  background: #1aab8a;
-  color: #fff;
-  border: none;
-  position: relative;
-  height: 3rem;
-  font-size: 1.6em;
-  padding: 0.25rem 5rem;
-  cursor: pointer;
-  transition: 800ms ease all;
-  outline: none;
-}
-.form button:hover {
+  min-height: 44px;
+  padding: 0.6rem 0.75rem;
+  font-family: inherit;
+  font-size: 16px;
+  color: #111;
   background: #fff;
-  color: #1aab8a;
+  border: 1px solid #c9a98c;
+  border-radius: 8px;
 }
-.form button:before,
-.form button:after {
-  content: '';
-  position: absolute;
-  top: 0;
-  right: 0;
-  height: 2px;
-  width: 0;
-  background: #1aab8a;
-  transition: 400ms ease all;
+
+.field textarea {
+  min-height: 9rem;
+  line-height: 1.5;
+  resize: vertical;
 }
-.form button:after {
-  right: inherit;
-  top: inherit;
-  left: 0;
-  bottom: 0;
+
+.field input:focus-visible,
+.field textarea:focus-visible,
+.field select:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 2px;
 }
-.form button:hover:before,
-.form button:hover:after {
+
+.group {
+  border: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+}
+
+/* Floated so the legend sits below the divider line like a normal block,
+   instead of on top of the fieldset border. */
+.helper {
+  float: left;
   width: 100%;
-  transition: 800ms ease all;
+  border-top: 1px solid #f3cfae;
+  padding: 1.25rem 0 0;
+  margin-bottom: 1rem;
+  font-size: var(--font-size-base);
+  font-style: italic;
+  color: #333;
+}
+
+.helper + * {
+  clear: both;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: 999px;
+  background: #ee802f;
+  color: #111;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.button:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 3px;
+}
+
+@media (max-width: 40rem) {
+  .form {
+    padding: 1.25rem;
+  }
+
+  .button {
+    width: 100%;
+  }
 }

@@ -1,5 +1,5 @@
+import Link from 'next/link'
 import styles from './About.module.css'
-import Contact from '../../components/Contact/Contact'
 
 const About = () => {
   return (
@@ -36,10 +36,12 @@ const About = () => {
             <span style={{ borderBottom: '3px solid #78c0a8' }}>here.</span>
           </a>
         </p>
-      </div>
-      <div className={styles.formContainer}>
-        <h2>Want to suggest a strip mall gem? Write to us!</h2>
-        <Contact />
+        <p>
+          Know a strip mall gem, or want to get in touch?{' '}
+          <Link href="/contact">
+            <a className={styles.contactLink}>Contact us.</a>
+          </Link>
+        </p>
       </div>
     </div>
   )

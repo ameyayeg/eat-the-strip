@@ -10,7 +10,7 @@ const Privacy = () => {
       </Head>
       <h1>Privacy Policy</h1>
       <p>
-        <em>Last updated: November 7, 2026</em>
+        <em>Last updated: November 10, 2026</em>
       </p>
       <p>
         Eat the Strip collects very little about you: an email address if you
@@ -35,14 +35,15 @@ const Privacy = () => {
         use your address only to send the newsletter.
       </p>
       <p>
-        <strong>Messages to us.</strong> If you use the contact form on the
-        About page, we collect the name, email address and message you type. If
-        you email contact@eatthestrip.com or use the “Email us” link under a
-        post, we receive your email and whatever you put in it. We use it to
-        reply and to consider restaurant suggestions, which we may record in a
-        private spreadsheet with your name or email so we can follow up. Contact
-        form messages are stored by our web host and emailed to us. Email sent
-        to contact@eatthestrip.com passes through an email forwarding service to
+        <strong>Messages to us.</strong> If you use the contact form, we collect
+        your name, email address and message, and, if you choose to tell us, a
+        dish you'd recommend and how you're connected to the restaurant. If you
+        email contact@eatthestrip.com or use the “Email us” link under a post,
+        we receive your email and whatever you put in it. We use it to reply and
+        to consider restaurant suggestions, which we may record in a private
+        spreadsheet with your name or email so we can follow up. Contact form
+        messages are stored by our web host and emailed to us. Email sent to
+        contact@eatthestrip.com passes through an email forwarding service to
         our inbox.
       </p>
       <p>
