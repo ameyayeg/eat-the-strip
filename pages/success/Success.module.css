@@ -1,0 +1,80 @@
+/* Card styling matches components/SupportBox.module.css. */
+.card {
+  width: 600px;
+  max-width: calc(100% - 2rem);
+  margin: 3rem auto 4rem;
+  padding: 2rem 1.5rem;
+  background: #fdf1e7;
+  border: 1px solid #f3cfae;
+  border-radius: 16px;
+  font-family: var(--font-family-roboto);
+  color: #111;
+  text-align: center;
+}
+
+.card h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: var(--font-size-lg);
+  line-height: 1.2;
+  margin: 0 0 1rem;
+}
+
+.text {
+  font-size: var(--font-size-base);
+  line-height: 1.6;
+  margin: 0 auto 1.75rem;
+  max-width: 34rem;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.primary,
+.secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0.75rem 1.5rem;
+  border-radius: 999px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #111;
+  text-decoration: none;
+}
+
+.primary {
+  background: #ee802f;
+  border: 2px solid #ee802f;
+}
+
+.secondary {
+  background: transparent;
+  border: 2px solid #c45f17;
+}
+
+.primary:focus-visible,
+.secondary:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 3px;
+}
+
+@media (max-width: 40rem) {
+  .card {
+    margin: 2rem auto 3rem;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+
+  .primary,
+  .secondary {
+    width: 100%;
+  }
+}
