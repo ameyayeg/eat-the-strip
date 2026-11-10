@@ -3,32 +3,17 @@ import Link from 'next/link'
 import { slide as Menu } from 'react-burger-menu'
 import { FaInstagram, FaYoutube } from 'react-icons/fa'
 import Subscribe from '../Subscribe'
+import navLinks from '../../utils/navLinks'
 
 const Header = () => {
   return (
     <header className={styles.container}>
       <Menu>
-        <a id="home" className="menu-item" href="/home">
-          Home
-        </a>
-        <a id="fredericton" className="menu-item" href="/home/fredericton">
-          Fredericton
-        </a>
-        <a id="about" className="menu-item" href="/about">
-          About
-        </a>
-        <a id="all" className="menu-item" href="/all">
-          Restaurants map
-        </a>
-        <a id="newsletter" className="menu-item" href="/newsletter">
-          Newsletter
-        </a>
-        <a id="privacy" className="menu-item" href="/privacy">
-          Privacy
-        </a>
-        <a id="terms" className="menu-item" href="/terms">
-          Terms and conditions
-        </a>
+        {navLinks.map(({ id, label, href }) => (
+          <a key={id} id={id} className="menu-item" href={href}>
+            {label}
+          </a>
+        ))}
         <div
           style={{
             display: 'flex',
