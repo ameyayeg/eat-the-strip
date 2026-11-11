@@ -24,7 +24,7 @@ The restaurant itself is modest and comfortable, with around a dozen tables, bla
 
 Two men greeted us warmly from behind the counter as soon as we walked in, immediately making us feel comfortable. One of them was Jet, a cook who has been working with Ryan for about half a year. After our meal he came over to chat, talking about the challenges and small victories of running a business hidden inside the Exhibition Grounds.
 
-As a bit of a poutine purist, I ordered the classic. The first surprise was the price. A small poutine came in at under seven dollars, which in 2026 feels almost suspiciously affordable. Joel and Lily both opted for the buffalo chicken poutine.
+As a bit of a poutine purist, I ordered the classic. The first surprise was the price. A small poutine came in at under $7, which in 2026 feels almost suspiciously affordable. Joel and Lily both opted for the buffalo chicken poutine.
 
 Less than 10 minutes later, the food arrived piping hot.
 

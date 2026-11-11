@@ -43,7 +43,7 @@ Elite Kitchen has now been operating for three and a half years. Ebrahim adapted
 
 The margins on his food are slim, he explains, which makes catering essential to keeping the business going. The food court gives him a way to serve customers every day, but catering is where the business becomes more financially viable.
 
-There’s also the question of what customers expect to pay. This is a government office building, and Ebrahim has had to adapt his menu to suit the tastes and budgets of the people upstairs. Some customers still expect pre-pandemic prices, imagining that freshly prepared food should cost five or six dollars.
+There’s also the question of what customers expect to pay. This is a government office building, and Ebrahim has had to adapt his menu to suit the tastes and budgets of the people upstairs. Some customers still expect pre-pandemic prices, imagining that freshly prepared food should cost $5 or $6.
 
 It’s a familiar problem for small food businesses. Customers want quality, freshness and generous portions, but they’re often reluctant to pay what those things actually cost. For someone cooking from scratch, the arithmetic can be brutal.
 

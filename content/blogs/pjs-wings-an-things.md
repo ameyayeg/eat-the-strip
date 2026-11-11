@@ -30,7 +30,7 @@ Owner Peter Jones tells me this all started with a market stall, then a food tru
 
 The space is tight, and Peter admits it: “It would be nice to have a bigger spot. We’re limited here.” Maybe one day they’ll expand, add more seating, or even bottle their sauces. For now, though, they’re making the most of what they’ve got—and doing it really well.
 
-Going to PJ’s feels like stopping by a friend’s place—if your friend happens to be a master of wings and knows how to fry a mean piece of fish. It’s casual, unpretentious, and deeply satisfying. My fish and chips ran me about eighteen bucks. The wings were sixteen. Could you get wings for cheaper elsewhere? Probably. But this kind of quality, with this kind of care, isn’t as easy to find.
+Going to PJ’s feels like stopping by a friend’s place—if your friend happens to be a master of wings and knows how to fry a mean piece of fish. It’s casual, unpretentious, and deeply satisfying. My fish and chips ran me about $18. The wings were $16. Could you get wings for cheaper elsewhere? Probably. But this kind of quality, with this kind of care, isn’t as easy to find.
 
 And when you’re done, don’t forget to swing by York County Cider next door. A crisp pint on a sunny patio is the perfect way to finish off a meal like this.
 

@@ -17,7 +17,7 @@ From the outside, it looks like a small grocer. And it is. But wander in, past t
 
 It’s past the lunch rush when I stop in. The aisles are quiet, the AC is humming, and I’ve got the place more or less to myself. A woman behind the counter greets me with an easy smile and helps me pick my sandwich. I go with the number eight, the Misto Italiano. It’s a towering stack of mortadella, Genoa salami, capicollo, and provolone, layered onto a fresh Italian bun. The bread is made in-house daily, and it shows—soft and warm, with just the right chew.
 
-The sandwich takes about five minutes to come together, but it’s worth every second. Wrapped like a gift, it’s hefty enough to double as a paperweight. Walking it back to the car, I feel like I’m carrying a brick of banana bread. And at just under ten dollars, it feels like theft.
+The sandwich takes about five minutes to come together, but it’s worth every second. Wrapped like a gift, it’s hefty enough to double as a paperweight. Walking it back to the car, I feel like I’m carrying a brick of banana bread. And at just under $10, it feels like theft.
 
 ![Stacked with mortadella, Genoa salami, capicollo and provolone, the Misto Italiano at Farmers Pick is a two-handed, jaw-stretching masterpiece of a sandwich](/uploads/img_8950.jpeg "Farmer's Pick Misto Italiano")
 

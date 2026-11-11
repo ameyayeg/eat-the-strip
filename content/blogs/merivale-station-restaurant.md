@@ -31,7 +31,7 @@ Doused in gravy, my hamburger and mashed potatoes were served on a plate that co
 
 “It's hard to mess up,” he said, after swallowing a mouthful of bacon and eggs. While true, the sheer portion of the meal had us both very happy with our choice.
 
-![I'm excited to try the classic breakfast special next time, which came to a total of just under eight dollars](/uploads/img_3895.jpeg "Merivale Station Restaurant two eggs with home fries, toast and choice of protein")
+![I'm excited to try the classic breakfast special next time, which came to a total of just under $8](/uploads/img_3895.jpeg "Merivale Station Restaurant two eggs with home fries, toast and choice of protein")
 
 Ben then told me his parents were traveling to Barbados the following day. Ben’s father asked him to pick up over a dozen frozen egg rolls from Golden Palace Restaurant, located on Carling Avenue. To take them with him. To the Caribbean. This was an outstanding level of dedication to strip mall food.
 

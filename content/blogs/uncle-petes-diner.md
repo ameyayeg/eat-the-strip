@@ -72,7 +72,7 @@ Even so, affordability remains one of his priorities.
 
 "I try to keep them as low as I can and still survive."
 
-That commitment is immediately evident on the menu. Our breakfast cost just over ten dollars. Gemma's poutine hovered around ten. Even the fish and chips came in at roughly fifteen dollars. At a time when restaurant prices seem to climb monthly, the value here is remarkable.
+That commitment is immediately evident on the menu. Our breakfast cost just over $10. Gemma's poutine hovered around $10. Even the fish and chips came in at roughly $15. At a time when restaurant prices seem to climb monthly, the value here is remarkable.
 
 Pete grew up on Fredericton's north side before moving to the area in 2008. Since opening the diner, support from local residents has helped sustain the business.
 

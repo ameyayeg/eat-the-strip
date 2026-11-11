@@ -24,7 +24,7 @@ Buttercream Dreams has existed in some form since 2011, first as a staple at the
 
 We’re a group of six for this one, and instead of trying to navigate the menu individually, we take the easier route—order a bit of everything and share. Boxes fill quickly. Donuts, cupcakes, squares, slices. Enough to turn the back of a car into a makeshift table.
 
-The pricing lands in a range that feels easy to work with, especially given the quality and how fresh everything is. Donuts sit around a few dollars each, with the Korean milk donuts closer to seven, while a mix like a fritter and a few classics stays reasonable overall. Larger items like the tiramisu and lemon square come in higher, but still feel in line with what you’re getting. It adds up quickly if you’re sampling across the menu, but nothing about it feels out of step.
+The pricing lands in a range that feels easy to work with, especially given the quality and how fresh everything is. Donuts sit around a few dollars each, with the Korean milk donuts closer to $7, while a mix like a fritter and a few classics stays reasonable overall. Larger items like the tiramisu and lemon square come in higher, but still feel in line with what you’re getting. It adds up quickly if you’re sampling across the menu, but nothing about it feels out of step.
 
 After a quick conversation with owner Lauralee and the staff, we take everything outside and set up in the parking lot. A donut tailgate, more or less. It feels like the right way to do it.
 

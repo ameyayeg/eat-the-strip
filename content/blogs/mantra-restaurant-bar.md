@@ -26,7 +26,7 @@ If you haven’t had one before, a dosa is a thin, crispy crepe made from a ferm
 
 ![The dosa was crisp, tangy, and deeply flavourful with chutneys that bring heat, acid, and balance](/uploads/img_1260.jpeg "Mantra Restaurant & Bar plain dosa")
 
-I loved it. Fully. The kind of dish that doesn’t try to soften itself for anyone. Bold, direct, and confident. The kind of dosa that would feel right at home at a roadside stall in Telangana. At around ten dollars, it’s also one of those things you don’t think twice about ordering again.
+I loved it. Fully. The kind of dish that doesn’t try to soften itself for anyone. Bold, direct, and confident. The kind of dosa that would feel right at home at a roadside stall in Telangana. At around $10, it’s also one of those things you don’t think twice about ordering again.
 
 Marco keeps coming back to it too—the fragrance, the range of spice, how present everything feels. It’s layered without being complicated. Nina, unfazed by the heat, just keeps going.
 
