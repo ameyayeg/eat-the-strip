@@ -27,7 +27,7 @@ Now you’re probably wondering, is there a catch?
 
 You betcha.
 
-Primarily a breakfast and lunch spot, with its core diners being the starved laborers of Nepean, 50 Two Sandwiches adheres to a rather limited schedule. If you want a life-changing sandwich, you’ll have to stop by Monday to Friday, between 10:00 a.m. to 3:00 p.m. Expect a line, as these are the only times the restaurant will be open, but it is worth the wait.
+Primarily a breakfast and lunch spot, with its core diners being the starved labourers of Nepean, 50 Two Sandwiches adheres to a rather limited schedule. If you want a life-changing sandwich, you’ll have to stop by Monday to Friday, between 10:00 a.m. to 3:00 p.m. Expect a line, as these are the only times the restaurant will be open, but it is worth the wait.
 
 So, what kind of sandwich can you expect? The kind that shuts you up for 30 minutes to an hour of unpaid lunch time.
 

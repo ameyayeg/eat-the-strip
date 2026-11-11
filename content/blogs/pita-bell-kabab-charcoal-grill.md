@@ -51,7 +51,7 @@ I had already eaten supper prior to arriving the restaurant, thinking I was ther
 
 Once again, I was wrong. 
 
-Pita Bell Kabab’s logo, like the lobby itself, is very unassuming. It’s a round circle, with the name of the restaurant wrapped within the circumference, with a “PB” in the center. Below, a black rectangle with yellow capital letters reads “CHARCOAL GRILL” with little flames coming off it, adding colour to the emblem. 
+Pita Bell Kabab’s logo, like the lobby itself, is very unassuming. It’s a round circle, with the name of the restaurant wrapped within the circumference, with a “PB” in the centre. Below, a black rectangle with yellow capital letters reads “CHARCOAL GRILL” with little flames coming off it, adding colour to the emblem. 
 
 I’ve had my fair share of experiences eating at places with “charcoal grilled”or “in-house smoked” or ‘barbequed daily” on their signs. So much so that I rarely pay attention to it. This time, it caught me by full surprise. Pita Bell uses real charcoal, in a real Turkish grill, giving their dishes flavourful char one the outside and soft, juicy goodness in the inside. 
 

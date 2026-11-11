@@ -33,4 +33,4 @@ The creamy melt and pesto chicken pizzas were melt-in-your-mouth delicious and w
 
 We highly recommend asking for an extra dipping sauce or two. Who can have pizza without dipping sauce? Let alone a dipping sauce that is as delicious as this one and that I haven’t had the likes of at any other pizza place in town.
 
-Next time we visit, we will have to branch out into the flavors of their BBQ menu and, if it’s anything like the pizza, it will be heaven on a plate.
+Next time we visit, we will have to branch out into the flavours of their BBQ menu and, if it’s anything like the pizza, it will be heaven on a plate.

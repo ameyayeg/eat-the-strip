@@ -27,6 +27,6 @@ Our friend’s red curry also receives an honourable mention. The rich coconut s
 
 ![Our friend Taylor's tofu red curry was served with eggplant, chayote squash, zucchini, green and red peppers, cooked in a curry sauce](/uploads/img_6019.jpeg "Thai Lanna red curry")
 
-With each dish costing between $20 and $25, we were hoping for some leftovers. This was exactly what happened. While packing up our food I asked our server, originally from northern Thailand, if the rumors we heard about the restaurant receiving a thumbs up on the authenticity front from the Thai embassy were true. While we didn’t see a certificate, nor did we corroborate with the embassy before publishing this piece, she nodded to confirm that the rumors were indeed true.
+With each dish costing between $20 and $25, we were hoping for some leftovers. This was exactly what happened. While packing up our food I asked our server, originally from northern Thailand, if the rumours we heard about the restaurant receiving a thumbs up on the authenticity front from the Thai embassy were true. While we didn’t see a certificate, nor did we corroborate with the embassy before publishing this piece, she nodded to confirm that the rumours were indeed true.
 
 We, too, left clutching our takeout bags, grinning ear-to-ear.

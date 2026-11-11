@@ -17,7 +17,7 @@ I’m proud of him for leaning into his passion of journalism, food, and technol
 
 Nestled at the crossroads of Bank Street and Hunt Club Road, Semsem is the most recommended restaurant by our readers thus far.
 
-Welcomed by the bright smiles of the jovial staff, we ordered Semsem’s house coffee and tea without delay. The Semsem coffee was a creamy beverage of sesame-flavored coffee topped with a dollop of whipped cream and sesame seeds—a  delectable way to kickstart our meal.
+Welcomed by the bright smiles of the jovial staff, we ordered Semsem’s house coffee and tea without delay. The Semsem coffee was a creamy beverage of sesame-flavoured coffee topped with a dollop of whipped cream and sesame seeds—a  delectable way to kickstart our meal.
 
 ![With its rich whipped cream and a healthy sprinkling of sesame, Semsem's house coffee was the perfect way to start the day](/uploads/img_0799.jpeg "Semsem coffee")
 

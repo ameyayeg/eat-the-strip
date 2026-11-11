@@ -19,7 +19,7 @@ The restaurant's signature fish curry (rohu) presents a masterclass in balanced 
 
 Their chotpoti, a traditional Bengali street food, showcases the authentic flavours of Bangladesh. This hearty snack combines boiled eggs, potatoes, and chickpeas with a spicy tamarind sauce, served with crispy puri bread. The dish exemplifies the restaurant's commitment to authentic Bengali cuisine, with each component carefully prepared to create a harmonious balance of flavours and textures. Both dishes showcase the freshness of ingredients and home-style preparation that makes each bite feel like a visit to someone's kitchen.
 
-![Rohu is a prized freshwater fish native to South Asia, particularly cherished in Bengali cuisine for its firm, flaky texture and mild flavor, making it a traditional favorite in Bangladesh where it's often served in elaborate preparations for special occasions and celebrations](/uploads/img_7876.jpeg "Desi Takeout fish curry ")
+![Rohu is a prized freshwater fish native to South Asia, particularly cherished in Bengali cuisine for its firm, flaky texture and mild flavour, making it a traditional favourite in Bangladesh where it's often served in elaborate preparations for special occasions and celebrations](/uploads/img_7876.jpeg "Desi Takeout fish curry ")
 
 Both the fish curry and chotpoti are priced very reasonably, with my total coming to around $20 for both. As the restaurant's biryani specialist, Ahmed demonstrates particular care with this cornerstone dish, recently reducing its price by nearly $5 to make it more accessible to customers, with the signature chicken biryani priced at just $10.
 

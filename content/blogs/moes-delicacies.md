@@ -18,7 +18,7 @@ Moe tells us about their Thursday menu as we decide what to order. I settle on t
 
 The ofada rice arrives piled high on plates, smoky and fiery, with chunks of beef and tender tripe that immediately feel familiar and grounding. The beans are perfectly cooked, and the palm oil lends a nutty, rich flavour that soaks into every bite. Each mouthful is packed with warmth and depth, and despite the generous portion, I can’t stop eating. Marc’s jollof rice has a beautifully balanced BBQ-like seasoning and is clearly made with care. While both dishes are more than enough for two meals, Marc jokes that his plate could easily feed three.
 
-![Smoky, fiery, and bursting with flavor, this Nigerian ofada rice—served with tender beef, tripe, and perfectly cooked beans in a nutty palm oil sauce—delivers comfort and heat in every unforgettable bite](/uploads/img_0490.jpeg "Moe's Delicacies ofada rice")
+![Smoky, fiery, and bursting with flavour, this Nigerian ofada rice—served with tender beef, tripe, and perfectly cooked beans in a nutty palm oil sauce—delivers comfort and heat in every unforgettable bite](/uploads/img_0490.jpeg "Moe's Delicacies ofada rice")
 
 Across from us, a diner has ordered jollof rice with sauce and fish—a combination we make a note to try next time. It’s clear that while the jollof is satisfying, the ofada rice steals the show.
 

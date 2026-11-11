@@ -31,13 +31,13 @@ We found Chili Craft Pizza tucked away in a strip mall just off Carling Avenue, 
 
 The menu seemed to cater to many palates, from classic pizzas to new creations with extensive, inspired toppings and range of vegetarian options that looked delicious, even to us meat eaters. Always feeling nostalgic for the flavours of India, we settled on a tandoori chicken pizza and a tandoori chicken wrap. 
 
-We enjoyed the pizza and found the flavors of a slightly sweet madras sauce, green pepper, onion and tandoori chicken to resemble an Indian/Canadian crossover. It would satisfy even those not specifically seeking desi flavours. The toppings worked well and the chipotle mayo was an added bonus.
+We enjoyed the pizza and found the flavours of a slightly sweet madras sauce, green pepper, onion and tandoori chicken to resemble an Indian/Canadian crossover. It would satisfy even those not specifically seeking desi flavours. The toppings worked well and the chipotle mayo was an added bonus.
 
 ![While the pizza was good, the tandoori chicken wrap knocked it out of the park](/uploads/img_0648.jpeg "Tandoori chicken pizza")
 
 While the pizza was good, there are other desi pizza joints in the city we prefer. A medium pizza set us back $20.99 before taxes. The tandoori chicken wrap, on the other hand, was what made this outing worth it. 
 
-I can’t rave about enough about it; so creamy, saucy, flavorful, and packed with mouth-watering tandoori chicken. We couldn’t put this one down. 
+I can’t rave about enough about it; so creamy, saucy, flavourful, and packed with mouth-watering tandoori chicken. We couldn’t put this one down. 
 
 ![The wrap came with tandoori chicken, mozzarella, lettuce, tomatoes, onions, bell peppers, cilantro, green chilli sauce, truffle, gravy and chipotle sauce](/uploads/img_0651.jpeg "Tandoori chicken wrap")
 

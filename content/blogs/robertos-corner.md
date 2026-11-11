@@ -43,7 +43,7 @@ It was delicious.
 
 The crunchy exteriors mingled perfectly with the stuffed chicken, cheese and peas. The tangy marinara added a nice zest to the dish, which could just as well have been served solo.
 
-![Our first experience of arancini was mesmerising](/uploads/img_1232.jpeg "Arancini")
+![Our first experience of arancini was mesmerizing](/uploads/img_1232.jpeg "Arancini")
 
 Before going to Roberto’s Corner, I had scanned several of their Google reviews.
 
