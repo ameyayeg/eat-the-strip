@@ -15,7 +15,7 @@ It’s no secret, Ng’s Cuisine serves some of the best Chinese food in Ottawa.
 
 Offering traditional Cantonese and Sichuan food, the bustling restaurant has been a staple for dim sum and large family dinners for around two decades.
 
-We’d been craving har gow; our plans for the day were dashed—it was time to head to Ng’s, located less than three kilometres away from us, for a languorous dim sum brunch.
+We’d been craving har gow; our plans for the day were dashed—it was time to head to Ng’s, located less than 3 km away from us, for a languorous dim sum brunch.
 
 We were seated almost immediately at the plastic-covered tables. The vibe was old-school, with wall-to-wall murals of traditional village scenes and paintings. We sat underneath a chalkboard with ostensibly Cantonese dish names scribbled that morning. Despite getting there after peak dim sum hours, the restaurant was quite full of families sipping tea, chatting and chowing down on delicious dumplings.
 

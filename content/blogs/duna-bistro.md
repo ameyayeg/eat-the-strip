@@ -22,7 +22,7 @@ What attracted us to Duna is that it is a humble restaurant that serves authenti
 
 For our review, we got takeout, ordering for four adults and two toddlers; however, the decor of Duna Bistro is a traditional decorated interior, extremely inviting for a couple on a first date or large family outings. We ordered the appetizer of mushroom and sauerkraut pierogies, schnitzel with spaetzle and braised red cabbage and beef rouladen with cucumber salad and mashed potato.
 
-Immediately the schnitzel draws a crowd; it is served in a large pizza box with several lemon wedges on the side. Using a pizza cutter to divide, everyone had a generous portion; our one-year-old kept demanding more and more and more. Be sure to get the spaetzle and sauerkraut for sides—the schnitzel demands the presence of its sauerkraut soulmate.
+Immediately the schnitzel draws a crowd; it is served in a large pizza box with several lemon wedges on the side. Using a pizza cutter to divide, everyone had a generous portion; our 1-year-old kept demanding more and more and more. Be sure to get the spaetzle and sauerkraut for sides—the schnitzel demands the presence of its sauerkraut soulmate.
 
 ![The pork schnitzel was packed into a pizza box and, despite the takeaway dinner, remained crispy throughout the meal](/uploads/img_0364.jpeg "Schnitzel")
 

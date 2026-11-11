@@ -13,7 +13,7 @@ image: /uploads/img_6017.jpeg
 ---
 When we got wind of the fact that a restaurant in Ottawa’s south end may have received the blessings of the Thai embassy as authentic Thai cooking, we knew we had to visit.
 
-We made it to Thai Lanna, located in a strip mall near Bank Street and Hunt Club Road, last week. We went with our friends Adele and Taylor and their adorable two-year-old. We walked in at dinnertime, a constant stream of diners making their way in and out of the small restaurant. Paintings adorned the yellow walls as a gregarious server greeted us with a pitcher of cold water. We waved goodbye to a group of women on their way out, excited to take home their leftovers. When I asked them how their food was, one of them said “excellent” while grinning from ear-to-ear.
+We made it to Thai Lanna, located in a strip mall near Bank Street and Hunt Club Road, last week. We went with our friends Adele and Taylor and their adorable 2-year-old. We walked in at dinnertime, a constant stream of diners making their way in and out of the small restaurant. Paintings adorned the yellow walls as a gregarious server greeted us with a pitcher of cold water. We waved goodbye to a group of women on their way out, excited to take home their leftovers. When I asked them how their food was, one of them said “excellent” while grinning from ear-to-ear.
 
 This got us very excited for our food. We ordered an assortment of dishes with an agreement to share. Our friends ordered a vegetarian pad thai and red curry. We ordered the basil chili chicken prepared in its “street food version” and the legendary pad kee maw, also known as drunken noodles. We asked for our food to be medium spicy.
 

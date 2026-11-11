@@ -24,7 +24,7 @@ But I have to admit: the wings surprised me. I don’t usually seek them out, bu
 
 ![PJ’s Cajun Buffalo wings bring the heat and the crunch, perfectly balanced with house-made ranch that regulars swear by](/uploads/pjs_buffalowings.jpeg "PJ's Wings an Things Cajun Buffalo wings")
 
-Owner Peter Jones tells me this all started with a market stall, then a food truck, before eventually landing here. “We’ve been busy as hell,” he says, and it’s easy to believe. Born in Portsmouth, Peter came to Canada when he was seven, went back to the UK as a teenager, and brought back a piece of that culinary tradition with him. The fish is caught in Norway and delivered through a Moncton wholesaler. Now, he’s got a tight crew—nine people, including Cameron on the front lines and longtime part-timers like Steve. Most of the team has been with him for years, which says a lot.
+Owner Peter Jones tells me this all started with a market stall, then a food truck, before eventually landing here. “We’ve been busy as hell,” he says, and it’s easy to believe. Born in Portsmouth, Peter came to Canada when he was 7, went back to the UK as a teenager, and brought back a piece of that culinary tradition with him. The fish is caught in Norway and delivered through a Moncton wholesaler. Now, he’s got a tight crew—nine people, including Cameron on the front lines and longtime part-timers like Steve. Most of the team has been with him for years, which says a lot.
 
 ![Golden, flaky, and unapologetically classic, PJ’s fish and chips are a masterclass in keeping things simple and right](/uploads/pjs_fishandchips.jpeg "PJ's Wings an Things fish and chips")
 

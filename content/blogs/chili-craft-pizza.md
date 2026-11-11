@@ -11,7 +11,7 @@ positives: 45.35526688565678
 negatives: -75.80701253068783
 image: /uploads/img_0636.jpeg
 ---
-Saturdays in our household are busy. More so after running a six kilometre mud race. 
+Saturdays in our household are busy. More so after running a 6-km mud race. 
 
 That’s when cravings for some good strip mall food begin. But first, let me back up a little. 
 
@@ -23,7 +23,7 @@ We started the morning early, rising at about 8 a.m. to brew some coffee. The lo
 
 After our outing with all the obstacles, mud, and many sore muscles, we contemplated melting into our comfy couch. But our friend had just gotten a new puppy she wanted us to meet. How could we say no? So, we dragged ourselves from the comfy homestead and headed out to meet Virgina Woof—also known as Gina—the red golden retriever.  
 
-After a solid couple of hours of puppy playtime—and a six kilometre run thrown in for good measure—you can imagine we were pretty hungry. 
+After a solid couple of hours of puppy playtime—and a 6-km run thrown in for good measure—you can imagine we were pretty hungry. 
 
 Cue the Eat the Strip strip mall adventure. 
 

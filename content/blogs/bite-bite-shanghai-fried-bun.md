@@ -47,7 +47,7 @@ The spicy beef brisket noodle soup resulted in the same foodgasm noises from all
 
 I loved the shrimp and pork wonton soup and I thought 12 pieces was very generous. The house vinegar and chili oil just added so much flavour and I was surprised at just how fresh the soup and wontons tasted.
 
-My four-year-old enjoyed the pickled vegetables and shredded pork noodle soup. I appreciated that they separated the pickled vegetables and shredded pork from the noodles, so he could just enjoy clear soup and noodles. The noodles were al dente and he loved it. Us adults enjoyed the pickled veggies and shredded pork separately.
+My 4-year-old enjoyed the pickled vegetables and shredded pork noodle soup. I appreciated that they separated the pickled vegetables and shredded pork from the noodles, so he could just enjoy clear soup and noodles. The noodles were al dente and he loved it. Us adults enjoyed the pickled veggies and shredded pork separately.
 
 We ended our meal by ordering another round of pan-fried wontons, because why not?
 
