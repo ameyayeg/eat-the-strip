@@ -11,7 +11,7 @@ positives: 45.38937572194538
 negatives: -75.61723209263663
 image: /uploads/img_3305.jpeg
 ---
-We were very confused on a Monday afternoon as we stood outside the Milanos at 2241 St. Laurent Boulevard. We had come looking for Skinny George’s Smash Burgers, but all we could see was the familiar red and green of a Milanos.
+We were very confused on a Monday afternoon as we stood outside the Milanos at 2241 St. Laurent Blvd.. We had come looking for Skinny George’s Smash Burgers, but all we could see was the familiar red and green of a Milanos.
 
 It turns out there’s a perfectly good explanation. The owner bought the Milanos and started Skinny George’s at the same counter. There are separate menus for the two businesses, something the server quickly explained when she saw the three of us standing there trying to figure it out. We took a booth by the window, surrounded by diner-style seating, delivery drivers and plenty of tables in the middle of the restaurant. Across the street is a gas station. There’s nothing particularly trendy about the setting, which is part of the charm.
 

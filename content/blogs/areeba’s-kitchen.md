@@ -19,7 +19,7 @@ We were coming from Almonte, where we had spent the day by the Blakeney Rapids, 
 
 Then again, that was usually when things got interesting.
 
-Areeba’s Kitchen is tucked into the Merivale industrial corridor at 70 Bongard Avenue, Unit J. It isn’t far from 50 Two Sandwiches, one of the legendary sandwich spots we covered in the early days of Eat the Strip. The area is mostly warehouses and industrial units, the sort of place you drive through because you have somewhere else to be.
+Areeba’s Kitchen is tucked into the Merivale industrial corridor at 70 Bongard Ave., Unit J. It isn’t far from 50 Two Sandwiches, one of the legendary sandwich spots we covered in the early days of Eat the Strip. The area is mostly warehouses and industrial units, the sort of place you drive through because you have somewhere else to be.
 
 We pull up on a Saturday around 5:30 p.m., stuck in that awkward gap between lunch and dinner when you’re hungry enough for a proper meal but early enough that most restaurants still feel like they’re waiting for the evening to begin.
 

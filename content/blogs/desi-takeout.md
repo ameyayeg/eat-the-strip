@@ -13,9 +13,9 @@ image: /uploads/img_7862.jpeg
 ---
 Hidden within the walls of Desi Price Club, a South Asian grocery store in Ottawa's industrial landscape, Minhazuddin Ahmed has brought forth a culinary gem that embodies the authentic spirit of Bengali cuisine.
 
-What sets Desi Takeout apart is its unwavering commitment to authenticity. Unlike many establishments that rely on commercial spice blends, Ahmed's wife crafts her own recipes from scratch, meticulously grinding spices at home. This dedication to simplicity extends to their preparation methods - notably avoiding tomatoes and nuts in favour of pure, unadulterated flavours.
+What sets Desi Takeout apart is its unwavering commitment to authenticity. Unlike many establishments that rely on commercial spice blends, Ahmed's wife crafts her own recipes from scratch, meticulously grinding spices at home. This dedication to simplicity extends to their preparation methods—notably avoiding tomatoes and nuts in favour of pure, unadulterated flavours.
 
-The restaurant's signature fish curry (rohu) presents a masterclass in balanced flavours, with meaty, tender fish complemented by a fragrant tadka - the traditional South Asian technique of tempering spices in hot oil to release their full aromatic potential. For enthusiasts of fish skin, this dish offers an especially rewarding experience.
+The restaurant's signature fish curry (rohu) presents a masterclass in balanced flavours, with meaty, tender fish complemented by a fragrant tadka—the traditional South Asian technique of tempering spices in hot oil to release their full aromatic potential. For enthusiasts of fish skin, this dish offers an especially rewarding experience.
 
 Their chotpoti, a traditional Bengali street food, showcases the authentic flavours of Bangladesh. This hearty snack combines boiled eggs, potatoes, and chickpeas with a spicy tamarind sauce, served with crispy puri bread. The dish exemplifies the restaurant's commitment to authentic Bengali cuisine, with each component carefully prepared to create a harmonious balance of flavours and textures. Both dishes showcase the freshness of ingredients and home-style preparation that makes each bite feel like a visit to someone's kitchen.
 

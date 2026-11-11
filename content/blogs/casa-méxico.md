@@ -30,6 +30,6 @@ Highlights included the broth that came with the quesabirrias. What’s not to l
 
 The meals could have benefited from a little bit more flavour and a little bit less salt. 
 
-Overall, our order came to just shy of $200 for four people – quite steep compared to some of the other strip mall gems we’ve discovered. 
+Overall, our order came to just shy of $200 for four people—quite steep compared to some of the other strip mall gems we’ve discovered. 
 
 All considered, Casa Mexico receives 3/5 stars.

@@ -14,7 +14,7 @@ positives: 45.28496019933394
 negatives: -75.74534055402862
 image: /uploads/img_3877.jpeg
 ---
-Near Longfields station in Barrhaven, in a modern strip that looks like a transit-oriented development, a new Sri Lankan restaurant called Spiceylon has opened at 605 Longfields Dr., Unit 5. It’s about two and a half months old, and it’s a family story.
+Near Longfields station in Barrhaven, in a modern strip that looks like a transit-oriented development, a new Sri Lankan restaurant called Spiceylon has opened at 605 Longfields Drive, Unit 5. It’s about two and a half months old, and it’s a family story.
 
 Owner Thayalan came to Canada from Jaffna, in northern Sri Lanka, more than 30 years ago. His brother runs Ceylonta, the downtown Sri Lankan restaurant that has been around for 33 years, so Thayalan knew the game. He wanted to try his own version. He ran a packaging business, and Ayini, the Sri Lankan restaurant that used to be in this space, was one of his customers and bought a lot from him in the early days. When he called the owner, he learned the restaurant had closed.
 

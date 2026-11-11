@@ -13,7 +13,7 @@ image: /uploads/img_3639.jpeg
 ---
 This is one of the rare times we’ve ventured downtown for Eat the Strip. We’re more accustomed to industrial parks and suburban strip malls, where restaurants hide in plain sight between auto shops, warehouses and parking lots. Downtown Ottawa is a different beast. Instead of pulling into a plaza, Sergio, my frequent collaborator on the blog, and I find ourselves navigating the labyrinthine corridors of a government office tower, following the flow of employees through the building in search of lunch.
 
-Eventually, we find Elite Kitchen, tucked into the basement food court at 407 Laurier Avenue West. It’s not exactly the sort of place you stumble across by accident, but that’s part of the appeal. This is a genuine hidden gem, run by Ebrahim, an owner and chef who’s making fresh, Persian-inspired food in a setting where you might least expect to find it.
+Eventually, we find Elite Kitchen, tucked into the basement food court at 407 Laurier Ave. W.. It’s not exactly the sort of place you stumble across by accident, but that’s part of the appeal. This is a genuine hidden gem, run by Ebrahim, an owner and chef who’s making fresh, Persian-inspired food in a setting where you might least expect to find it.
 
 We catch Ebrahim after the lunch rush, sitting at his post and taking in the world. We ask what he recommends. His salmon, one of his bestsellers, has already sold out, so we settle on a chicken curry, a Persian eggplant dip and a beef kebab sandwich.
 

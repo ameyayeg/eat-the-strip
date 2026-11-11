@@ -19,7 +19,7 @@ While there are no little ones in our household who need to be fed or pets that 
 
 This particular Saturday was no exception. 
 
-We started the morning early, rising at about 8:00 a.m. to brew some coffee. The long drive was marked by hip hop throwbacks. Nelly’s classic hits got us amped up to do the run. (Most of it was walked, but the important thing is that it was fun and muddy.) 
+We started the morning early, rising at about 8 a.m. to brew some coffee. The long drive was marked by hip hop throwbacks. Nelly’s classic hits got us amped up to do the run. (Most of it was walked, but the important thing is that it was fun and muddy.) 
 
 After our outing with all the obstacles, mud, and many sore muscles, we contemplated melting into our comfy couch. But our friend had just gotten a new puppy she wanted us to meet. How could we say no? So, we dragged ourselves from the comfy homestead and headed out to meet Virgina Woof—also known as Gina—the red golden retriever.  
 
