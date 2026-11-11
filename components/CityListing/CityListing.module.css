@@ -99,6 +99,9 @@
 }
 
 .card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
   background: white;
   border-radius: 24px;
   overflow: hidden;
@@ -110,6 +113,11 @@
 .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 28px 72px rgba(15, 23, 42, 0.12);
+}
+
+.card:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 4px;
 }
 
 .cardImage {
@@ -149,21 +157,6 @@
 .cardCopy p {
   color: #5b5b5b;
   line-height: 1.75;
-}
-
-.cardTitle,
-.cardSubtitle {
-  padding: 1rem 1.5rem 0.85rem;
-}
-
-.cardTitle {
-  font-size: 1.25rem;
-  font-weight: 700;
-}
-
-.cardSubtitle {
-  color: #666;
-  font-size: 0.95rem;
 }
 
 .noResults {

@@ -1,7 +1,8 @@
-import { useState } from 'react'
+import { Fragment, useState } from 'react'
 import dynamic from 'next/dynamic'
 import styles from './All.module.css'
 import { getPostSummaries } from '../../utils/mdx'
+import cities, { defaultCity, cityForPost } from '../../utils/cities'
 
 export async function getStaticProps() {
   // Only the fields the map uses.
@@ -22,18 +23,12 @@ const MapWithNoSSR = dynamic(() => import('../../components/Map'), {
   ssr: false,
 })
 
-const cityCenters = {
-  'Ottawa-Gatineau': [45.4215, -75.6972],
-  Fredericton: [45.9636, -66.6431],
-}
-
 const AllRestaurants = ({ blogs }) => {
-  const [city, setCity] = useState('Ottawa-Gatineau')
+  const [cityId, setCityId] = useState(defaultCity.id)
+  const city = cities.find((c) => c.id === cityId)
 
-  // Filter blogs by city (default to Ottawa if city not set)
-  const filteredBlogs = blogs.filter(
-    (blog) => (blog.city || 'Ottawa-Gatineau') === city
-  )
+  // Posts in the selected city (posts without a city belong to the default)
+  const filteredBlogs = blogs.filter((blog) => cityForPost(blog.city) === city)
 
   // Make sure your blog data has latitude/longitude fields!
   const coordinatesArray = filteredBlogs
@@ -49,29 +44,22 @@ const AllRestaurants = ({ blogs }) => {
       <div className={styles.container}>
         <h1>Map of all restaurants</h1>
         <div style={{ marginBottom: '1rem' }}>
-          <button
-            onClick={() => setCity('Ottawa-Gatineau')}
-            className={`cityToggleLink${
-              city === 'Ottawa-Gatineau' ? ' active' : ''
-            }`}
-            aria-pressed={city === 'Ottawa-Gatineau'}
-          >
-            Ottawa-Gatineau
-          </button>
-          <span>|</span>
-          <button
-            onClick={() => setCity('Fredericton')}
-            className={`cityToggleLink${
-              city === 'Fredericton' ? ' active' : ''
-            }`}
-            aria-pressed={city === 'Fredericton'}
-          >
-            Fredericton
-          </button>
+          {cities.map((c, index) => (
+            <Fragment key={c.id}>
+              {index > 0 && <span>|</span>}
+              <button
+                onClick={() => setCityId(c.id)}
+                className={`cityToggleLink${c.id === cityId ? ' active' : ''}`}
+                aria-pressed={c.id === cityId}
+              >
+                {c.name}
+              </button>
+            </Fragment>
+          ))}
         </div>
         <MapWithNoSSR
           coordinates={coordinatesArray}
-          defaultCenter={cityCenters[city]}
+          defaultCenter={city.mapCenter}
           defaultZoom={12}
         />
       </div>

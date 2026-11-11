@@ -1,5 +1,6 @@
 import fs from 'fs'
 import matter from 'gray-matter'
+import { cityForPost } from './cities'
 
 export async function getSortedPosts() {
   const blogFiles = fs.readdirSync('./content/blogs')
@@ -33,4 +34,18 @@ export async function getPostSummaries(fields) {
     })
     return summary
   })
+}
+
+// One city's posts for its listing page, with only the fields the cards and
+// search use.
+export async function getCityPosts(city) {
+  const posts = await getPostSummaries([
+    'title',
+    'thumbnail',
+    'cuisine',
+    'address',
+    'closed',
+    'city',
+  ])
+  return posts.filter((post) => cityForPost(post.city) === city)
 }
