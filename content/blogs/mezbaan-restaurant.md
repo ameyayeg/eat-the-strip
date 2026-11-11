@@ -49,4 +49,4 @@ This was probably the juiciest tandoori chicken I’ve had in Ottawa.
 
 Our total for the meal plus two pops came to $70.
 
-Fortunately, I don’t have to travel 7,000 miles for the naan. It feels good knowing there’s a slice of home right here, hidden in a strip mall near Bayshore, less than 5 miles away.
+Fortunately, I don’t have to travel 7,000 miles for the naan. It feels good knowing there’s a slice of home right here, hidden in a strip mall near Bayshore, less than five miles away.
