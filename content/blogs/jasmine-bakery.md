@@ -27,7 +27,7 @@ I ordered a traditional meat pie and the chicken shawarma pie. They were both he
 
 ![The pomegranate molasses gave the meat pies a delicious, tart flavour that was unlike anything I had tried before](/uploads/img_3842.jpeg "Jasime Bakery meat pie")
 
-The meat pie, priced at less than $5, was like nothing I had ever tried before. Made with ground meat, tomatoes, pomegranate molasses and other delicious herbs and spices, it was complex and paired excellently with the free side of garlic sauce. The molasses made it tart and the chilli powdered they sprinkled on it gave it a nice kick.
+The meat pie, priced at less than $5, was like nothing I had ever tried before. Made with ground meat, tomatoes, pomegranate molasses and other delicious herbs and spices, it was complex and paired excellently with the free side of garlic sauce. The molasses made it tart and the chili powdered they sprinkled on it gave it a nice kick.
 
 ![The chicken in the shawarma pie seemed like it has been marinated in yogurt and spices for hours before being cooked, similar to chicken tikka](/uploads/img_3839.jpeg "Jasmine Bakery chicken shawarma pie")
 

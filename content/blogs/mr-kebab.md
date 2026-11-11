@@ -15,7 +15,7 @@ In the corner unit of a quiet south-end strip mall, just a few doors down from a
 
 Mr. Kabab is simple inside. Four tables, grey-painted walls with marble trim, and a single fan that doesn’t do much to cool the room but does succeed in circulating the delicious scent of grilled lamb, tomato, and onion. I grab a seat by the breeze and take it all in.
 
-At the counter, I ask about the lamb—it catches my eye immediately. The wrap version is an easy $10, but I’m hungry, so I opt for the lamb kabab meal ($17) and choose rice as my side. I also notice that lamb and chicken are the same price, which is unusual. In most places, lamb carries a premium. Here, it’s treated with the same casual generosity as chicken. That alone says something. 
+At the counter, I ask about the lamb—it catches my eye immediately. The wrap version is an easy $10, but I’m hungry, so I opt for the lamb kebab meal ($17) and choose rice as my side. I also notice that lamb and chicken are the same price, which is unusual. In most places, lamb carries a premium. Here, it’s treated with the same casual generosity as chicken. That alone says something. 
 
 The food arrives fresh off the grill. The lamb is tender, juicy, and full of garlic-forward flavour. The spice blend is gentle, subtle—maybe cumin? coriander?—but it works beautifully. The meat sits on a bed of parsley and onions, which add a burst of freshness and crunch to every bite. A side of grilled tomato and roasted onion rounds out the plate, adding sweetness and a slight char that plays off the meat’s richness.
 

@@ -13,7 +13,7 @@ image: /uploads/img_4310.jpeg
 ---
 Not long ago, a long-time reader recommended an Iraqi spot in the west-end. 
 
-Eitan Waldman suggested we try the succulent kabab and fragrant rice at Sheikh Amandi, an Iraqi takeout restaurant on Carling Avenue, located near Bayshore. 
+Eitan Waldman suggested we try the succulent kebab and fragrant rice at Sheikh Amandi, an Iraqi takeout restaurant on Carling Avenue, located near Bayshore. 
 
 “The food is delicious and amazing value if you buy platters for feeding a group,” Eitan wrote to us in February. “My favourite meats I've tried are the lamb kabob or the whole chicken. But the real star is the rice.”
 

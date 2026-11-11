@@ -62,7 +62,7 @@ Many of them end up calling it their secret place.
 
 Back home, I bounced between the green curry and the drunken noodles while gradually working my way through an increasingly healthy supply of napkins. My nose was running by the end, exactly as I'd hoped.
 
-The vegetables still had plenty of crunch, something that's surprisingly easy to lose in takeout. The curry was dotted with genuine Thai chillies, bringing bright bursts of heat that played beautifully against the richness of the coconut milk and the fragrant basil. The chicken strips were juicy and tender without crossing into overcooked territory. Halfway through the meal, I caught myself wondering out loud why coconut milk never seems to taste this good when I cook with it at home.
+The vegetables still had plenty of crunch, something that's surprisingly easy to lose in takeout. The curry was dotted with genuine Thai chilies, bringing bright bursts of heat that played beautifully against the richness of the coconut milk and the fragrant basil. The chicken strips were juicy and tender without crossing into overcooked territory. Halfway through the meal, I caught myself wondering out loud why coconut milk never seems to taste this good when I cook with it at home.
 
 If you're looking for a solid Thai meal in Ottawa, Aroy Thai deserves a place on your list. There's no dining room, no carefully curated atmosphere and no trendy interior designed for Instagram. It's simply a tiny takeout counter hidden inside the back of a convenience store.
 

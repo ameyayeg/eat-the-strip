@@ -35,15 +35,15 @@ The shank of lamb was either slow-cooked or pressure cooked such that the meat w
 
 There’s no question about it: if you go to Mezbaan, you must order the qabuli uzbeki.
 
-As for my chaplee kebab, made of spicy ground chicken or beef—both options were available—the texture stood out in contrast to Danielle’s lamb. While not as juicy, it was spicier, with the flavour from the coriander seeds in its spice blend popping with each bite. Traditionally, the kebab’s mince is mixed with chilli powder, coriander leaves, onions, eggs, ginger, coriander or cumin seeds, corn starch, salt and pepper and lime juice.
+As for my chaplee kebab, made of spicy ground chicken or beef—both options were available—the texture stood out in contrast to Danielle’s lamb. While not as juicy, it was spicier, with the flavour from the coriander seeds in its spice blend popping with each bite. Traditionally, the kebab’s mince is mixed with chili powder, coriander leaves, onions, eggs, ginger, coriander or cumin seeds, corn starch, salt and pepper and lime juice.
 
-Oh, right, I forgot the key ingredient: green chillies. 
+Oh, right, I forgot the key ingredient: green chilies. 
 
 Lots of them.
 
 ![All kebab plates from the main course, including the chaplee kebab pictured above came with rice, salad and naan](/uploads/img_0504.jpeg)
 
-To take a break from the spice, I tried some of Sean’s tandoori chicken. The subtle flavour from the spice blend, combined with the smoky charcoal tandoor, made for a lighter dish. It was significantly less spicy than its Indian or Pakistani counterpart, which tend to amp up the chilli powder in their marinade.
+To take a break from the spice, I tried some of Sean’s tandoori chicken. The subtle flavour from the spice blend, combined with the smoky charcoal tandoor, made for a lighter dish. It was significantly less spicy than its Indian or Pakistani counterpart, which tend to amp up the chili powder in their marinade.
 
 This was probably the juiciest tandoori chicken I’ve had in Ottawa.
 

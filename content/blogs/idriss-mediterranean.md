@@ -17,7 +17,7 @@ My partner and co-writer of the blog Danielle and I went for a lazy Sunday brunc
 
 The large seating area is adorned with paintings from across Algeria, prominently featuring markets and produce the country is associated with. The colourful cushions reminded me of my grandmother’s living room and the dim blue lighting and piano music made for a cozy atmosphere. Wafa opened the restaurant around five years ago, shortly before the pandemic. It managed to stay afloat, she told us, because of a dedicated group of loyal patrons who frequent it. 
 
-We started our meal with Algerian coffee and mint tea, both consumed in large amounts in households and cafes across the North African country. This worked out splendidly for us as I, the tea drinker, find mint tea from North Africa to be incredibly relaxing and refreshing. Being a coffee drinker, Danielle loved the coffee, which turned out to be infused with orange leaves—a traditional Algerian recipe, Wafa told us, and quickly ordered a second.
+We started our meal with Algerian coffee and mint tea, both consumed in large amounts in households and cafés across the North African country. This worked out splendidly for us as I, the tea drinker, find mint tea from North Africa to be incredibly relaxing and refreshing. Being a coffee drinker, Danielle loved the coffee, which turned out to be infused with orange leaves—a traditional Algerian recipe, Wafa told us, and quickly ordered a second.
 
 For our meal, we ordered the lamb and potato tajine, mhajeb and bourak. 
 

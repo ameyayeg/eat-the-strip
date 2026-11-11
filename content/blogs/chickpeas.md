@@ -23,7 +23,7 @@ Ahmad helped us navigate the menu. While there is a mix of traditional and moder
 
 The chickpeas are cooked perfectly. Delicious hummus and olive oil coated my pita chips. We scooped it all up with spiced yogurt, fried almonds and chickpeas. It was tantalizingly crunchy, and the hummus was some of the tastiest we’ve had. I had a hard time deciding if I preferred the fatteh here or the one served by Ottawa Falafel House. Both are exceptional. The koshari was a beautiful mix of east and west. It’s a widely popular Egyptian street food that we were getting to try for the first time. It’s made from rice, black lentils, pasta, tomato sauced fried onions and, you guessed it, chickpeas. The lentils were lightly spiced and reminded us of a nice wintertime stew. We had a good amount left over to take home, too.
 
-![In addition to the garlic and tomato sauce, the koshari came with a side of a chilli paste that had some much-welcome heat given the cold weather outside](/uploads/img_7269.jpeg "Chickpeas koshari")
+![In addition to the garlic and tomato sauce, the koshari came with a side of a chili paste that had some much-welcome heat given the cold weather outside](/uploads/img_7269.jpeg "Chickpeas koshari")
 
 Business has been going well, said Ahmad, who used to be an executive chef in Dubai prior to moving to Canada. They originally had three locations but closed two during the pandemic. Now they’re looking to expand again. A little bit of experimenting by Ahmad’s brother, Omar, now a police officer, led to a menu featuring seven different types of hummus, which the family recommends people try by ordering their signature bowls and wraps.
 

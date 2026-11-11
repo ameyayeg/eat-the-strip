@@ -19,7 +19,7 @@ For the uninitiated, South Indian food is almost entirely distinct from its Nort
 
 South Indian food, on the other hand, features a lot more coconut, heat and even gunpowder.
 
-Yes, you read that right. There’s a Tamil spice blend called milaga podi, which is translated into English as gunpowder because of its combination of lentils, seeds and fiery red chillies. 
+Yes, you read that right. There’s a Tamil spice blend called milaga podi, which is translated into English as gunpowder because of its combination of lentils, seeds and fiery red chilies. 
 
 The hotter the better, right?
 
@@ -37,7 +37,7 @@ We ordered the ghee sambar idli as an appetizer and the Mysore-style masala dosa
 
 The idlis were delightful. Dunked in a generous portion of sambar and ghee, they were light, perfectly spiced and whet our appetite for the main course.
 
-Our dosa and uthappam arrived shortly afterwards. We dug in right away. The crispy uthappam—a South Indian soft pancake made of rice and lentil—was topped with onions, tomatoes, green chillies, cilantro, curry leaves and the ubiquitous gunpowder chutney.
+Our dosa and uthappam arrived shortly afterwards. We dug in right away. The crispy uthappam—a South Indian soft pancake made of rice and lentil—was topped with onions, tomatoes, green chilies, cilantro, curry leaves and the ubiquitous gunpowder chutney.
 
 ![Dosa is made by soaking rice and lentils overnight in water and then grinding it into a batter, which is fermented overnight and then pan-roasted until crispy and served with potato curry, chutneys or sambar](/uploads/img_0597.jpeg "Mysore masala dosa")
 
@@ -47,7 +47,7 @@ Delicious.
 
 I was gobsmacked. I couldn’t believe I wasn’t sitting at a roadside stall in Chennai. This was really here, in Ottawa, around a 30-minute walk from my apartment.
 
-The heat from the chilli paste coating the dosa was doused by the creamy coconut chutney. The crispy texture of the uthappam was perfect after the soft rice-based idlis. This was a perfectly balanced meal, tangy and spicy with one bite, smooth and creamy with another.
+The heat from the chili paste coating the dosa was doused by the creamy coconut chutney. The crispy texture of the uthappam was perfect after the soft rice-based idlis. This was a perfectly balanced meal, tangy and spicy with one bite, smooth and creamy with another.
 
 ![Unlike a typical dosa, which is crisp and crepe-like, an uttapam is thicker, with toppings](/uploads/img_0600.jpeg "Utthappam")
 

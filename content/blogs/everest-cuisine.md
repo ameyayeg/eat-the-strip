@@ -31,7 +31,7 @@ Apart from the fall-off-the-bone goat meat, we couldn’t get enough of the momo
 
 The rayo saag was very different from the typical North Indian saag people are familiar with. Instead of using spinach, the dish resembled collard greens and was cooked with lots of mustard seeds and lightly spiced. 
 
-The bhatmas was very crunchy and garnished with a healthy portion of chillies, green onions and ginger. While too crunchy for some in our group, I found it to go well with the daal and rice, providing some heat and textural contrast to the curry-heavy meal.
+The bhatmas was very crunchy and garnished with a healthy portion of chilies, green onions and ginger. While too crunchy for some in our group, I found it to go well with the daal and rice, providing some heat and textural contrast to the curry-heavy meal.
 
 ![Bhatmas sadeko are roasted Nepalese soybeans mixed with several fragrant herbs and spices](/uploads/img_3946.jpeg "Everest Cuisine bhatmas sadeko")
 

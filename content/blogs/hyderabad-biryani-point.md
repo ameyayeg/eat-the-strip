@@ -21,7 +21,7 @@ The biryani arrives in a silver takeout tray, still steaming. The rice is long-g
 
 ![A mound of fragrant basmati rice hides fall-apart mutton in this slow-cooked biryani, topped with crispy fried onions and served with a side of raita.](/uploads/img_9031.jpeg "Hyderabad Biryani Point mutton biryani")
 
-Scanning the menu for next time, a list of Vijayawada-style curries stands out—spicy Andhra-style dishes known for their use of green chillies, pepper, and punchy flavours. If the biryani is anything to go by, these will be worth the return trip.
+Scanning the menu for next time, a list of Vijayawada-style curries stands out—spicy Andhra-style dishes known for their use of green chilies, pepper, and punchy flavours. If the biryani is anything to go by, these will be worth the return trip.
 
 After the meal, we chat with Lokesh, who opened the restaurant in March 2024 with his business partner Nagendra. Lokesh is a civil engineer by training but spent 15 years living in Hyderabad and clearly has an eye—and palate—for the details. Nagendra is a professional chef with 14 years of experience in India, the U.S., and Canada, including running a restaurant in Calgary before relocating to Ottawa. The biryani recipe is his own.
 

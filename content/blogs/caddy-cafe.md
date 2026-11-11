@@ -15,19 +15,19 @@ Recently, I’ve been wanting to take Eat the Strip back to its roots: the hidde
 
 That’s where I found myself today, at the Caddy Cafe, tucked inside the Myers Automotive Group’s Cadillac dealership at Merivale and Baseline.
 
-I was waiting in the area for my dog’s grooming appointment to wrap up when I started Googling cafes nearby. Then the Caddy Cafe popped up. I zoomed in because I couldn’t quite believe what I was looking at. The cafe was, in fact, located inside the dealership.
+I was waiting in the area for my dog’s grooming appointment to wrap up when I started Googling cafés nearby. Then the Caddy Cafe popped up. I zoomed in because I couldn’t quite believe what I was looking at. The café was, in fact, located inside the dealership.
 
 Not one to pass up a chance to strike Eat the Strip gold, I made the five-minute drive from the Merivale PetSmart.
 
 Walking into the dealership, I was admittedly a little confused. I asked an employee where I should go and they pointed me up a staircase toward the northern wing of the massive building. I climbed the stairs and, lo and behold, there it was: the Caddy Cafe.
 
-Sarah, the owner, greeted me and quickly made me feel like I had stumbled into a neighbourhood diner rather than a cafe inside a car dealership.
+Sarah, the owner, greeted me and quickly made me feel like I had stumbled into a neighbourhood diner rather than a café inside a car dealership.
 
-She told me the build-your-own breakfast was one of the popular choices, so I went with the toast, a sunny-side-up egg and home fries. The toast had received plenty of praise in the cafe’s Google reviews, while the home fries came recommended by Sarah herself. With a coffee, the whole thing came to just under $10.
+She told me the build-your-own breakfast was one of the popular choices, so I went with the toast, a sunny-side-up egg and home fries. The toast had received plenty of praise in the café’s Google reviews, while the home fries came recommended by Sarah herself. With a coffee, the whole thing came to just under $10.
 
 That’s a pretty tough price to argue with.
 
-The cafe is bright and spacious, with big windows letting in plenty of natural light, ample seating and a TV mounted on the wall. For a moment, it’s remarkably easy to forget you’re sitting inside a Cadillac dealership. Then the loudspeaker comes on, announcing that someone’s vehicle is ready to be brought around from the back, and reality comes rushing back in.
+The café is bright and spacious, with big windows letting in plenty of natural light, ample seating and a TV mounted on the wall. For a moment, it’s remarkably easy to forget you’re sitting inside a Cadillac dealership. Then the loudspeaker comes on, announcing that someone’s vehicle is ready to be brought around from the back, and reality comes rushing back in.
 
 There are a few dealership employees making their way upstairs for breakfast, but I couldn’t help wondering how many people outside these walls know this place exists.
 
@@ -39,7 +39,7 @@ While I was eating, two young guys who work at the dealership came upstairs and 
 
 The burrito comes packed with two scrambled eggs, peppers, onions, bacon, sausage, home fries, cheese and chipotle mayo, all wrapped in a flour tortilla. It looked like the kind of breakfast that makes you immediately regret having already eaten breakfast.
 
-The two employees told me the cafe has been through a series of owners since the dealership opened, but they felt the current ownership was the best yet. The challenge is simply getting people to know the cafe is here. With the location tucked away inside the dealership, Sarah and her team have been leaning on Uber Eats to spread the word.
+The two employees told me the café has been through a series of owners since the dealership opened, but they felt the current ownership was the best yet. The challenge is simply getting people to know the café is here. With the location tucked away inside the dealership, Sarah and her team have been leaning on Uber Eats to spread the word.
 
 The food certainly gives them something to spread.
 
@@ -49,9 +49,9 @@ Everything tasted fresh from the first bite. The home fries were crisp around th
 
 That simplicity is part of what Sarah is going for.
 
-Her father was a salesman at the dealership for most of her life and was the one who discovered the cafe opportunity and recommended her for the job. Sarah has now been here for three years, bringing with her years of kitchen experience. She grew up cooking with her family, started working in kitchens in high school and has worked everywhere from fancier restaurants to diners.
+Her father was a salesman at the dealership for most of her life and was the one who discovered the café opportunity and recommended her for the job. Sarah has now been here for three years, bringing with her years of kitchen experience. She grew up cooking with her family, started working in kitchens in high school and has worked everywhere from fancier restaurants to diners.
 
-When she took over the cafe, she wanted to bring that experience to familiar classics, while still having a little fun with them. One example is the garlic bread grilled cheese.
+When she took over the café, she wanted to bring that experience to familiar classics, while still having a little fun with them. One example is the garlic bread grilled cheese.
 
 Sarah’s right-hand man, Cory, is part of that kitchen rhythm, too. About 90 per cent of the clientele are regulars, largely dealership staff, though customers waiting for tire changes or service appointments are also sent upstairs with little slips so they can grab a meal while they wait.
 
@@ -71,7 +71,7 @@ And I will be coming back.
 
 I’m already thinking about that burrito.
 
-There’s something particularly fun about discovering a cafe like this. I had never really considered that a dealership this large would have a cafe catering to its staff and customers, but the more I thought about it, the more sense it made. People are going to be here for hours waiting on their cars. They’re going to need breakfast. Why not have a good little cafe upstairs?
+There’s something particularly fun about discovering a café like this. I had never really considered that a dealership this large would have a café catering to its staff and customers, but the more I thought about it, the more sense it made. People are going to be here for hours waiting on their cars. They’re going to need breakfast. Why not have a good little café upstairs?
 
 The Caddy Cafe is exactly the kind of place I’ve been wanting to find again for Eat the Strip: a little hidden, a little unexpected and full of people who clearly enjoy being there.
 

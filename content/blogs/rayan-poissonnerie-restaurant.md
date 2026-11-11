@@ -15,7 +15,7 @@ UPDATE: As of June 2025, this restaurant has rebranded as Khalil Seafood, though
 
 \*﻿\**
 
-Tucked away in a strip mall in Orleans, Rayan Poissonnerie & Restaurant offers a unique seafood experience that takes you straight to the Mediterranean—no passport required.
+Tucked away in a strip mall in Orléans, Rayan Poissonnerie & Restaurant offers a unique seafood experience that takes you straight to the Mediterranean—no passport required.
 
 Upon entering, you're immediately greeted by the hum of the open kitchen and a lively atmosphere filled with the sounds of sizzling seafood. A striking mural of a deep-sea world, complete with fish and a view of the The Great Pyramid of Giza, transports you to a faraway seaside city—especially welcoming during Ottawa’s cold winter months.
 

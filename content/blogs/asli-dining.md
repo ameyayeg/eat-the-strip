@@ -20,7 +20,7 @@ The blink-and-you’ll-miss-it eatery is located on the ground floor of a Bank S
 
 ![The one-piece chicken, served with a huge portion of savoury rice and hot sauce came to a mere $15](/uploads/img_1414.jpeg "Somali chicken")
 
-The tandoori-spiced chicken tore off the bone with almost no resistance. I combined a spoonful of the succulent meat, gravy, rice and hot sauce. The flavours popped with each bite; the heat of the hot sauce—made with a special house recipe containing chilli flakes, garlic and vinegar—balanced perfectly by the seasoned rice and chicken gravy. 
+The tandoori-spiced chicken tore off the bone with almost no resistance. I combined a spoonful of the succulent meat, gravy, rice and hot sauce. The flavours popped with each bite; the heat of the hot sauce—made with a special house recipe containing chili flakes, garlic and vinegar—balanced perfectly by the seasoned rice and chicken gravy. 
 
 I was too full to move when Omar brought me a bowl of maraq—a soup found across the Middle East and Africa made with lamb broth, spices and lentils. It was not just complimentary but also delicious. 
 

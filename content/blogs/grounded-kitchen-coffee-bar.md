@@ -13,7 +13,7 @@ image: /uploads/img_6329.jpeg
 ---
 Grounded Kitchen, Coffee & Bar has always exuded good vibes, right from the moment I first handed in a resume, to the first day on the job, and now as a returning customer.
 
-Originally located in downtown Ottawa, and once serving the local government and office workers with delicious take-out, catering or dine-in, they have relocated to a little spot with big personality at the base of an office building at 1545 Carling Ave. Being off the beaten path means less foot traffic, which means the word needs to get out about this hip, unique, groovy and fun restaurant. 
+Originally located in downtown Ottawa, and once serving the local government and office workers with delicious takeout, catering or dine-in, they have relocated to a little spot with big personality at the base of an office building at 1545 Carling Ave. Being off the beaten path means less foot traffic, which means the word needs to get out about this hip, unique, groovy and fun restaurant. 
 
 We decided to make a trip to this old haunt of mine earlier this week. There is funky local art on the wall of iconic musicians such as Hendrix and Tupac. The seating is creatively crafted in a colourful, diner-style, winding way. The lighting was atmospheric, the music carefree and eclectic—perfectly matched with our millennial appreciation for classic hip hop and rock. The patio also looked incredibly inviting for the final days of warmth, though we still opted for indoor seating to get the full experience.
 
@@ -25,4 +25,4 @@ In the past, when I have ordered chicken parmesan, there has always been somethi
 
 The mushroom melt elicited the same level of satisfaction, if not more. Described from their menu as a “brisket-chuck patty, Heartee mushrooms, havarti, caramelized onions, and dijonaise on an artisan bun with your choice of side.” It was a melt-in-your-mouth experience that melted my heart. Even the French fries were seasoned to excite the palate.
 
-Grounded offers catering, take-out, event space, dine-in, and even has a small freezer of prepared food items. Always trying something new and daring, this is a great place that will keep you interested in what is coming next. Stay tuned and get hungry.
+Grounded offers catering, takeout, event space, dine-in, and even has a small freezer of prepared food items. Always trying something new and daring, this is a great place that will keep you interested in what is coming next. Stay tuned and get hungry.

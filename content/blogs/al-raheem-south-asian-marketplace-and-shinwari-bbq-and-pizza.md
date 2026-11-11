@@ -29,7 +29,7 @@ Al Raheem South Asian Marketplace and Shinwari BBQ and Pizza not only sells groc
 
 The creamy melt and pesto chicken pizzas were melt-in-your-mouth delicious and weren’t too spicy for those who prefer a milder flavour. The behari bites and tandoori chaska pizzas each had nice kicks to them, without compromising the flavour of the other ingredients. 
 
-![The behari bites pizza comes with special behari sauce, mozzarella, behari boti, green pepper, onion, roasted green chillis and fresh coriander](/uploads/img_9637.jpeg "Behari bites")
+![The behari bites pizza comes with special behari sauce, mozzarella, behari boti, green pepper, onion, roasted green chilies and fresh coriander](/uploads/img_9637.jpeg "Behari bites")
 
 We highly recommend asking for an extra dipping sauce or two. Who can have pizza without dipping sauce? Let alone a dipping sauce that is as delicious as this one and that I haven’t had the likes of at any other pizza place in town.
 

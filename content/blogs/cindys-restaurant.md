@@ -21,7 +21,7 @@ As I pulled into the parking lot, I noticed it had the vibe of a classic industr
 
 I ordered a breakfast hash and a pot of tea. This was perhaps the quickest I’ve had my food prepared at a restaurant. My meal was ready in just over five minutes. George later told me he’s been cooking at the restaurant for over 30 years and has everything prepared well in advance. 
 
-![The breakfast hash came with a choice of two eggs, toast and homefries topped with bacon, sausage, green peppers, onions and cheese](/uploads/img_5775.jpeg "Cindy's Restaurant breakfast hash")
+![The breakfast hash came with a choice of two eggs, toast and home fries topped with bacon, sausage, green peppers, onions and cheese](/uploads/img_5775.jpeg "Cindy's Restaurant breakfast hash")
 
 I combine my crunchy bell peppers, sunny-side eggs, onions, cheese and bacon into a gooey mix that I scoop up with my warm and buttered toast. It was perfectly salty. The sausages and bacon cooked perfectly, with the latter nice and crispy.  As I tucked in, Cindy told me to take my time to finish, even though the clock had struck noon—their closing time on Saturdays. 
 

@@ -39,8 +39,8 @@ While the pizza was good, there are other desi pizza joints in the city we prefe
 
 I can’t rave about enough about it; so creamy, saucy, flavourful, and packed with mouth-watering tandoori chicken. We couldn’t put this one down. 
 
-![The wrap came with tandoori chicken, mozzarella, lettuce, tomatoes, onions, bell peppers, cilantro, green chilli sauce, truffle, gravy and chipotle sauce](/uploads/img_0651.jpeg "Tandoori chicken wrap")
+![The wrap came with tandoori chicken, mozzarella, lettuce, tomatoes, onions, bell peppers, cilantro, green chili sauce, truffle, gravy and chipotle sauce](/uploads/img_0651.jpeg "Tandoori chicken wrap")
 
-While Chili Craft Pizza doesn’t offer seating and is mainly a take-out location, the proximity to Britannia Beach makes it a great stop on the way to your next park outing or for a movie night at home.  
+While Chili Craft Pizza doesn’t offer seating and is mainly a takeout location, the proximity to Britannia Beach makes it a great stop on the way to your next park outing or for a movie night at home.  
 
 If you go, make sure not to miss out on their excellent desi wraps. At $11.99, they’re affordable, filling and pack some delicious flavour.

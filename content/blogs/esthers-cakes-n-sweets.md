@@ -13,7 +13,7 @@ image: /uploads/415861284_900400788154012_6854990487637391704_n-2.jpg
 ---
 When you’ve been baking for 15 years and finally open shop, you’re going to be pretty excited.
 
-Recommended by people in a local neighbourhood Facebook group, my roommate and I decided to go to Esther's Cakes N Sweets on a Tuesday morning before starting work. Located at 1335 Carling Ave., it is the sole food service on the first floor of an office building. Esther, the owner who works both front and back of house, has been baking for 15 years and it was her dream to open a cafe.  That dream became reality in May 2023 when she found an excellent opportunity to lease a spot in her own neighbourhood. Not only does she get customers from her building, but she also feeds nearby construction workers and people from the community.
+Recommended by people in a local neighbourhood Facebook group, my roommate and I decided to go to Esther's Cakes N Sweets on a Tuesday morning before starting work. Located at 1335 Carling Ave., it is the sole food service on the first floor of an office building. Esther, the owner who works both front and back of house, has been baking for 15 years and it was her dream to open a café.  That dream became reality in May 2023 when she found an excellent opportunity to lease a spot in her own neighbourhood. Not only does she get customers from her building, but she also feeds nearby construction workers and people from the community.
 
 This was our first time here and didn’t really know what to expect. It is a small space with just two two-seater tables. She has a breakfast, lunch, and dessert menu and is open Monday to Friday from 8 a.m. to 6 p.m. at the time of publishing. 
 

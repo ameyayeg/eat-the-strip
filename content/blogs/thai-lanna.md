@@ -17,11 +17,11 @@ We made it to Thai Lanna, located in a strip mall near Bank Street and Hunt Club
 
 This got us very excited for our food. We ordered an assortment of dishes with an agreement to share. Our friends ordered a vegetarian pad thai and red curry. We ordered the basil chili chicken prepared in its “street food version” and the legendary pad kee maw, also known as drunken noodles. We asked for our food to be medium spicy.
 
-Our chattering table went silent and wide-eyed as our food arrived. I took a bite of the pad kee maw and immediately crooned with delight. My first bite contained those green chillies ubiquitous in Thai cooking. This was an instant sign that the food was legitimate. Even milder dishes contained a modicum of spice that’s needed to really make Thai flavours come alive. Crispy vegetables, fresh basil and tender eggplant made this dish an instant icon for me in Ottawa-Gatineau’s Thai food landscape. 
+Our chattering table went silent and wide-eyed as our food arrived. I took a bite of the pad kee maw and immediately crooned with delight. My first bite contained those green chilies ubiquitous in Thai cooking. This was an instant sign that the food was legitimate. Even milder dishes contained a modicum of spice that’s needed to really make Thai flavours come alive. Crispy vegetables, fresh basil and tender eggplant made this dish an instant icon for me in Ottawa-Gatineau’s Thai food landscape. 
 
-![Pad kee maw consists of a stir-fry noodle served with a choice of meat, egg and vegetables cooked in a dark soya sauce, chilli and basil leaves](/uploads/img_6020.jpeg "Thai Lanna pad kee maw")
+![Pad kee maw consists of a stir-fry noodle served with a choice of meat, egg and vegetables cooked in a dark soya sauce, chili and basil leaves](/uploads/img_6020.jpeg "Thai Lanna pad kee maw")
 
-Eat the Strip co-writer and my partner Danielle’s basil chili chicken was also excellent. Rice was included with all the dishes, and hers paired excellently with the minced chicken dish. The street food version of the dish came with lots of garlic, Thai chillies, sweet basil and a crispy friend egg to boot. Yum.
+Eat the Strip co-writer and my partner Danielle’s basil chili chicken was also excellent. Rice was included with all the dishes, and hers paired excellently with the minced chicken dish. The street food version of the dish came with lots of garlic, Thai chilies, sweet basil and a crispy friend egg to boot. Yum.
 
 Our friend’s red curry also receives an honourable mention. The rich coconut sauce, crispy vegetables and tofu were served with a small pile of rice, which looked like a small mountain surrounded by a lake of red, creamy lava. The dish had a nice gingery aftertaste and the rich coconut flavour made each bite incredibly satisfying.
 

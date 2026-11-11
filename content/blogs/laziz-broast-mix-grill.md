@@ -13,7 +13,7 @@ image: /uploads/processed-77ac18c0-0081-436d-a729-dd5f07045660.jpeg
 ---
 Tucked into a low-key commercial plaza off Ogilvie, Laziz Broast & Mix Grill might not jump out at you—until you catch a whiff of sizzling meat and see the line of regulars ducking in and out. With a glowing 4.5-star average on Google and a menu that mixes Afghan, Pakistani and Middle Eastern staples, this spot is clearly doing something right.
 
-After a long afternoon of shopping in Ottawa’s East End, it felt like the right place to refuel. The man behind the counter didn’t hesitate—he pointed me toward the beef tikka kabob or the tandoori chicken kabob, both house favourites. I went with the beef, and it turned out to be the kind of dish that quietly raises the bar.
+After a long afternoon of shopping in Ottawa’s East End, it felt like the right place to refuel. The man behind the counter didn’t hesitate—he pointed me toward the beef tikka kebab or the tandoori chicken kebab, both house favourites. I went with the beef, and it turned out to be the kind of dish that quietly raises the bar.
 
 Served with spiced rice, a trio of sauces, a fresh salad, and warm Afghan naan, the plate felt generous and well thought-out. The beef was beautifully marinated—deep, savoury, just a hint of smoke—and grilled to a perfect medium rare, as requested. Every bite had intention behind it.
 
