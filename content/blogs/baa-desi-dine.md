@@ -11,7 +11,7 @@ positives: 45.36221795418059
 negatives: -75.73701865675285
 image: /uploads/img_5808.jpeg
 ---
-I have been wanting to feature Baa Desi Dine ever since my partner brought home a take-out anda shami burger and beef kebab wrap. 
+I have been wanting to feature Baa Desi Dine ever since my partner brought home a takeout anda shami burger and beef kebab wrap. 
 
 Some folks may have heard us on Robyn Bresnahan’s This is Ottawa podcast to discuss the next quintessential Ottawa dish. While we are happy that Ottawa has been officially declared the Shawarma Capital of Canada, we believe that kebabs have officially entered the chat. 
 

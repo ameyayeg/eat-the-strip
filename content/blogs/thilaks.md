@@ -23,7 +23,7 @@ We order the rice and curry combo. What arrives is more than a meal—it’s a w
 
 The black pork, a hallmark of southern Sri Lankan cooking, is deeply spiced and slow-cooked until the edges caramelize into something smoky and almost sweet, with a dark, intense richness that comes from roasted curry powder and a generous hand with the spice cabinet.
 
-It’s unapologetically spicy. The black pork brings heat, but it’s the fresh green chillies scattered across the plate that kick things up a notch. The mango, tart and tender, acts as a lifeline between bites, offering relief like a homemade chutney. The yellow lentils have a mustardy kick and carry that soul-warming comfort of something slow-cooked and cared for. And the greens—think curried collards—round things out with just the right bitterness.
+It’s unapologetically spicy. The black pork brings heat, but it’s the fresh green chilies scattered across the plate that kick things up a notch. The mango, tart and tender, acts as a lifeline between bites, offering relief like a homemade chutney. The yellow lentils have a mustardy kick and carry that soul-warming comfort of something slow-cooked and cared for. And the greens—think curried collards—round things out with just the right bitterness.
 
 We weren’t even that hungry going in. We cleaned the leaf.
 

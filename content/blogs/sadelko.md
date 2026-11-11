@@ -23,7 +23,7 @@ I tucked into the ndolé, a Cameroonian stew of meat, nuts, spices and ndoleh le
 
 The ndolé was like nothing I’d had before. The nuts made the dish creamy and the bitter leaves left a sharp aftertaste that made me go back for immediate seconds.
 
-Suzanne told us her mother did catering for weddings in her native Cameroon. She runs Sadelko with her family, including her adorable two-year-old who welcomed us with a big smile, as her mom told us about the various dishes on the rotating buffet menu.
+Suzanne told us her mother did catering for weddings in her native Cameroon. She runs Sadelko with her family, including her adorable 2-year-old who welcomed us with a big smile, as her mom told us about the various dishes on the rotating buffet menu.
 
 ![Pictured above is sangah, a popular Cameroonian dish made with corn, cassava leaf, and palm nut juice](/uploads/img_2958.jpeg "Sadelko sangah")
 

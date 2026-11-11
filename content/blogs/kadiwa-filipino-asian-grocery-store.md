@@ -32,7 +32,7 @@ There’s so much going on in this dish, and yet nothing feels out of place. I e
 
 Afterwards, I talk with Jessie and Carmen, the husband-and-wife duo behind Kadiwa.
 
-The restaurant opened on July 1st, though the food has been in the works much longer.
+The restaurant opened on July 1, though the food has been in the works much longer.
 
 “We were doing ready-to-eat boxes before,” Carmen tells me. “Finger foods, mostly. But people wanted more.”
 

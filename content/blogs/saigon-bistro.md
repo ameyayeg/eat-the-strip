@@ -13,7 +13,7 @@ image: /uploads/img_5430.jpeg
 ---
 It was in the spring of 2023, not too long after we launched Eat the Strip, that one of our readers wrote to us to check out Saigon Bistro.
 
-Faye’s pithy email got straight to the point. It encouraged us to go check out the Vietnamese restaurant in Orleans. I just happened to be in the vicinity for a doctor’s appointment the other day, so after wrapping up I invited my partner and co-writer of the blog Danielle to join me at a nondescript strip mall on St. Joseph Boulevard in the heart of the Orleans.
+Faye’s pithy email got straight to the point. It encouraged us to go check out the Vietnamese restaurant in Orléans. I just happened to be in the vicinity for a doctor’s appointment the other day, so after wrapping up I invited my partner and co-writer of the blog Danielle to join me at a nondescript strip mall on St. Joseph Boulevard in the heart of the Orléans.
 
 There were two things on my mind as I made my way into the cozy restaurant. First, I had a feeling the food would be special as that stretch of St. Joseph has some incredible strip mall gems; corresponding exactly to the kind of place this blog aspires to chronicle. Second, I was quite curious to see how Saigon Bistro approaches traditional Vietnamese food while being halal.
 

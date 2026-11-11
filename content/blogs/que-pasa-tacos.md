@@ -26,7 +26,7 @@ We were greeted by owners Donaldo and Diana with their signature Latin American 
 
 ![All tacos are priced at $6 per serving at Que pasa? Tacos](/uploads/img_5532.jpeg "Que pasa? Tacos al pastor")
 
-The Mexican-Colombian couple’s tryst with the restaurant business has humble beginnings. Noticing a dearth of authentic Mexican food in the region, they would cook meals for their Latin American friends, sometimes preparing up to six kilograms of food, for folks as far afield as Cornwall. In May, they decided to take the plunge and open a brick-and-mortar restaurant to bring their food to the city at large. Boy, oh, boy how lucky we are that they did. 
+The Mexican-Colombian couple’s tryst with the restaurant business has humble beginnings. Noticing a dearth of authentic Mexican food in the region, they would cook meals for their Latin American friends, sometimes preparing up to 6 kg of food, for folks as far afield as Cornwall. In May, they decided to take the plunge and open a brick-and-mortar restaurant to bring their food to the city at large. Boy, oh, boy how lucky we are that they did. 
 
 The tacos arrived in colourful plates that matched the décor of the small but, cozy, restaurant. The melt-in-your-mouth meat in the quesabirria and lengua elicited immediate “ooh and ahs” from us both. The al pastor came with double layered tortillas to help scoop up the tender bits of pork which we topped with a generous amount of onions, cilantro and lime. The quesabirria came with a birria broth which we slurped up like a soup after our meal. 
 

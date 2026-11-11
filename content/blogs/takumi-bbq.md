@@ -27,7 +27,7 @@ We ordered the da la pi, or potato noodles in sesame sauce. I was recently intro
 
 ![As the noodles constitute much more starch given its made from potatoes, the texture is more akin to tapioca than the noodles you may have had in, say, ramen](/uploads/img_1692.jpeg "Da La Pi")
 
-During our second trip, we ordered the marinated lamb shoulder, served with chilli sauce, kimchi, sweet and sour sesame and a finely ground powder of cumin and nuts. We ordered a size of zucchini to grill and Chinese pancakes to make little wraps. 
+During our second trip, we ordered the marinated lamb shoulder, served with chili sauce, kimchi, sweet and sour sesame and a finely ground powder of cumin and nuts. We ordered a size of zucchini to grill and Chinese pancakes to make little wraps. 
 
 The thinly sliced strips of lamb—made with tender cuts of sheep meat—were divine, even on their own. But when wrapped into the little pancakes, the flavour elevated. The grilled zucchini provided a perfect crunch to the juicy lamb.
 

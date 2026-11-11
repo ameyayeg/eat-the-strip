@@ -13,13 +13,13 @@ image: /uploads/img_4640.jpeg
 ---
 It’s no secret, Ng’s Cuisine serves some of the best Chinese food in Ottawa.
 
-Offering traditional Cantonese and Sichuan food, the bustling restaurant has been a staple for dimsum and large family dinners for around two decades.
+Offering traditional Cantonese and Sichuan food, the bustling restaurant has been a staple for dim sum and large family dinners for around two decades.
 
-We’d been craving har gow; our plans for the day were dashed—it was time to head to Ng’s, located less than three kilometres away from us, for a languorous dimsum brunch.
+We’d been craving har gow; our plans for the day were dashed—it was time to head to Ng’s, located less than 3 km away from us, for a languorous dim sum brunch.
 
-We were seated almost immediately at the plastic-covered tables. The vibe was old-school, with wall-to-wall murals of traditional village scenes and paintings. We sat underneath a chalkboard with ostensibly Cantonese dish names scribbled that morning. Despite getting there after peak dimsum hours, the restaurant was quite full of families sipping tea, chatting and chowing down on delicious dumplings.
+We were seated almost immediately at the plastic-covered tables. The vibe was old-school, with wall-to-wall murals of traditional village scenes and paintings. We sat underneath a chalkboard with ostensibly Cantonese dish names scribbled that morning. Despite getting there after peak dim sum hours, the restaurant was quite full of families sipping tea, chatting and chowing down on delicious dumplings.
 
-We were promptly handed menus and served a pot of tea. I love that part of the ritual, which cascades across dimsum joints in North America. We ordered an assortment of dishes, including sampan congee, cuttle fish, deep fried squid tentacles and, the king of dim sum, har gow. Craving greens, we also ordered stir-fried Chinese broccoli in oyster sauce.
+We were promptly handed menus and served a pot of tea. I love that part of the ritual, which cascades across dim sum joints in North America. We ordered an assortment of dishes, including sampan congee, cuttle fish, deep fried squid tentacles and, the king of dim sum, har gow. Craving greens, we also ordered stir-fried Chinese broccoli in oyster sauce.
 
 Before any of that, however, we received our egg tarts. Yes, we ordered two egg tarts for dessert and, famished, began our meal unapologetically with dessert. The tarts were fresh and buttery, a cross between English custard tarts and Portuguese Pastel de nata.
 

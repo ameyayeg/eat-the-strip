@@ -20,7 +20,7 @@ Then, almost without warning, the trees opened up. A driveway appeared. And ther
 
 The unmistakable Uncle Pete's Diner sign standing proudly in the clearing.
 
-By the time we pulled into the parking lot, our group numbered around fifteen people, the largest turnout in Eat the Strip history. With our time in Fredericton beginning to wind down, it felt fitting that one of our final outings would bring us somewhere like this.
+By the time we pulled into the parking lot, our group numbered around 15 people, the largest turnout in Eat the Strip history. With our time in Fredericton beginning to wind down, it felt fitting that one of our final outings would bring us somewhere like this.
 
 The moment you walk through the door, you understand why people make the drive.
 
@@ -72,7 +72,7 @@ Even so, affordability remains one of his priorities.
 
 "I try to keep them as low as I can and still survive."
 
-That commitment is immediately evident on the menu. Our breakfast cost just over ten dollars. Gemma's poutine hovered around ten. Even the fish and chips came in at roughly fifteen dollars. At a time when restaurant prices seem to climb monthly, the value here is remarkable.
+That commitment is immediately evident on the menu. Our breakfast cost just over $10. Gemma's poutine hovered around $10. Even the fish and chips came in at roughly $15. At a time when restaurant prices seem to climb monthly, the value here is remarkable.
 
 Pete grew up on Fredericton's north side before moving to the area in 2008. Since opening the diner, support from local residents has helped sustain the business.
 

@@ -15,7 +15,7 @@ A lot of Eat the Strip readers have written to us about good sushi joints recent
 
 Going through correspondence, it seemed like a no-brainer to hit up a sushi spot this weekend. But the question remained: which one?
 
-Nearby Sapporo Sushi has a reputation of being a quiet juggernaut; an unassuming spot that serves excellent sushi in the west-end. We recently got word that the former chef of the beloved Suisha Gardens, which closed last year, has opened his own sushi spot in Orleans—we suspect we’ll be at both very soon.
+Nearby Sapporo Sushi has a reputation of being a quiet juggernaut; an unassuming spot that serves excellent sushi in the west-end. We recently got word that the former chef of the beloved Suisha Gardens, which closed last year, has opened his own sushi spot in Orléans—we suspect we’ll be at both very soon.
 
 But on this sunny Saturday, we chose to go to Sushi 29, a takeout restaurant with excellent Google reviews operating out of a strip mall in Blackburn Hamlet.
 

@@ -24,13 +24,13 @@ But I have to admit: the wings surprised me. I don’t usually seek them out, bu
 
 ![PJ’s Cajun Buffalo wings bring the heat and the crunch, perfectly balanced with house-made ranch that regulars swear by](/uploads/pjs_buffalowings.jpeg "PJ's Wings an Things Cajun Buffalo wings")
 
-Owner Peter Jones tells me this all started with a market stall, then a food truck, before eventually landing here. “We’ve been busy as hell,” he says, and it’s easy to believe. Born in Portsmouth, Peter came to Canada when he was seven, went back to the UK as a teenager, and brought back a piece of that culinary tradition with him. The fish is caught in Norway and delivered through a Moncton wholesaler. Now, he’s got a tight crew—nine people, including Cameron on the front lines and longtime part-timers like Steve. Most of the team has been with him for years, which says a lot.
+Owner Peter Jones tells me this all started with a market stall, then a food truck, before eventually landing here. “We’ve been busy as hell,” he says, and it’s easy to believe. Born in Portsmouth, Peter came to Canada when he was 7, went back to the UK as a teenager, and brought back a piece of that culinary tradition with him. The fish is caught in Norway and delivered through a Moncton wholesaler. Now, he’s got a tight crew—nine people, including Cameron on the front lines and longtime part-timers like Steve. Most of the team has been with him for years, which says a lot.
 
 ![Golden, flaky, and unapologetically classic, PJ’s fish and chips are a masterclass in keeping things simple and right](/uploads/pjs_fishandchips.jpeg "PJ's Wings an Things fish and chips")
 
 The space is tight, and Peter admits it: “It would be nice to have a bigger spot. We’re limited here.” Maybe one day they’ll expand, add more seating, or even bottle their sauces. For now, though, they’re making the most of what they’ve got—and doing it really well.
 
-Going to PJ’s feels like stopping by a friend’s place—if your friend happens to be a master of wings and knows how to fry a mean piece of fish. It’s casual, unpretentious, and deeply satisfying. My fish and chips ran me about eighteen bucks. The wings were sixteen. Could you get wings for cheaper elsewhere? Probably. But this kind of quality, with this kind of care, isn’t as easy to find.
+Going to PJ’s feels like stopping by a friend’s place—if your friend happens to be a master of wings and knows how to fry a mean piece of fish. It’s casual, unpretentious, and deeply satisfying. My fish and chips ran me about $18. The wings were $16. Could you get wings for cheaper elsewhere? Probably. But this kind of quality, with this kind of care, isn’t as easy to find.
 
 And when you’re done, don’t forget to swing by York County Cider next door. A crisp pint on a sunny patio is the perfect way to finish off a meal like this.
 

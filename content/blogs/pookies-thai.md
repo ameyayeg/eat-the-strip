@@ -20,13 +20,13 @@ Sitting in the corner unit of an unassuming strip mall on Carling Avenue, neighb
 
 At the time of writing, the restaurant is only operating for takeout, so we decided to order a fragrant pad ped and a spicy seafood pad kee mao for a recent Wednesday dinner.
 
-(For those who worry about heat, Pookie’s offers a spice scale of one to five. Although we recommend those who can handle their heat order three and up as Isan food is well complemented by generous portions of Thai chillies)
+(For those who worry about heat, Pookie’s offers a spice scale of one to five. Although we recommend those who can handle their heat order three and up as Isan food is well complemented by generous portions of Thai chilies)
 
 The pad ped came with a good portion of chicken and vegetables. We instantly loved the eggplant, served soft and bursting with flavour of the red curry paste. 
 
 ![Pad ped, left, is a stir fry with red curry paste, long beans, bamboo-shoots, eggplant and Thai basil](/uploads/img_1999.jpeg "Pookie's Thai")
 
-The pad kee mao, also known as drunken noodles, because they are said to be a great hangover cure, was also excellent. I was second guessing choosing seafood instead of pork, but my concerns were unfounded. The shrimp was a nice addition to the crunch of the broccoli, beans and bell peppers. Having chosen four out of five on the heat scale, Pookie’s cooks had been generous with the Thai chillies.
+The pad kee mao, also known as drunken noodles, because they are said to be a great hangover cure, was also excellent. I was second guessing choosing seafood instead of pork, but my concerns were unfounded. The shrimp was a nice addition to the crunch of the broccoli, beans and bell peppers. Having chosen four out of five on the heat scale, Pookie’s cooks had been generous with the Thai chilies.
 
 ![Drunken noodles are typically served with broad rice noodles, but Pookie's variety used a thin substitute which retained the aromatic fragrance and bold flavours of the much-loved dish](/uploads/img_1997.jpeg "Pookie's Thai drunken noodles")
 

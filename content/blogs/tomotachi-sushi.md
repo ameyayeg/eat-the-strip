@@ -12,7 +12,7 @@ positives: 45.94325961129025
 negatives: -66.66836486439645
 image: /uploads/img_0959.jpeg
 ---
-On a Friday at 4 pm, that quiet hour between lunch and dinner, we walked into Tomotachi Sushi at 1168 Smythe Street, tucked between a grocery store and a burger joint. From the outside, it’s unassuming. Inside, though, it’s all warm wood panelling, mellow pop music, and that cozy, lived-in feel that tells you a place has been loved rather than simply occupied. A green feature wall anchors one corner, comfortable booths line the space, and at the back you can watch the chefs carefully assembling rolls while the kitchen hums behind a curtain.
+On a Friday at 4 p.m., that quiet hour between lunch and dinner, we walked into Tomotachi Sushi at 1168 Smythe St., tucked between a grocery store and a burger joint. From the outside, it’s unassuming. Inside, though, it’s all warm wood panelling, mellow pop music, and that cozy, lived-in feel that tells you a place has been loved rather than simply occupied. A green feature wall anchors one corner, comfortable booths line the space, and at the back you can watch the chefs carefully assembling rolls while the kitchen hums behind a curtain.
 
 When we arrived there was just one occupied table and a steady trickle of takeout orders. By the time we left, nearly every seat was filled. Families, coworkers, and groups of friends filtered in, most of them ordering sushi. It felt like we had stumbled into the start of the dinner rush without even trying.
 

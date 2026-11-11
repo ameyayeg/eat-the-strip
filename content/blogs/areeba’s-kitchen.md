@@ -19,7 +19,7 @@ We were coming from Almonte, where we had spent the day by the Blakeney Rapids, 
 
 Then again, that was usually when things got interesting.
 
-Areeba’s Kitchen is tucked into the Merivale industrial corridor at 70 Bongard Avenue, Unit J. It isn’t far from 50 Two Sandwiches, one of the legendary sandwich spots we covered in the early days of Eat the Strip. The area is mostly warehouses and industrial units, the sort of place you drive through because you have somewhere else to be.
+Areeba’s Kitchen is tucked into the Merivale industrial corridor at 70 Bongard Ave., Unit J. It isn’t far from 50 Two Sandwiches, one of the legendary sandwich spots we covered in the early days of Eat the Strip. The area is mostly warehouses and industrial units, the sort of place you drive through because you have somewhere else to be.
 
 We pull up on a Saturday around 5:30 p.m., stuck in that awkward gap between lunch and dinner when you’re hungry enough for a proper meal but early enough that most restaurants still feel like they’re waiting for the evening to begin.
 
@@ -39,9 +39,9 @@ Bilal looks at us and asks if we’re sure.
 
 We say yes.
 
-I start with the chow mein. It’s exactly what I want from Hakka food. The egg noodles are cooked properly, the vegetables still have a satisfying crunch and there’s a distinct eggy flavour running through the dish. I’m particularly fond of the red chillies and peppers, which bring the heat we asked for without overwhelming everything else on the plate. It’s spicy, but it isn’t just spicy for the sake of being spicy; there’s plenty of flavour underneath it.
+I start with the chow mein. It’s exactly what I want from Hakka food. The egg noodles are cooked properly, the vegetables still have a satisfying crunch and there’s a distinct eggy flavour running through the dish. I’m particularly fond of the red chilies and peppers, which bring the heat we asked for without overwhelming everything else on the plate. It’s spicy, but it isn’t just spicy for the sake of being spicy; there’s plenty of flavour underneath it.
 
-![ Egg noodles, crunchy vegetables, red chillies and peppers come together in a spicy, eggy Hakka chow mein that doesn’t hold back](/uploads/img_2924.jpeg "Areeba’s Kitchen chicken chow mein")
+![ Egg noodles, crunchy vegetables, red chilies and peppers come together in a spicy, eggy Hakka chow mein that doesn’t hold back](/uploads/img_2924.jpeg "Areeba’s Kitchen chicken chow mein")
 
 Then there’s the biryani.
 

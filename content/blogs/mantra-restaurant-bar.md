@@ -26,7 +26,7 @@ If you haven’t had one before, a dosa is a thin, crispy crepe made from a ferm
 
 ![The dosa was crisp, tangy, and deeply flavourful with chutneys that bring heat, acid, and balance](/uploads/img_1260.jpeg "Mantra Restaurant & Bar plain dosa")
 
-I loved it. Fully. The kind of dish that doesn’t try to soften itself for anyone. Bold, direct, and confident. The kind of dosa that would feel right at home at a roadside stall in Telangana. At around ten dollars, it’s also one of those things you don’t think twice about ordering again.
+I loved it. Fully. The kind of dish that doesn’t try to soften itself for anyone. Bold, direct, and confident. The kind of dosa that would feel right at home at a roadside stall in Telangana. At around $10, it’s also one of those things you don’t think twice about ordering again.
 
 Marco keeps coming back to it too—the fragrance, the range of spice, how present everything feels. It’s layered without being complicated. Nina, unfazed by the heat, just keeps going.
 
@@ -42,7 +42,7 @@ The naan lands somewhere between exactly what you expect and a bit better than t
 
 We also spend some time with the Indo-Chinese side of the menu, which ends up being more than just an afterthought. The noodles come out early—thin, eggy, with well-cooked shrimp—and set things up in a way that works. A good entry point before everything else hits the table.
 
-At some point, I get a chance to speak with Manoj, the owner. His background runs deep—his family operated a restaurant near Hyderabad for over 20 years, and he’s been making dosas since he was ten. After moving to Fredericton in 2023, they spent a couple of years doing delivery and catering before opening this space in December 2025.
+At some point, I get a chance to speak with Manoj, the owner. His background runs deep—his family operated a restaurant near Hyderabad for over 20 years, and he’s been making dosas since he was 10. After moving to Fredericton in 2023, they spent a couple of years doing delivery and catering before opening this space in December 2025.
 
 They took their time with it too. Three months just to build the menu and figure out pricing.
 

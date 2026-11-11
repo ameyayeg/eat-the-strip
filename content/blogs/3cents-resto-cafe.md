@@ -28,14 +28,14 @@ We ordered the chicken platter and fava bean platter. Both dishes came with a ge
 
 ![The chicken platter featured diced chicken cooked with onions and tomatoes and served with bread](/uploads/img_3095.jpeg '3Cents Cafe & Resto chicken platter')
 
-The diced chicken was garnished with diced green chillies and black pepper. Tart and spicy in equal measure, the dish was flavourful and it didn’t take long for the three of us to polish it off.
+The diced chicken was garnished with diced green chilies and black pepper. Tart and spicy in equal measure, the dish was flavourful and it didn’t take long for the three of us to polish it off.
 
 The fava beans were clearly the crowd favourite. Served in a piping hot stone dish, it was the perfect antidote to the cold weather outside. It tasted like a cross between a Mexican dish—with the quintessential kick of lime—and a spicy Indian curry.
 
 ![The fava beans were cooked with a special sauce, lemon and topped with olive oil and served in a traditional stone bowl](/uploads/img_3100.jpeg '3cents Resto & Cafe fava bean')
 
-“It hurts so good,” Matt said of the temperature. Kapil tried to get bits of onion, beans and chillies in each scoop of his tandoori naan. It’s kind of like guacamole, where “you want to scoop up all the good bits,” he added.
+“It hurts so good,” Matt said of the temperature. Kapil tried to get bits of onion, beans and chilies in each scoop of his tandoori naan. It’s kind of like guacamole, where “you want to scoop up all the good bits,” he added.
 
 We took sips of chai between bites, using a saffron-infused sugar stick to sweeten the tea. Faisal told us about the Egyptian and Yemeni origins of the food, while patrons sipped their tea and chatted away.
 
-In total, our meal cost us around $50. We left already dreaming about our next meal at the cafe. Perhaps a breakfast, sipping cappuccino and digging into spicy liver.
+In total, our meal cost us around $50. We left already dreaming about our next meal at the café. Perhaps a breakfast, sipping cappuccino and digging into spicy liver.

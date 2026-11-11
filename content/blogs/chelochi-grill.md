@@ -25,7 +25,7 @@ Then we ordered fesenjan, a meat curry with pomegranate, accompanied by saffron 
 
 Many dishes here have either saffron infused in them, or are topped with it, like a condiment. 
 
-Both the curry and the kebabs were mild, unlike Indian kebabs and curries that can be fiery. If you are looking for spicy meat, then this is not the place for you. Iranian meat has mild spices but is characterised by a natural taste, where you actually taste the meat and not just the spices.
+Both the curry and the kebabs were mild, unlike Indian kebabs and curries that can be fiery. If you are looking for spicy meat, then this is not the place for you. Iranian meat has mild spices but is characterized by a natural taste, where you actually taste the meat and not just the spices.
 
 We rounded it up by a desert which was rice pudding with cinnamon and saffron. I ordered it thinking that it would be similar to the Indian kheer, or rice pudding. But it was different. This one had a jelly-like texture and was yellow in colour because of the saffron added to it.  The Indian kheer is a liquid mixture of rice, milk and cardamon and is predominantly white in colour.
 

@@ -24,7 +24,7 @@ About a decade ago, I would’ve said I hoped a spot like this would be spared b
 
 We grab coffee and settle in before the server comes by. One of my friends mentions how full the place is, and she replies, “We got a little busy—this is nothing though.” It says everything you need to know. 
 
-We all go in different directions with our orders. One lands on a BLT with a side of poutine. I go for the Sunshine Benny. Another keeps it classic with a clam chowder and bread roll, and my third friend orders the French toast. About fifteen minutes later, everything starts to arrive. 
+We all go in different directions with our orders. One lands on a BLT with a side of poutine. I go for the Sunshine Benny. Another keeps it classic with a clam chowder and bread roll, and my third friend orders the French toast. About 15 minutes later, everything starts to arrive. 
 
 The first thing that hits you isn’t presentation or flair—it’s familiarity.
 
@@ -34,7 +34,7 @@ The bread reminds one of my friends of something their grandma used to make. The
 
 My Sunshine Benny leans into that same idea. Two fried eggs, ham on a toasted bun, covered generously in hollandaise, with a side of baked beans. The yolks break easily, running into the sauce and soaking into the bread underneath. It’s rich without trying to be anything more than what it is. The beans have that molasses sweetness that rounds everything out, and the ham is well seasoned and sits comfortably in the mix. It’s the kind of plate that feels like a weekend breakfast—but here we are, in the middle of a snowy Wednesday, and it still hits exactly the same.
 
-For just around twenty dollars after tax, it’s a generous portion, and looking around the menu, there are plenty of dishes closer to the fifteen-dollar mark too.
+For just around $20 after tax, it’s a generous portion, and looking around the menu, there are plenty of dishes closer to the $15 mark too.
 
 I end up digging into the poutine as well—gooey cheese, the kind that stretches just enough to remind you it was done right. The BLT stands out because of that bread more than anything else. It’s soft, fresh, and clearly made in-house. That’s something you notice across the table. Everything here feels like it came from the same kitchen, not a freezer. What some might call a scratch kitchen, but here it just feels normal.
 

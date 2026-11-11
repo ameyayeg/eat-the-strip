@@ -27,7 +27,7 @@ Both arrived within 10 minutes. We dug into the noodles first. The portions of s
 
 Being a little too sweet for my liking, I moved to the green curry.
 
-It quickly became the standout dish. The thin strips of chicken were perfectly cooked and imbued with lemongrass and a hint of spice from thai chillies. The coconut milk-based gravy was rich and imparted a delicious flavour to the crunchy bamboo shoots and bell peppers. It was perfectly cooked. What’s more is that had leftovers to take home for lunch the next day.
+It quickly became the standout dish. The thin strips of chicken were perfectly cooked and imbued with lemongrass and a hint of spice from thai chilies. The coconut milk-based gravy was rich and imparted a delicious flavour to the crunchy bamboo shoots and bell peppers. It was perfectly cooked. What’s more is that had leftovers to take home for lunch the next day.
 
 ![We ordered the green curry with chicken, eggplant, bamboo slices, basil leaves and bell pepper in spicy curry with coconut milk.](/uploads/img_1338.jpeg "Green curry")
 

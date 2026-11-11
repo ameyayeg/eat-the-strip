@@ -20,7 +20,7 @@ Indonesia. The country sounds as cool as the food is tasty. Thankfully, we didnâ
 
 We did, however, travel a little way from our home in Carlington to get to Djakarta Taste in Gatineau. It opened in 2022 and is today located in a little strip mall where a Mexican restaurant stood until quite recently. The signs have still not been fully changed. Hopefully Indonesian food will become the next neighbourhood haunt on Boulevard Fournier. 
 
-I ordered the nasi padang. This came with two spring rolls, a chicken leg, rice, cucumber-carrot salad, fish broth to go with the rice and rendang. This last dish was truly incredible and reminded us of the mustard-oil coated bihari kebabs from India, which are some of our favorite kebabs.
+I ordered the nasi padang. This came with two spring rolls, a chicken leg, rice, cucumber-carrot salad, fish broth to go with the rice and rendang. This last dish was truly incredible and reminded us of the mustard-oil coated bihari kebabs from India, which are some of our favourite kebabs.
 
 ![The nasi padang featured rendang, a rich meat-based dish braised in coconut milk, spiced and cooked over a period of several hours](/uploads/img_4811.jpeg "Djakarta Taste nasi padang")
 

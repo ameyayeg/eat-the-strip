@@ -19,7 +19,7 @@ However, Noodle House 79 is a newer addition to the area. Opened only in January
 
 We were not disappointed. 
 
-With over a hundred different options ranging from pho, to paid thai, to coconut curry soups, there are options for everyone. Emma and I are both plant-based and appreciated the vegetable broth and coconut milk bases that were available to choose from.
+With over 100 different options ranging from pho, to paid thai, to coconut curry soups, there are options for everyone. Emma and I are both plant-based and appreciated the vegetable broth and coconut milk bases that were available to choose from.
 
 Our food arrived quite quickly, steam rising readily from the various bowls. My eyes perhaps bigger than my stomach, I ordered the large vegetable and tofu pho and received a deep bowl easily the size of a large dinner plate. 
 
@@ -27,7 +27,7 @@ Our food arrived quite quickly, steam rising readily from the various bowls. My 
 
 A generous portion of rice noodles, poured over with a flavourful vegetable broth and swimming with tofu, bok choy, carrots, cabbage, and other vegetables. Personally, I prefer a bit more spice and so added sriracha, but the soup base was delicious.
 
-Emma ordered the other plant-based option, a medium green vegetable curry that still ended up leaving her with a sizeable portion for leftovers. Ameya ordered the Bún bò Huế—a spicier, bolder cousin of pho from the central Vietnamese city of Hue. He said the broth was some of the best he had ever tasted. With a base of shrimp paste and chilli oil, he said he could taste the time and effort that had gone into it and that the family experience with cooking was clear. 
+Emma ordered the other plant-based option, a medium green vegetable curry that still ended up leaving her with a sizeable portion for leftovers. Ameya ordered the Bún bò Huế—a spicier, bolder cousin of pho from the central Vietnamese city of Hue. He said the broth was some of the best he had ever tasted. With a base of shrimp paste and chili oil, he said he could taste the time and effort that had gone into it and that the family experience with cooking was clear. 
 
 ![A number of reviews online said the Bún bò Huế was one of the restaurant's most well-loved items](/uploads/img_1174.jpeg "Bún bò Huế")
 

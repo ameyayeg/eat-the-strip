@@ -11,7 +11,7 @@ positives: 45.38597259308045
 negatives: -75.6138570378635
 image: /uploads/img_3662.jpeg
 ---
-We drove southeast towards city limits, hungry to try some legendary chicken wraps we had read about online.
+We drove southeast toward city limits, hungry to try some legendary chicken wraps we had read about online.
 
 Sabaya Shack, a no-frills Somali takeout restaurant that makes very affordable chicken wraps, suqar and a plethora of other dishes from cuisines both near and far, is tucked away in an industrial park near a massive snow dump. 
 

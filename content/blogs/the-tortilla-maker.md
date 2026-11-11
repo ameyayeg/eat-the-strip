@@ -11,7 +11,7 @@ positives: 45.46507519137122
 negatives: -75.53891568382956
 image: /uploads/img_5733.jpeg
 ---
-It was around Thanksgiving last year that Eat the Strip reader Diodora suggested we head to Orleans to check out a Mexican takeout joint specializing in tortillas and salsas. 
+It was around Thanksgiving last year that Eat the Strip reader Diodora suggested we head to Orléans to check out a Mexican takeout joint specializing in tortillas and salsas. 
 
 Happy to see new Latin American food options springing up across the city, we made a note to check out Tortilla Maker. We finally got to visit the spot almost a year later, on a Sunday following scattered showers. I was greeted by two employees working behind the counter. The walls were painted bright yellow and green. Other customers chatted with the employees in Spanish—a good sign that indicated to me the food was probably going to be quite authentic.
 

@@ -20,7 +20,7 @@ La Cabaña is no exception. Ottawa’s sole El Salvadoran restaurant—and one o
 
 It’s a spot we’ve been to before as it’s down the road from us and it was high time we made another trip for an Eat the Strip review.
 
-We called ahead for take-out as the seating area was closed the last time we visited. However, it seemed like it has since reopened, as there was at least one large family dining in and chatting away over the sound of a telenovela blaring on a television in the corner.
+We called ahead for takeout as the seating area was closed the last time we visited. However, it seemed like it has since reopened, as there was at least one large family dining in and chatting away over the sound of a telenovela blaring on a television in the corner.
 
 Danielle ordered the El Guanaco sampler, which came with one tamal, one pupusa, ripe and sweet fried plantain slices with refried beans and queso—a great sampler dish for those who would like an introduction to Salvadoran fare. Guanaco it turns out is also an informal term for residents of El Salvador
 

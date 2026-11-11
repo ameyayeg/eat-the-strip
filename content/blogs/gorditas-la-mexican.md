@@ -64,7 +64,7 @@ I could eat this food for days if my arteries permitted it.
 
 Sergio and I were already plotting our return before we had finished eating.
 
-And a special shoutout is deserved for the little bottle of fiery red chilli oil sitting on the tables. For those of us who like our food with plenty of flavour, pepper and heat, that stuff was a welcome addition to an already flavour-packed meal. Sergio had warned me that nothing — from the salt to the heat — was lacking here, and he was right. The chilli oil simply lets you take it a step further.
+And a special shoutout is deserved for the little bottle of fiery red chili oil sitting on the tables. For those of us who like our food with plenty of flavour, pepper and heat, that stuff was a welcome addition to an already flavour-packed meal. Sergio had warned me that nothing — from the salt to the heat — was lacking here, and he was right. The chili oil simply lets you take it a step further.
 
 Most of the gorditas hover around the $6 mark, making them an absolute steal. More importantly, you will not walk away disappointed.
 

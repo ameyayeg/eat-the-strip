@@ -15,7 +15,7 @@ Merivale Road has been dubbed an emerging little South Asia in Ottawa.
 
 Over the past few years, numerous subcontinental grocery stores and restaurants have opened on a stretch of the road south of Carling Avenue. Not far from the intersection is Chai Talks, a new Indian restaurant and café serving chai in clay pots and street food.
 
-With the loss of Carlington Coffee House, our neighbourhood has lost a vital spot to hang out, sip a warm beverage and grab a bite to eat. With a serious dearth of cafes in our area, Chai Talks has come to the rescue. And with a closing time of 2 a.m. at the time of writing, night owls, including employees of the neighbouring Ottawa Civic Hospita, have a spot to chow down before beginning a graveyard shift. 
+With the loss of Carlington Coffee House, our neighbourhood has lost a vital spot to hang out, sip a warm beverage and grab a bite to eat. With a serious dearth of cafés in our area, Chai Talks has come to the rescue. And with a closing time of 2 a.m. at the time of writing, night owls, including employees of the neighbouring Ottawa Civic Hospita, have a spot to chow down before beginning a graveyard shift. 
 
 While technically not in a strip mall, Chai Talk is tucked away on the east-side of a commercial building on Carling Avenue, next to a pharmacy. The colourful eatery features dining tables that doubles as board games, some of which will be instantly recognizable to anyone who grew up in South Asia in the 1980s or 1990s. Cue the nostalgia.
 

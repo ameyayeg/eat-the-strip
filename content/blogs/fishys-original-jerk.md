@@ -13,7 +13,7 @@ image: /uploads/img_4839.jpeg
 ---
 A nice evening with friends discussing Jamaican cuisine left us with, well, a hankering for Caribbean food.
 
-However, there was one little problem: we had already decided to join some other pals at a new sushi joint in Orleans. Serendipitously, the restaurant was packed, and, without reservations, there was no way we were getting in.
+However, there was one little problem: we had already decided to join some other pals at a new sushi joint in Orléans. Serendipitously, the restaurant was packed, and, without reservations, there was no way we were getting in.
 
 I glanced at the strip mall across the street and noticed a sign advertising authentic Jamaican food. This was cosmic intervention. We were destined eat Jamaican food on this Saturday evening. So, our group of three happily trotted across the road to Fishys Original Jerk, which owner Jamie opened with his family in 2022. 
 
