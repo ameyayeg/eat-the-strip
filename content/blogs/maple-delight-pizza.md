@@ -14,7 +14,7 @@ negatives: -75.73378347671955
 ---
 There seems to be a new pizza shop with desi offerings popping up every week outside the downtown core—and I, for one, am here for it.
 
-Readers may have read our reviews of [Shinwari BBQ and Pizza](https://eatthestrip.com/blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza) in Barrhaven and [Chilli Craft Pizza](https://eatthestrip.com/blog/chili-craft-pizza) in Bayshore. You know we’re big fans of the South Asian twist on pizza. 
+Readers may have read our reviews of [Shinwari BBQ and Pizza](https://eatthestrip.com/blog/al-raheem-south-asian-marketplace-and-shinwari-bbq-and-pizza) in Barrhaven and [Chili Craft Pizza](https://eatthestrip.com/blog/chili-craft-pizza) in Bayshore. You know we’re big fans of the South Asian twist on pizza. 
 
 In case you haven’t read our previous articles and wondering what the heck desi pizza is, allow me to explain: You take your classic sauce and cheese base, even the vegetables—onions, bell peppers and mushrooms—will be familiar to you. However, instead of your classic meat toppings, desi pizza offers marinated and spicy meat commonly found in dishes from the Indian subcontinent, such as tandoori or butter chicken, or vegetarian equivalents such as paneer.
 
