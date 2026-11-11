@@ -2,13 +2,16 @@ import Link from 'next/link'
 import styles from '../Home.module.css'
 import Search from '../../../components/Search/Search'
 import { useState, useEffect } from 'react'
-import { getSortedPosts } from '../../../utils/mdx'
+import { getPostSummaries } from '../../../utils/mdx'
 import generateRssFeed from '../../../utils/generateRSSFeed'
 import Image from 'next/image'
 
 export async function getStaticProps() {
   await generateRssFeed()
-  const blogs = await getSortedPosts()
+  // Only this city's posts, and only the fields the cards and search use.
+  const blogs = (await getPostSummaries(['title', 'thumbnail', 'cuisine', 'address', 'closed', 'city'])).filter(
+    (blog) => blog.city === 'Fredericton'
+  )
   return {
     props: {
       blogs,

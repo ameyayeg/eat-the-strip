@@ -20,3 +20,17 @@ export async function getSortedPosts() {
     })
   return blogs
 }
+
+// Light post data for listing pages and the map: only the requested front
+// matter fields (plus slug), newest first, without the article text.
+// Missing fields become null so Next.js can serialize them.
+export async function getPostSummaries(fields) {
+  const posts = await getSortedPosts()
+  return posts.map((post) => {
+    const summary = { slug: post.slug }
+    fields.forEach((field) => {
+      summary[field] = post[field] === undefined ? null : post[field]
+    })
+    return summary
+  })
+}

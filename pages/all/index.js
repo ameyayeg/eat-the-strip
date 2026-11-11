@@ -1,10 +1,16 @@
 import { useState } from 'react'
 import dynamic from 'next/dynamic'
 import styles from './All.module.css'
-import { getSortedPosts } from '../../utils/mdx'
+import { getPostSummaries } from '../../utils/mdx'
 
 export async function getStaticProps() {
-  const blogs = await getSortedPosts()
+  // Only the fields the map uses.
+  const blogs = await getPostSummaries([
+    'title',
+    'city',
+    'positives',
+    'negatives',
+  ])
   return {
     props: {
       blogs,
