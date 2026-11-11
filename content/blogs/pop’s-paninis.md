@@ -17,7 +17,7 @@ Pop’s is the kind of spot that feels like it was built on lunch breaks and wor
 
 Opened in 2019 by Steven—aka “Pop”—the restaurant traces its origins back to the owner’s childhood sandwich experiments, refined over years of feeding his own kids before taking the leap to open a proper shop. Today, Pop’s Paninis operates two locations: this one, just off Woodroffe near Carling, and another out in Gloucester.
 
-You can tell there's a good team vibe here. Caitlin mentions their active TikTok account, where they post some “silly stuff,” and a ten-second timer challenge that lets customers try their luck at winning a free sandwich. There's even a working vintage rotary phone in the corner that, yes, actually makes calls.
+You can tell there's a good team vibe here. Caitlin mentions their active TikTok account, where they post some “silly stuff,” and a 10-second timer challenge that lets customers try their luck at winning a free sandwich. There's even a working vintage rotary phone in the corner that, yes, actually makes calls.
 
 But none of the charm would matter if the paninis didn’t deliver—and they really do.
 

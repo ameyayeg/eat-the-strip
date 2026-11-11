@@ -42,7 +42,7 @@ The cupcakes follow a similar pattern. The icing gets noticed right away—not o
 
 Later on, that same point comes up again—how something can feel both light and rich at the same time. It’s a hard balance to hit, but it shows up here more than once.
 
-Behind it all, the operation has grown steadily. What started as a one-person setup is now a team of around ten. Recipes come from a mix of instinct and memory—some pulled from family, including a lemon square inspired by Lauralee’s grandmother, who baked well into her later years. Others are built more intuitively, shaped over time.
+Behind it all, the operation has grown steadily. What started as a one-person setup is now a team of around 10. Recipes come from a mix of instinct and memory—some pulled from family, including a lemon square inspired by Lauralee’s grandmother, who baked well into her later years. Others are built more intuitively, shaped over time.
 
 Despite the scale, it still feels personal. That’s something Lauralee keeps coming back to. The people, the conversations, the regulars. It’s a big part of why the place runs the way it does. Growth is there if she wants it, but it comes with trade-offs. Expanding means stepping back from the counter, and that’s not something she’s entirely ready to do.
 

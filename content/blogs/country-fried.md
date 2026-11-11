@@ -26,7 +26,7 @@ Two men greeted us warmly from behind the counter as soon as we walked in, immed
 
 As a bit of a poutine purist, I ordered the classic. The first surprise was the price. A small poutine came in at under seven dollars, which in 2026 feels almost suspiciously affordable. Joel and Lily both opted for the buffalo chicken poutine.
 
-Less than ten minutes later, the food arrived piping hot.
+Less than 10 minutes later, the food arrived piping hot.
 
 The fries immediately stood out. Thin-cut, crispy and still carrying bits of skin, they were exactly what you want anchoring a proper poutine. There was crunch underneath the gravy instead of instant sogginess, and the ratios felt carefully balanced. Most importantly, there were actual cheese curds here. Not shredded mozzarella masquerading as poutine cheese. Real curds with that familiar squeak. 
 

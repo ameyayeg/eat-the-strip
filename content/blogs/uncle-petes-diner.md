@@ -20,7 +20,7 @@ Then, almost without warning, the trees opened up. A driveway appeared. And ther
 
 The unmistakable Uncle Pete's Diner sign standing proudly in the clearing.
 
-By the time we pulled into the parking lot, our group numbered around fifteen people, the largest turnout in Eat the Strip history. With our time in Fredericton beginning to wind down, it felt fitting that one of our final outings would bring us somewhere like this.
+By the time we pulled into the parking lot, our group numbered around 15 people, the largest turnout in Eat the Strip history. With our time in Fredericton beginning to wind down, it felt fitting that one of our final outings would bring us somewhere like this.
 
 The moment you walk through the door, you understand why people make the drive.
 

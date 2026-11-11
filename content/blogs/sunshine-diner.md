@@ -24,7 +24,7 @@ About a decade ago, I would’ve said I hoped a spot like this would be spared b
 
 We grab coffee and settle in before the server comes by. One of my friends mentions how full the place is, and she replies, “We got a little busy—this is nothing though.” It says everything you need to know. 
 
-We all go in different directions with our orders. One lands on a BLT with a side of poutine. I go for the Sunshine Benny. Another keeps it classic with a clam chowder and bread roll, and my third friend orders the French toast. About fifteen minutes later, everything starts to arrive. 
+We all go in different directions with our orders. One lands on a BLT with a side of poutine. I go for the Sunshine Benny. Another keeps it classic with a clam chowder and bread roll, and my third friend orders the French toast. About 15 minutes later, everything starts to arrive. 
 
 The first thing that hits you isn’t presentation or flair—it’s familiarity.
 
