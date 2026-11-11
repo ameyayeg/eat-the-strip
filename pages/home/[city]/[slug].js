@@ -11,23 +11,28 @@ import PostHead from '../../../components/PostHead'
 import { getPostTitle, getPostDescription } from '../../../utils/seo'
 import { AiOutlineHome } from 'react-icons/ai'
 import Image from 'next/image'
-import { getSortedPosts } from '../../../utils/mdx'
+import { getPostSummaries } from '../../../utils/mdx'
+import { cityForPost, cityPath, getCityBySlug } from '../../../utils/cities'
 
 const MapWithNoSSR = dynamic(() => import('../../../components/Map'), {
   ssr: false,
 })
 
+// Older post addresses such as /home/fredericton/<slug>. Each city only
+// builds its own posts; the default city's posts live at /blog/<slug> only.
 export async function getStaticPaths() {
-  const allBlogs = await getSortedPosts()
-  const frederictonBlogs = allBlogs.filter((blog) => blog.city === 'Fredericton')
-
-  return {
-    paths: frederictonBlogs.map((blog) => ({ params: { slug: blog.slug } })),
-    fallback: false,
-  }
+  const posts = await getPostSummaries(['city'])
+  const paths = []
+  posts.forEach((post) => {
+    const city = cityForPost(post.city)
+    if (city && !city.isDefault) {
+      paths.push({ params: { city: city.slug, slug: post.slug } })
+    }
+  })
+  return { paths, fallback: false }
 }
 
-export async function getStaticProps({ params: { slug } }) {
+export async function getStaticProps({ params: { city: citySlug, slug } }) {
   const fileContent = matter(
     fs.readFileSync(`./content/blogs/${slug}.md`, 'utf8')
   )
@@ -37,7 +42,14 @@ export async function getStaticProps({ params: { slug } }) {
   const description = getPostDescription(frontmatter, markdown)
 
   return {
-    props: { frontmatter, markdown, slug, title, description },
+    props: {
+      frontmatter,
+      markdown,
+      slug,
+      title,
+      description,
+      homePath: cityPath(getCityBySlug(citySlug)),
+    },
   }
 }
 
@@ -47,6 +59,7 @@ export default function Blog({
   slug,
   title,
   description,
+  homePath,
 }) {
   return (
     <div>
@@ -58,7 +71,7 @@ export default function Blog({
       />
 
       <header className={styles.header}>
-        <Link href="/home/fredericton">
+        <Link href={homePath}>
           <a aria-label="Eat the Strip Fredericton home">
             <AiOutlineHome
               style={{ fontSize: 'var(--font-size-xxl)' }}

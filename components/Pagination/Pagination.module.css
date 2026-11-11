@@ -1,0 +1,64 @@
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 2.5rem 0 1rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.numbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.number,
+.current,
+.step {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0 0.9rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #111;
+  text-decoration: none;
+}
+
+.number,
+.step {
+  background: white;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+}
+
+.number:hover,
+.step:hover {
+  background: #fdf1e7;
+}
+
+.current {
+  background: #ee802f;
+}
+
+.number:focus-visible,
+.step:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 3px;
+}
+
+.gap {
+  display: inline-flex;
+  align-items: flex-end;
+  min-height: 44px;
+  padding: 0 0.25rem 0.6rem;
+  color: #5b5b5b;
+}
