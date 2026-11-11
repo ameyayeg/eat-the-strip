@@ -4,8 +4,10 @@ import Image from 'next/image'
 import { useState } from 'react'
 import styles from './CityListing.module.css'
 import Search from '../Search/Search'
+import Pagination from '../Pagination/Pagination'
 import { getCityById, cityPath } from '../../utils/cities'
 import { absoluteUrl, SITE_NAME } from '../../utils/seo'
+import { pageCount, pageItems, pagePath } from '../../utils/pagination'
 
 // Cards in the first row (three columns on desktop) load right away;
 // the rest load lazily as the reader scrolls.
@@ -17,19 +19,25 @@ const matches = (blog, query) =>
   (blog.address || '').toLowerCase().includes(query)
 
 // The listing page for one city: heading, search and restaurant cards.
-const CityListing = ({ cityId, blogs }) => {
+// `blogs` is the whole city so search covers every restaurant; without a
+// search, only this page's cards show, with page numbers below.
+const CityListing = ({ cityId, blogs, page = 1 }) => {
   const city = getCityById(cityId)
+  const basePath = cityPath(city)
+  const count = pageCount(blogs.length)
   const [query, setQuery] = useState('')
   const normalizedQuery = query.trim().toLowerCase()
-  const restaurants = normalizedQuery
+  const searching = normalizedQuery !== ''
+  const restaurants = searching
     ? blogs.filter((blog) => matches(blog, normalizedQuery))
-    : blogs
+    : pageItems(blogs, page)
+  const pageLabel = page > 1 ? ` – Page ${page}` : ''
 
   return (
     <>
       <Head>
-        <title>{`${city.name} restaurants | ${SITE_NAME}`}</title>
-        <link rel="canonical" href={absoluteUrl(cityPath(city))} />
+        <title>{`${city.name} restaurants${pageLabel} | ${SITE_NAME}`}</title>
+        <link rel="canonical" href={absoluteUrl(pagePath(basePath, page))} />
       </Head>
 
       <section className={styles.pageHeading}>
@@ -77,6 +85,10 @@ const CityListing = ({ cityId, blogs }) => {
             </Link>
           ))}
         </div>
+
+        {!searching && (
+          <Pagination page={page} count={count} basePath={basePath} />
+        )}
       </section>
     </>
   )
