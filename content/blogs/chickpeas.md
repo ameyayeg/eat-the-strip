@@ -11,7 +11,7 @@ positives: 45.41450180179047
 negatives: -75.64838569612094
 image: /uploads/img_7267.jpeg
 ---
-For our last Eat the Strip outing of 2024, we headed east towards the Ottawa Train Yards.
+For our last Eat the Strip outing of 2024, we headed east toward the Ottawa Train Yards.
 
 One of our readers had written to us in early December urging us to go try Chickpeas, a Palestinian eatery that opened in 2016. We did a little bit of digging around and found out it's one of the city’s few fully vegan restaurants. In fact, I’m hard pressed to think of a vegan Middle Eastern eatery in the city.
 

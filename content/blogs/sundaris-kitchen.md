@@ -37,7 +37,7 @@ We ordered the ghee sambar idli as an appetizer and the Mysore-style masala dosa
 
 The idlis were delightful. Dunked in a generous portion of sambar and ghee, they were light, perfectly spiced and whet our appetite for the main course.
 
-Our dosa and uthappam arrived shortly afterwards. We dug in right away. The crispy uthappam—a South Indian soft pancake made of rice and lentil—was topped with onions, tomatoes, green chilies, cilantro, curry leaves and the ubiquitous gunpowder chutney.
+Our dosa and uthappam arrived shortly afterward. We dug in right away. The crispy uthappam—a South Indian soft pancake made of rice and lentil—was topped with onions, tomatoes, green chilies, cilantro, curry leaves and the ubiquitous gunpowder chutney.
 
 ![Dosa is made by soaking rice and lentils overnight in water and then grinding it into a batter, which is fermented overnight and then pan-roasted until crispy and served with potato curry, chutneys or sambar](/uploads/img_0597.jpeg "Mysore masala dosa")
 
@@ -55,7 +55,7 @@ Paula agreed—this was some of the best food she had in Ottawa. We were so full
 
 The eponymously named Sundari’s Kitchen is run by Sundari and her family. She came by our table to check on us during our meal. Originally from Madurai, located in the southern Indian state of Tamil Nadu, she prides herself on her restaurant’s use of fresh ingredients— “nothing frozen here,” she said to us, smiling—and pointed to the numerous accolades the restaurant has received in the short amount of it has been open.
 
-We settled our bill shortly afterwards. Our total came to just over $70—tip included. 
+We settled our bill shortly afterward. Our total came to just over $70—tip included. 
 
 On our way out, we noticed the restaurant had filled up considerably. I overheard one person tell Sundari his family has been waiting a for months to eat at the restaurant. They had, he said, heard only good things.
 

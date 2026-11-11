@@ -12,7 +12,7 @@ positives: 45.28479494862988
 negatives: -75.72246890614088
 image: /uploads/img_2225.jpeg
 ---
-On a warm July Wednesday, I pointed the car south towards Barrhaven. Aroy Thai was first recommended to us by a reader back in 2023. I'm slightly ashamed to admit it took nearly three years to finally make the trip, but better late than never.
+On a warm July Wednesday, I pointed the car south toward Barrhaven. Aroy Thai was first recommended to us by a reader back in 2023. I'm slightly ashamed to admit it took nearly three years to finally make the trip, but better late than never.
 
 The drive itself takes you through stretches of fields and some surprisingly rural corners of south Ottawa before eventually bringing you to an unassuming Quickie gas station on Rideaucrest Drive. Before leaving home, I'd done a little homework and phoned in an order for two dishes that always make my shortlist at any Thai restaurant: pad kee mao, better known as drunken noodles, and gaeng khiao wan, or Thai green curry. When the woman taking my order asked how spicy I'd like it, I told her to make it the way she likes it or the way it's commonly served in Thailand.
 
@@ -22,7 +22,7 @@ When readers first told us about Aroy Thai, one thing kept coming up alongside t
 
 ![Fresh basil, tender chicken and enough spice to keep the napkins close by](/uploads/img_2240.jpeg "Aroy Thai pad kee mao")
 
-For our first Ottawa feature in almost a year, it somehow felt fitting that we'd return with a proper Eat the Strip hidden gem. Walking into the Quickie, there's a small sign tucked away at the back pointing you towards Aroy Thai. Suphatra later told me that "Aroy" simply means "tasty" in Thai. Hidden away inside the back of a convenience store, my hidden gem radar immediately started going off. This felt like the real deal.
+For our first Ottawa feature in almost a year, it somehow felt fitting that we'd return with a proper Eat the Strip hidden gem. Walking into the Quickie, there's a small sign tucked away at the back pointing you toward Aroy Thai. Suphatra later told me that "Aroy" simply means "tasty" in Thai. Hidden away inside the back of a convenience store, my hidden gem radar immediately started going off. This felt like the real deal.
 
 Aroy Thai is strictly takeout. Twenty minutes after placing my order, everything was hot, fresh and ready to go. The two dishes came to around $38. Before I'd even introduced myself or mentioned the blog, Suphatra handed over my bag with two complimentary spring rolls tucked inside. A smiley face had been drawn on the packaging. It was a small gesture, but one that said plenty about the person running the place.
 
