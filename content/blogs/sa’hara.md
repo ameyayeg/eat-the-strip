@@ -13,22 +13,40 @@ positives: 45.35311677907988
 negatives: -75.64701275482031
 image: /uploads/img_3911.jpeg
 ---
-On this sunny November afternoon, I head south on Bronson toward Towngate Shopping Plaza, home to some pretty solid strip mall gems. Across from the Wendy’s is today’s stop: Sa’hara, a Somali restaurant we’ve been wanting to visit all year. I’m here with my usual collaborator, Sergio.
+There’s something particularly satisfying about finding a good Somali restaurant, especially when you’ve been craving suqaar for the better part of a year. On this sunny November afternoon, Sergio and I are heading south on Bronson toward Towngate Shopping Plaza, a commercial complex with its fair share of solid strip mall gems. Across from the Wendy’s, however, is our destination for the day: Sa’hara, a Somali restaurant we’ve been meaning to visit for months.
 
-We arrive at 1 p.m., right at opening time. That’s very unusual for us, since we’re typically there during a lull or close to closing. Inside, an incense stick burns and the space is clean and white, a bit like an industrial loft that’s been converted. There are around eight tables and plenty of room. It’s bright and welcoming. We’re also the only non-Somalis in the place, which is always a good sign, since it means the food is likely to be authentic. A massive bag of cinnamon sits on the counter, and two women and a man work the kitchen.
+We arrive at 1 p.m., right as the restaurant opens. This is unusual for us. We’re typically the sort to show up during a lull in business or, more often than not, dangerously close to closing time. But today, we’re here with a specific mission: to try the restaurant’s Somali lamb platter.
 
-We order the lamb platter, which is under $25. The chicken version is closer to $20. The man behind the counter takes our order and brings it out about 10 minutes later.
+Inside, the restaurant is bright and welcoming. An incense stick is burning, the walls are clean and white, and roughly eight tables are spread throughout a space that feels a little like an industrial loft converted into a dining room. It’s fairly spacious, and there’s a certain simplicity to the whole setup. There are already plenty of Somali diners enjoying their meals, which is always a promising sign from an authenticity standpoint.
 
-The bag of cinnamon on the counter makes sense once the platter lands on the table. A massive stick of cinnamon sits in the middle of the rice. Sergio, who is Mexican, loves the rice and says it’s really different. To me, as an Indian man, it feels very familiar. It reminds me of the properly done basmati we use in biryani and pulao. Sergio also says the lamb is so soft it’s cooked perfectly. He struggles to get the marrow out of the bone. “Bring chopsticks to poke it out,” he jokes. I slurp mine out perfectly.
+A particularly massive bag of cinnamon sitting on the counter catches my eye. It’s an early indication of the aromatics we’re about to encounter.
+
+We order the lamb platter, which is $23. It’s an easy decision, considering lamb is exactly what we’re after. Two women and a man are working in the kitchen, while a man behind the counter takes care of the ordering.
+
+Our food arrives roughly 10 minutes later, and it’s immediately clear that we’ve made the right call.
+
 
 ![The lamb platter at Sa’hara comes with cinnamon-scented basmati rice, salad and braised, Somali-spiced lamb on the bone](/uploads/img_3922.jpeg "Sa’hara lamb platter")
 
-The fat on the thick, generous portions of lamb is rendered so well. The rice is perfectly spiced, and the lamb’s juices mingle with it for a rich texture. The aromatics stand out, and the cinnamon rice is great. A green, chutney-style sauce is tangy, citrusy and spicy, and it’s excellent. We can’t get enough of it. I also love how much thought went into the presentation, right down to the little shallots on top.
 
-The portions are massive. Even with the two of us going at it, we had leftovers, which came home to Danielle, who loved them.
+The platter comes with a generous serving of basmati rice, salad and a substantial portion of braised, Somali-spiced lamb. A massive stick of cinnamon sits right in the middle of the rice, almost like a centrepiece. The aroma is wonderful, and there’s no mistaking the spices that have gone into preparing this meal.
+
+Sergio is particularly impressed with the lamb. He points out how different the rice is from what he’s accustomed to, while praising the meat for being exceptionally soft and perfectly cooked. He’s also having a bit of a battle trying to get the marrow out of one of the lamb bones. At one point, he jokes that bringing chopsticks along might help with the job.
+
+The lamb is served in thick, generous portions, and the fat has been rendered beautifully. Everything feels thoughtfully prepared. The rice is perfectly spiced, and the juices from the lamb mingle with it to create an incredibly rich texture. The aromatics are particularly noticeable, with the cinnamon lending a wonderful fragrance throughout.
+
+Then there are the sauces, which really bring everything together. They’re the icing on the cake, complementing the richness of the lamb without overwhelming it. I also appreciate the little touches in the presentation, including the shallots arranged at the end of the platter. It’s a simple meal, but there’s clearly some care behind how everything comes together.
+
 
 ![The lamb at Sa’hara is so tender it falls off the bone, with marrow worth slurping](/uploads/img_3925.jpeg "Sa’hara lamb marrow")
 
-The man at the counter turns out to be Abdi, who doesn’t have much time to talk. He tells me the restaurant has been at this location for two years. It appears to have opened in 2022 on Montreal Road before moving here. He also says the restaurant is run by a couple. When I ask about the community response, he says, “Good, it’s going good.” Then he has to run back to the orders. Lamb, chicken and steak platters are the popular options on the menu, he tells me.
 
-I’d love to hear the owners’ story. I’ve messaged them online, and if they get back to me, I’ll share it here. In the meantime, this is one of those no-nonsense strip mall spots that’s all about the food. The platter came with basmati rice, salad and braised, Somali-spiced lamb that fell off the bone. The flavours are all in the right place, and everything is well done. Go with company, or plan on leftovers. The chicken will have to wait for another visit.
+After eating, I get a chance to speak briefly with Abdi, the man behind the counter who took our order. He’s understandably busy, so our conversation is relatively short, but he tells me Sa’hara has been operating at this location for about two years. The restaurant has been receiving a positive response from the community, and some of its more popular options include lamb, chicken and steak platters.
+
+I reached out to the restaurant’s ownership for additional comment and background ahead of publication, but had not received a response by the deadline.
+
+
+
+Sa’hara is one of those no-nonsense strip mall spots where the food does most of the talking. The lamb platter is an excellent introduction to the restaurant, with fragrant basmati rice, a fresh salad and beautifully braised lamb that practically falls off the bone. The flavours are all in the right place, the portions are generous and the food is well done.
+
+I’ll definitely be back to try the chicken and, hopefully, remember to order some suqaar to go with it.
