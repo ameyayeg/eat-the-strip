@@ -23,10 +23,14 @@ function searchTarget(router) {
   return '/home'
 }
 
+// Search in the bar. On listing pages it's a full box on wider screens and
+// filters as you type. Everywhere else, and on phones, it's a magnifier icon
+// that opens the search across the whole bar; Enter goes to the listing with
+// ?q=. One x button clears the text, or closes the search when it's empty.
 const HeaderSearch = ({ isListing }) => {
   const router = useRouter()
   const [value, setValue] = useState('')
-  const [expanded, setExpanded] = useState(false) // phones only
+  const [expanded, setExpanded] = useState(false)
   const inputRef = useRef(null)
   const toggleRef = useRef(null)
 
@@ -35,7 +39,7 @@ const HeaderSearch = ({ isListing }) => {
     if (!router.isReady) return
     const q = typeof router.query.q === 'string' ? router.query.q : ''
     setValue(q)
-    if (q) setExpanded(true)
+    setExpanded(Boolean(q))
     // Only when the page changes, not on every keystroke.
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [router.isReady, router.pathname])
@@ -77,8 +81,26 @@ const HeaderSearch = ({ isListing }) => {
     setTimeout(() => toggleRef.current && toggleRef.current.focus(), 0)
   }
 
+  // The x button: clear the text if there is any, otherwise close.
+  const clearOrClose = () => {
+    if (value) {
+      setValue('')
+      if (isListing) updateListing('')
+      if (inputRef.current) inputRef.current.focus()
+    } else {
+      close()
+    }
+  }
+
+  const classes = [
+    styles.search,
+    isListing ? '' : styles.compact,
+    expanded ? styles.searchOpen : '',
+    value ? styles.hasValue : '',
+  ].join(' ')
+
   return (
-    <div className={`${styles.search} ${expanded ? styles.searchOpen : ''}`}>
+    <div className={classes}>
       <button
         ref={toggleRef}
         type="button"
@@ -106,17 +128,18 @@ const HeaderSearch = ({ isListing }) => {
           type="search"
           placeholder="Search food, cuisine or address"
           autoComplete="off"
+          enterKeyHint="search"
           value={value}
           onChange={onChange}
           onKeyDown={(event) => {
-            if (event.key === 'Escape' && expanded) close()
+            if (event.key === 'Escape' && (expanded || value)) close()
           }}
         />
         <button
           type="button"
           className={`${styles.iconButton} ${styles.searchClose}`}
-          aria-label="Close search"
-          onClick={close}
+          aria-label={value ? 'Clear search' : 'Close search'}
+          onClick={clearOrClose}
         >
           <AiOutlineClose aria-hidden="true" />
         </button>

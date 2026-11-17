@@ -52,7 +52,8 @@
   background: url('/newlogo.png') center / auto 250% no-repeat;
 }
 
-/* Search: an input on wider screens, an icon that expands on phones */
+/* Search. Listing pages on wider screens: a full box. Other pages (any
+   width) and phones: a magnifier icon that opens the search over the bar. */
 .search {
   margin-left: auto;
 }
@@ -60,6 +61,7 @@
 .searchForm {
   display: flex;
   align-items: center;
+  gap: 0.25rem;
 }
 
 .searchInput {
@@ -71,10 +73,11 @@
   background: white;
   color: #111;
   font-family: inherit;
-  font-size: 16px;
+  /* 16px or more stops iPhones zooming in */
+  font-size: 17px;
 }
 
-/* The close button replaces the browser's own clear button */
+/* The x button replaces the browser's own clear button */
 .searchInput::-webkit-search-cancel-button {
   -webkit-appearance: none;
   appearance: none;
@@ -85,16 +88,55 @@
   display: none;
 }
 
+/* The x shows whenever there's text to clear */
+.hasValue .searchClose {
+  display: inline-flex;
+}
+
+/* Icon only: other pages at any width */
+.compact .searchToggle {
+  display: inline-flex;
+}
+
+.compact .searchForm {
+  display: none;
+}
+
+/* Open (icon versions only): the search covers the whole bar, menu button
+   and logo included, so nothing below it moves. */
+.compact.searchOpen .searchForm {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  z-index: 2;
+  gap: 0.5rem;
+  padding: 0 0.75rem;
+  background: #ee802f;
+}
+
+.compact.searchOpen .searchInput {
+  flex: 1;
+  width: auto;
+  min-width: 0;
+}
+
+.compact.searchOpen .searchClose {
+  display: inline-flex;
+}
+
+/* Phones: listing pages use the icon too */
 @media (max-width: 40rem) {
   .searchToggle {
     display: inline-flex;
   }
 
-  .searchForm {
+  .search:not(.searchOpen) .searchForm {
     display: none;
   }
 
-  /* Expanded: the search covers the bar's top row, so nothing moves */
   .searchOpen .searchForm {
     display: flex;
     position: absolute;
@@ -137,11 +179,6 @@
   align-items: flex-start;
   padding-top: 10px;
   height: calc(64px + min(60vh, 42rem));
-}
-
-.listing .search {
-  position: relative;
-  z-index: 1;
 }
 
 .heroLink {
