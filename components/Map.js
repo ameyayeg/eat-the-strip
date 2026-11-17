@@ -46,7 +46,9 @@ export default function Map(props) {
     <MapContainer
       center={defaultCenter}
       zoom={defaultZoom}
-      style={{ height: '60vh' }}
+      // isolation keeps Leaflet's layers (z-index up to 1000) inside the map,
+      // so they scroll under the sticky header and the menu.
+      style={{ height: '60vh', isolation: 'isolate' }}
       scrollWheelZoom={true}
     >
       <TileLayer

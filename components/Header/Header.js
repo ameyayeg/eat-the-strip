@@ -6,13 +6,16 @@ import styles from './Header.module.css'
 import MenuDrawer from './MenuDrawer'
 
 // Listing pages: they get the big logo banner, and the header search filters
-// them as you type. Everywhere else, Enter takes you to a listing.
+// them as you type. Everywhere else, Enter takes you to a listing and the bar
+// sticks to the top of the screen.
 const LISTING_ROUTES = [
   '/home',
   '/home/page/[page]',
   '/home/[city]',
   '/home/[city]/page/[page]',
 ]
+
+export const isListingPage = (pathname) => LISTING_ROUTES.includes(pathname)
 
 // Where a search from this page goes: the current city's listing when the
 // page belongs to a city, otherwise the default listing.
@@ -154,7 +157,7 @@ const HeaderSearch = ({ isListing }) => {
 // button, home link, search, so the tab order is the same on every page.
 const Header = () => {
   const router = useRouter()
-  const isListing = LISTING_ROUTES.includes(router.pathname)
+  const isListing = isListingPage(router.pathname)
   const [menuOpen, setMenuOpen] = useState(false)
   const menuButton = useRef(null)
 
@@ -163,7 +166,7 @@ const Header = () => {
   return (
     <>
       <header
-        className={isListing ? `${styles.bar} ${styles.listing}` : styles.bar}
+        className={`${styles.bar} ${isListing ? styles.listing : styles.sticky}`}
       >
         <button
           ref={menuButton}

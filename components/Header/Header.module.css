@@ -9,6 +9,15 @@
   background: #ee802f;
 }
 
+/* Posts and other non-listing pages: the bar stays at the top as you scroll.
+   It keeps its place in the page, so nothing below it moves on load. Below
+   the menu (1000 and up), above page content. */
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 900;
+}
+
 .iconButton {
   display: inline-flex;
   align-items: center;
