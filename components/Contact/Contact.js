@@ -5,6 +5,32 @@ import styles from './Contact.module.css'
 // Don't rename them.
 const CONNECTIONS = ['Customer', 'Friend or family', 'Owner or staff', 'Other']
 
+// Clearer wording than the browser's default messages for the email field.
+const showEmailMessage = (event) => {
+  const input = event.target
+  input.setCustomValidity('')
+  if (input.validity.valueMissing) {
+    input.setCustomValidity('Please enter your email so we can reply.')
+  } else if (input.validity.typeMismatch) {
+    input.setCustomValidity(
+      'Please enter a valid email address, like name@example.com.'
+    )
+  }
+}
+
+const clearEmailMessage = (event) => event.target.setCustomValidity('')
+
+// The browser already checks the form when Send is clicked. This also stops
+// submits started from JavaScript (requestSubmit or a submit event) when a
+// field is missing or invalid, and shows the message.
+const checkBeforeSending = (event) => {
+  const form = event.currentTarget
+  if (!form.checkValidity()) {
+    event.preventDefault()
+    form.reportValidity()
+  }
+}
+
 const Contact = () => {
   return (
     <form
@@ -13,6 +39,7 @@ const Contact = () => {
       data-netlify="true"
       action="/success"
       className={styles.form}
+      onSubmit={checkBeforeSending}
     >
       <input type="hidden" name="form-name" value="contact" />
 
@@ -22,8 +49,16 @@ const Contact = () => {
       </div>
 
       <div className={styles.field}>
-        <label htmlFor="youremail">Email (optional)</label>
-        <input type="email" name="email" id="youremail" autoComplete="email" />
+        <label htmlFor="youremail">Email</label>
+        <input
+          type="email"
+          name="email"
+          id="youremail"
+          autoComplete="email"
+          required
+          onInvalid={showEmailMessage}
+          onInput={clearEmailMessage}
+        />
       </div>
 
       <div className={styles.field}>
