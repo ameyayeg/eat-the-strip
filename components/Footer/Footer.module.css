@@ -8,12 +8,13 @@
   color: whitesmoke;
 }
 
-.menu h1 {
+.menu .logo {
   font-family: var(--font-family-lobster);
-  font-size: var(--font-size-md);
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  line-height: 1.05;
   background-color: black;
   color: whitesmoke;
-  font-size: var(--font-size-lg);
   display: inline;
 }
 

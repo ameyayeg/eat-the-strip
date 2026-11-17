@@ -1,9 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Image from 'next/image'
-import { useState } from 'react'
+import { useRouter } from 'next/router'
 import styles from './CityListing.module.css'
-import Search from '../Search/Search'
 import Pagination from '../Pagination/Pagination'
 import { getCityById, cityPath } from '../../utils/cities'
 import { absoluteUrl, SITE_NAME } from '../../utils/seo'
@@ -18,14 +17,19 @@ const matches = (blog, query) =>
   (blog.title || '').toLowerCase().includes(query) ||
   (blog.address || '').toLowerCase().includes(query)
 
-// The listing page for one city: heading, search and restaurant cards.
+// The listing page for one city: heading and restaurant cards. The search
+// box lives in the header and puts the search in the address (?q=).
 // `blogs` is the whole city so search covers every restaurant; without a
 // search, only this page's cards show, with page numbers below.
 const CityListing = ({ cityId, blogs, page = 1 }) => {
   const city = getCityById(cityId)
   const basePath = cityPath(city)
   const count = pageCount(blogs.length)
-  const [query, setQuery] = useState('')
+  const router = useRouter()
+  // Read ?q= only once the router is ready, so the first render matches the
+  // pre-built page (no flash, no hydration mismatch).
+  const query =
+    router.isReady && typeof router.query.q === 'string' ? router.query.q : ''
   const normalizedQuery = query.trim().toLowerCase()
   const searching = normalizedQuery !== ''
   const restaurants = searching
@@ -47,8 +51,6 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
           <p>{city.intro}</p>
         </div>
       </section>
-
-      <Search query={query} setQuery={setQuery} />
 
       <section className={styles.container}>
         {restaurants.length === 0 && (

@@ -50,25 +50,6 @@ p {
   color: #4b4b4b;
 }
 
-/* Position and sizing of burger button */
-.bm-burger-button {
-  position: absolute;
-  width: 36px;
-  height: 30px;
-  left: 36px;
-  top: 36px;
-}
-
-/* Color/shape of burger icon bars */
-.bm-burger-bars {
-  background: #373a47;
-}
-
-/* Color/shape of burger icon bars on hover*/
-.bm-burger-bars-hover {
-  background: #a90000;
-}
-
 /* Position and sizing of clickable cross button */
 .bm-cross-button {
   height: 24px;
@@ -110,6 +91,30 @@ Note: Beware of modifying this element as it can break the animations - you shou
 /* Individual item */
 .bm-item {
   display: inline-block;
+}
+
+/* Menu links keep the logo font they had when the menu sat inside the old
+   banner header. */
+.bm-item-list > a.menu-item {
+  font-family: var(--font-family-lobster);
+}
+
+/* A closed menu can't be reached with the keyboard or a screen reader.
+   The delay lets it finish sliding away before it's hidden. */
+.bm-menu-wrap[aria-hidden='true'] {
+  visibility: hidden;
+  transition: transform 0.5s ease, visibility 0s linear 0.5s !important;
+}
+
+.bm-menu-wrap[aria-hidden='false'] {
+  visibility: visible;
+  transition: transform 0.5s ease !important;
+}
+
+.bm-menu a:focus-visible,
+.bm-menu button:focus-visible {
+  outline: 3px solid #ee802f;
+  outline-offset: 2px;
 }
 
 /* Styling of overlay */
