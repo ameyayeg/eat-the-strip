@@ -1,0 +1,122 @@
+/* Panel and overlay are fixed to the screen from the very top, at any
+   scroll position. Colours, fonts and spacing match the previous menu. */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0s linear 0.3s;
+}
+
+.panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: min(300px, 85vw);
+  height: 100vh;
+  height: 100dvh;
+  z-index: 1100;
+  overflow-y: auto;
+  padding: 2.5rem 1.5rem 1.5rem;
+  background: #373a47;
+  color: #b8b7ad;
+  font-size: 1.15rem;
+  transform: translateX(-100%);
+  /* Hidden (so not focusable) only after it has slid away */
+  visibility: hidden;
+  transition: transform 0.3s ease, visibility 0s linear 0.3s;
+}
+
+.open .overlay {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.3s ease;
+}
+
+.open .panel {
+  transform: none;
+  visibility: visible;
+  transition: transform 0.3s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .overlay,
+  .panel,
+  .open .overlay,
+  .open .panel {
+    transition: none;
+  }
+}
+
+.close {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: #bdc3c7;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0.8rem 0.8rem 0;
+}
+
+.link {
+  display: block;
+  color: #b8b7ad;
+  font-family: var(--font-family-lobster);
+  text-decoration: none;
+}
+
+.link:hover {
+  color: white;
+}
+
+/* Space above the first legal link (navLinks.js `divider: true`). */
+.divider {
+  margin-top: 0.75rem;
+}
+
+.extras {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  margin-top: 16px;
+  padding: 0 0.8rem;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.subscribe {
+  padding: 0 0.8rem;
+}
+
+.panel a:focus-visible,
+.panel button:focus-visible,
+.panel input:focus-visible {
+  outline: 3px solid #ee802f;
+  outline-offset: 2px;
+}

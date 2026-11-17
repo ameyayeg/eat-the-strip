@@ -2,17 +2,15 @@ import fs from 'fs'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
 import styles from '../../blog/Blog.module.css'
-import LayoutWithoutHeader from '../../../components/Layouts/LayoutWithoutHeader'
-import Link from 'next/link'
+import Layout from '../../../components/Layouts/Layout'
 import dynamic from 'next/dynamic'
 import ContactLine from '../../../components/ContactLine'
 import SupportBox from '../../../components/SupportBox'
 import PostHead from '../../../components/PostHead'
 import { getPostTitle, getPostDescription } from '../../../utils/seo'
-import { AiOutlineHome } from 'react-icons/ai'
 import Image from 'next/image'
 import { getPostSummaries } from '../../../utils/mdx'
-import { cityForPost, cityPath, getCityBySlug } from '../../../utils/cities'
+import { cityForPost } from '../../../utils/cities'
 
 const MapWithNoSSR = dynamic(() => import('../../../components/Map'), {
   ssr: false,
@@ -32,7 +30,7 @@ export async function getStaticPaths() {
   return { paths, fallback: false }
 }
 
-export async function getStaticProps({ params: { city: citySlug, slug } }) {
+export async function getStaticProps({ params: { slug } }) {
   const fileContent = matter(
     fs.readFileSync(`./content/blogs/${slug}.md`, 'utf8')
   )
@@ -48,7 +46,6 @@ export async function getStaticProps({ params: { city: citySlug, slug } }) {
       slug,
       title,
       description,
-      homePath: cityPath(getCityBySlug(citySlug)),
     },
   }
 }
@@ -59,7 +56,6 @@ export default function Blog({
   slug,
   title,
   description,
-  homePath,
 }) {
   return (
     <div>
@@ -70,17 +66,6 @@ export default function Blog({
         slug={slug}
       />
 
-      <header className={styles.header}>
-        <Link href={homePath}>
-          <a aria-label="Eat the Strip Fredericton home">
-            <AiOutlineHome
-              style={{ fontSize: 'var(--font-size-xxl)' }}
-              aria-hidden="true"
-            />
-          </a>
-        </Link>
-        <h1>Eat the Strip</h1>
-      </header>
       <div style={{ position: 'relative', width: '100%', height: '60vh' }}>
         <Image
           src={frontmatter.image}
@@ -167,6 +152,8 @@ export default function Blog({
   )
 }
 
+// The shared layout, set here so the site-wide default tags in _app.js
+// don't repeat the post's own title and social tags.
 Blog.getLayout = function (page) {
-  return <LayoutWithoutHeader>{page}</LayoutWithoutHeader>
+  return <Layout>{page}</Layout>
 }

@@ -2,14 +2,12 @@ import fs from 'fs'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
 import styles from './Blog.module.css'
-import LayoutWithoutHeader from '../../components/Layouts/LayoutWithoutHeader'
-import Link from 'next/link'
+import Layout from '../../components/Layouts/Layout'
 import dynamic from 'next/dynamic'
 import ContactLine from '../../components/ContactLine'
 import SupportBox from '../../components/SupportBox'
 import PostHead from '../../components/PostHead'
 import { getPostTitle, getPostDescription } from '../../utils/seo'
-import { AiOutlineHome } from 'react-icons/ai'
 import Image from 'next/image'
 
 export async function getStaticPaths() {
@@ -62,17 +60,6 @@ export default function Blog({
         slug={slug}
       />
 
-      <header className={styles.header}>
-        <Link href="/">
-          <a aria-label="Eat the Strip home">
-            <AiOutlineHome
-              style={{ fontSize: 'var(--font-size-xxl)' }}
-              aria-hidden="true"
-            />
-          </a>
-        </Link>
-        <h1>Eat the Strip</h1>
-      </header>
       <div style={{ position: 'relative', width: '100%', height: '60vh' }}>
         <Image
           src={frontmatter.image}
@@ -159,6 +146,8 @@ export default function Blog({
   )
 }
 
+// The shared layout, set here so the site-wide default tags in _app.js
+// don't repeat the post's own title and social tags.
 Blog.getLayout = function (page) {
-  return <LayoutWithoutHeader>{page}</LayoutWithoutHeader>
+  return <Layout>{page}</Layout>
 }

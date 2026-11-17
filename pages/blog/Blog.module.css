@@ -5,16 +5,6 @@
   padding: 0.5rem 1rem;
 }
 
-.header {
-  font-family: var(--font-family-lobster);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: var(--font-size-md);
-  padding: 0.5rem 0.75rem;
-}
-
 .frontmatterDiv {
   font-size: var(--font-size-base);
   line-height: 1.6;

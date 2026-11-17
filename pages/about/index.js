@@ -5,6 +5,7 @@ const About = () => {
   return (
     <div className={styles.container}>
       <div className={styles.about}>
+        <h1>About Eat the Strip</h1>
         <h2>
           Eat the Strip is our tribute to the mom-and-pop food joints tucked
           into the suburbs of Ottawa-Gatineau and Fredericton. We believe the

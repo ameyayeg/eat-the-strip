@@ -1,71 +1,207 @@
-import styles from './Header.module.css'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
-import { slide as Menu } from 'react-burger-menu'
-import { FaInstagram, FaYoutube } from 'react-icons/fa'
-import Subscribe from '../Subscribe'
-import navLinks from '../../utils/navLinks'
+import { useRouter } from 'next/router'
+import { AiOutlineMenu, AiOutlineSearch, AiOutlineClose } from 'react-icons/ai'
+import styles from './Header.module.css'
+import MenuDrawer from './MenuDrawer'
 
-const Header = () => {
+// Listing pages: they get the big logo banner, and the header search filters
+// them as you type. Everywhere else, Enter takes you to a listing and the bar
+// sticks to the top of the screen.
+const LISTING_ROUTES = [
+  '/home',
+  '/home/page/[page]',
+  '/home/[city]',
+  '/home/[city]/page/[page]',
+]
+
+export const isListingPage = (pathname) => LISTING_ROUTES.includes(pathname)
+
+// Where a search from this page goes: the current city's listing when the
+// page belongs to a city, otherwise the default listing.
+function searchTarget(router) {
+  if (router.pathname.startsWith('/home/[city]') && router.query.city) {
+    return `/home/${router.query.city}`
+  }
+  return '/home'
+}
+
+// Search in the bar. On listing pages it's a full box on wider screens and
+// filters as you type. Everywhere else, and on phones, it's a magnifier icon
+// that opens the search across the whole bar; Enter goes to the listing with
+// ?q=. One x button clears the text, or closes the search when it's empty.
+const HeaderSearch = ({ isListing }) => {
+  const router = useRouter()
+  const [value, setValue] = useState('')
+  const [expanded, setExpanded] = useState(false)
+  const inputRef = useRef(null)
+  const toggleRef = useRef(null)
+
+  // Show the search from the address (?q=) once the router has it.
+  useEffect(() => {
+    if (!router.isReady) return
+    const q = typeof router.query.q === 'string' ? router.query.q : ''
+    setValue(q)
+    setExpanded(Boolean(q))
+    // Only when the page changes, not on every keystroke.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [router.isReady, router.pathname])
+
+  // On listing pages, keep ?q= in the address so the listing can filter.
+  const updateListing = (q) => {
+    const query = { ...router.query }
+    if (q.trim()) query.q = q
+    else delete query.q
+    router.replace({ pathname: router.pathname, query }, undefined, {
+      shallow: true,
+      scroll: false,
+    })
+  }
+
+  const onChange = (event) => {
+    setValue(event.target.value)
+    if (isListing) updateListing(event.target.value)
+  }
+
+  const onSubmit = (event) => {
+    event.preventDefault()
+    if (isListing) return // already filtering as you type
+    const q = value.trim()
+    router.push({ pathname: searchTarget(router), query: q ? { q } : {} })
+  }
+
+  const open = () => {
+    setExpanded(true)
+    setTimeout(() => inputRef.current && inputRef.current.focus(), 0)
+  }
+
+  const close = () => {
+    setExpanded(false)
+    if (value) {
+      setValue('')
+      if (isListing) updateListing('')
+    }
+    setTimeout(() => toggleRef.current && toggleRef.current.focus(), 0)
+  }
+
+  // The x button: clear the text if there is any, otherwise close.
+  const clearOrClose = () => {
+    if (value) {
+      setValue('')
+      if (isListing) updateListing('')
+      if (inputRef.current) inputRef.current.focus()
+    } else {
+      close()
+    }
+  }
+
+  const classes = [
+    styles.search,
+    isListing ? '' : styles.compact,
+    expanded ? styles.searchOpen : '',
+    value ? styles.hasValue : '',
+  ].join(' ')
+
   return (
-    <header className={styles.container}>
-      <Menu>
-        {navLinks.map(({ id, label, href, divider }) => (
-          <a
-            key={id}
-            id={id}
-            className={divider ? `menu-item ${styles.divider}` : 'menu-item'}
-            href={href}
-          >
-            {label}
-          </a>
-        ))}
-        <div
-          style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'flex-start',
-            gap: '12px',
-            marginTop: '16px',
+    <div className={classes}>
+      <button
+        ref={toggleRef}
+        type="button"
+        className={`${styles.iconButton} ${styles.searchToggle}`}
+        aria-label="Open search"
+        aria-expanded={expanded}
+        aria-controls="site-search"
+        onClick={open}
+      >
+        <AiOutlineSearch aria-hidden="true" />
+      </button>
+      <form
+        id="site-search"
+        role="search"
+        className={styles.searchForm}
+        onSubmit={onSubmit}
+      >
+        <label htmlFor="site-search-input" className={styles.srOnly}>
+          Search restaurants
+        </label>
+        <input
+          ref={inputRef}
+          id="site-search-input"
+          className={styles.searchInput}
+          type="search"
+          placeholder="Search food, cuisine or address"
+          autoComplete="off"
+          enterKeyHint="search"
+          value={value}
+          onChange={onChange}
+          onKeyDown={(event) => {
+            if (event.key === 'Escape' && (expanded || value)) close()
           }}
+        />
+        <button
+          type="button"
+          className={`${styles.iconButton} ${styles.searchClose}`}
+          aria-label={value ? 'Clear search' : 'Close search'}
+          onClick={clearOrClose}
         >
-          <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
-            <img
-              height="36"
-              style={{ border: '0px', height: '40px' }}
-              src="https://storage.ko-fi.com/cdn/kofi2.png?v=6"
-              border="0"
-              alt="Buy Me a Coffee at ko-fi.com"
-            />
-          </a>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-            <a
-              href="https://www.instagram.com/eatthestripyow/"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="Eat the Strip on Instagram"
-            >
-              <FaInstagram color="#ee802f" size={36} aria-hidden="true" />
-            </a>
-            <a
-              href="https://www.youtube.com/@eatthestripyow"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="Eat the Strip on YouTube"
-            >
-              <FaYoutube color="#ee802f" size={36} aria-hidden="true" />
-            </a>
-          </div>
-        </div>
+          <AiOutlineClose aria-hidden="true" />
+        </button>
+      </form>
+    </div>
+  )
+}
 
-        <div>
-          <Subscribe />
-        </div>
-      </Menu>
+// The same header on every page: menu, logo and search in a slim bar. On
+// listing pages the bar and the big logo banner are one orange block, and the
+// banner's logo is the only one (it links home). Source order is always menu
+// button, home link, search, so the tab order is the same on every page.
+const Header = () => {
+  const router = useRouter()
+  const isListing = isListingPage(router.pathname)
+  const [menuOpen, setMenuOpen] = useState(false)
+  const menuButton = useRef(null)
 
-      <Link href="/">
-        <a className={styles.hero} aria-label="Eat the Strip homepage" />
-      </Link>
-    </header>
+  const closeMenu = useCallback(() => setMenuOpen(false), [])
+
+  return (
+    <>
+      <header
+        className={`${styles.bar} ${isListing ? styles.listing : styles.sticky}`}
+      >
+        <button
+          ref={menuButton}
+          type="button"
+          className={`${styles.iconButton} ${styles.menuButton}`}
+          aria-label={menuOpen ? 'Close menu' : 'Open menu'}
+          aria-expanded={menuOpen}
+          aria-controls="site-menu"
+          onClick={() => setMenuOpen(!menuOpen)}
+        >
+          <AiOutlineMenu aria-hidden="true" />
+        </button>
+
+        {isListing ? (
+          <Link href="/home">
+            <a className={styles.heroLink} aria-label="Eat the Strip home" />
+          </Link>
+        ) : (
+          <Link href="/home">
+            <a className={styles.logo} aria-label="Eat the Strip home">
+              <span className={styles.logoImage} aria-hidden="true" />
+            </a>
+          </Link>
+        )}
+
+        <HeaderSearch isListing={isListing} />
+      </header>
+
+      <MenuDrawer
+        id="site-menu"
+        open={menuOpen}
+        onClose={closeMenu}
+        returnFocusTo={menuButton}
+      />
+    </>
   )
 }
 

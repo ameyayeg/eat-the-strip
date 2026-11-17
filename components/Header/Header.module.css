@@ -1,64 +1,216 @@
-.container {
-  font-family: var(--font-family-lobster);
-  height: min(55vh, 36rem);
-  width: 100%;
+/* Slim bar on every page */
+.bar {
   position: relative;
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  height: 64px;
+  padding: 0 0.75rem;
   background: #ee802f;
 }
 
-.hero {
-  position: absolute;
-  inset: 0;
-  display: block;
-  background: url('/newlogo.png') center center / cover no-repeat;
-  background-color: #ee802f;
-  opacity: 1;
-  text-decoration: none;
+/* Posts and other non-listing pages: the bar stays at the top as you scroll.
+   It keeps its place in the page, so nothing below it moves on load. Below
+   the menu (1000 and up), above page content. */
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 900;
 }
 
-.heroContent {
-  position: absolute;
-  inset: 0;
-  display: flex;
+.iconButton {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  padding: 0 1.25rem;
-}
-
-.heroContent h1 {
-  margin: 0;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
   color: #111;
-  font-size: clamp(1.75rem, 3vw, 2.5rem);
-  letter-spacing: 0.02em;
-  text-shadow: 0 2px 18px rgba(255, 255, 255, 0.85);
+  font-size: 1.6rem;
+  cursor: pointer;
 }
 
-@media (min-width: 40rem) {
-  .container {
-    height: min(60vh, 42rem);
+.iconButton:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.iconButton:focus-visible,
+.logo:focus-visible,
+.heroLink:focus-visible,
+.searchInput:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 2px;
+}
+
+.logo {
+  display: block;
+  flex: none;
+  border-radius: 8px;
+}
+
+/* The artwork fills only the middle 52% x 38% of newlogo.png (the rest is
+   orange), so the file is scaled up and cropped to the artwork. */
+.logoImage {
+  display: block;
+  width: 136px;
+  height: 56px;
+  background: url('/newlogo.png') center / auto 250% no-repeat;
+}
+
+/* Search. Listing pages on wider screens: a full box. Other pages (any
+   width) and phones: a magnifier icon that opens the search over the bar. */
+.search {
+  margin-left: auto;
+}
+
+.searchForm {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.searchInput {
+  width: 22rem;
+  height: 44px;
+  padding: 0 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 999px;
+  background: white;
+  color: #111;
+  font-family: inherit;
+  /* 16px or more stops iPhones zooming in */
+  font-size: 17px;
+}
+
+/* The x button replaces the browser's own clear button */
+.searchInput::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.searchToggle,
+.searchClose {
+  display: none;
+}
+
+/* The x shows whenever there's text to clear */
+.hasValue .searchClose {
+  display: inline-flex;
+}
+
+/* Icon only: other pages at any width */
+.compact .searchToggle {
+  display: inline-flex;
+}
+
+.compact .searchForm {
+  display: none;
+}
+
+/* Open (icon versions only): the search covers the whole bar, menu button
+   and logo included, so nothing below it moves. */
+.compact.searchOpen .searchForm {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  z-index: 2;
+  gap: 0.5rem;
+  padding: 0 0.75rem;
+  background: #ee802f;
+}
+
+.compact.searchOpen .searchInput {
+  flex: 1;
+  width: auto;
+  min-width: 0;
+}
+
+.compact.searchOpen .searchClose {
+  display: inline-flex;
+}
+
+/* Phones: listing pages use the icon too */
+@media (max-width: 40rem) {
+  .searchToggle {
+    display: inline-flex;
   }
 
-  .hero {
-    background-size: cover;
-    background-position: center;
+  .search:not(.searchOpen) .searchForm {
+    display: none;
   }
 
-  .logoLink {
-    font-size: clamp(1.75rem, 2.2vw, 2.6rem);
-    padding: 1rem 2rem;
+  .searchOpen .searchForm {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 64px;
+    z-index: 2;
+    gap: 0.5rem;
+    padding: 0 0.75rem;
+    background: #ee802f;
+  }
+
+  .searchOpen .searchInput {
+    flex: 1;
+    width: auto;
+    min-width: 0;
+  }
+
+  .searchOpen .searchClose {
+    display: inline-flex;
   }
 }
 
-@media (max-width: 42rem) {
-  .hero {
-    background-size: cover;
-    background-position: center;
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Listing pages: the bar and the big logo banner are one orange block. The
+   menu button and search sit in the top 64px row; the logo fills the rest.
+   Wider screens: short enough that the first row of cards shows. */
+.listing {
+  align-items: flex-start;
+  padding-top: 10px;
+  height: calc(64px + min(40vh, 22rem));
+}
+
+.heroLink {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  background: url('/newlogo.png') center / cover no-repeat;
+}
+
+/* Phones: about 200px in all, with the whole logo showing (the artwork fills
+   the middle 52% x 38% of newlogo.png, so it's scaled up to fit). */
+@media (max-width: 40rem) {
+  .listing {
+    height: 200px;
   }
 
-  .logoLink {
-    min-width: 15rem;
+  .listing .heroLink {
+    top: 56px;
+    background-size: auto 230%;
   }
 }
 

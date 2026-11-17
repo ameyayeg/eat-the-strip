@@ -12,9 +12,7 @@ const Footer = () => {
     <footer className={styles.container}>
       <div className={styles.menu}>
         <Link href="/">
-          <a>
-            <h1>Eat the Strip</h1>
-          </a>
+          <a className={styles.logo}>Eat the Strip</a>
         </Link>
         <ul>
           {navLinks
@@ -44,7 +42,11 @@ const Footer = () => {
           />
         </a>
         <Link href="http://eatthestrip.com/rss.xml">
-          <a rel="noreferrer" target="_blank" aria-label="Eat the Strip RSS feed">
+          <a
+            rel="noreferrer"
+            target="_blank"
+            aria-label="Eat the Strip RSS feed"
+          >
             <MdRssFeed color="#ee802f" aria-hidden="true" />
           </a>
         </Link>

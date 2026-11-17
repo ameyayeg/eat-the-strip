@@ -7,3 +7,12 @@
 .main {
     flex: 1;
 }
+
+/* Pages with the sticky 64px bar: anchor links and keyboard focus stop just
+   below the bar instead of under it. */
+.underStickyBar main [id],
+.underStickyBar footer [id],
+.underStickyBar main :is(a, button, input, select, textarea, [tabindex]),
+.underStickyBar footer :is(a, button, input, select, textarea, [tabindex]) {
+    scroll-margin-top: 72px;
+}
