@@ -128,8 +128,10 @@ const HeaderSearch = ({ isListing }) => {
   )
 }
 
-// The same header on every page: menu, logo and search in a slim bar, plus
-// the big logo banner on listing pages.
+// The same header on every page: menu, logo and search in a slim bar. On
+// listing pages the bar and the big logo banner are one orange block, and the
+// banner's logo is the only one (it links home). Source order is always menu
+// button, home link, search, so the tab order is the same on every page.
 const Header = () => {
   const router = useRouter()
   const isListing = LISTING_ROUTES.includes(router.pathname)
@@ -159,7 +161,9 @@ const Header = () => {
 
   return (
     <>
-      <header className={styles.bar}>
+      <header
+        className={isListing ? `${styles.bar} ${styles.listing}` : styles.bar}
+      >
         <button
           ref={menuButton}
           type="button"
@@ -172,11 +176,17 @@ const Header = () => {
           <AiOutlineMenu aria-hidden="true" />
         </button>
 
-        <Link href="/home">
-          <a className={styles.logo} aria-label="Eat the Strip home">
-            <span className={styles.logoImage} aria-hidden="true" />
-          </a>
-        </Link>
+        {isListing ? (
+          <Link href="/home">
+            <a className={styles.heroLink} aria-label="Eat the Strip home" />
+          </Link>
+        ) : (
+          <Link href="/home">
+            <a className={styles.logo} aria-label="Eat the Strip home">
+              <span className={styles.logoImage} aria-hidden="true" />
+            </a>
+          </Link>
+        )}
 
         <HeaderSearch isListing={isListing} />
       </header>
@@ -240,14 +250,6 @@ const Header = () => {
           <Subscribe />
         </div>
       </Menu>
-
-      {isListing && (
-        <div className={styles.hero}>
-          <Link href="/home">
-            <a className={styles.heroLink} aria-label="Eat the Strip home" />
-          </Link>
-        </div>
-      )}
     </>
   )
 }

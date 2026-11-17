@@ -94,11 +94,14 @@
     display: none;
   }
 
-  /* Expanded: the search covers the bar, so nothing below it moves */
+  /* Expanded: the search covers the bar's top row, so nothing moves */
   .searchOpen .searchForm {
     display: flex;
     position: absolute;
-    inset: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 64px;
     z-index: 2;
     gap: 0.5rem;
     padding: 0 0.75rem;
@@ -128,24 +131,39 @@
   border: 0;
 }
 
-/* Big logo banner, listing pages only (same size and look as before) */
-.hero {
+/* Listing pages: the bar and the big logo banner are one orange block. The
+   menu button and search sit in the top 64px row; the logo fills the rest. */
+.listing {
+  align-items: flex-start;
+  padding-top: 10px;
+  height: calc(64px + min(60vh, 42rem));
+}
+
+.listing .search {
   position: relative;
-  height: min(55vh, 36rem);
-  background: #ee802f;
-  overflow: hidden;
+  z-index: 1;
 }
 
 .heroLink {
   position: absolute;
-  inset: 0;
+  top: 64px;
+  left: 0;
+  right: 0;
+  bottom: 0;
   display: block;
   background: url('/newlogo.png') center / cover no-repeat;
 }
 
-@media (min-width: 40rem) {
-  .hero {
-    height: min(60vh, 42rem);
+/* Phones: about 200px in all, with the whole logo showing (the artwork fills
+   the middle 52% x 38% of newlogo.png, so it's scaled up to fit). */
+@media (max-width: 40rem) {
+  .listing {
+    height: 200px;
+  }
+
+  .listing .heroLink {
+    top: 56px;
+    background-size: auto 230%;
   }
 }
 
