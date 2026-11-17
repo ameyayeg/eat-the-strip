@@ -1,12 +1,9 @@
-import { useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import { slide as Menu } from 'react-burger-menu'
-import { FaInstagram, FaYoutube } from 'react-icons/fa'
 import { AiOutlineMenu, AiOutlineSearch, AiOutlineClose } from 'react-icons/ai'
 import styles from './Header.module.css'
-import Subscribe from '../Subscribe'
-import navLinks from '../../utils/navLinks'
+import MenuDrawer from './MenuDrawer'
 
 // Listing pages: they get the big logo banner, and the header search filters
 // them as you type. Everywhere else, Enter takes you to a listing.
@@ -138,26 +135,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false)
   const menuButton = useRef(null)
 
-  const wasOpen = useRef(false)
-
-  const onMenuChange = ({ isOpen }) => {
-    setMenuOpen(isOpen)
-    // Closing (Escape, the close button or a click outside) returns focus to
-    // the menu button. react-burger-menu blurs the focused element right
-    // after this runs, so wait a tick. It also reports "closed" on page load,
-    // which must not move focus.
-    if (!isOpen && wasOpen.current) {
-      setTimeout(() => menuButton.current && menuButton.current.focus(), 0)
-    }
-    wasOpen.current = isOpen
-  }
-
-  // Menu links navigate in the app and close the menu.
-  const go = (href) => (event) => {
-    event.preventDefault()
-    setMenuOpen(false)
-    router.push(href)
-  }
+  const closeMenu = useCallback(() => setMenuOpen(false), [])
 
   return (
     <>
@@ -191,65 +169,12 @@ const Header = () => {
         <HeaderSearch isListing={isListing} />
       </header>
 
-      <Menu
+      <MenuDrawer
         id="site-menu"
-        isOpen={menuOpen}
-        onStateChange={onMenuChange}
-        customBurgerIcon={false}
-      >
-        {navLinks.map(({ id, label, href, divider }) => (
-          <a
-            key={id}
-            id={id}
-            className={divider ? `menu-item ${styles.divider}` : 'menu-item'}
-            href={href}
-            onClick={go(href)}
-          >
-            {label}
-          </a>
-        ))}
-        <div
-          style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'flex-start',
-            gap: '12px',
-            marginTop: '16px',
-          }}
-        >
-          <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
-            <img
-              height="36"
-              style={{ border: '0px', height: '40px' }}
-              src="https://storage.ko-fi.com/cdn/kofi2.png?v=6"
-              border="0"
-              alt="Buy Me a Coffee at ko-fi.com"
-            />
-          </a>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-            <a
-              href="https://www.instagram.com/eatthestripyow/"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="Eat the Strip on Instagram"
-            >
-              <FaInstagram color="#ee802f" size={36} aria-hidden="true" />
-            </a>
-            <a
-              href="https://www.youtube.com/@eatthestripyow"
-              rel="noreferrer"
-              target="_blank"
-              aria-label="Eat the Strip on YouTube"
-            >
-              <FaYoutube color="#ee802f" size={36} aria-hidden="true" />
-            </a>
-          </div>
-        </div>
-
-        <div>
-          <Subscribe />
-        </div>
-      </Menu>
+        open={menuOpen}
+        onClose={closeMenu}
+        returnFocusTo={menuButton}
+      />
     </>
   )
 }
