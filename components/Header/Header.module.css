@@ -174,11 +174,12 @@
 }
 
 /* Listing pages: the bar and the big logo banner are one orange block. The
-   menu button and search sit in the top 64px row; the logo fills the rest. */
+   menu button and search sit in the top 64px row; the logo fills the rest.
+   Wider screens: short enough that the first row of cards shows. */
 .listing {
   align-items: flex-start;
   padding-top: 10px;
-  height: calc(64px + min(60vh, 42rem));
+  height: calc(64px + min(40vh, 22rem));
 }
 
 .heroLink {
