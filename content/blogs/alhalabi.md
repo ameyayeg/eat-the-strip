@@ -6,10 +6,11 @@ address: 1638 Bank St, Ottawa, ON K1V 7Y6
 author: Ameya Charnalia
 date: March 25, 2023 2:22 PM
 thumbnail: /uploads/img_9402.jpeg
-rating: 5
+closed: true
 positives: 45.37696267611341
-negatives: -75.66710470481962
 image: /uploads/img_9414.jpeg
+rating: 5
+negatives: -75.66710470481962
 ---
 Sometimes, a tip pays off.
 
