@@ -29,6 +29,9 @@ const cities = [
     noResults:
       'No Fredericton restaurants matched that search. Try something broader.',
     mapCenter: [45.9636, -66.6431],
+    // No longer updated: the listing and posts show an archive note
+    // (components/ArchiveNote.js). The range of the posts' dates.
+    archive: { from: 'August 2025', to: 'June 2026' },
   },
 ]
 

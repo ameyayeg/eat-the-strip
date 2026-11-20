@@ -35,7 +35,7 @@ export function absoluteUrl(path = '/') {
 
 const MAX_TITLE = 60
 
-// Cuisines that read better without "food" ("Cafe in Fredericton").
+// Cuisines that read better without "food" ("Cafe in Ottawa-Gatineau").
 const NO_FOOD_SUFFIX = ['cafe', 'bakery', 'pizza', 'dessert']
 
 // "<name>: <cuisine> food in <city> | Eat the Strip". A blank City means

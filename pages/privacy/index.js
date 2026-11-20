@@ -10,7 +10,7 @@ const Privacy = () => {
       </Head>
       <h1>Privacy Policy</h1>
       <p>
-        <em>Last updated: November 10, 2026</em>
+        <em>Last updated: November 20, 2026</em>
       </p>
       <p>
         Eat the Strip collects very little about you: an email address if you
@@ -20,9 +20,9 @@ const Privacy = () => {
       </p>
       <p>
         <strong>Who we are.</strong> Eat the Strip is a food blog about
-        family-run restaurants in strip malls across Ottawa-Gatineau and
-        Fredericton, written and run by Ameya Charnalia in Ottawa, Ontario. You
-        can reach us at contact@eatthestrip.com.
+        family-run restaurants in strip malls across Ottawa-Gatineau, written
+        and run by Ameya Charnalia in Ottawa, Ontario. You can reach us at
+        contact@eatthestrip.com.
       </p>
 
       <h2>What we collect and why</h2>
