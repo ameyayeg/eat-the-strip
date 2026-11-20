@@ -2,8 +2,15 @@ import '../styles/globals.css'
 import Head from 'next/head'
 import Layout from '../components/Layouts/Layout'
 import Script from 'next/script'
+import { useRouter } from 'next/router'
+import { absoluteUrl } from '../utils/seo'
 
 export default function MyApp({ Component, pageProps }) {
+  // The page's own address without ?q= or #, the same as its canonical tag
+  // where it has one (posts set their own tags).
+  const router = useRouter()
+  const pageUrl = absoluteUrl(router.asPath.split(/[?#]/)[0])
+
   const renderWithLayout =
     Component.getLayout ||
     function (page) {
@@ -17,7 +24,7 @@ export default function MyApp({ Component, pageProps }) {
             />
             <meta property="og:title" content="Eat the Strip" />
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="https://www.eatthestrip.com" />
+            <meta property="og:url" content={pageUrl} />
             <meta
               property="og:image"
               content="https://eatthestrip.com/newlogo.png"
