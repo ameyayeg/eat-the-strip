@@ -35,6 +35,12 @@ export default function MyApp({ Component, pageProps }) {
       <Head>
         <link rel="icon" href="/newlogo.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/newlogo.png" />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="Eat the Strip"
+          href="https://eatthestrip.com/rss.xml"
+        />
       </Head>
       {renderWithLayout(<Component {...pageProps} />)}
       <Script
