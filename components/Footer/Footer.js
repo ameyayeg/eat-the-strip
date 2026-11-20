@@ -41,15 +41,14 @@ const Footer = () => {
             alt="Buy Me a Coffee at ko-fi.com"
           />
         </a>
-        <Link href="http://eatthestrip.com/rss.xml">
-          <a
-            rel="noreferrer"
-            target="_blank"
-            aria-label="Eat the Strip RSS feed"
-          >
-            <MdRssFeed color="#ee802f" aria-hidden="true" />
-          </a>
-        </Link>
+        <a
+          href="/rss.xml"
+          rel="noreferrer"
+          target="_blank"
+          aria-label="Eat the Strip RSS feed"
+        >
+          <MdRssFeed color="#ee802f" aria-hidden="true" />
+        </a>
         <Link href="https://www.instagram.com/eatthestripyow/">
           <a
             rel="noreferrer"

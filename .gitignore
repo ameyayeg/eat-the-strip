@@ -5,3 +5,4 @@ node_modules/
 out/
 .env*.local
 /public/rss.xml
+/public/sitemap.xml
