@@ -1,5 +1,6 @@
 ---
 title: Sa’hara
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Somali
 address: "2446 Bank St #109A, Ottawa, ON K1V 8S2"

@@ -1,5 +1,6 @@
 ---
 title: Adnan's Catering
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Pakistani
 address: 1950 Merivale Rd unit 14, Nepean, ON K2G 5T5

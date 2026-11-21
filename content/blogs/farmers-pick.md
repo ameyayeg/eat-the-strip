@@ -1,5 +1,6 @@
 ---
 title: Farmer's Pick
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Italian
 address: 1430 Prince of Wales Dr, Ottawa, ON K2C 1N4

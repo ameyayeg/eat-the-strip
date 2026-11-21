@@ -1,5 +1,6 @@
 ---
 title: Amma's Biryani
+city: Ottawa-Gatineau
 layout: blog
 cuisine: South Asian
 address: 1618 Merivale Rd, Nepean, ON K2G 3G3

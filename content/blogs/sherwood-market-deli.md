@@ -1,5 +1,6 @@
 ---
 title: Sherwood Market & Deli
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 111 Sherwood Dr, Ottawa, ON K1Y 3V1

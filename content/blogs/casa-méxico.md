@@ -1,5 +1,6 @@
 ---
 title: Casa México
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 1491 Merivale Rd, Nepean, ON K2E 5P3

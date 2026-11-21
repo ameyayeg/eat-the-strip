@@ -1,5 +1,6 @@
 ---
 title: Everest Cuisine
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Nepalese
 address: 1846 Carling Ave, Ottawa, ON K2A 1E2

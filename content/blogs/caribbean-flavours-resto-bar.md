@@ -1,5 +1,6 @@
 ---
 title: Caribbean Flavours Resto-Bar
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Haitian
 address: 956 Merivale Rd, Ottawa, ON K1Z 7S1

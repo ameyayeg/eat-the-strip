@@ -1,5 +1,6 @@
 ---
 title: Chili Craft Pizza
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 68 Wylie Ave, Ottawa, ON K2B 6M4

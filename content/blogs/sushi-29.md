@@ -1,5 +1,6 @@
 ---
 title: Sushi 29
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Japanese
 address: 2662 Innes Rd Unit A, Gloucester, ON K1B 4Z5

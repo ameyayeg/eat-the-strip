@@ -1,5 +1,6 @@
 ---
 title: Aztec Tacos
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 77 Montréal Rd, Vanier, ON K1L 6E8

@@ -1,5 +1,6 @@
 ---
 title: La Balade des Douceurs
+city: Ottawa-Gatineau
 layout: blog
 cuisine: French
 address: 126 Av. Gatineau, Gatineau, QC J8T 4J6

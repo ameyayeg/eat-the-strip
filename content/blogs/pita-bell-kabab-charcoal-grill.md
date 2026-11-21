@@ -1,5 +1,6 @@
 ---
 title: Pita Bell Kabab Charcoal Grill
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Turkish
 address: " 1696 Carling Ave, Ottawa, ON K2A 1C6"

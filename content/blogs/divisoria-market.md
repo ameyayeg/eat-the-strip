@@ -1,5 +1,6 @@
 ---
 title: Divisoria Market
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Filipino
 address: 943 Carling Ave, Ottawa, ON K1Y 4E3

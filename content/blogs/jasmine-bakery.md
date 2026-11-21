@@ -1,5 +1,6 @@
 ---
 title: Jasmine Bakery
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Syrian
 address: 2730 Iris St, Ottawa, ON K2C 3C9

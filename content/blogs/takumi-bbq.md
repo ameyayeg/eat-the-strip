@@ -1,5 +1,6 @@
 ---
 title: Takumi BBQ
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: 956 Merivale Rd, Ottawa, ON K1Z 6A2

@@ -1,5 +1,6 @@
 ---
 title: Khalil Seafood
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Egyptian
 address: "2020 Lanthier Dr #10, Orléans, ON K4A 3V4"

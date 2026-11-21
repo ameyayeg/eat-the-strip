@@ -1,5 +1,6 @@
 ---
 title: The Greek Souvlaki House
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Greek
 address: 3625 Rivergate Way, Ottawa, ON K1V 2A4

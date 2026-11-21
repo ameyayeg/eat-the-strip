@@ -1,5 +1,6 @@
 ---
 title: Ng's Cuisine
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: 1499 Merivale Rd, Nepean, ON K2E 5P3

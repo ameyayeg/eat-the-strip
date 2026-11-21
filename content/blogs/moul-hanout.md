@@ -1,5 +1,6 @@
 ---
 title: Moul Hanout
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Moroccan
 address: 1581 Bank St, Ottawa, ON K1H 7Z3

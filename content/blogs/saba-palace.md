@@ -1,5 +1,6 @@
 ---
 title: Saba Palace
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Yemeni
 address: 5031 Bank St, Gloucester, ON K1X 1G8

@@ -1,5 +1,6 @@
 ---
 title: Palais Libanais
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Lebanese
 address: 332 Boulevard Gréber Gatineau, QC J8T 8H4

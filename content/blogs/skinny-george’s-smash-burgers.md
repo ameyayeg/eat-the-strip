@@ -1,5 +1,6 @@
 ---
 title: Skinny George’s Smash Burgers
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 2241 St. Laurent Blvd, Ottawa, ON K1G 1B1

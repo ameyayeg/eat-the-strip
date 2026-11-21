@@ -1,5 +1,6 @@
 ---
 title: Mezbaan Restaurant
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Afghan
 address: 3098 Carling Ave Unit 8, Nepean, ON K2B 7K2

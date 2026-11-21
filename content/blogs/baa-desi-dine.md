@@ -1,5 +1,6 @@
 ---
 title: Baa Desi Dine
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Pakistani
 address: 1374 Baseline Rd, Ottawa, ON K2C 0A9

@@ -1,5 +1,6 @@
 ---
 title: 50 Two Sandwiches & More
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 52 Antares Dr, Nepean, ON K2E 7W6

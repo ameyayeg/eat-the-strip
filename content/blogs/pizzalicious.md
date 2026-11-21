@@ -1,5 +1,6 @@
 ---
 title: Pizzalicious
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Pizza
 address: 1009 Merivale Rd, Ottawa, ON K1Z 6A6

@@ -1,5 +1,6 @@
 ---
 title: La Bocca Juice
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Dessert
 address: 2446 Bank St, Ottawa, ON K1V 1A4

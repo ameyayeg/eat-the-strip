@@ -1,5 +1,6 @@
 ---
 title: 3Cents Resto & Cafe
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Yemeni
 address: 3-1940 Bank St, Ottawa, ON K1V 7Z8

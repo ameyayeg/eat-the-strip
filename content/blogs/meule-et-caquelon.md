@@ -1,5 +1,6 @@
 ---
 title: Meule et Caquelon
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Swiss
 address: 74 Bd Gréber, Gatineau, QC J8T 3P8

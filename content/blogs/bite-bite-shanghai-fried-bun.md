@@ -1,5 +1,6 @@
 ---
 title: Bite & Bite Shanghai Fried Bun
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: 1465 Merivale Rd unit 002, Nepean, ON K2E 5N9

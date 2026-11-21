@@ -1,5 +1,6 @@
 ---
 title: Lil' Negril Island Grill
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Jamaican
 address: 261 Centrepointe Dr, Nepean, ON K2G 6E8

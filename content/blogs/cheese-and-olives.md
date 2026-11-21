@@ -1,5 +1,6 @@
 ---
 title: Cheese and Olives
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Palestinian
 address: 1183 Hunt Club Rd Unit 108, Ottawa, ON K1V 8S4

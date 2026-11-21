@@ -1,5 +1,6 @@
 ---
 title: Ali Baba Bakery
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Lebanese
 address: "200 Vanguard Dr #7, Orléans, ON K4A 1A1"

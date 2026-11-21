@@ -1,5 +1,6 @@
 ---
 title: Nagi Sushi
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Japanese
 address: "2208 St Joseph Blvd #104, Ottawa, ON K1C 1E8"

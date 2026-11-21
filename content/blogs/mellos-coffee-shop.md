@@ -1,5 +1,6 @@
 ---
 title: Mellos Coffee Shop
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1516 Merivale Rd, Nepean, ON K2G 3J6

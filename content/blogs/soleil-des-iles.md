@@ -1,5 +1,6 @@
 ---
 title: Soleil des Iles
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Haitian
 address: 287 Queen Mary St, Ottawa, ON K1K 1X1

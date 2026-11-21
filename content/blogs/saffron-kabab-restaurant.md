@@ -1,5 +1,6 @@
 ---
 title: Saffron Kabab Restaurant
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Persian
 address: 1729 Bank St Unit 105, Ottawa, ON K1V 7Z4

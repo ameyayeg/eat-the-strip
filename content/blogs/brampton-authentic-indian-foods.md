@@ -1,5 +1,6 @@
 ---
 title: Brampton Authentic Indian Foods
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 178 Meadowlands Dr W, Nepean, ON K2G 2S6

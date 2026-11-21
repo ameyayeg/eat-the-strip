@@ -1,5 +1,6 @@
 ---
 title: Nazli's Kitchen & Cafe
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Turkish
 address: 2590 Carp Rd, Carp, ON K0A 1L0

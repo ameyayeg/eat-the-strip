@@ -1,5 +1,6 @@
 ---
 title: Ottawa Falafel House
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: 1077 Cyrville Rd, Gloucester, ON K1J 7P8, Canada
