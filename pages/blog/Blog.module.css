@@ -5,6 +5,13 @@
   padding: 0.5rem 1rem;
 }
 
+/* The archive note on posts from an archived city (components/ArchiveNote). */
+.container > .archiveNote {
+  font-family: var(--font-family-roboto);
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
 .frontmatterDiv {
   font-size: var(--font-size-base);
   line-height: 1.6;

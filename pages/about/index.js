@@ -7,9 +7,8 @@ const About = () => {
       <div className={styles.about}>
         <h1>About Eat the Strip</h1>
         <h2>
-          Eat the Strip is our tribute to the mom-and-pop food joints tucked
-          into the suburbs of Ottawa-Gatineau and Fredericton. We believe the
-          people behind these restaurants, diners, and bars don’t get the
+          Eat the Strip is our tribute to the family-run restaurants in strip
+          malls across Ottawa-Gatineau. We believe the people behind these restaurants, diners, and bars don’t get the
           recognition they deserve for shaping our local food culture. So we
           created a blog that shines a light exclusively on strip mall spots,
           industrial park eateries, and other hidden gems. 🧡
@@ -42,6 +41,13 @@ const About = () => {
           <Link href="/contact">
             <a className={styles.contactLink}>Contact us.</a>
           </Link>
+        </p>
+        <p>
+          Our earlier Fredericton reviews remain online as an{' '}
+          <Link href="/home/fredericton">
+            <a className={styles.contactLink}>archive</a>
+          </Link>
+          .
         </p>
       </div>
     </div>

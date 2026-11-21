@@ -7,6 +7,7 @@ import dynamic from 'next/dynamic'
 import ContactLine from '../../../components/ContactLine'
 import SupportBox from '../../../components/SupportBox'
 import PostHead from '../../../components/PostHead'
+import ArchiveNote from '../../../components/ArchiveNote'
 import { getPostTitle, getPostDescription } from '../../../utils/seo'
 import Image from 'next/image'
 import { getPostSummaries } from '../../../utils/mdx'
@@ -76,6 +77,10 @@ export default function Blog({
         />
       </div>
       <div className={styles.container}>
+        <ArchiveNote
+          city={cityForPost(frontmatter.city)}
+          className={styles.archiveNote}
+        />
         <div className={styles.frontmatterDiv}>
           <h1>{frontmatter.title}</h1>
           {frontmatter.closed && (

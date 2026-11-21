@@ -5,6 +5,7 @@ import { useMemo } from 'react'
 import { useRouter } from 'next/router'
 import styles from './CityListing.module.css'
 import Pagination from '../Pagination/Pagination'
+import ArchiveNote from '../ArchiveNote'
 import { getCityById, cityPath } from '../../utils/cities'
 import { absoluteUrl, SITE_NAME } from '../../utils/seo'
 import { pageCount, pageItems, pagePath } from '../../utils/pagination'
@@ -53,6 +54,7 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
 
       <section className={styles.pageHeading}>
         <div className={styles.headingInner}>
+          <ArchiveNote city={city} />
           <p className={styles.headingTag}>{city.name}</p>
           <h1>{city.heading}</h1>
           <p>{city.intro}</p>
