@@ -3,6 +3,7 @@ import 'leaflet/dist/leaflet.css'
 import L from 'leaflet'
 import Link from 'next/link'
 import { useEffect } from 'react'
+import { defaultCity } from '../utils/cities'
 
 function FitBounds({ coordinates, defaultCenter, defaultZoom }) {
   const map = useMap()
@@ -26,7 +27,7 @@ export default function Map(props) {
   const defaultProps = {
     coordinates: [],
     defaultZoom: 10,
-    defaultCenter: [45.4215, -75.6972],
+    defaultCenter: defaultCity.mapCenter,
   }
 
   const { coordinates, defaultZoom, defaultCenter } = {

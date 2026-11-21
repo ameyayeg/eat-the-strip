@@ -1,5 +1,7 @@
 // Titles, descriptions and share images for blog post pages.
 
+import { cityForPost } from './cities'
+
 export const SITE_URL = 'https://eatthestrip.com'
 export const SITE_NAME = 'Eat the Strip'
 export const DEFAULT_SHARE_IMAGE = '/newlogo.png'
@@ -38,13 +40,14 @@ const MAX_TITLE = 60
 // Cuisines that read better without "food" ("Cafe in Ottawa-Gatineau").
 const NO_FOOD_SUFFIX = ['cafe', 'bakery', 'pizza', 'dessert']
 
-// "<name>: <cuisine> food in <city> | Eat the Strip". A blank City means
-// Ottawa-Gatineau, as on the listing pages. Without a cuisine:
-// "<name> | Eat the Strip". Titles over 60 characters drop "| Eat the Strip".
+// "<name>: <cuisine> food in <city> | Eat the Strip", with the city's name
+// from utils/cities.js. A blank City means the default city, as on the
+// listing pages. Without a cuisine: "<name> | Eat the Strip". Titles over 60
+// characters drop "| Eat the Strip".
 export function getPostTitle(frontmatter = {}) {
   const name = clean(frontmatter.title)
   const cuisine = clean(frontmatter.cuisine)
-  const city = clean(frontmatter.city) || 'Ottawa-Gatineau'
+  const city = cityForPost(frontmatter.city)?.name || clean(frontmatter.city)
   let base = name
   if (cuisine) {
     const food = NO_FOOD_SUFFIX.includes(cuisine.toLowerCase()) ? '' : ' food'

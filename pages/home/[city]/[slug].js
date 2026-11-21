@@ -11,7 +11,7 @@ import ArchiveNote from '../../../components/ArchiveNote'
 import { getPostTitle, getPostDescription } from '../../../utils/seo'
 import Image from 'next/image'
 import { getPostSummaries } from '../../../utils/mdx'
-import { cityForPost } from '../../../utils/cities'
+import { cityForPost, defaultCity } from '../../../utils/cities'
 
 const MapWithNoSSR = dynamic(() => import('../../../components/Map'), {
   ssr: false,
@@ -147,7 +147,7 @@ export default function Blog({
               },
             ]}
             defaultZoom={11}
-            defaultCenter={[45.4215, -75.6972]}
+            defaultCenter={(cityForPost(frontmatter.city) || defaultCity).mapCenter}
           />
         </div>
         <SupportBox />

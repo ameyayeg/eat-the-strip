@@ -1,6 +1,6 @@
 import fs from 'fs'
 import matter from 'gray-matter'
-import { cityForPost } from './cities'
+import cities, { cityForPost } from './cities'
 
 export async function getSortedPosts() {
   const blogFiles = fs.readdirSync('./content/blogs')
@@ -9,6 +9,15 @@ export async function getSortedPosts() {
     .map((filename) => {
       const file = fs.readFileSync(`./content/blogs/${filename}`, 'utf8')
       const matterData = matter(file)
+
+      // A City that matches no city would drop the post from every listing
+      // and the map without warning, so stop the build instead.
+      if (!cityForPost(matterData.data.city)) {
+        const names = cities.map((city) => `"${city.name}"`).join(', ')
+        throw new Error(
+          `content/blogs/${filename}: City "${matterData.data.city}" isn't a city in utils/cities.js. Use one of ${names}, or leave it blank for "${cities.find((city) => city.isDefault).name}".`
+        )
+      }
 
       return {
         ...matterData.data,
