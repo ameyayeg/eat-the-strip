@@ -1,5 +1,6 @@
 ---
 title: Le Petit Paris - Crêpes et Compagnie Inc.
+city: Ottawa-Gatineau
 layout: blog
 cuisine: French
 address: 150 Katimavik Rd Suite 119, Kanata, ON K2N 2N2

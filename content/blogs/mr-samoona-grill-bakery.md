@@ -1,5 +1,6 @@
 ---
 title: Mr. Samoona Grill & Bakery
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Iraqi
 address: 2186b Lamira St, Ottawa, ON K1H 8L4

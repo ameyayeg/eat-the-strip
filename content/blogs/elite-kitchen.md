@@ -1,5 +1,6 @@
 ---
 title: Elite Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Persian
 address: 407 Laurier Ave W, Ottawa, ON K1R 7Y1

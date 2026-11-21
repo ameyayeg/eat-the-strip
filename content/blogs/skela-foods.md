@@ -1,5 +1,6 @@
 ---
 title: Skela Foods
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Balkan
 address: 1884 Merivale Rd Unit 15, Nepean, ON K2G 1E6

@@ -1,5 +1,6 @@
 ---
 title: Areeba’s Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Pakistani
 address: 70 Bongard Ave Unit J, Nepean, ON K2E 7Z9

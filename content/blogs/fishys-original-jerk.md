@@ -1,5 +1,6 @@
 ---
 title: Fishys Original Jerk
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Jamaican
 address: 2297 St Joseph Blvd, Orléans, ON K1C 1E7

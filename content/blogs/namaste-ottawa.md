@@ -1,5 +1,6 @@
 ---
 title: Namaste Ottawa
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1766 Carling Ave, Ottawa, ON K2A 1E1

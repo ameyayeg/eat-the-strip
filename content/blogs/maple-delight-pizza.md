@@ -1,5 +1,6 @@
 ---
 title: Maple Delight Pizza
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Pizza
 address: 1012 Merivale Rd, Ottawa, ON K1Z 6A5

@@ -1,5 +1,6 @@
 ---
 title: Safia Restaurant
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Somali
 address: 2335 St. Laurent Blvd Unit 110, Ottawa, ON K1G 5G6

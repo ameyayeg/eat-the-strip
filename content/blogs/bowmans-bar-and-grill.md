@@ -1,5 +1,6 @@
 ---
 title: Bowman's Bar and Grill
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1170 Carling Ave, Ottawa, ON K1Z 7K6

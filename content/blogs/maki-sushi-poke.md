@@ -1,5 +1,6 @@
 ---
 title: Maki Sushi + Poke
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Korean/Japanese
 address: 5754 Hazeldean Rd unit 6, Stittsville, ON K2S 2R1

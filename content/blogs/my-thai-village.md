@@ -1,5 +1,6 @@
 ---
 title: My Thai Village
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 474 Hazeldean Rd. Kanata, ON, Unit 5

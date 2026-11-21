@@ -1,5 +1,6 @@
 ---
 title: Thai Lanna
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 2401 Bank St, Ottawa, ON K1V 8R9

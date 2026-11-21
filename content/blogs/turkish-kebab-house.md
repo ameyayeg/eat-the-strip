@@ -1,5 +1,6 @@
 ---
 title: Turkish Kebab House
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Turkish
 address: 471 Terry Fox Dr Unit 120, Kanata, ON K2T 0A3

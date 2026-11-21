@@ -1,5 +1,6 @@
 ---
 title: The Sandwich Stop
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: "2285 St. Laurent Blvd Building C #10, Ottawa, ON K1G 4Z6"

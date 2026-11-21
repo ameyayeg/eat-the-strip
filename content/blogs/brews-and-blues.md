@@ -1,5 +1,6 @@
 ---
 title: Brews and Blues
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1523 Stittsville Main St, Stittsville, ON K2S 1N4

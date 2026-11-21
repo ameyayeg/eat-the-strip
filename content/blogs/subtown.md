@@ -1,5 +1,6 @@
 ---
 title: Subtown
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Lebanese
 address: 1600 Walkley Rd, Ottawa, ON K1V 6P5

@@ -1,5 +1,6 @@
 ---
 title: The Olive Branch
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Greek
 address: 5556 Manotick Main St, Manotick, ON K4M 1A4

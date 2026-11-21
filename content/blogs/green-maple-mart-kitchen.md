@@ -1,5 +1,6 @@
 ---
 title: Green Maple Mart & Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 86 Forward Ave, Ottawa, ON K1Y 1K7

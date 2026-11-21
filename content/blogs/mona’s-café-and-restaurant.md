@@ -1,5 +1,6 @@
 ---
 title: Mona’s Café and Restaurant
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1325 Humber Pl, Ottawa, ON K1B 5K9

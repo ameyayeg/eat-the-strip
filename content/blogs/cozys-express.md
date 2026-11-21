@@ -1,5 +1,6 @@
 ---
 title: Cozy's Express
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1572 Michael St, Ottawa, ON K1B 3T7

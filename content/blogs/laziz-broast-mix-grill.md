@@ -1,5 +1,6 @@
 ---
 title: "Laziz Broast & Mix Grill "
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Halal
 address: 1900 Innes Rd, Gloucester, ON K1B 1A9, Canada

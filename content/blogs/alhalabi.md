@@ -1,5 +1,6 @@
 ---
 title: Alhalabi
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Syrian
 address: 1638 Bank St, Ottawa, ON K1V 7Y6

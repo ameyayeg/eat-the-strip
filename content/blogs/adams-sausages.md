@@ -1,5 +1,6 @@
 ---
 title: Adams Sausages
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Polish
 address: 1437 Michael St, Ottawa, ON K1B 3P5

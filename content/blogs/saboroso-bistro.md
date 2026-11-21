@@ -1,5 +1,6 @@
 ---
 title: Saboroso Bistro
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Filipino
 address: 782 Eagleson Rd Unit 2, Kanata, ON K2M 1H8

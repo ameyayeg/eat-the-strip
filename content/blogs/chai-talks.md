@@ -1,5 +1,6 @@
 ---
 title: Chai Talks
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1081 Carling Ave, Ottawa, ON K1Y 1V3

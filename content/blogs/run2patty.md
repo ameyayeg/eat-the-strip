@@ -1,5 +1,6 @@
 ---
 title: Run2Patty
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Jamaican
 address: 1224 Shillington Ave, Ottawa, ON K1Z 7Z4

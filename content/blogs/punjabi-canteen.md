@@ -1,5 +1,6 @@
 ---
 title: Punjabi Canteen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1234 Merivale Rd, Ottawa, ON K2C 4C3

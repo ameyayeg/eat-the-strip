@@ -1,5 +1,6 @@
 ---
 title: Que pasa? Tacos
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 2280 Carling Ave, Ottawa, ON K2B 7G1

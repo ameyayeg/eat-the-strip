@@ -1,5 +1,6 @@
 ---
 title: Semsem
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: "2430 Bank Street Unit #11, K1V 0T7 Ottawa, Ontario"

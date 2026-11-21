@@ -1,5 +1,6 @@
 ---
 title: Chickpeas
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Palestinian
 address: 500 Terminal Ave. A-05, Ottawa, ON K1G 0Z3

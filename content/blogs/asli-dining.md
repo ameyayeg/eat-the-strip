@@ -1,5 +1,6 @@
 ---
 title: Asli Dining
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Somali
 address: 2450 Lancaster Rd Unit 6-7, Ottawa, ON K1B 5N3

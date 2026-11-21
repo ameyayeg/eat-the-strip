@@ -1,5 +1,6 @@
 ---
 title: La Zone 23
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Algerian-Mexican
 address: 13 Mann Ave, Ottawa, ON K1N 5A4

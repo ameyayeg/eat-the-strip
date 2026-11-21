@@ -1,5 +1,6 @@
 ---
 title: Uncle Carmine’s
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 2 Ullswater Dr, Nepean, ON K2H 5H2

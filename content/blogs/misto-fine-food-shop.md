@@ -1,5 +1,6 @@
 ---
 title: Misto Fine Food Shop
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Italian
 address: 1387 Carling Ave, Ottawa, ON K1Z 7L6, Canada

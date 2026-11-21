@@ -1,5 +1,6 @@
 ---
 title: Bienvenidos Latin Market
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 1711 St. Laurent Blvd, Ottawa, ON K1G 3V4

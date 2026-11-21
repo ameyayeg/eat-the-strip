@@ -1,5 +1,6 @@
 ---
 title: Yemen Gate
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Yemeni
 address: 1559 Bank St, Ottawa, ON K1H 7Z3

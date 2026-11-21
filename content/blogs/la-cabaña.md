@@ -1,5 +1,6 @@
 ---
 title: La Cabaña
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Salvadoran
 address: 83 Holland Ave, Ottawa, ON K1Y 0Y1

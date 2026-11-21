@@ -1,5 +1,6 @@
 ---
 title: Sundari's Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: South Indian
 address: 1487 Merivale Rd, Nepean, ON K2E 5P3
