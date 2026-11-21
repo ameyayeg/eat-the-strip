@@ -1,5 +1,6 @@
 ---
 title: Thilaks
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Sri Lankan
 address: 2924 Carling Ave, Ottawa, ON K2B 7J7

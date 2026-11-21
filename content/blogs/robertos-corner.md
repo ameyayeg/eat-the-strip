@@ -1,5 +1,6 @@
 ---
 title: Roberto's Corner
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Italian
 address: 1034 Pleasant Park Rd, Ottawa, ON K1G 2A1

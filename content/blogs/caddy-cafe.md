@@ -1,5 +1,6 @@
 ---
 title: Caddy Cafe
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1200 Baseline Rd, Ottawa, ON K2E 5Z8

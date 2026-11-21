@@ -1,10 +1,17 @@
-// The cities the site lists. Each city gets a listing page and a map toggle.
-// The default city lives at /home; every other city at /home/<slug>.
-// To add a city, add an entry here (and the matching option in the CMS).
+// The cities the site lists. The default city lives at /home; every other
+// city at /home/<slug>.
+//
+// To add a city:
+// 1. Add an entry here (with a lowercase `slug`, and `name` in its `values`).
+// 2. Add its `name` to the City options in public/admin/config.yml.
+// Its listing pages, pagination, menu and footer link, map button, post
+// titles, map centre and sitemap entries all follow from this entry.
 //
 // `values` are the front matter `city` values that belong to the city
 // (compared case-insensitively). Posts with no city (blank or null) belong
-// to the default city.
+// to the default city. 'Ottawa' was the CMS option's earlier name; no post
+// uses it, but it's kept so it can never become an unknown city. A post
+// whose city matches no entry stops the build (utils/mdx.js).
 const cities = [
   {
     id: 'ottawa-gatineau',

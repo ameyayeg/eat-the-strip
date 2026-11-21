@@ -1,6 +1,6 @@
 ---
 title: Aroy Thai
-city: null
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 1 Rideaucrest Dr, Ottawa, ON K2G 6A4

@@ -1,5 +1,6 @@
 ---
 title: Luna Crepes & Cafe
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Cafe
 address: 329 March Rd Unit 202, Kanata, ON K2K 2E1

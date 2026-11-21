@@ -1,5 +1,6 @@
 ---
 title: Esther's Cakes N Sweets
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Bakery
 address: 1335 Carling Ave Ottawa, ON, Canada K1Z 8N8

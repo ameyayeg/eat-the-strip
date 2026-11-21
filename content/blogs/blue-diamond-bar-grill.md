@@ -1,5 +1,6 @@
 ---
 title: Blue Diamond Bar & Grill
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 6179 Perth St Unit 150, Richmond, ON K0A 2Z0

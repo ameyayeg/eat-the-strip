@@ -1,5 +1,6 @@
 ---
 title: Spiceylon
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Sri Lankan
 address: 605 Longfields Dr Unit 5, Ottawa, ON K2J 6T7

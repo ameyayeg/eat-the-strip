@@ -1,5 +1,6 @@
 ---
 title: Schnitzel Works
+city: Ottawa-Gatineau
 layout: blog
 cuisine: German
 address: 1400 Cyrville Rd, Gloucester, ON K1B 3L9

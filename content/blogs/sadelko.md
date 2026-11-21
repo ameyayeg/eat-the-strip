@@ -1,5 +1,6 @@
 ---
 title: Sadelko
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Cameroonian
 address: 185 Principale St, Gatineau, Quebec J9H 6J8

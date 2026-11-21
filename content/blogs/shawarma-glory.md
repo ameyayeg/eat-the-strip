@@ -1,5 +1,6 @@
 ---
 title: Shawarma Glory
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: 1309 Carling Ave, Ottawa, ON K1Z 7L3

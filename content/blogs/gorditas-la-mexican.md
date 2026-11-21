@@ -1,6 +1,6 @@
 ---
 title: Gorditas La Mexican
-city: null
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 2350 Stevenage Dr Unit 1, Ottawa, ON K1G 3W3

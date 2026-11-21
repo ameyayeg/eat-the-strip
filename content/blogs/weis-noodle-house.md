@@ -1,5 +1,6 @@
 ---
 title: Wei's Noodle House
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Asian
 address: 706 Somerset St W, Ottawa, ON K1R 6P6

@@ -1,5 +1,6 @@
 ---
 title: Grounded Kitchen, Coffee & Bar
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1545 Carling Ave, Ottawa, ON K1Z 8P9

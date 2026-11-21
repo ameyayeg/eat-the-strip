@@ -1,5 +1,6 @@
 ---
 title: The PH Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Filipino
 address: 2916 Carling Ave, Ottawa, ON K2B 7J7

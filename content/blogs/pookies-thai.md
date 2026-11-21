@@ -1,5 +1,6 @@
 ---
 title: Pookie's Thai
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 2280 Carling Ave unit 7, Ottawa, ON K2B 7G1

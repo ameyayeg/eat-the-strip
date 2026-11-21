@@ -9,7 +9,7 @@ import SupportBox from '../../components/SupportBox'
 import PostHead from '../../components/PostHead'
 import ArchiveNote from '../../components/ArchiveNote'
 import { getPostTitle, getPostDescription } from '../../utils/seo'
-import { cityForPost } from '../../utils/cities'
+import { cityForPost, defaultCity } from '../../utils/cities'
 import Image from 'next/image'
 
 export async function getStaticPaths() {
@@ -142,7 +142,7 @@ export default function Blog({
               },
             ]}
             defaultZoom={11}
-            defaultCenter={[45.4215, -75.6972]}
+            defaultCenter={(cityForPost(frontmatter.city) || defaultCity).mapCenter}
           />
         </div>
         <SupportBox />

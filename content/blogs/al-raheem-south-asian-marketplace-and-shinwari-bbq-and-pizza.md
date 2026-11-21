@@ -1,5 +1,6 @@
 ---
 title: Shinwari BBQ and Pizza
+city: Ottawa-Gatineau
 layout: blog
 cuisine: South Asian
 address: "34 Highbury Park Dr #3, Nepean, ON K2J 5X9"

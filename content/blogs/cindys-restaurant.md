@@ -1,5 +1,6 @@
 ---
 title: Cindy's Restaurant
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: "15 Capella Ct #117, Nepean, ON K2E 7X1"

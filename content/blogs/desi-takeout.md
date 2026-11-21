@@ -1,5 +1,6 @@
 ---
 title: Desi Takeout
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Bangladeshi
 address: 1950 Merivale Rd unit 14, Nepean, ON K2G 5T5

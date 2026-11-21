@@ -1,5 +1,6 @@
 ---
 title: Delina's Restaurant and Bar
+city: Ottawa-Gatineau
 layout: blog
 cuisine: "Ethiopian "
 address: 575 Gladstone Ave, Ottawa, ON K1R 5P2

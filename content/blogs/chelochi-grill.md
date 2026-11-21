@@ -1,5 +1,6 @@
 ---
 title: Chelochi Grill
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Persian
 address: "2900 Gibford Dr UNIT #8, Ottawa, ON K1V 1C3"

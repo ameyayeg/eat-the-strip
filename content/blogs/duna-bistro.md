@@ -1,5 +1,6 @@
 ---
 title: Duna Bistro
+city: Ottawa-Gatineau
 layout: blog
 cuisine: European
 address: 2130 Robertson Rd, Nepean, ON K2H 5Z1

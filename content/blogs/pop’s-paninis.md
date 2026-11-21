@@ -1,5 +1,6 @@
 ---
 title: Pop’s Paninis
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 2255 Carling Ave, Ottawa, ON K2B 7Z5

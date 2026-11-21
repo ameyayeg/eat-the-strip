@@ -1,5 +1,6 @@
 ---
 title: Yummy Touch Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: 2786 Lancaster Rd Unit B, Ottawa, ON K1B 4S4

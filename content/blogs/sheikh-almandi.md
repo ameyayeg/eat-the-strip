@@ -1,5 +1,6 @@
 ---
 title: Sheikh Almandi
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Iraqi
 address: 3059 Carling Ave, Ottawa, ON K2B 7K4

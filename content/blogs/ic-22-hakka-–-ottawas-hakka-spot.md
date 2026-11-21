@@ -1,5 +1,6 @@
 ---
 title: IC-22 Hakka – Ottawa's Hakka Spot
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 848 Merivale Rd Unit A, Ottawa, ON K1Z 5Z7

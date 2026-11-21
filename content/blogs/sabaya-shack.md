@@ -1,5 +1,6 @@
 ---
 title: Sabaya Shack
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Somali
 address: 2285 St. Laurent Blvd C7, Ottawa, ON K1G 4Z7

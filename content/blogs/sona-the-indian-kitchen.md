@@ -1,5 +1,6 @@
 ---
 title: Sona the Indian Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1183 Hunt Club Rd Unit 104, Ottawa, ON K1V 8S4

@@ -1,5 +1,6 @@
 ---
 title: Noodle House 79
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Vietnamese
 address: 1600 Merivale Rd Unit 5 Ottawa, Ontario K2G 5J9

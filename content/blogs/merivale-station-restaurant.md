@@ -1,5 +1,6 @@
 ---
 title: Merivale Station Restaurant
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1884 Merivale Rd unit 7, Nepean, ON K2G 1E6

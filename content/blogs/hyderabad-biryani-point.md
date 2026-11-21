@@ -1,5 +1,6 @@
 ---
 title: Hyderabad Biryani Point
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1104 Klondike Rd, Ottawa, ON K2K 0H2

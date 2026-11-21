@@ -1,5 +1,6 @@
 ---
 title: Detola's Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Nigerian
 address: 2544 Bank St, Ottawa, ON K1T 1M9

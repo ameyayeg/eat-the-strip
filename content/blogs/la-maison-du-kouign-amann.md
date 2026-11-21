@@ -1,5 +1,6 @@
 ---
 title: La Maison du Kouign-Amann
+city: Ottawa-Gatineau
 layout: blog
 cuisine: French
 address: 101 A Schneider Rd, Kanata, ON K2K 1Y3

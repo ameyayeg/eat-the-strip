@@ -1,5 +1,6 @@
 ---
 title: Baan Thai
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 261 Centrepointe Dr, Nepean, ON K2G 6E8

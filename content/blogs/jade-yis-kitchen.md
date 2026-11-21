@@ -1,5 +1,6 @@
 ---
 title: Jade Yi's Kitchen
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: 5104 Kanata Ave., Kanata, ON K2T 1H5

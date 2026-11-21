@@ -1,5 +1,6 @@
 ---
 title: Saigon Bistro
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Vietnamese
 address: 2136 St Joseph Blvd, Orléans, ON K1C 1E6

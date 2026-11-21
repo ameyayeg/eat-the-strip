@@ -1,5 +1,6 @@
 ---
 title: Chahaya Malaysia
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Malaysian
 address: 1690 Montréal Rd, Gloucester, ON K1J 6N5

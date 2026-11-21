@@ -1,5 +1,6 @@
 ---
 title: Noodle's Invitation
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: "174 Colonnade Rd S Unit #28, Nepean, ON K2E 7J5"

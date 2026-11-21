@@ -1,5 +1,6 @@
 ---
 title: Grenfell Catering
+city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 19 Grenfell Crescent Unit 9, Nepean, ON K2G 0G3

@@ -1,5 +1,6 @@
 ---
 title: Shawarma Chef
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Lebanese
 address: 2012 Tenth Line Rd, Orléans, ON K4A 3W3

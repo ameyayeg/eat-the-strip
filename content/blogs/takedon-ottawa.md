@@ -1,5 +1,6 @@
 ---
 title: Takedon Ottawa
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Japanese
 address: 1101 Prince of Wales Dr Unit 150, Ottawa, ON K2C 3W7

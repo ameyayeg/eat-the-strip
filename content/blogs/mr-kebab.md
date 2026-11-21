@@ -1,5 +1,6 @@
 ---
 title: Mr.Kabab
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Syrian
 address: 1549 Bank St, Ottawa, ON K1H 7Z1

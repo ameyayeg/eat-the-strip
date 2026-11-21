@@ -1,5 +1,6 @@
 ---
 title: The Tortilla Maker
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 2003 St Joseph Blvd, Orléans, ON K1C 1E5

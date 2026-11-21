@@ -1,5 +1,6 @@
 ---
 title: Djakarta Taste
+city: Ottawa-Gatineau
 layout: blog
 cuisine: Indonesian
 address: 122 Eddy St, Gatineau, Quebec J8X 3B2
