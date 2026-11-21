@@ -1,0 +1,3 @@
+# The root redirects to the home listing. The ! makes Netlify apply it even
+# though it serves a page at /.
+/  /home  301!
