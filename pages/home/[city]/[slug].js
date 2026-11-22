@@ -111,6 +111,17 @@ export default function Blog({
         <ReactMarkdown
           className={styles.markdown}
           components={{
+            // A paragraph holding an image renders without its <p>: the image
+            // becomes a <figure>, which HTML doesn't allow inside a <p>, and
+            // the mismatch broke hydration. Text paragraphs keep their <p>.
+            p: ({ node, children }) =>
+              node.children.some(
+                (child) => child.type === 'element' && child.tagName === 'img'
+              ) ? (
+                <>{children}</>
+              ) : (
+                <p>{children}</p>
+              ),
             img: (props) => (
               <figure>
                 <img
