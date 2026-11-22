@@ -27,7 +27,9 @@ const Footer = () => {
         </ul>
       </div>
       <div className={styles.copyright}>
-        <p>Made by Ameya Charnalia &copy; {date.getFullYear()}</p>
+        <p suppressHydrationWarning>
+          Made by Ameya Charnalia &copy; {date.getFullYear()}
+        </p>
       </div>
       <div className={styles.socials}>
         <a href="https://ko-fi.com/B0B31A86OB" target="_blank">
