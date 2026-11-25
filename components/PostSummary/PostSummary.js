@@ -326,10 +326,20 @@ export function MediaBlock({ frontmatter }) {
       <h2 id={headingId} className={styles.heading}>
         Watch and listen
       </h2>
-      {youtube && (
-        <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
+      {youtube && (cbc || cbcAudio) ? (
+        // Both: side by side on wide screens, stacked on narrow ones (CSS).
+        <div className={styles.mediaPair}>
+          <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
+          <CbcClip page={cbc} audio={cbcAudio} />
+        </div>
+      ) : (
+        <>
+          {youtube && (
+            <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
+          )}
+          {(cbc || cbcAudio) && <CbcClip page={cbc} audio={cbcAudio} />}
+        </>
       )}
-      {(cbc || cbcAudio) && <CbcClip page={cbc} audio={cbcAudio} />}
     </section>
   )
 }
