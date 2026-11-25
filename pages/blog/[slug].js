@@ -12,6 +12,8 @@ import {
   MapLinks,
   PostSummaryCard,
   PostTitle,
+  MediaBlock,
+  splitForMedia,
 } from '../../components/PostSummary/PostSummary'
 import { getPostTitle, getPostDescription } from '../../utils/seo'
 import { cityForPost, defaultCity } from '../../utils/cities'
@@ -58,6 +60,52 @@ export default function Blog({
   function showSettings() {
     e.preventDefault()
   }
+  // The article. On a post with a YouTube or CBC link it renders in two halves
+  // with "Watch and listen" between them (components/PostSummary).
+  const article = (text) => (
+    <ReactMarkdown
+      className={styles.markdown}
+      components={{
+        // A paragraph holding an image renders without its <p>: the image
+        // becomes a <figure>, which HTML doesn't allow inside a <p>, and
+        // the mismatch broke hydration. Text paragraphs keep their <p>.
+        p: ({ node, children }) =>
+          node.children.some(
+            (child) => child.type === 'element' && child.tagName === 'img'
+          ) ? (
+            <>{children}</>
+          ) : (
+            <p>{children}</p>
+          ),
+        img: (props) => (
+          <figure>
+            <img
+              src={props.src}
+              alt={props.alt}
+              style={{ maxWidth: '100%' }}
+            />
+            <figcaption
+              style={{
+                borderBottom: '1px solid #d8d8d8',
+                color: '#545454',
+                display: 'block',
+                fontSize: '14px',
+                lineHeight: '20px',
+                marginBottom: '16px',
+                paddingBottom: '16px',
+              }}
+            >
+              {props.alt}
+            </figcaption>
+          </figure>
+        ),
+      }}
+    >
+      {text}
+    </ReactMarkdown>
+  )
+  const parts = splitForMedia(markdown, frontmatter)
+
   return (
     <div>
       <PostHead
@@ -110,46 +158,15 @@ export default function Blog({
           <hr />
         </div>
         <PostSummaryCard frontmatter={frontmatter} />
-        <ReactMarkdown
-          className={styles.markdown}
-          components={{
-            // A paragraph holding an image renders without its <p>: the image
-            // becomes a <figure>, which HTML doesn't allow inside a <p>, and
-            // the mismatch broke hydration. Text paragraphs keep their <p>.
-            p: ({ node, children }) =>
-              node.children.some(
-                (child) => child.type === 'element' && child.tagName === 'img'
-              ) ? (
-                <>{children}</>
-              ) : (
-                <p>{children}</p>
-              ),
-            img: (props) => (
-              <figure>
-                <img
-                  src={props.src}
-                  alt={props.alt}
-                  style={{ maxWidth: '100%' }}
-                />
-                <figcaption
-                  style={{
-                    borderBottom: '1px solid #d8d8d8',
-                    color: '#545454',
-                    display: 'block',
-                    fontSize: '14px',
-                    lineHeight: '20px',
-                    marginBottom: '16px',
-                    paddingBottom: '16px',
-                  }}
-                >
-                  {props.alt}
-                </figcaption>
-              </figure>
-            ),
-          }}
-        >
-          {markdown}
-        </ReactMarkdown>
+        {parts ? (
+          <>
+            {article(parts[0])}
+            <MediaBlock frontmatter={frontmatter} />
+            {parts[1] && article(parts[1])}
+          </>
+        ) : (
+          article(markdown)
+        )}
         <div className={styles.map}>
           <MapWithNoSSR
             coordinates={[

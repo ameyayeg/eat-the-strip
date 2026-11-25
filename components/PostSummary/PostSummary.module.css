@@ -178,11 +178,28 @@
   border-radius: 10px;
 }
 
-/* Shorts: portrait 9:16, up to 360px wide, on the left like the rest of the
+/* Shorts: portrait 9:16, up to 300px wide, on the left like the rest of the
    card. The post's photo is cropped to fill it. */
 .video.portrait {
-  max-width: 360px;
+  max-width: 300px;
   aspect-ratio: 9 / 16;
+}
+
+/* "Watch and listen" inside the article, in the text column. The margins
+   match the gap between paragraphs (one 1.6em line; the second half of the
+   article adds its own 0.25rem). */
+.media {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1.6em 0 calc(1.6em - 0.25rem);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-base);
+  line-height: 1.5;
+  color: #111;
+}
+
+.media .heading {
+  margin: 0;
 }
 
 .videoButton,
