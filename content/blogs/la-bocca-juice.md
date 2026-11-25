@@ -5,6 +5,7 @@ layout: blog
 cuisine: Dessert
 address: 2446 Bank St, Ottawa, ON K1V 1A4
 area: South Ottawa
+price: Under $15
 mustOrder:
   - ashta fraisca
 author: Ameya Charnalia

@@ -5,6 +5,7 @@ layout: blog
 cuisine: Chinese
 address: 5104 Kanata Ave., Kanata, ON K2T 1H5
 area: Kanata
+price: $15–$25
 mustOrder:
   - pork, chive and egg dumplings
   - sesame balls

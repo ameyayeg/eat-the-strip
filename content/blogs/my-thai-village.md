@@ -5,6 +5,7 @@ layout: blog
 cuisine: Thai
 address: 474 Hazeldean Rd. Kanata, ON, Unit 5
 area: Kanata
+price: $15–$25
 author: Danielle Jeffery
 date: December 5, 2023 9:42 AM
 thumbnail: /uploads/img_2800.jpeg

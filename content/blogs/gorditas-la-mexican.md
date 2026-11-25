@@ -5,6 +5,7 @@ layout: blog
 cuisine: Mexican
 address: 2350 Stevenage Dr Unit 1, Ottawa, ON K1G 3W3
 area: East Ottawa
+price: Under $15
 mustOrder:
   - asado rojo
 author: Ameya Charnalia

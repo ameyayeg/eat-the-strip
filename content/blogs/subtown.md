@@ -5,6 +5,7 @@ layout: blog
 cuisine: Lebanese
 address: 1600 Walkley Rd, Ottawa, ON K1V 6P5
 area: South Ottawa
+price: $15–$25
 author: Ameya Charnalia
 date: November 19, 2024 4:47 PM
 thumbnail: /uploads/img_6676.jpg

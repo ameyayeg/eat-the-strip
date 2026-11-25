@@ -5,6 +5,7 @@ layout: blog
 cuisine: Mexican
 address: 2003 St Joseph Blvd, Orléans, ON K1C 1E5
 area: Orléans
+price: $15–$25
 mustOrder:
   - tamales
 author: Ameya Charnalia

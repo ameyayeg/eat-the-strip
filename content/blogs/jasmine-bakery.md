@@ -5,6 +5,7 @@ layout: blog
 cuisine: Syrian
 address: 2730 Iris St, Ottawa, ON K2C 3C9
 area: Nepean
+price: Under $15
 mustOrder:
   - meat pies
 author: Ameya Charnalia

@@ -5,6 +5,7 @@ layout: blog
 cuisine: Thai
 address: 2401 Bank St, Ottawa, ON K1V 8R9
 area: South Ottawa
+price: $15–$25
 dietary:
   - Vegetarian options
 author: Ameya Charnalia

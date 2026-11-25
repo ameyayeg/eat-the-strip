@@ -5,6 +5,7 @@ layout: blog
 cuisine: North American
 address: "2285 St. Laurent Blvd Building C #10, Ottawa, ON K1G 4Z6"
 area: East Ottawa
+price: Under $15
 author: Ameya Charnalia
 date: March 7, 2025 2:17 PM
 thumbnail: /uploads/img_7834.jpeg

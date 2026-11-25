@@ -5,6 +5,7 @@ layout: blog
 cuisine: Pakistani
 address: 1374 Baseline Rd, Ottawa, ON K2C 0A9
 area: Nepean
+price: Under $15
 author: Danielle Jeffery
 date: August 23, 2024 11:15 PM
 thumbnail: /uploads/img_5815.jpeg

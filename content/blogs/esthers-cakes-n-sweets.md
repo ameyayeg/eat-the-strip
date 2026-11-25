@@ -5,6 +5,7 @@ layout: blog
 cuisine: Bakery
 address: 1335 Carling Ave Ottawa, ON, Canada K1Z 8N8
 area: West Ottawa
+price: Under $15
 author: Amy Rawding
 date: January 10, 2024 6:17 PM
 thumbnail: /uploads/412445461_183209961515898_1189941648172768853_n-2.jpg

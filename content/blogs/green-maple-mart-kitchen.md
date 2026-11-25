@@ -5,6 +5,7 @@ layout: blog
 cuisine: North American
 address: 86 Forward Ave, Ottawa, ON K1Y 1K7
 area: Central Ottawa
+price: Under $15
 mustOrder:
   - bandari
 author: Ameya Charnalia

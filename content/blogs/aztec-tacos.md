@@ -5,6 +5,7 @@ layout: blog
 cuisine: Mexican
 address: 77 Montréal Rd, Vanier, ON K1L 6E8
 area: Vanier
+price: $15–$25
 mustOrder:
   - quesabirria
 author: Ameya Charnalia

@@ -5,6 +5,7 @@ layout: blog
 cuisine: Turkish
 address: 2590 Carp Rd, Carp, ON K0A 1L0
 area: Carp
+price: $15–$25
 mustOrder:
   - menemen
 author: Ameya Charnalia

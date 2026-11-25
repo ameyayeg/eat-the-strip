@@ -5,6 +5,7 @@ layout: blog
 cuisine: Italian
 address: 1430 Prince of Wales Dr, Ottawa, ON K2C 1N4
 area: Nepean
+price: Under $15
 author: Ameya Charnalia
 date: June 26, 2025 11:56 AM
 thumbnail: /uploads/img_8950.jpeg

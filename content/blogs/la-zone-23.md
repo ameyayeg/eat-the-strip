@@ -5,6 +5,7 @@ layout: blog
 cuisine: Algerian-Mexican
 address: 13 Mann Ave, Ottawa, ON K1N 5A4
 area: Central Ottawa
+price: $15–$25
 dietary:
   - Halal
 mustOrder:

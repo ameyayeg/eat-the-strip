@@ -5,6 +5,7 @@ layout: blog
 cuisine: Jamaican
 address: 261 Centrepointe Dr, Nepean, ON K2G 6E8
 area: Nepean
+price: $15–$25
 dietary:
   - Vegan options
 author: Ameya Charnalia

@@ -5,6 +5,7 @@ layout: blog
 cuisine: Jamaican
 address: 1224 Shillington Ave, Ottawa, ON K1Z 7Z4
 area: West Ottawa
+price: Under $15
 mustOrder:
   - classic beef patties
 author: Ameya Charnalia

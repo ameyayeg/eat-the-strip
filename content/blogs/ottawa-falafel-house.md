@@ -5,6 +5,7 @@ layout: blog
 cuisine: Middle Eastern
 address: 1077 Cyrville Rd, Gloucester, ON K1J 7P8, Canada
 area: Gloucester
+price: $15–$25
 dietary:
   - Vegetarian options
 author: Ameya Charnalia

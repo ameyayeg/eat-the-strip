@@ -5,6 +5,7 @@ layout: blog
 cuisine: Mexican
 address: 1491 Merivale Rd, Nepean, ON K2E 5P3
 area: Nepean
+price: Over $25
 dietary:
   - Vegan options
   - Gluten-free options

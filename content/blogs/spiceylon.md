@@ -5,6 +5,7 @@ layout: blog
 cuisine: Sri Lankan
 address: 605 Longfields Dr Unit 5, Ottawa, ON K2J 6T7
 area: Barrhaven
+price: $15–$25
 dietary:
   - Vegetarian options
   - Halal

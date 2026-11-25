@@ -5,6 +5,7 @@ layout: blog
 cuisine: North American
 address: 2255 Carling Ave, Ottawa, ON K2B 7Z5
 area: West Ottawa
+price: $15–$25
 mustOrder:
   - turkey brie panini
 author: Ameya Charnalia
