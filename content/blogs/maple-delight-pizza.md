@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Pizza
 address: 1012 Merivale Rd, Ottawa, ON K1Z 6A5
+area: West Ottawa
 author: Ameya Charnalia
 date: July 27, 2023 7:14 PM
 thumbnail: /uploads/img_1267.jpeg

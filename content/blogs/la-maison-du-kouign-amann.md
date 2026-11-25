@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: French
 address: 101 A Schneider Rd, Kanata, ON K2K 1Y3
+area: Kanata
 author: Ameya Charnalia
 date: November 17, 2024 2:07 PM
 thumbnail: /uploads/img_6653.jpeg

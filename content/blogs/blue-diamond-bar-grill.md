@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 6179 Perth St Unit 150, Richmond, ON K0A 2Z0
+area: Richmond
 author: Ameya Charnalia
 date: January 26, 2025 7:00 PM
 thumbnail: /uploads/img_7470.jpeg

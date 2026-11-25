@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1325 Humber Pl, Ottawa, ON K1B 5K9
+area: Gloucester
 author: Ameya Charnalia
 date: March 31, 2023 3:30 PM
 thumbnail: /uploads/img_9548.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 77 Montréal Rd, Vanier, ON K1L 6E8
+area: Vanier
 author: Ameya Charnalia
 date: July 29, 2025 10:31 AM
 thumbnail: /uploads/img_9339.jpeg

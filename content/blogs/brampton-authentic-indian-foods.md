@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 178 Meadowlands Dr W, Nepean, ON K2G 2S6
+area: Nepean
 author: Ameya Charnalia
 date: May 26, 2024 8:28 PM
 thumbnail: /uploads/img_4411.jpeg

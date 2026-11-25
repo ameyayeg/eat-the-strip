@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Italian
 address: 1034 Pleasant Park Rd, Ottawa, ON K1G 2A1
+area: East Ottawa
 author: Ameya Charnalia
 date: July 23, 2023 10:29 PM
 thumbnail: /uploads/img_1232.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 68 Wylie Ave, Ottawa, ON K2B 6M4
+area: West Ottawa
 author: Danielle Jeffery
 date: June 15, 2023 11:43 AM
 thumbnail: /uploads/img_0648.jpeg

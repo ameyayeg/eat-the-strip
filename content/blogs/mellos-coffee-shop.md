@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1516 Merivale Rd, Nepean, ON K2G 3J6
+area: Nepean
 author: Ameya Charnalia
 date: February 9, 2024 1:37 PM
 thumbnail: /uploads/img_3680.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Filipino
 address: 782 Eagleson Rd Unit 2, Kanata, ON K2M 1H8
+area: Kanata
 author: Ameya Charnalia
 date: October 3, 2026 1:20 PM
 thumbnail: /uploads/img_3419.jpeg

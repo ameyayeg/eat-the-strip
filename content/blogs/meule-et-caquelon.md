@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Swiss
 address: 74 Bd Gréber, Gatineau, QC J8T 3P8
+area: Gatineau
 author: Ameya Charnalia
 date: July 31, 2024 12:29 PM
 thumbnail: /uploads/img_5646.jpeg

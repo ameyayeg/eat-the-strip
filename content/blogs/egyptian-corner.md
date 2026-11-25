@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Egyptian
 address: 1563 Bank St, Ottawa, ON K1H 7Z3
+area: South Ottawa
 author: Ameya Charnalia
 date: July 16, 2025 6:07 PM
 thumbnail: /uploads/img_9223.jpeg

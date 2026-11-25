@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Vietnamese
 address: 1600 Merivale Rd Unit 5 Ottawa, Ontario K2G 5J9
+area: Nepean
 author: Sophia Lindfield
 date: July 18, 2023 9:08 AM
 thumbnail: /uploads/img_1172.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: "2430 Bank Street Unit #11, K1V 0T7 Ottawa, Ontario"
+area: South Ottawa
 author: Kapil Mehra
 date: July 1, 2023 12:37 PM
 thumbnail: /uploads/img_0804.jpeg

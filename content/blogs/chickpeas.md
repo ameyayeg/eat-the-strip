@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Palestinian
 address: 500 Terminal Ave. A-05, Ottawa, ON K1G 0Z3
+area: East Ottawa
 author: Ameya Charnalia
 date: December 29, 2024 8:43 PM
 thumbnail: /uploads/img_7268.jpeg

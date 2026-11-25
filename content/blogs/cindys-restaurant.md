@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: "15 Capella Ct #117, Nepean, ON K2E 7X1"
+area: Nepean
 author: Ameya Charnalia
 date: August 18, 2024 3:34 PM
 thumbnail: /uploads/img_5775.jpeg

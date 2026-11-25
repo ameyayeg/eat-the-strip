@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: 2786 Lancaster Rd Unit B, Ottawa, ON K1B 4S4
+area: Gloucester
 author: Ameya Charnalia
 date: October 4, 2024 10:24 PM
 thumbnail: /uploads/img_6298.jpeg

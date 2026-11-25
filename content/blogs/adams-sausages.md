@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Polish
 address: 1437 Michael St, Ottawa, ON K1B 3P5
+area: Gloucester
 author: Ameya Charnalia
 date: March 21, 2025 1:59 PM
 thumbnail: /uploads/img_7950.jpeg

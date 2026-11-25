@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Afghan
 address: 3098 Carling Ave Unit 8, Nepean, ON K2B 7K2
+area: Nepean
 author: Ameya Charnalia
 date: June 1, 2023 10:55 AM
 thumbnail: /uploads/img_0505.jpeg

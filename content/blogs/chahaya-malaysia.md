@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Malaysian
 address: 1690 Montréal Rd, Gloucester, ON K1J 6N5
+area: Gloucester
 author: Danielle Jeffery
 date: August 15, 2023 10:57 AM
 thumbnail: /uploads/bf77f226-6a89-4646-8c80-06252126aad5.jpg

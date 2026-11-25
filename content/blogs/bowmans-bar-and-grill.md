@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1170 Carling Ave, Ottawa, ON K1Z 7K6
+area: West Ottawa
 author: Ameya Charnalia
 date: October 20, 2023 4:25 PM
 thumbnail: /uploads/img_2304.jpeg

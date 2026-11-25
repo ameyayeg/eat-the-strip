@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Japanese
 address: 1101 Prince of Wales Dr Unit 150, Ottawa, ON K2C 3W7
+area: Nepean
 author: Ameya Charnalia
 date: October 29, 2023 2:35 PM
 thumbnail: /uploads/img_2357.jpeg

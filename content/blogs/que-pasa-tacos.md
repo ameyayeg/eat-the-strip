@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 2280 Carling Ave, Ottawa, ON K2B 7G1
+area: West Ottawa
 author: Ameya Charnalia
 date: July 21, 2024 12:49 PM
 thumbnail: /uploads/img_5532.jpeg

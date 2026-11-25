@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Iraqi
 address: 2186b Lamira St, Ottawa, ON K1H 8L4
+area: South Ottawa
 author: Ameya Charnalia
 date: January 13, 2025 5:39 PM
 thumbnail: /uploads/img_7391.jpeg

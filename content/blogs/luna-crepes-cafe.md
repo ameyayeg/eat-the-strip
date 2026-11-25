@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Cafe
 address: 329 March Rd Unit 202, Kanata, ON K2K 2E1
+area: Kanata
 author: Ameya Charnalia
 date: March 14, 2025 5:15 PM
 thumbnail: /uploads/img_7895.jpeg

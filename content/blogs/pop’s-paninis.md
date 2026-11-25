@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 2255 Carling Ave, Ottawa, ON K2B 7Z5
+area: West Ottawa
 author: Ameya Charnalia
 date: April 18, 2025 8:51 AM
 thumbnail: /uploads/img_8288.jpeg

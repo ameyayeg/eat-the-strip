@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 1491 Merivale Rd, Nepean, ON K2E 5P3
+area: Nepean
 author: Anna Miedema
 date: May 14, 2023 11:22 AM
 thumbnail: /uploads/img_0078.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Haitian
 address: 287 Queen Mary St, Ottawa, ON K1K 1X1
+area: East Ottawa
 author: Ameya Charnalia
 date: August 4, 2024 3:44 PM
 thumbnail: /uploads/img_5672.jpeg

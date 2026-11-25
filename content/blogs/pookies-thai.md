@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 2280 Carling Ave unit 7, Ottawa, ON K2B 7G1
+area: West Ottawa
 author: Ameya Charnalia
 date: October 1, 2023 11:10 PM
 thumbnail: /uploads/img_1997.jpeg

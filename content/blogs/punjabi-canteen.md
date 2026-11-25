@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1234 Merivale Rd, Ottawa, ON K2C 4C3
+area: Nepean
 author: Ameya Charnalia
 date: March 19, 2023 1:11 PM
 thumbnail: /uploads/img_9269.jpeg

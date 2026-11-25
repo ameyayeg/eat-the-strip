@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: South Indian
 address: 1487 Merivale Rd, Nepean, ON K2E 5P3
+area: Nepean
 author: Ameya Charnalia
 date: June 10, 2023 11:33 AM
 thumbnail: /uploads/img_0597.jpeg

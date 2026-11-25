@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Turkish
 address: 471 Terry Fox Dr Unit 120, Kanata, ON K2T 0A3
+area: Kanata
 author: Marianne Jeffery
 date: September 24, 2023 10:11 PM
 thumbnail: /uploads/img_1959.jpeg

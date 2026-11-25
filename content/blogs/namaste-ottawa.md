@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1766 Carling Ave, Ottawa, ON K2A 1E1
+area: West Ottawa
 author: Ameya Charnalia
 date: March 28, 2025 2:48 PM
 thumbnail: /uploads/img_7999.jpeg

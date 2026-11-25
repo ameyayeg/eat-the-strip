@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 2401 Bank St, Ottawa, ON K1V 8R9
+area: South Ottawa
 author: Ameya Charnalia
 date: September 9, 2024 12:30 PM
 thumbnail: /uploads/img_6019.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Halal
 address: 1900 Innes Rd, Gloucester, ON K1B 1A9, Canada
+area: Gloucester
 author: Danielle Jeffery
 date: May 11, 2025 9:06 AM
 thumbnail: /uploads/processed-541c3a99-da32-4d77-b0c5-9934f9756957.jpeg

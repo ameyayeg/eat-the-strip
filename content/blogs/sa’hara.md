@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Somali
 address: "2446 Bank St #109A, Ottawa, ON K1V 8S2"
+area: South Ottawa
 description: Cinnamon-scented rice, soft braised lamb and a tangy green chutney
   at Sa’hara, a Somali restaurant in Ottawa’s Towngate Shopping Plaza.
 author: Ameya Charnalia

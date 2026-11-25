@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Thai
 address: 261 Centrepointe Dr, Nepean, ON K2G 6E8
+area: Nepean
 author: Ameya Charnalia
 date: August 4, 2023 11:56 AM
 thumbnail: /uploads/img_1336.jpeg

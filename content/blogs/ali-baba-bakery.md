@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Lebanese
 address: "200 Vanguard Dr #7, Orléans, ON K4A 1A1"
+area: Orléans
 author: Danielle Jeffery
 date: April 16, 2023 6:17 PM
 thumbnail: /uploads/img_9681.jpeg

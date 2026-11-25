@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 111 Sherwood Dr, Ottawa, ON K1Y 3V1
+area: Central Ottawa
 author: Ameya Charnalia
 date: June 23, 2024 10:11 PM
 thumbnail: /uploads/img_5235.jpeg

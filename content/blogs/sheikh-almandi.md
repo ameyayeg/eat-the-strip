@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Iraqi
 address: 3059 Carling Ave, Ottawa, ON K2B 7K4
+area: West Ottawa
 author: Danielle Jeffery
 date: April 14, 2024 5:11 PM
 thumbnail: /uploads/img_4313.jpeg

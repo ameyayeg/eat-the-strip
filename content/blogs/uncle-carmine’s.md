@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 2 Ullswater Dr, Nepean, ON K2H 5H2
+area: Nepean
 author: Ameya Charnalia
 date: September 17, 2026 7:30 PM
 thumbnail: /uploads/brisket.jpeg

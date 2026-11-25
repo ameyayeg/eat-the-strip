@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1572 Michael St, Ottawa, ON K1B 3T7
+area: Gloucester
 author: Ameya Charnalia
 date: August 23, 2023 11:44 AM
 thumbnail: /uploads/img_1530.jpeg
