@@ -198,22 +198,6 @@
   color: #111;
 }
 
-/* A Short (or video) with CBC audio: stacked on phones and narrow screens;
-   from 760px, the audio sits beside the Short, aligned to its top, with the
-   player up to about 420px wide. */
-.mediaPair {
-  display: grid;
-  gap: 0.75rem;
-}
-
-@media (min-width: 760px) {
-  .mediaPair {
-    grid-template-columns: minmax(0, 300px) minmax(0, 420px);
-    column-gap: 1.25rem;
-    align-items: start;
-  }
-}
-
 .media .heading {
   margin: 0;
 }
