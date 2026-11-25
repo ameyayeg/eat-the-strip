@@ -12,6 +12,8 @@ positives: 45.35199978492008
 negatives: -75.84075264721702
 image: /uploads/img_3172.jpeg
 youtube: https://www.youtube.com/shorts/qG_MlArIUxY
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16239012-eat-strip-uncle-carmines
+cbcAudio: https://mp3.cbc.ca/radio/2026/09/23/dave-JxlMjVsF-20260923.mp3
 ---
 There are restaurants that make you feel like you’ve travelled somewhere, and then there are restaurants that seem to have simply picked up and moved that somewhere with them.
 
