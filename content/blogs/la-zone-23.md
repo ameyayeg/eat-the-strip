@@ -5,6 +5,8 @@ layout: blog
 cuisine: Algerian-Mexican
 address: 13 Mann Ave, Ottawa, ON K1N 5A4
 area: Central Ottawa
+dietary:
+  - Halal
 description: Algerian French tacos and quesabirria at La Zone 23, a halal
   Algerian-Mexican restaurant on Sandy Hill’s Mann Avenue.
 author: Ameya Charnalia

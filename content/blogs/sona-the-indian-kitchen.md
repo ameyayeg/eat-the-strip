@@ -5,6 +5,9 @@ layout: blog
 cuisine: Indian
 address: 1183 Hunt Club Rd Unit 104, Ottawa, ON K1V 8S4
 area: South Ottawa
+dietary:
+  - Vegan options
+  - Vegetarian options
 author: Ameya Charnalia
 date: February 28, 2024 9:16 AM
 thumbnail: /uploads/img_3868.jpeg
