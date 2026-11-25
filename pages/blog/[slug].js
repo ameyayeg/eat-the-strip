@@ -8,6 +8,11 @@ import ContactLine from '../../components/ContactLine'
 import SupportBox from '../../components/SupportBox'
 import PostHead from '../../components/PostHead'
 import ArchiveNote from '../../components/ArchiveNote'
+import {
+  MapLinks,
+  PostSummaryCard,
+  PostTitle,
+} from '../../components/PostSummary/PostSummary'
 import { getPostTitle, getPostDescription } from '../../utils/seo'
 import { cityForPost, defaultCity } from '../../utils/cities'
 import Image from 'next/image'
@@ -77,7 +82,7 @@ export default function Blog({
           className={styles.archiveNote}
         />
         <div className={styles.frontmatterDiv}>
-          <h1>{frontmatter.title}</h1>
+          <PostTitle frontmatter={frontmatter} />
           {frontmatter.closed && (
             <span
               style={{
@@ -96,6 +101,7 @@ export default function Blog({
           <p>
             <i>{frontmatter.address}</i>
           </p>
+          <MapLinks frontmatter={frontmatter} />
           <p>
             <strong>
               By: {frontmatter.author} | {frontmatter.date}
@@ -103,6 +109,7 @@ export default function Blog({
           </p>
           <hr />
         </div>
+        <PostSummaryCard frontmatter={frontmatter} />
         <ReactMarkdown
           className={styles.markdown}
           components={{

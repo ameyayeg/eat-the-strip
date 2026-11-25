@@ -27,6 +27,61 @@ collections:
       - { label: 'Cuisine', name: 'cuisine', widget: 'string' }
       - { label: 'Address', name: 'address', widget: 'string' }
       - {
+          label: 'Area',
+          name: 'area',
+          widget: 'select',
+          options:
+            [
+              'Barrhaven',
+              'Carp',
+              'Central Ottawa',
+              'East Ottawa',
+              'Gatineau',
+              'Gloucester',
+              'Kanata',
+              'Manotick',
+              'Nepean',
+              'Orléans',
+              'Richmond',
+              'South Ottawa',
+              'Stittsville',
+              'Vanier',
+              'West Ottawa',
+            ],
+          required: false,
+        }
+      - {
+          label: 'Price per person (approx.)',
+          name: 'price',
+          widget: 'select',
+          options: ['Under $15', '$15–$25', 'Over $25'],
+          required: false,
+        }
+      - {
+          label: 'Dietary options',
+          name: 'dietary',
+          widget: 'select',
+          multiple: true,
+          options:
+            ['Vegan options', 'Vegetarian options', 'Gluten-free options', 'Halal'],
+          required: false,
+          hint: 'Tick only if the place has such dishes, not the whole menu. Tick Halal only if the restaurant says it is halal.',
+        }
+      - {
+          label: "Writer's pick",
+          name: 'favourite',
+          widget: 'boolean',
+          default: false,
+          required: false,
+        }
+      - {
+          label: 'Must-order dishes',
+          name: 'mustOrder',
+          widget: 'list',
+          field: { label: 'Dish', name: 'dish', widget: 'string' },
+          required: false,
+        }
+      - {
           label: 'Summary (search and social)',
           name: 'description',
           widget: 'text',
@@ -58,3 +113,29 @@ collections:
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Secondary image', name: 'image', widget: 'image' }
+      - {
+          label: 'YouTube video URL',
+          name: 'youtube',
+          widget: 'string',
+          required: false,
+          pattern:
+            [
+              '^https://(www\.|m\.)?(youtube\.com|youtu\.be)/',
+              'Use a youtube.com or youtu.be link',
+            ],
+        }
+      - {
+          label: 'CBC clip page URL',
+          name: 'cbc',
+          widget: 'string',
+          required: false,
+          pattern: ['^https://(www\.)?cbc\.ca/', 'Use a cbc.ca link'],
+        }
+      - {
+          label: 'CBC audio (mp3) URL',
+          name: 'cbcAudio',
+          widget: 'string',
+          required: false,
+          pattern:
+            ['^https://([a-z0-9-]+\.)?cbc\.ca/', 'Use a cbc.ca audio link'],
+        }
