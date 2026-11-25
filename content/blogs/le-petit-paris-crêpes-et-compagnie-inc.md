@@ -12,6 +12,8 @@ closed: false
 positives: 45.31246478806644
 negatives: -75.8965906178
 image: /uploads/img_7560.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16127698-eat-strip-le-petit-paris-et-compagnie
+cbcAudio: https://mp3.cbc.ca/radio/2025/02/12/dave-AgYLDcWC-20250212.mp3
 ---
 A new crêperie tucked away in a Kanata strip mall is offering a taste of Paris to Ottawa’s food scene.
 

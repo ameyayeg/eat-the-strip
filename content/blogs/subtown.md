@@ -13,6 +13,8 @@ closed: false
 positives: 45.376894282980174
 negatives: -75.64593259899777
 image: /uploads/img_6675.jpg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16113420-eat-strip-checks-sub-town
+cbcAudio: https://mp3.cbc.ca/radio/2024/12/04/dave-SGOvq0A9-20241204.mp3
 ---
 We were looking to try something different when we received an email recently from one of our readers about a place serving submarine sandwiches with an interesting twist.
 

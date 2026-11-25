@@ -15,6 +15,8 @@ closed: false
 positives: 45.376596110450535
 negatives: -75.64696305071382
 image: /uploads/img_7497.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16126127-eat-strip-polka-delicatessen
+cbcAudio: https://mp3.cbc.ca/radio/2025/02/05/dave-SXNRXx1w-20250205.mp3
 ---
 It’s easy to overlook Polka Delicatessen, located in a strip mall between a cell phone repair shop and a make-your-own wine space. But step inside, and it’s clear this small, unassuming store has become a fixture for Ottawa’s Polish community—and for anyone craving a taste of authentic Eastern European deli fare.
 

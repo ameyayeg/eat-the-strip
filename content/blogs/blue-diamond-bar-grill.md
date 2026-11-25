@@ -13,6 +13,8 @@ closed: false
 positives: 45.19414572024822
 negatives: -75.84277434717669
 image: /uploads/img_7467.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16124435-eat-strip-blue-diamond-bar-and-grill
+cbcAudio: https://mp3.cbc.ca/radio/2025/01/29/dave-IXbWAnH4-20250129.mp3
 ---
 In the heart of Richmond, Blue Diamond Bar & Grill blends the best of both worlds: a family-friendly sports bar and a bustling small-town breakfast joint, all while serving up authentic Punjabi cuisine. 
 

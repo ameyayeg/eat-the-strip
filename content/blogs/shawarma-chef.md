@@ -14,6 +14,8 @@ positives: 45.45971812971373
 negatives: -75.48765077041287
 image: /uploads/img_8933.jpeg
 youtube: https://www.youtube.com/shorts/LYblyvMOjl8
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16154544-eat-strip-shawarma-chef
+cbcAudio: https://mp3.cbc.ca/radio/2025/06/25/dave-IslMtx6u-20250625.mp3
 ---
 There’s something satisfying about walking into a strip mall and being greeted like a regular—even if it’s your first visit. At Shawarma Chef in Orléans, you don’t just get lunch. You get a welcome.
 

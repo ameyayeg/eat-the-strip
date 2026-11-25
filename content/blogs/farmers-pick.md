@@ -14,6 +14,8 @@ positives: 45.36878673811034
 negatives: -75.70312535478645
 image: /uploads/img_8941.jpeg
 youtube: https://www.youtube.com/shorts/lP3JzcUN6YY
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16155574-eat-strip-farmers-pick
+cbcAudio: https://mp3.cbc.ca/radio/2025/07/02/dave-l3c6p6Gl-20250702.mp3
 ---
 Tucked inside an unassuming strip mall off Prince of Wales Drive, just down the road from residential streets and a Passport Canada office, Farmers Pick Italian Foods doesn’t exactly scream “destination sandwich spot”—but it should.
 

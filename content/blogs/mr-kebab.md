@@ -14,6 +14,8 @@ positives: 45.379917019951314
 negatives: -75.66741492944877
 image: /uploads/img_9195.jpeg
 youtube: https://www.youtube.com/shorts/lDkgFgiFqGw
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16158159-eat-strip-mr-kabab
+cbcAudio: https://mp3.cbc.ca/radio/2025/07/16/dave-vlNGj42R-20250716.mp3
 ---
 In the corner unit of a quiet south-end strip mall, just a few doors down from a barbershop and a cigar store, Mr. Kabab is quietly turning out some of the best Syrian kebabs in the city. Not far along the same stretch are two more restaurants—a Yemeni spot and an Egyptian one—which makes this particular strip mall a must-visit for anyone looking to eat the strip. Mr. Kabab opened just two months ago, and it already feels like a hidden gem waiting to be found.
 

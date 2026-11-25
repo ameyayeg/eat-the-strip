@@ -14,6 +14,8 @@ closed: false
 positives: 45.353601290758974
 negatives: -75.64132019645191
 image: /uploads/img_7325.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16119797-eat-strip-detolas-kitchen
+cbcAudio: https://mp3.cbc.ca/radio/2025/01/09/dave-KZezfefT-20250109.mp3
 ---
 I left work tonight craving Nigerian food—grilled meats, spicy curries, and pounded yams were all I could think of as I raced across the parking lot toward my car, with the temperature dropping to -13°C.
 

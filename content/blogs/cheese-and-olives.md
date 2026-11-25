@@ -13,6 +13,8 @@ positives: 45.35289424121975
 negatives: -75.65099849470742
 image: /uploads/img_7927.jpeg
 youtube: https://www.youtube.com/shorts/1ChwxKNz01Q
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16136225-eat-strip-cheese-olives
+cbcAudio: https://mp3.cbc.ca/radio/2025/03/26/dave-FTES9ch7-20250326.mp3
 ---
 Tucked away in the corner unit of a strip mall near South Keys train station, and next to Sona the Indian Kitchen, Cheese and Olives offers a warm, authentic taste of Palestine, with dishes that reflect the passion and dedication of owner Raed Alqedra.
 

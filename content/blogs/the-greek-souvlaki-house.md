@@ -12,6 +12,8 @@ closed: false
 positives: 45.34568020142882
 negatives: -75.69238826774793
 image: /uploads/img_7446.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16123399-eat-strip-the-greek-souvlaki-house
+cbcAudio: https://mp3.cbc.ca/radio/2025/01/24/dave-Dk1r5laL-20250124.mp3
 ---
 If you're craving authentic Greek flavours in a cozy, welcoming setting, look no further than The Greek Souvlaki House. This family-owned gem has been serving up delicious, home-cooked Greek classics since 2013. With its blue and white décor, reminiscent of the beautiful Greek islands, stepping inside feels like entering a warm, inviting home. It's the kind of place where regulars are greeted by name, and the smell of charbroiled meats fills the air.
 

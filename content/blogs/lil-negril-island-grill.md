@@ -16,6 +16,8 @@ positives: 45.33884965690112
 negatives: -75.77152947702194
 image: /uploads/img_9294.jpeg
 youtube: https://www.youtube.com/shorts/JfV9y4Exwq8
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16162449-eat-strip-lil-negril-island-grill
+cbcAudio: https://mp3.cbc.ca/radio/2025/08/08/dave-OKW0XcAn-20250808.mp3
 ---
 Tucked beside a physiotherapy centre in a Centrepointe strip mall, Lil' Negril Island Grill isn’t the kind of place you stumble upon. You come here because someone told you to, because you read about it, or because you’ve been before and you’re coming back. That last group? It’s big. When we visited recently, a table of seven regulars were finishing a birthday meal—someone had just turned 96—and the vibe was unmistakably celebratory.
 

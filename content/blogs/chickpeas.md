@@ -14,6 +14,8 @@ closed: false
 positives: 45.41450180179047
 negatives: -75.64838569612094
 image: /uploads/img_7267.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16118490-eat-strip-chickpeas
+cbcAudio: https://mp3.cbc.ca/radio/2025/01/02/dave-WCZdoo55-20250102.mp3
 ---
 For our last Eat the Strip outing of 2024, we headed east toward the Ottawa Train Yards.
 

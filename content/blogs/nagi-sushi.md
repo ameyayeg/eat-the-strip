@@ -17,6 +17,8 @@ positives: 45.467137853475414
 negatives: -75.53262212239974
 image: /uploads/img_7764.jpeg
 youtube: https://www.youtube.com/shorts/dEbqvuSpx-M
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16131887-eat-strip-nagi-sushi
+cbcAudio: https://mp3.cbc.ca/radio/2025/03/05/dave-gqaRom77-20250305.mp3
 ---
 In the strip malls and industrial parks of Ottawa’s suburbs, some of the best dining experiences hide in plain sight. And if you’re a sushi lover with a penchant for the sublime, Nagi Sushi is one of those hidden gems, nestled quietly in Orléans. It’s a spot that, if you haven’t heard of it yet, you’re doing yourself a disservice by not seeking it out.
 
