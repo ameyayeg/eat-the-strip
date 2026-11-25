@@ -13,6 +13,8 @@ positives: 45.38544938046622
 negatives: -75.73261577055602
 image: /uploads/img_8749.jpeg
 youtube: https://www.youtube.com/shorts/KorZOPzw8tw
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16149383-eat-strip-ic-22-hakka
+cbcAudio: https://mp3.cbc.ca/radio/2025/05/30/dave-mR6RwF8k-20250530.mp3
 ---
 NOTE: In this piece, “Hakka food” refers to the Indo-Chinese cuisine that originated in India through Chinese immigrant communities—some of whom were Hakka. It’s a fusion cuisine, distinct from traditional Hakka dishes found in China, Taiwan, and Southeast Asia.\
 \*﻿\**

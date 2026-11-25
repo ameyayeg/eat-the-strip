@@ -12,6 +12,8 @@ closed: true
 positives: 45.38677884612121
 negatives: -75.73552259603272
 image: /uploads/img_8044.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16147441-eat-strip-shawarma-glory
+cbcAudio: https://mp3.cbc.ca/radio/2025/05/21/dave-dLHpahrH-20250521.mp3
 ---
 Tucked away in the food court of Westgate Shopping Centre on Carling Avenue, Glory Shawarma offers a simple yet satisfying taste of the Middle East, with a personal touch that will make you rethink your go-to shawarma spot.
 

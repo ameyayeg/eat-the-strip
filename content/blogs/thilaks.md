@@ -12,6 +12,8 @@ closed: true
 positives: 45.356508016378214
 negatives: -75.80124308030582
 image: /uploads/img_8788.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16151260-eat-strip-thilaks
+cbcAudio: https://mp3.cbc.ca/radio/2025/06/09/dave-2Ftbz6jI-20250609.mp3
 ---
 You know it’ll be good when the food is brought out on a banana leaf.
 

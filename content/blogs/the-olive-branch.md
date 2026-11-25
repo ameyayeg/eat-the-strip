@@ -14,6 +14,8 @@ positives: 45.22416731210643
 negatives: -75.68359109386164
 image: /uploads/img_7704.jpeg
 youtube: https://www.youtube.com/shorts/BA-Md90vXPs
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16130764-eat-strip-the-olive-branch
+cbcAudio: https://mp3.cbc.ca/radio/2025/02/27/dave-3z4MqZvJ-20250227.mp3
 ---
 Manotick may feel like the boonies to some, but it’s home to a few hidden gems that are well worth the drive. Tucked in a humble strip mall between a weed shop and an indie grocery store is The Olive Branch, a cozy spot that proves you don’t need to be in the city centre to serve up fantastic food.
 

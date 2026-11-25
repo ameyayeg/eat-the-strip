@@ -12,6 +12,8 @@ closed: true
 positives: 45.25802475482014
 negatives: -75.92024280601392
 image: /uploads/img_8822.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16152252-eat-strip-brews-blues
+cbcAudio: https://mp3.cbc.ca/radio/2025/06/13/dave-gEpjyUuf-20250613.mp3
 ---
 Sometimes you follow the flavour, even if it leads you off your usual path.
 

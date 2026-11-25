@@ -13,6 +13,8 @@ positives: 45.326035303411004
 negatives: -75.71985668128269
 image: /uploads/img_7862.jpeg
 youtube: https://www.youtube.com/shorts/FLLbY6pu_6c
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16134839-eat-strip-desi-takeout
+cbcAudio: https://mp3.cbc.ca/radio/2025/03/19/dave-3sLrVaUM-20250319.mp3
 ---
 Hidden within the walls of Desi Price Club, a South Asian grocery store in Ottawa's industrial landscape, Minhazuddin Ahmed has brought forth a culinary gem that embodies the authentic spirit of Bengali cuisine.
 

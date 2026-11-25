@@ -13,6 +13,8 @@ positives: 45.48388360738812
 negatives: -75.7184325113917
 image: /uploads/img_8896.jpeg
 youtube: https://www.youtube.com/shorts/qCmpKLp7rcA
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16153170-eat-strip-la-balade-des-douceurs
+cbcAudio: https://mp3.cbc.ca/radio/2025/06/18/dave-SGRZ8zqz-20250618.mp3
 ---
 On a quiet Sunday afternoon in northern Gatineau, tucked inside a humble strip mall off Highway 50, La Balade des Douceurs hums with quiet purpose. The door swings open, and in comes the smell of fresh bread. It’s the kind of place you could easily drive past—until you know better.
 

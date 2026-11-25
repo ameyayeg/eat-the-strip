@@ -13,6 +13,8 @@ closed: false
 positives: 45.384916729154504
 negatives: -75.67124259243604
 image: /uploads/img_7388.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16122195-eat-strip-mr.-samoona-grill-and
+cbcAudio: https://mp3.cbc.ca/radio/2025/01/20/dave-vNdZjI5L-20250120.mp3
 ---
 If you're ever driving down Bank Street and find yourself drawn to the tantalizing smell of sizzling meat and spices, follow your nose to Samoona. Nestled in a strip mall near Billings Bridge, this small but cozy Iraqi eatery has been quietly winning over food lovers since opening two years ago. Though it’s easy to miss at first, a stop here is more than worth it—especially if you're craving fresh, flavourful kebabs, creamy hummus, and homemade flatbreads.
 

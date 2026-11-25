@@ -13,6 +13,8 @@ closed: false
 positives: 45.458168825050414
 negatives: -75.4935186795191
 image: /uploads/img_7637.jpeg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16129553-eat-strip-rayan-poissonnerie-restaurant
+cbcAudio: https://mp3.cbc.ca/radio/2025/02/21/dave-VNLUAcgv-20250221.mp3
 ---
 UPDATE: As of June 2025, this restaurant has rebranded as Khalil Seafood, though it remains under the same ownership. While the title has been updated to reflect this change, the original article still refers to the restaurant by its previous name.
 
