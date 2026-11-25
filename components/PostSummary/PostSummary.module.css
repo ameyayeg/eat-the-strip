@@ -178,6 +178,13 @@
   border-radius: 10px;
 }
 
+/* Shorts: portrait 9:16, up to 360px wide, on the left like the rest of the
+   card. The post's photo is cropped to fill it. */
+.video.portrait {
+  max-width: 360px;
+  aspect-ratio: 9 / 16;
+}
+
 .videoButton,
 .video iframe {
   position: absolute;

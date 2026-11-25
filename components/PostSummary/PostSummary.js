@@ -31,6 +31,15 @@ function youtubeId(url) {
   return /^[A-Za-z0-9_-]{11}$/.test(id || '') ? id : null
 }
 
+// A YouTube Shorts link (youtube.com/shorts/<id>), shown in a portrait box.
+function isShort(url) {
+  try {
+    return /^\/shorts\//.test(new URL(url).pathname)
+  } catch (e) {
+    return false
+  }
+}
+
 // "Open in Google Maps", searching the restaurant's name and address. Shown
 // under the address on every post that isn't closed.
 export function MapLinks({ frontmatter }) {
@@ -97,6 +106,7 @@ function WritersPick() {
 
 // Click to play: nothing loads from YouTube until the reader asks for it.
 // The preview uses the post's own photo, already loaded at the top of the post.
+// Shorts get a portrait 9:16 box; other videos 16:9.
 function YouTubeCard({ url, title, poster }) {
   const id = youtubeId(url)
   const [playing, setPlaying] = useState(false)
@@ -112,7 +122,11 @@ function YouTubeCard({ url, title, poster }) {
   }
 
   return (
-    <div className={styles.video}>
+    <div
+      className={
+        isShort(url) ? `${styles.video} ${styles.portrait}` : styles.video
+      }
+    >
       {playing ? (
         <iframe
           src={`https://www.youtube-nocookie.com/embed/${id}?autoplay=1`}
