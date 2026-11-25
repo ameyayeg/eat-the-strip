@@ -11,6 +11,7 @@ closed: false
 positives: 45.45971812971373
 negatives: -75.48765077041287
 image: /uploads/img_8933.jpeg
+youtube: https://www.youtube.com/shorts/LYblyvMOjl8
 ---
 There’s something satisfying about walking into a strip mall and being greeted like a regular—even if it’s your first visit. At Shawarma Chef in Orléans, you don’t just get lunch. You get a welcome.
 

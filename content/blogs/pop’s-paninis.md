@@ -11,6 +11,7 @@ closed: false
 positives: 45.368712483148876
 negatives: -75.77448409760026
 image: /uploads/img_8279.jpeg
+youtube: https://www.youtube.com/shorts/w5V9o3fHE3A
 ---
 Tucked into a quiet Carling strip mall, Pop’s Paninis brings serious sandwich craft to an otherwise unassuming corner of Ottawa’s west end.
 

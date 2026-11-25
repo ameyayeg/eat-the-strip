@@ -11,6 +11,7 @@ closed: false
 positives: 45.48388360738812
 negatives: -75.7184325113917
 image: /uploads/img_8896.jpeg
+youtube: https://www.youtube.com/shorts/qCmpKLp7rcA
 ---
 On a quiet Sunday afternoon in northern Gatineau, tucked inside a humble strip mall off Highway 50, La Balade des Douceurs hums with quiet purpose. The door swings open, and in comes the smell of fresh bread. It’s the kind of place you could easily drive past—until you know better.
 

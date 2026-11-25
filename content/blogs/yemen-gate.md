@@ -11,6 +11,7 @@ closed: false
 positives: 45.379891664967225
 negatives: -75.66751409447912
 image: /uploads/img_9284.jpeg
+youtube: https://www.youtube.com/shorts/H0kQecNMSPI
 ---
 Tucked into a quiet stretch of a south-end strip mall that’s already gifted us Mr.Kabab and Egyptian Corner, Yemen Gate makes its presence known before we even cross the threshold. The scent of cinnamon hangs in the air outside—earthy, sweet, and unmistakable. Inside, the space is clean and bright. Light from the long summer evening spills through wide windows, catching on black marble trim and bouncing softly across five or six neatly spaced tables. A bar-style counter runs the length of the front window, dotted with high chairs and diners quietly pulling tender meat from bone with their hands.
 

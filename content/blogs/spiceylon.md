@@ -14,6 +14,9 @@ closed: false
 positives: 45.28496019933394
 negatives: -75.74534055402862
 image: /uploads/img_3877.jpeg
+youtube: https://www.youtube.com/shorts/otcAfwuEiOc
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16248962-eat-strip-spiceylon
+cbcAudio: https://mp3.cbc.ca/radio/2026/11/13/dave-2OP1nHhX-20261113.mp3
 ---
 Near Longfields station in Barrhaven, in a modern strip that looks like a transit-oriented development, a new Sri Lankan restaurant called Spiceylon has opened at 605 Longfields Drive, Unit 5. It’s about two and a half months old, and it’s a family story.
 

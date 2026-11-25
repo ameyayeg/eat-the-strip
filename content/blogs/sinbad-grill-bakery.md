@@ -11,6 +11,9 @@ closed: false
 positives: 45.38583456319106
 negatives: -75.6135190406005
 image: /uploads/img_3016.jpeg
+youtube: https://www.youtube.com/shorts/fIXqfYzc5kE
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16237623-eat-strip-sinbad-grill-and-bakery
+cbcAudio: https://mp3.cbc.ca/radio/2026/09/16/dave-u4Ag7IHY-20260916.mp3
 ---
 There’s a particular kind of excitement that comes from turning into a commercial complex and realizing there are probably a dozen stories hiding behind the business signs.
 

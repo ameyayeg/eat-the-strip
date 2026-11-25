@@ -11,6 +11,7 @@ closed: false
 positives: 45.36878673811034
 negatives: -75.70312535478645
 image: /uploads/img_8941.jpeg
+youtube: https://www.youtube.com/shorts/lP3JzcUN6YY
 ---
 Tucked inside an unassuming strip mall off Prince of Wales Drive, just down the road from residential streets and a Passport Canada office, Farmers Pick Italian Foods doesn’t exactly scream “destination sandwich spot”—but it should.
 

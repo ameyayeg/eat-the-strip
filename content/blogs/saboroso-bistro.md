@@ -11,6 +11,9 @@ closed: false
 positives: 45.280575112490894
 negatives: -75.86504579058625
 image: /uploads/img_3411.jpeg
+youtube: https://www.youtube.com/shorts/dZpbPrr02Gg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16242885-eat-strip-saboroso-bistro
+cbcAudio: https://mp3.cbc.ca/radio/2026/10/14/dave-qAVk5rG8-20261014.mp3
 ---
 Saboroso Bistro feels homey and tranquil from the moment you walk through the door.
 

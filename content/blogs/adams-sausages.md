@@ -11,6 +11,7 @@ closed: false
 positives: 45.41599251477779
 negatives: -75.62843684234059
 image: /uploads/img_7941.jpeg
+youtube: https://www.youtube.com/shorts/h_D0FoOGfL8
 ---
 In an unassuming corner of southeast Ottawa's industrial landscape, Adams Sausages stands as a testament to tradition and community, where the unmistakable aroma of European delicacies wafts through the air and draws in generations of faithful customers seeking authentic Central and Eastern European cuisine.
 

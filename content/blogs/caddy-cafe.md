@@ -11,6 +11,9 @@ closed: false
 positives: 45.364427005866546
 negatives: -75.7302687692877
 image: /uploads/screenshot-2026-08-31-at-14.28.05.png
+youtube: https://www.youtube.com/shorts/CJNXEjsOFEc
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16236231-eat-strip-caddy-cafe
+cbcAudio: https://mp3.cbc.ca/radio/2026/09/09/dave-BZ3coasn-20260909.mp3
 ---
 Recently, I’ve been wanting to take Eat the Strip back to its roots: the hidden-away gems tucked into strip malls, industrial parks and downtown basements. But something I never had on my bingo card was finding one inside a Cadillac dealership.
 

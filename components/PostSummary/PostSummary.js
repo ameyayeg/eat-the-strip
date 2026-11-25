@@ -31,6 +31,15 @@ function youtubeId(url) {
   return /^[A-Za-z0-9_-]{11}$/.test(id || '') ? id : null
 }
 
+// A YouTube Shorts link (youtube.com/shorts/<id>), shown in a portrait box.
+function isShort(url) {
+  try {
+    return /^\/shorts\//.test(new URL(url).pathname)
+  } catch (e) {
+    return false
+  }
+}
+
 // "Open in Google Maps", searching the restaurant's name and address. Shown
 // under the address on every post that isn't closed.
 export function MapLinks({ frontmatter }) {
@@ -97,6 +106,7 @@ function WritersPick() {
 
 // Click to play: nothing loads from YouTube until the reader asks for it.
 // The preview uses the post's own photo, already loaded at the top of the post.
+// Shorts get a portrait 9:16 box; other videos 16:9.
 function YouTubeCard({ url, title, poster }) {
   const id = youtubeId(url)
   const [playing, setPlaying] = useState(false)
@@ -112,7 +122,11 @@ function YouTubeCard({ url, title, poster }) {
   }
 
   return (
-    <div className={styles.video}>
+    <div
+      className={
+        isShort(url) ? `${styles.video} ${styles.portrait}` : styles.video
+      }
+    >
       {playing ? (
         <iframe
           src={`https://www.youtube-nocookie.com/embed/${id}?autoplay=1`}
@@ -208,13 +222,10 @@ export function PostSummaryCard({ frontmatter }) {
   const dishes = list(fm.mustOrder)
   const price = text(fm.price)
   const area = text(fm.area)
-  const youtube = text(fm.youtube)
-  const cbc = text(fm.cbc)
-  const cbcAudio = text(fm.cbcAudio)
   const headingId = useId()
 
   const hasTags = Boolean(dietary.length || price || area)
-  if (!hasTags && !dishes.length && !youtube && !cbc && !cbcAudio) {
+  if (!hasTags && !dishes.length) {
     return null
   }
 
@@ -260,6 +271,54 @@ export function PostSummaryCard({ frontmatter }) {
           </ul>
         </div>
       )}
+    </section>
+  )
+}
+
+// Where the "Watch and listen" block goes in the article: after about half of
+// the text paragraphs, never before the 3rd, or at the end when there are
+// fewer than 3. Returns [before, after] (the Markdown cut at the blank line
+// after that paragraph, so both halves keep their original text), or null when
+// the post has no YouTube or CBC link.
+export function splitForMedia(markdown, frontmatter) {
+  const fm = frontmatter || {}
+  if (!text(fm.youtube) && !text(fm.cbc) && !text(fm.cbcAudio)) return null
+  const md = String(markdown || '')
+  const separator = /\r?\n[ \t]*\r?\n/g
+  const blocks = []
+  let start = 0
+  let match
+  while ((match = separator.exec(md))) {
+    blocks.push({ body: md.slice(start, match.index), end: match.index, next: separator.lastIndex })
+    start = separator.lastIndex
+  }
+  blocks.push({ body: md.slice(start), end: md.length, next: md.length })
+  const isText = (body) => {
+    const t = body.trim()
+    return t && !/^!\[[^\]]*\]\([^)]*\)$/.test(t) && !/^#/.test(t) && !/^[-*_ ]{3,}$/.test(t)
+  }
+  const paragraphs = blocks.filter((block) => isText(block.body))
+  const after = Math.max(3, Math.ceil(paragraphs.length / 2))
+  if (paragraphs.length < 3 || after >= paragraphs.length) return [md, '']
+  const cut = paragraphs[after - 1]
+  return [md.slice(0, cut.end), md.slice(cut.next)]
+}
+
+// "Watch and listen", inside the article: the Short or video, then the CBC
+// clip. Nothing at all when the post has neither.
+export function MediaBlock({ frontmatter }) {
+  const fm = frontmatter || {}
+  const youtube = text(fm.youtube)
+  const cbc = text(fm.cbc)
+  const cbcAudio = text(fm.cbcAudio)
+  const headingId = useId()
+  if (!youtube && !cbc && !cbcAudio) return null
+
+  return (
+    <section className={styles.media} aria-labelledby={headingId}>
+      <h2 id={headingId} className={styles.heading}>
+        Watch and listen
+      </h2>
       {youtube && (
         <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
       )}

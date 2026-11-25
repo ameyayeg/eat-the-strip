@@ -11,6 +11,9 @@ closed: false
 positives: 45.41743122410865
 negatives: -75.70276844110641
 image: /uploads/img_3639.jpeg
+youtube: https://www.youtube.com/shorts/om7wHu6W8Ek
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16245751-eat-strip-elite-kitchen
+cbcAudio: https://mp3.cbc.ca/radio/2026/10/28/dave-ebBtYi53-20261028.mp3
 ---
 This is one of the rare times we’ve ventured downtown for Eat the Strip. We’re more accustomed to industrial parks and suburban strip malls, where restaurants hide in plain sight between auto shops, warehouses and parking lots. Downtown Ottawa is a different beast. Instead of pulling into a plaza, Sergio, my frequent collaborator on the blog, and I find ourselves navigating the labyrinthine corridors of a government office tower, following the flow of employees through the building in search of lunch.
 

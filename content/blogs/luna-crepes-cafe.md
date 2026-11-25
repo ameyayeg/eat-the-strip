@@ -11,6 +11,7 @@ closed: false
 positives: 45.33547477094133
 negatives: -75.90855467055428
 image: /uploads/img_7892.jpeg
+youtube: https://www.youtube.com/shorts/VYaFH2qcql0
 ---
 In the quiet corner of a Kanata North strip mall, a small café named Luna Crepes & Café has been quietly building a devoted following among locals for 11 years, its warm presence marked by a playful vestibule sign that declares, "Dinosaurs didn't drink coffee and look how that turned out."
 

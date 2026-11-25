@@ -11,6 +11,9 @@ closed: false
 positives: 45.379883071764965
 negatives: -75.60894179909275
 image: /uploads/img_2871.jpeg
+youtube: https://www.youtube.com/shorts/brWDQsftQBU
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16234288-eat-strip-gorditas-la-mexican
+cbcAudio: https://mp3.cbc.ca/radio/2026/08/28/dave-i1JxMMCO-20260828.mp3
 ---
 There are few better signs that you’ve found the real deal than walking into a restaurant and immediately realizing you are probably the only person in the room who doesn’t speak Spanish.
 

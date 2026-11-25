@@ -11,6 +11,7 @@ closed: false
 positives: 45.43385228711342
 negatives: -75.66766082609887
 image: /uploads/img_9328.jpeg
+youtube: https://www.youtube.com/shorts/j0yARydBSK4
 ---
 Right across from Friends’ Bingo on Montreal Road—because of course that’s where you’d find it—Aztec Tacos sits nestled among a clutch of Latin American grocery stores and eateries. If you’ve lived in Ottawa long enough, you’ve probably driven past it a dozen times without clocking it. But walk inside, and the place doesn’t let you forget where you are. Yellow, pink, and turquoise walls explode with colour, Frida Kahlo stares you down from a dozen angles, and the sound of mariachi (or maybe heart-wrenching Mexican ballads?) pours out from two TVs hanging in opposite corners. It’s loud. It’s bright. It’s glorious.
 

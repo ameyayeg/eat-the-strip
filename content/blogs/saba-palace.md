@@ -11,6 +11,9 @@ closed: false
 positives: 45.29745813694996
 negatives: -75.57965028614917
 image: /uploads/img_3800.jpeg
+youtube: https://www.youtube.com/shorts/eSPCM0TA3Gg
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16247191-eat-strip-saba-palace
+cbcAudio: https://mp3.cbc.ca/radio/2026/11/04/dave-FBlpAQfK-20261104.mp3
 ---
 Past the new subdivisions of Findlay Creek, where Bank Street thins into a commercial strip on the city's southern edge, there's a little house-shaped building with a restaurant inside. It sits between a seemingly shuttered nightspot and a weary-looking motel, which is exactly the kind of setting this blog keeps sending me to. We almost drove past it. Inside, there's plenty of seating, the room is well lit and spotless, and photos of Yemen hang on the walls. Several families from the Middle East were already eating, which is always the best sign you can get at the door.
 

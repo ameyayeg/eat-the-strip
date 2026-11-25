@@ -11,6 +11,9 @@ closed: false
 positives: 45.32347613906119
 negatives: -75.92611706135449
 image: /uploads/jadeyiscover.png
+youtube: https://www.youtube.com/shorts/TkOuYUnP_Lk
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16244324-eat-strip-jade-yis-kitchen
+cbcAudio: https://mp3.cbc.ca/radio/2026/10/21/dave-12TSW4h9-20261021.mp3
 ---
 Jade Yi’s Kitchen is tucked into a Kanata shopping plaza, surrounded by the sort of big-name franchises and box stores. We’re deep inside a subdivision, the sort of place where errands tend to involve a car and a parking lot, rather than a leisurely stroll down a main street. Across the way, a gaggle of schoolchildren are enjoying the October sunshine, and it’s a little after 2 p.m. when I arrive to meet my friends Adele and Taylor.
 

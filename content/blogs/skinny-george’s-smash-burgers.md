@@ -11,6 +11,9 @@ closed: false
 positives: 45.38937572194538
 negatives: -75.61723209263663
 image: /uploads/img_3305.jpeg
+youtube: https://www.youtube.com/shorts/-qAY5UmRWEI
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16240116-eat-strip-skinny-georges-smash-burgers
+cbcAudio: https://mp3.cbc.ca/radio/2026/09/29/dave-mcuCHCsp-20260929.mp3
 ---
 We were very confused on a Monday afternoon as we stood outside the Milanos at 2241 St. Laurent Blvd.. We had come looking for Skinny George’s Smash Burgers, but all we could see was the familiar red and green of a Milanos.
 

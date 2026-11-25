@@ -11,6 +11,9 @@ closed: false
 positives: 45.33139751005434
 negatives: -75.71466823119073
 image: /uploads/img_2916.jpeg
+youtube: https://www.youtube.com/shorts/j4MMyGv-5wk
+cbc: https://www.cbc.ca/listen/live-radio/1-100-ottawa-morning/clip/16235070-eat-strip-areebas-kitchen
+cbcAudio: https://mp3.cbc.ca/radio/2026/09/02/dave-cEXUVhss-20260902.mp3
 ---
 There are some restaurants you find because they sit on a busy road, with a giant sign and a parking lot full of cars. Others take a little more work.
 
