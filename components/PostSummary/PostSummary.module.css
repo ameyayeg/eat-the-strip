@@ -1,0 +1,284 @@
+/* The map link under the address: quieter than the bold header around it. */
+.mapLinks {
+  margin: 0.15rem 0 0.4rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  white-space: normal;
+  line-height: 1.6;
+  color: #4b4b4b;
+}
+
+.mapLinks a,
+.plain a,
+.credit a {
+  color: #111;
+  border-bottom: 2px solid #78c0a8;
+}
+
+/* The card: the same peach colours as the support box and archive note. */
+.card {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0.75rem 0 0.5rem;
+  padding: 0.75rem 1rem;
+  background: #fdf1e7;
+  border: 1px solid #f3cfae;
+  border-radius: 12px;
+  color: #111;
+  font-family: var(--font-family-roboto);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.badge,
+.label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.2rem 0.65rem;
+  background: #fff;
+  border: 1px solid #f3cfae;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.labelNote {
+  color: #545454;
+}
+
+.note,
+.credit {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #545454;
+}
+
+.heading {
+  margin: 0 0 0.2rem;
+  font-family: var(--font-family-roboto);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #111;
+}
+
+.dishes {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.plain {
+  margin: 0;
+  color: #111;
+}
+
+/* The title row on a writer's pick: the <h1> stays a normal block (it can
+   wrap), with the star to its right. */
+.titleRow {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.titleRow h1 {
+  flex: 0 1 auto;
+  min-width: 0;
+}
+
+/* Writer's pick star and its tooltip. Level with the title's first line:
+   the <h1> is 2em tall per line (browser default) at line-height 1.05
+   (globals.css), so the 32px star is moved down by half the difference. The
+   first line never moves when the title font loads, so neither does the star. */
+.pick {
+  position: relative;
+  display: inline-flex;
+  flex: none;
+  margin-top: calc((2.1em - 32px) / 2);
+}
+
+.star {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  background: #fff;
+  border: 1px solid #f3cfae;
+  border-radius: 999px;
+  color: #ee802f;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+/* Anchored at its right edge, so it opens over the title and never past the
+   right of the screen. */
+.tooltip {
+  position: absolute;
+  right: 0;
+  bottom: calc(100% + 6px);
+  z-index: 1;
+  padding: 0.3rem 0.55rem;
+  background: #111;
+  border-radius: 6px;
+  color: #fff;
+  font-family: var(--font-family-roboto);
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.3;
+  white-space: nowrap;
+  pointer-events: none;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+@media (hover: hover) {
+  .pick:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+.star:focus-visible + .tooltip,
+.open .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* After Escape, stay hidden until focus moves away (keep this rule last). */
+.pick.dismissed .tooltip {
+  visibility: hidden;
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tooltip {
+    transition: none;
+  }
+}
+
+/* YouTube: a 16:9 box reserved up front, so nothing moves when it plays. */
+.video {
+  position: relative;
+  width: 100%;
+  max-width: 40rem;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #111;
+  border-radius: 10px;
+}
+
+.videoButton,
+.video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.videoButton {
+  display: block;
+  padding: 0;
+  background: #111;
+  cursor: pointer;
+}
+
+.videoButton img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.75;
+}
+
+.play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 44px;
+  background: #ee802f;
+  border-radius: 12px;
+  color: #111;
+  font-size: 1.2rem;
+  transform: translate(-50%, -50%);
+}
+
+.videoLabel {
+  position: absolute;
+  left: 0.75rem;
+  bottom: 0.6rem;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+/* CBC clip */
+.audio {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.audioTitle {
+  margin: 0;
+  color: #111;
+  font-weight: 700;
+}
+
+.audio audio {
+  display: block;
+  width: 100%;
+  max-width: 40rem;
+}
+
+.cbcLink {
+  display: inline-block;
+  align-self: start;
+  justify-self: start;
+  padding: 0.55rem 0.85rem;
+  background: #fff;
+  border: 1px solid #f3cfae;
+  border-radius: 10px;
+  color: #111;
+  font-weight: 700;
+}
+
+.listen {
+  border-bottom: 2px solid #78c0a8;
+}
+
+.mapLinks a:focus-visible,
+.plain a:focus-visible,
+.credit a:focus-visible,
+.cbcLink:focus-visible,
+.star:focus-visible,
+.videoButton:focus-visible {
+  outline: 3px solid #ee802f;
+  outline-offset: 2px;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
