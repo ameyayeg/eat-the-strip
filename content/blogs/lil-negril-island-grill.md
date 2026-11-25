@@ -11,6 +11,7 @@ closed: false
 positives: 45.33884965690112
 negatives: -75.77152947702194
 image: /uploads/img_9294.jpeg
+youtube: https://www.youtube.com/shorts/JfV9y4Exwq8
 ---
 Tucked beside a physiotherapy centre in a Centrepointe strip mall, Lil' Negril Island Grill isn’t the kind of place you stumble upon. You come here because someone told you to, because you read about it, or because you’ve been before and you’re coming back. That last group? It’s big. When we visited recently, a table of seven regulars were finishing a birthday meal—someone had just turned 96—and the vibe was unmistakably celebratory.
 

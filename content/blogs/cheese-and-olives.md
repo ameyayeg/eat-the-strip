@@ -11,6 +11,7 @@ closed: false
 positives: 45.35289424121975
 negatives: -75.65099849470742
 image: /uploads/img_7927.jpeg
+youtube: https://www.youtube.com/shorts/1ChwxKNz01Q
 ---
 Tucked away in the corner unit of a strip mall near South Keys train station, and next to Sona the Indian Kitchen, Cheese and Olives offers a warm, authentic taste of Palestine, with dishes that reflect the passion and dedication of owner Raed Alqedra.
 

@@ -11,6 +11,7 @@ closed: false
 positives: 45.35199978492008
 negatives: -75.84075264721702
 image: /uploads/img_3172.jpeg
+youtube: https://www.youtube.com/shorts/qG_MlArIUxY
 ---
 There are restaurants that make you feel like you’ve travelled somewhere, and then there are restaurants that seem to have simply picked up and moved that somewhere with them.
 

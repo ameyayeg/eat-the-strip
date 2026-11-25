@@ -11,6 +11,7 @@ closed: false
 positives: 45.33139751005434
 negatives: -75.71466823119073
 image: /uploads/img_2916.jpeg
+youtube: https://www.youtube.com/shorts/j4MMyGv-5wk
 ---
 There are some restaurants you find because they sit on a busy road, with a giant sign and a parking lot full of cars. Others take a little more work.
 

@@ -11,6 +11,7 @@ closed: false
 positives: 45.35656648311456
 negatives: -75.8008827533784
 image: /uploads/img_3378.jpeg
+youtube: https://www.youtube.com/shorts/bVqw1gE_3-s
 ---
 Wednesday evening found me heading west on the 85 along Carling Avenue, the October grey giving way to a surprisingly warm evening sun. My destination was a Filipino restaurant tucked into a strip mall at 2916 Carling Ave., the kind of place you could easily drive past without giving it a second thought.
 

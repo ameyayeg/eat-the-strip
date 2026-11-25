@@ -11,6 +11,7 @@ closed: false
 positives: 45.379753780666505
 negatives: -75.66783704753352
 image: /uploads/img_9219.jpeg
+youtube: https://www.youtube.com/shorts/X69FxGO3k8s
 ---
 Just a few doors down from last week’s stop at Mr. Kabab, another culinary secret is quietly making its mark in this south-end strip mall. Egyptian Corner is exactly the kind of place we love to feature: modest, family-run, and serving food that doesn’t need a PR campaign to prove its worth. The smell alone is all the marketing it needs.
 

@@ -11,6 +11,7 @@ closed: false
 positives: 45.38544938046622
 negatives: -75.73261577055602
 image: /uploads/img_8749.jpeg
+youtube: https://www.youtube.com/shorts/KorZOPzw8tw
 ---
 NOTE: In this piece, “Hakka food” refers to the Indo-Chinese cuisine that originated in India through Chinese immigrant communities—some of whom were Hakka. It’s a fusion cuisine, distinct from traditional Hakka dishes found in China, Taiwan, and Southeast Asia.\
 \*﻿\**

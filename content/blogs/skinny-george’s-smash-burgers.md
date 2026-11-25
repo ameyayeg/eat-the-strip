@@ -11,6 +11,7 @@ closed: false
 positives: 45.38937572194538
 negatives: -75.61723209263663
 image: /uploads/img_3305.jpeg
+youtube: https://www.youtube.com/shorts/-qAY5UmRWEI
 ---
 We were very confused on a Monday afternoon as we stood outside the Milanos at 2241 St. Laurent Blvd.. We had come looking for Skinny George’s Smash Burgers, but all we could see was the familiar red and green of a Milanos.
 

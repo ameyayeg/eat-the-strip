@@ -11,6 +11,7 @@ closed: false
 positives: 45.40938086601598
 negatives: -75.73333403311952
 image: /uploads/greenmaplemart-kitchenexterior.jpeg
+youtube: https://www.youtube.com/shorts/TX1Ptu7jpaY
 ---
 I don't often find myself driving into one of Ottawa's older neighbourhoods expecting to eat inside a convenience store. Usually Eat the Strip has us chasing hidden gems in far-flung suburban plazas, so it was a nice change of pace to discover one tucked into a residential pocket where people walk over for a loaf of bread, stop in after work and catch up with their neighbours. Those little everyday interactions are part of what makes a community feel like home, and Green Maple Mart & Kitchen has quickly become one of those places.
 

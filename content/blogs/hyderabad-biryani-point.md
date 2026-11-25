@@ -11,6 +11,7 @@ closed: false
 positives: 45.35417826840961
 negatives: -75.9332134575913
 image: /uploads/img_9025.jpeg
+youtube: https://www.youtube.com/shorts/50ucNk_Do7s
 ---
 Between a dentist’s office and a pizza joint in a sleepy Kanata strip mall, Hyderabad Biryani Point is quietly turning out some of the best biryani in the city.
 

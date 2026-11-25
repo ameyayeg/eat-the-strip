@@ -11,6 +11,7 @@ closed: false
 positives: 45.38608714903148
 negatives: -75.6135722824768
 image: /uploads/img_7826.jpeg
+youtube: https://www.youtube.com/shorts/WpVIqU72BkI
 ---
 Hidden in an industrial park, across from a winter snow dump, lies The Sandwich Stop—a culinary treasure that proves sometimes the best food comes from unexpected places.
 

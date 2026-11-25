@@ -11,6 +11,7 @@ closed: false
 positives: 45.379883071764965
 negatives: -75.60894179909275
 image: /uploads/img_2871.jpeg
+youtube: https://www.youtube.com/shorts/brWDQsftQBU
 ---
 There are few better signs that you’ve found the real deal than walking into a restaurant and immediately realizing you are probably the only person in the room who doesn’t speak Spanish.
 

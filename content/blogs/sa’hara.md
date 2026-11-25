@@ -13,6 +13,7 @@ closed: false
 positives: 45.35311677907988
 negatives: -75.64701275482031
 image: /uploads/img_3911.jpeg
+youtube: https://www.youtube.com/shorts/C9WFXBcxMng
 ---
 There’s something particularly satisfying about finding a good Somali restaurant, especially when you’ve been craving suqaar for the better part of a year. On this sunny November afternoon, Sergio and I are heading south on Bronson toward Towngate Shopping Plaza, a commercial complex with its fair share of solid strip mall gems. Across from the Wendy’s, however, is our destination for the day: Sa’hara, a Somali restaurant we’ve been meaning to visit for months.
 

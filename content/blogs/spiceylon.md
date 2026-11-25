@@ -14,6 +14,7 @@ closed: false
 positives: 45.28496019933394
 negatives: -75.74534055402862
 image: /uploads/img_3877.jpeg
+youtube: https://www.youtube.com/shorts/otcAfwuEiOc
 ---
 Near Longfields station in Barrhaven, in a modern strip that looks like a transit-oriented development, a new Sri Lankan restaurant called Spiceylon has opened at 605 Longfields Drive, Unit 5. It’s about two and a half months old, and it’s a family story.
 

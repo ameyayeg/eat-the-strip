@@ -11,6 +11,7 @@ closed: false
 positives: 45.28479494862988
 negatives: -75.72246890614088
 image: /uploads/img_2225.jpeg
+youtube: https://www.youtube.com/shorts/oyJuC8ZQmxc
 ---
 On a warm July Wednesday, I pointed the car south toward Barrhaven. Aroy Thai was first recommended to us by a reader back in 2023. I'm slightly ashamed to admit it took nearly three years to finally make the trip, but better late than never.
 

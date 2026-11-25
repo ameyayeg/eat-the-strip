@@ -13,6 +13,7 @@ closed: false
 positives: 45.4212888239172
 negatives: -75.67211824723928
 image: /uploads/img_4019.jpeg
+youtube: https://www.youtube.com/shorts/u27n3Tx6dO8
 ---
 I first heard about La Zone 23 while I was in Fredericton. My friend Chris, who lives in the neighbourhood, had nothing but good things to say about it, but what caught my attention was the menu: Algerian and Mexican food under one roof. I’d heard the couple behind the restaurant wanted both of their culinary backgrounds to share a menu, and that’s the kind of story that gets me excited about a new place.
 

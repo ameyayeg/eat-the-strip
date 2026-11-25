@@ -11,6 +11,7 @@ closed: false
 positives: 45.280575112490894
 negatives: -75.86504579058625
 image: /uploads/img_3411.jpeg
+youtube: https://www.youtube.com/shorts/dZpbPrr02Gg
 ---
 Saboroso Bistro feels homey and tranquil from the moment you walk through the door.
 

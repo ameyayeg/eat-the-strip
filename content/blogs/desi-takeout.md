@@ -11,6 +11,7 @@ closed: false
 positives: 45.326035303411004
 negatives: -75.71985668128269
 image: /uploads/img_7862.jpeg
+youtube: https://www.youtube.com/shorts/FLLbY6pu_6c
 ---
 Hidden within the walls of Desi Price Club, a South Asian grocery store in Ottawa's industrial landscape, Minhazuddin Ahmed has brought forth a culinary gem that embodies the authentic spirit of Bengali cuisine.
 
