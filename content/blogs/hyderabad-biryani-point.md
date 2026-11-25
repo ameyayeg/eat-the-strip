@@ -7,6 +7,8 @@ address: 1104 Klondike Rd, Ottawa, ON K2K 0H2
 area: Kanata
 dietary:
   - Vegetarian options
+mustOrder:
+  - biryani
 author: Ameya Charnalia
 date: July 2, 2025 9:45 AM
 thumbnail: /uploads/img_9031.jpeg

@@ -5,6 +5,8 @@ layout: blog
 cuisine: Indonesian
 address: 122 Eddy St, Gatineau, Quebec J8X 3B2
 area: Gatineau
+mustOrder:
+  - rendang
 author: Danielle Jeffery
 date: May 5, 2024 9:15 PM
 thumbnail: /uploads/img_4811.jpeg

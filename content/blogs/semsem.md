@@ -10,6 +10,10 @@ dietary:
   - Vegetarian options
   - Gluten-free options
   - Halal
+mustOrder:
+  - cheese sunflower
+  - fatteh yogurt
+  - muttabal
 author: Kapil Mehra
 date: July 1, 2023 12:37 PM
 thumbnail: /uploads/img_0804.jpeg

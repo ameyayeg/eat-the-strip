@@ -5,6 +5,8 @@ layout: blog
 cuisine: North American
 address: 19 Grenfell Crescent Unit 9, Nepean, ON K2G 0G3
 area: Nepean
+mustOrder:
+  - patty sandwich
 author: Ameya Charnalia
 date: June 16, 2024 2:40 PM
 thumbnail: /uploads/img_5161.jpeg

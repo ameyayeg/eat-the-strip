@@ -5,6 +5,8 @@ layout: blog
 cuisine: North American
 address: 86 Forward Ave, Ottawa, ON K1Y 1K7
 area: Central Ottawa
+mustOrder:
+  - bandari
 author: Ameya Charnalia
 date: July 20, 2026 5:58 PM
 thumbnail: /uploads/img_2292.jpeg

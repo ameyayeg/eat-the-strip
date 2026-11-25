@@ -5,6 +5,9 @@ layout: blog
 cuisine: Yemeni
 address: 5031 Bank St, Gloucester, ON K1X 1G8
 area: Gloucester
+mustOrder:
+  - lamb haneeth
+  - fahsa
 author: Ameya Charnalia
 date: November 1, 2026 12:15 PM
 thumbnail: /uploads/img_3809.jpeg

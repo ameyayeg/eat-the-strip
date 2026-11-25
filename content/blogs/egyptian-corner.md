@@ -5,6 +5,8 @@ layout: blog
 cuisine: Egyptian
 address: 1563 Bank St, Ottawa, ON K1H 7Z3
 area: South Ottawa
+mustOrder:
+  - falafel sandwich
 author: Ameya Charnalia
 date: July 16, 2025 6:07 PM
 thumbnail: /uploads/img_9223.jpeg

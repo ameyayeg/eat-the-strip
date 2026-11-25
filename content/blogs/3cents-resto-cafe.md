@@ -5,6 +5,8 @@ layout: blog
 cuisine: Yemeni
 address: 3-1940 Bank St, Ottawa, ON K1V 7Z8
 area: South Ottawa
+mustOrder:
+  - fava beans
 author: Ameya Charnalia
 date: January 4, 2024 2:16 PM
 thumbnail: /uploads/img_3100.jpeg

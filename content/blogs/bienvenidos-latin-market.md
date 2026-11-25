@@ -5,6 +5,8 @@ layout: blog
 cuisine: Mexican
 address: 1711 St. Laurent Blvd, Ottawa, ON K1G 3V4
 area: East Ottawa
+mustOrder:
+  - chicken empanada
 author: Ameya Charnalia
 date: February 12, 2024 9:47 PM
 thumbnail: /uploads/img_3757.jpeg

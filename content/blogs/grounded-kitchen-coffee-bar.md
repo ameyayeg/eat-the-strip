@@ -5,6 +5,8 @@ layout: blog
 cuisine: North American
 address: 1545 Carling Ave, Ottawa, ON K1Z 8P9
 area: West Ottawa
+mustOrder:
+  - chicken parm sliders
 author: Danielle Jeffery
 date: October 14, 2024 11:29 AM
 thumbnail: /uploads/img_6332.jpeg

@@ -5,6 +5,10 @@ layout: blog
 cuisine: Chinese
 address: 5104 Kanata Ave., Kanata, ON K2T 1H5
 area: Kanata
+mustOrder:
+  - pork, chive and egg dumplings
+  - sesame balls
+  - tofu with eggplant in black bean sauce
 author: Ameya Charnalia
 date: October 19, 2026 10:51 AM
 thumbnail: /uploads/img_3538.jpeg

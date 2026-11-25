@@ -5,6 +5,8 @@ layout: blog
 cuisine: Persian
 address: 1729 Bank St Unit 105, Ottawa, ON K1V 7Z4
 area: South Ottawa
+mustOrder:
+  - chicken drumsticks
 author: Ameya Charnalia
 date: September 19, 2024 3:57 PM
 thumbnail: /uploads/img_6138.jpg

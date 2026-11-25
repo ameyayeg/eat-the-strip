@@ -5,6 +5,8 @@ layout: blog
 cuisine: Mexican
 address: 2003 St Joseph Blvd, Orléans, ON K1C 1E5
 area: Orléans
+mustOrder:
+  - tamales
 author: Ameya Charnalia
 date: August 11, 2024 2:41 PM
 thumbnail: /uploads/img_5735.jpeg

@@ -5,6 +5,8 @@ layout: blog
 cuisine: Dessert
 address: 2446 Bank St, Ottawa, ON K1V 1A4
 area: South Ottawa
+mustOrder:
+  - ashta fraisca
 author: Ameya Charnalia
 date: December 18, 2023 6:46 PM
 thumbnail: /uploads/img_2895.jpeg
