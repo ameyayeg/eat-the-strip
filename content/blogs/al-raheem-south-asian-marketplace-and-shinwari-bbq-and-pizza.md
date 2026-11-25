@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: South Asian
 address: "34 Highbury Park Dr #3, Nepean, ON K2J 5X9"
+area: Nepean
+mustOrder:
+  - pizza
 author: Danielle Jeffery
 date: April 20, 2023 4:54 PM
 thumbnail: /uploads/img_9637.jpeg

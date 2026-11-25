@@ -4,6 +4,11 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Pizza
 address: 1009 Merivale Rd, Ottawa, ON K1Z 6A6
+area: West Ottawa
+dietary:
+  - Vegetarian options
+mustOrder:
+  - garlic sauce
 author: Ameya Charnalia
 date: March 9, 2024 11:28 AM
 thumbnail: /uploads/img_3913.jpeg

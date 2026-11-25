@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Yemeni
 address: 1559 Bank St, Ottawa, ON K1H 7Z3
+area: South Ottawa
 author: Ameya Charnalia
 date: July 22, 2025 10:14 AM
 thumbnail: /uploads/img_9288.jpeg

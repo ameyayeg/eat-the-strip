@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Cameroonian
 address: 185 Principale St, Gatineau, Quebec J9H 6J8
+area: Gatineau
+price: $15–$25
+mustOrder:
+  - koki
 author: Ameya Charnalia
 date: December 24, 2023 11:44 PM
 thumbnail: /uploads/img_2962.jpeg

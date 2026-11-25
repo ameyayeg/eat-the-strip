@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Turkish
 address: " 1696 Carling Ave, Ottawa, ON K2A 1C6"
+area: West Ottawa
+price: Over $25
+mustOrder:
+  - toum
 author: Sergio Gonzalez
 date: April 8, 2023 10:13 AM
 thumbnail: /uploads/img_9607.jpeg

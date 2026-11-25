@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Algerian
 address: 319 St. Laurent Blvd, Ottawa, ON K1K 2Z5
+area: East Ottawa
+mustOrder:
+  - tajine
 author: Ameya Charnalia
 date: June 9, 2024 4:44 PM
 thumbnail: /uploads/img_5128.jpeg

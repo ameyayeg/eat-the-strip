@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Polish
 address: 1574 Walkley Rd, Ottawa, ON K1V 6P4
+area: South Ottawa
+price: Under $15
+mustOrder:
+  - hunter sausage
 author: Ameya Charnalia
 date: January 31, 2025 8:05 PM
 thumbnail: /uploads/img_7505.jpeg

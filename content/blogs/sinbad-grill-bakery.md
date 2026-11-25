@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Iraqi
 address: 2285 St. Laurent Blvd C11, Ottawa, ON K1G 4Z6
+area: East Ottawa
 author: Ameya Charnalia
 date: September 7, 2026 10:41 PM
 thumbnail: /uploads/img_3024.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 848 Merivale Rd Unit A, Ottawa, ON K1Z 5Z7
+area: West Ottawa
 author: Ameya Charnalia
 date: May 27, 2025 6:47 PM
 thumbnail: /uploads/img_8758.jpeg

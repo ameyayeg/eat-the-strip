@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Pakistani
 address: 1950 Merivale Rd unit 14, Nepean, ON K2G 5T5
+area: Nepean
 author: Danielle Jeffery
 date: October 23, 2023 10:02 PM
 thumbnail: /uploads/img_2318.jpeg

@@ -4,6 +4,8 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Nepalese
 address: 1846 Carling Ave, Ottawa, ON K2A 1E2
+area: West Ottawa
+price: $15–$25
 author: Ameya Charnalia
 date: March 11, 2024 6:09 PM
 thumbnail: /uploads/img_3943.jpeg

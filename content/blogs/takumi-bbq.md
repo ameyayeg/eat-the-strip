@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: 956 Merivale Rd, Ottawa, ON K1Z 6A2
+area: West Ottawa
 author: Ameya Charnalia
 date: September 12, 2023 2:01 PM
 thumbnail: /uploads/img_1826.jpeg

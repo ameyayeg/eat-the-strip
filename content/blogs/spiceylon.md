@@ -4,6 +4,11 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Sri Lankan
 address: 605 Longfields Dr Unit 5, Ottawa, ON K2J 6T7
+area: Barrhaven
+price: $15–$25
+dietary:
+  - Vegetarian options
+  - Halal
 description: A new family-run Sri Lankan spot near Longfields station in
   Barrhaven, serving Tamil and Sinhalese dishes. Most curries are about $20, and
   the vegetarian thali is around $19.

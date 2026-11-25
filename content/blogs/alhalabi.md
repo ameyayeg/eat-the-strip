@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Syrian
 address: 1638 Bank St, Ottawa, ON K1V 7Y6
+area: South Ottawa
 author: Ameya Charnalia
 date: March 25, 2023 2:22 PM
 thumbnail: /uploads/img_9402.jpeg

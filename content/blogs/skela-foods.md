@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Balkan
 address: 1884 Merivale Rd Unit 15, Nepean, ON K2G 1E6
+area: Nepean
+mustOrder:
+  - chevapi
 author: Ameya Charnalia
 date: April 30, 2023 11:59 PM
 thumbnail: /uploads/img_0090.jpeg

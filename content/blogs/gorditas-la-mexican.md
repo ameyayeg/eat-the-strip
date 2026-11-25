@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Mexican
 address: 2350 Stevenage Dr Unit 1, Ottawa, ON K1G 3W3
+area: East Ottawa
+price: Under $15
+mustOrder:
+  - asado rojo
 author: Ameya Charnalia
 date: August 24, 2026 3:39 PM
 thumbnail: /uploads/img_2885.jpeg

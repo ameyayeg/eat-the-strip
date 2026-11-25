@@ -4,6 +4,11 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Japanese
 address: "2208 St Joseph Blvd #104, Ottawa, ON K1C 1E8"
+area: Orléans
+price: Over $25
+mustOrder:
+  - shrimp dumplings
+  - chicken karaage
 author: Ameya Charnalia
 date: February 27, 2025 3:39 PM
 thumbnail: /uploads/img_7768.jpeg

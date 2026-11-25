@@ -4,6 +4,11 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Vietnamese
 address: 2136 St Joseph Blvd, Orléans, ON K1C 1E6
+area: Orléans
+dietary:
+  - Halal
+mustOrder:
+  - pho
 author: Ameya Charnalia
 date: July 8, 2024 7:52 PM
 thumbnail: /uploads/img_5425.jpeg

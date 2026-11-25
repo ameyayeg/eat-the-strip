@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Somali
 address: 2285 St. Laurent Blvd C7, Ottawa, ON K1G 4Z7
+area: East Ottawa
 author: Ameya Charnalia
 date: February 3, 2024 5:08 PM
 thumbnail: /uploads/img_3667.jpeg

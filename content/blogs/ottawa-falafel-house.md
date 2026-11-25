@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: 1077 Cyrville Rd, Gloucester, ON K1J 7P8, Canada
+area: Gloucester
+price: $15–$25
+dietary:
+  - Vegetarian options
 author: Ameya Charnalia
 date: October 16, 2023 2:38 PM
 thumbnail: /uploads/img_2272.jpeg

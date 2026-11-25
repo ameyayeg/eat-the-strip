@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Korean/Japanese
 address: 5754 Hazeldean Rd unit 6, Stittsville, ON K2S 2R1
+area: Stittsville
+mustOrder:
+  - dynamite maki special
 author: Ameya Charnalia
 date: July 15, 2024 9:16 PM
 thumbnail: /uploads/img_5503.jpeg

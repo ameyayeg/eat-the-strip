@@ -9,6 +9,13 @@ import styles from './PostSummary.module.css'
 // star sits beside the title (PostTitle), not in the card.
 
 const text = (value) => String(value ?? '').trim()
+// The first character in upper case and the rest exactly as written, so "pho"
+// shows as "Pho" and "Roberto’s Italian Trio" stays as it is. Array.from keeps
+// accented and other non-ASCII first letters whole ("éclair" -> "Éclair").
+const capitalizeFirst = (value) => {
+  const [first = '', ...rest] = Array.from(value)
+  return first.toUpperCase() + rest.join('')
+}
 const list = (value) =>
   (Array.isArray(value) ? value : value ? [value] : []).map(text).filter(Boolean)
 
@@ -266,7 +273,7 @@ export function PostSummaryCard({ frontmatter }) {
           <h3 className={styles.heading}>Must order</h3>
           <ul className={styles.dishes}>
             {dishes.map((dish) => (
-              <li key={dish}>{dish}</li>
+              <li key={dish}>{capitalizeFirst(dish)}</li>
             ))}
           </ul>
         </div>

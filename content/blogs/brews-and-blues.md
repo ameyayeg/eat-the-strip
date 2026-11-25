@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1523 Stittsville Main St, Stittsville, ON K2S 1N4
+area: Stittsville
 author: Ameya Charnalia
 date: June 6, 2025 5:28 PM
 thumbnail: /uploads/img_8829.jpeg

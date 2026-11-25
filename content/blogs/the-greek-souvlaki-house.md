@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Greek
 address: 3625 Rivergate Way, Ottawa, ON K1V 2A4
+area: South Ottawa
 author: Ameya Charnalia
 date: January 21, 2025 9:21 PM
 thumbnail: /uploads/img_7451.jpeg

@@ -4,6 +4,8 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Lebanese
 address: 2012 Tenth Line Rd, Orléans, ON K4A 3W3
+area: Orléans
+price: $15–$25
 author: Ameya Charnalia
 date: June 18, 2025 3:25 PM
 thumbnail: /uploads/img_8929.jpeg

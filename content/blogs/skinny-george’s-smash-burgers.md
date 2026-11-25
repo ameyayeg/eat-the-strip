@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 2241 St. Laurent Blvd, Ottawa, ON K1G 1B1
+area: East Ottawa
+mustOrder:
+  - classic Skinny George
 author: Ameya Charnalia
 date: September 22, 2026 1:55 PM
 thumbnail: /uploads/img_3316.jpeg

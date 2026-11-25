@@ -4,6 +4,8 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Greek
 address: 5556 Manotick Main St, Manotick, ON K4M 1A4
+area: Manotick
+price: Over $25
 author: Ameya Charnalia
 date: February 20, 2025 6:17 PM
 thumbnail: /uploads/img_7705.jpeg

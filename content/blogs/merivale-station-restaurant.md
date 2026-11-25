@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1884 Merivale Rd unit 7, Nepean, ON K2G 1E6
+area: Nepean
 author: Ameya Charnalia
 date: March 2, 2024 3:36 PM
 thumbnail: /uploads/img_3897.jpeg

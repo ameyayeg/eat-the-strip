@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Indian
 address: 1081 Carling Ave, Ottawa, ON K1Y 1V3
+area: Central Ottawa
+mustOrder:
+  - samosa chat
+  - maggi
 author: Ameya Charnalia
 date: April 30, 2024 8:00 PM
 thumbnail: /uploads/img_4779.jpeg

@@ -4,6 +4,8 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1200 Baseline Rd, Ottawa, ON K2E 5Z8
+area: Nepean
+price: Under $15
 author: Ameya Charnalia
 date: August 31, 2026 2:28 PM
 thumbnail: /uploads/img_2949.jpeg

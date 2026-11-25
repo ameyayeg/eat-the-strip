@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: German
 address: 1400 Cyrville Rd, Gloucester, ON K1B 3L9
+area: Gloucester
+mustOrder:
+  - Spanish sandwich
 author: Ameya Charnalia
 date: August 31, 2023 4:04 PM
 thumbnail: /uploads/img_1633.jpeg

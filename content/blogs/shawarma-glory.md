@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Middle Eastern
 address: 1309 Carling Ave, Ottawa, ON K1Z 7L3
+area: West Ottawa
 author: Ameya Charnalia
 date: April 1, 2025 2:47 PM
 thumbnail: /uploads/img_8046.jpeg

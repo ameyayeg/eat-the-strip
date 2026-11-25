@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Japanese
 address: 2662 Innes Rd Unit A, Gloucester, ON K1B 4Z5
+area: Gloucester
+mustOrder:
+  - maki roll
 author: Ameya Charnalia
 date: April 6, 2024 8:00 PM
 thumbnail: /uploads/img_3037.jpeg

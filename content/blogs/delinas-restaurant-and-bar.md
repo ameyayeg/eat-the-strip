@@ -4,6 +4,13 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: "Ethiopian "
 address: 575 Gladstone Ave, Ottawa, ON K1R 5P2
+area: Central Ottawa
+dietary:
+  - Vegetarian options
+  - Gluten-free options
+mustOrder:
+  - kale dish
+  - misr wat
 author: Ameya Charnalia
 date: October 20, 2024 1:40 PM
 thumbnail: /uploads/img_6361.jpeg

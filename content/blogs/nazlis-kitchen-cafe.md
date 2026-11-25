@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Turkish
 address: 2590 Carp Rd, Carp, ON K0A 1L0
+area: Carp
+price: $15–$25
+mustOrder:
+  - menemen
 author: Ameya Charnalia
 date: March 25, 2024 10:44 PM
 thumbnail: /uploads/img_4113.jpeg

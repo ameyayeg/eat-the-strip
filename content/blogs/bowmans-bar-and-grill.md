@@ -4,6 +4,8 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: North American
 address: 1170 Carling Ave, Ottawa, ON K1Z 7K6
+area: West Ottawa
+price: $15–$25
 author: Ameya Charnalia
 date: October 20, 2023 4:25 PM
 thumbnail: /uploads/img_2304.jpeg

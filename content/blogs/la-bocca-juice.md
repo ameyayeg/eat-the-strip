@@ -4,6 +4,10 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Dessert
 address: 2446 Bank St, Ottawa, ON K1V 1A4
+area: South Ottawa
+price: Under $15
+mustOrder:
+  - ashta fraisca
 author: Ameya Charnalia
 date: December 18, 2023 6:46 PM
 thumbnail: /uploads/img_2895.jpeg

@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: European
 address: 2130 Robertson Rd, Nepean, ON K2H 5Z1
+area: Nepean
 author: Colin Knox
 date: May 22, 2023 10:58 PM
 thumbnail: /uploads/img_0364.jpeg

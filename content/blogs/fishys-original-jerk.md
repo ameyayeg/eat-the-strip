@@ -4,6 +4,9 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Jamaican
 address: 2297 St Joseph Blvd, Orléans, ON K1C 1E7
+area: Orléans
+mustOrder:
+  - goat roti
 author: Ameya Charnalia
 date: May 13, 2024 5:23 PM
 thumbnail: /uploads/img_4853.jpeg

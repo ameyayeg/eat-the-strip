@@ -4,6 +4,7 @@ city: Ottawa-Gatineau
 layout: blog
 cuisine: Chinese
 address: 1499 Merivale Rd, Nepean, ON K2E 5P3
+area: Nepean
 author: Ameya Charnalia
 date: April 21, 2024 2:30 PM
 thumbnail: /uploads/img_4645.jpeg
