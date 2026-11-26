@@ -1,14 +1,15 @@
-/* The map link under the address: quieter than the bold header around it. */
-.mapLinks {
-  margin: 0.15rem 0 0.4rem;
-  font-size: 0.9rem;
-  font-weight: 400;
-  white-space: normal;
-  line-height: 1.6;
-  color: #4b4b4b;
+/* The address under the title, linked to Google Maps: the same italic text,
+   with a map pin and the site's green link underline. */
+.addressLink {
+  color: inherit;
+  border-bottom: 2px solid #78c0a8;
 }
 
-.mapLinks a,
+.addressPin {
+  margin-right: 0.15em;
+  vertical-align: -0.125em;
+}
+
 .plain a,
 .credit a {
   color: #111;
@@ -185,13 +186,24 @@
   aspect-ratio: 9 / 16;
 }
 
-/* "Watch and listen" inside the article, in the text column. The margins
-   match the gap between paragraphs (one 1.6em line; the second half of the
-   article adds its own 0.25rem). */
+/* "Watch and listen" inside the article, in the text column, between the
+   two rules above. */
+/* The rules around "Watch and listen": the browser's default thin rule, as
+   under the byline, with one paragraph gap (1.6em at the article's size) on
+   each side. The second half of the article adds its own 0.25rem. */
+.mediaRule {
+  font-size: var(--font-size-base);
+  margin: 1.6em 0;
+}
+
+.mediaRuleAfter {
+  margin-bottom: calc(1.6em - 0.25rem);
+}
+
 .media {
   display: grid;
   gap: 0.75rem;
-  margin: 1.6em 0 calc(1.6em - 0.25rem);
+  margin: 0;
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-base);
   line-height: 1.5;
@@ -285,7 +297,7 @@
   border-bottom: 2px solid #78c0a8;
 }
 
-.mapLinks a:focus-visible,
+.addressLink:focus-visible,
 .plain a:focus-visible,
 .credit a:focus-visible,
 .cbcLink:focus-visible,

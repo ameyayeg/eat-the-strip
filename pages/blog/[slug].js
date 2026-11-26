@@ -9,7 +9,7 @@ import SupportBox from '../../components/SupportBox'
 import PostHead from '../../components/PostHead'
 import ArchiveNote from '../../components/ArchiveNote'
 import {
-  MapLinks,
+  PostAddress,
   PostSummaryCard,
   PostTitle,
   MediaBlock,
@@ -146,10 +146,7 @@ export default function Blog({
               Closed
             </span>
           )}
-          <p>
-            <i>{frontmatter.address}</i>
-          </p>
-          <MapLinks frontmatter={frontmatter} />
+          <PostAddress frontmatter={frontmatter} />
           <p>
             <strong>
               By: {frontmatter.author} | {frontmatter.date}

@@ -47,23 +47,33 @@ function isShort(url) {
   }
 }
 
-// "Open in Google Maps", searching the restaurant's name and address. Shown
-// under the address on every post that isn't closed.
-export function MapLinks({ frontmatter }) {
+// The address line under the title. It links to Google Maps (searching the
+// restaurant's name and address), with a map-pin icon, in a new tab. Closed
+// posts, and posts without an address, keep the plain italic address.
+export function PostAddress({ frontmatter }) {
   const fm = frontmatter || {}
   const address = text(fm.address)
-  if (!address || fm.closed === true) return null
+  if (!address || fm.closed === true) {
+    return (
+      <p>
+        <i>{fm.address}</i>
+      </p>
+    )
+  }
   const query = encodeURIComponent(
     [text(fm.title), address].filter(Boolean).join(', ')
   )
   return (
-    <p className={styles.mapLinks}>
+    <p>
       <a
+        className={styles.addressLink}
         href={`https://www.google.com/maps/search/?api=1&query=${query}`}
         target="_blank"
         rel="noopener noreferrer"
+        aria-label={`Open ${address} in Google Maps`}
       >
-        Open in Google Maps
+        <MdPlace className={styles.addressPin} aria-hidden="true" />
+        <i>{fm.address}</i>
       </a>
     </p>
   )
@@ -321,15 +331,21 @@ export function MediaBlock({ frontmatter }) {
   const headingId = useId()
   if (!youtube && !cbc && !cbcAudio) return null
 
+  // A thin rule above and below, like the one under the byline; only when
+  // the block itself renders.
   return (
-    <section className={styles.media} aria-labelledby={headingId}>
-      <h2 id={headingId} className={styles.heading}>
-        Watch and listen
-      </h2>
-      {youtube && (
-        <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
-      )}
-      {(cbc || cbcAudio) && <CbcClip page={cbc} audio={cbcAudio} />}
-    </section>
+    <>
+      <hr className={styles.mediaRule} />
+      <section className={styles.media} aria-labelledby={headingId}>
+        <h2 id={headingId} className={styles.heading}>
+          Watch and listen
+        </h2>
+        {youtube && (
+          <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
+        )}
+        {(cbc || cbcAudio) && <CbcClip page={cbc} audio={cbcAudio} />}
+      </section>
+      <hr className={`${styles.mediaRule} ${styles.mediaRuleAfter}`} />
+    </>
   )
 }
