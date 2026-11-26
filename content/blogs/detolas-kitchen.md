@@ -5,6 +5,7 @@ layout: blog
 cuisine: Nigerian
 address: 2544 Bank St, Ottawa, ON K1T 1M9
 area: South Ottawa
+favourite: true
 mustOrder:
   - egusi
 author: Ameya Charnalia

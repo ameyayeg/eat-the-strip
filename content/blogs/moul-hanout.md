@@ -5,11 +5,13 @@ layout: blog
 cuisine: Moroccan
 address: 1581 Bank St, Ottawa, ON K1H 7Z3
 area: South Ottawa
+favourite: true
 mustOrder:
   - seafood pastilla
 author: Ameya Charnalia
 date: November 24, 2023 9:20 AM
 thumbnail: /uploads/img_2657.jpeg
+closed: true
 rating: 5
 positives: 45.37954991718635
 negatives: -75.66733464716918

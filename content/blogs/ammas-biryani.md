@@ -5,6 +5,7 @@ layout: blog
 cuisine: South Asian
 address: 1618 Merivale Rd, Nepean, ON K2G 3G3
 area: Nepean
+favourite: true
 author: Ameya Charnalia
 date: November 15, 2023 6:26 PM
 thumbnail: /uploads/img_2520.jpeg

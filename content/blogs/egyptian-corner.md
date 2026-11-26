@@ -6,6 +6,7 @@ cuisine: Egyptian
 address: 1563 Bank St, Ottawa, ON K1H 7Z3
 area: South Ottawa
 price: Under $15
+favourite: true
 mustOrder:
   - falafel sandwich
 author: Ameya Charnalia

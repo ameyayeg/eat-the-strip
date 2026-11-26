@@ -10,6 +10,7 @@ dietary:
   - Vegetarian options
   - Gluten-free options
   - Halal
+favourite: true
 mustOrder:
   - cheese sunflower
   - fatteh yogurt
