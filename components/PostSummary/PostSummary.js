@@ -331,15 +331,21 @@ export function MediaBlock({ frontmatter }) {
   const headingId = useId()
   if (!youtube && !cbc && !cbcAudio) return null
 
+  // A thin rule above and below, like the one under the byline; only when
+  // the block itself renders.
   return (
-    <section className={styles.media} aria-labelledby={headingId}>
-      <h2 id={headingId} className={styles.heading}>
-        Watch and listen
-      </h2>
-      {youtube && (
-        <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
-      )}
-      {(cbc || cbcAudio) && <CbcClip page={cbc} audio={cbcAudio} />}
-    </section>
+    <>
+      <hr className={styles.mediaRule} />
+      <section className={styles.media} aria-labelledby={headingId}>
+        <h2 id={headingId} className={styles.heading}>
+          Watch and listen
+        </h2>
+        {youtube && (
+          <YouTubeCard url={youtube} title={text(fm.title)} poster={fm.image} />
+        )}
+        {(cbc || cbcAudio) && <CbcClip page={cbc} audio={cbcAudio} />}
+      </section>
+      <hr className={`${styles.mediaRule} ${styles.mediaRuleAfter}`} />
+    </>
   )
 }
