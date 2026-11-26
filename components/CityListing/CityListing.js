@@ -6,6 +6,7 @@ import { useRouter } from 'next/router'
 import styles from './CityListing.module.css'
 import Pagination from '../Pagination/Pagination'
 import ArchiveNote from '../ArchiveNote'
+import { WritersPickIcon } from '../PostSummary/PostSummary'
 import { getCityById, cityPath } from '../../utils/cities'
 import { absoluteUrl, SITE_NAME } from '../../utils/seo'
 import { pageCount, pageItems, pagePath } from '../../utils/pagination'
@@ -89,7 +90,16 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
                   )}
                 </div>
                 <div className={styles.cardCopy}>
-                  <h2>{blog.title}</h2>
+                  {blog.favourite ? (
+                    <div className={styles.cardTitle}>
+                      <h2>{blog.title}</h2>
+                      <span className={styles.cardStar}>
+                        <WritersPickIcon />
+                      </span>
+                    </div>
+                  ) : (
+                    <h2>{blog.title}</h2>
+                  )}
                   <p>{blog.address}</p>
                 </div>
               </a>

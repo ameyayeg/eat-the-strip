@@ -123,6 +123,23 @@
 
 /* Anchored at its right edge, so it opens over the title and never past the
    right of the screen. */
+/* The star on listing cards: the same look, a little smaller, not a button. */
+.pickIcon {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background: #fff;
+  border: 1px solid #f3cfae;
+  border-radius: 999px;
+  color: #ee802f;
+  font-size: 0.9rem;
+  line-height: 1;
+  vertical-align: middle;
+}
+
 .tooltip {
   position: absolute;
   right: 0;
@@ -144,7 +161,8 @@
 }
 
 @media (hover: hover) {
-  .pick:hover .tooltip {
+  .pick:hover .tooltip,
+  .pickIcon:hover .tooltip {
     visibility: visible;
     opacity: 1;
   }

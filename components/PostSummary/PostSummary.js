@@ -121,6 +121,20 @@ function WritersPick() {
   )
 }
 
+// The writer's-pick star on listing cards. The whole card is a link, so this
+// is an icon rather than a button: named "Writer's pick" for screen readers,
+// with the same star, colours and hover tooltip as the post page.
+export function WritersPickIcon() {
+  return (
+    <span className={styles.pickIcon} role="img" aria-label="Writer's pick">
+      <FaStar aria-hidden="true" />
+      <span className={styles.tooltip} aria-hidden="true">
+        Writer’s pick
+      </span>
+    </span>
+  )
+}
+
 // Click to play: nothing loads from YouTube until the reader asks for it.
 // The preview uses the post's own photo, already loaded at the top of the post.
 // Shorts get a portrait 9:16 box; other videos 16:9.
