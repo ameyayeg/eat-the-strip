@@ -10,7 +10,7 @@ mustOrder:
 author: Danielle Jeffery
 date: May 5, 2024 9:15 PM
 thumbnail: /uploads/img_4811.jpeg
-closed: false
+closed: true
 positives: 45.42881420271763
 image: /uploads/img_4804.jpeg
 rating: 5
