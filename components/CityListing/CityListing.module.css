@@ -154,6 +154,29 @@
   font-size: 1.4rem;
 }
 
+/* A writer's pick: the name with the star to its right, level with the name's
+   first line. The star's slot uses the heading's font and size, so its line
+   is one line of the name, and the star stays put when the name wraps. */
+.cardTitle {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.7rem;
+}
+
+.cardCopy .cardTitle h2 {
+  flex: 0 1 auto;
+  min-width: 0;
+  margin-bottom: 0;
+}
+
+.cardStar {
+  display: block;
+  flex: none;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
 .cardCopy p {
   color: #5b5b5b;
   line-height: 1.75;

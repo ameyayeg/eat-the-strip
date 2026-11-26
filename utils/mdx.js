@@ -55,6 +55,13 @@ export async function getCityPosts(city) {
     'address',
     'closed',
     'city',
+    'favourite',
   ])
-  return posts.filter((post) => cityForPost(post.city) === city)
+  // favourite is sent only for writer's picks (for the card star), so other
+  // cards' data stays as small as before.
+  return posts
+    .filter((post) => cityForPost(post.city) === city)
+    .map(({ favourite, ...post }) =>
+      favourite === true ? { ...post, favourite } : post
+    )
 }
