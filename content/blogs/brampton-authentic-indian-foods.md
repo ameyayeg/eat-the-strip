@@ -5,6 +5,7 @@ layout: blog
 cuisine: Indian
 address: 178 Meadowlands Dr W, Nepean, ON K2G 2S6
 area: Nepean
+favourite: true
 mustOrder:
   - goat curry
 author: Ameya Charnalia

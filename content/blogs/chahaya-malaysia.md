@@ -5,6 +5,7 @@ layout: blog
 cuisine: Malaysian
 address: 1690 Montréal Rd, Gloucester, ON K1J 6N5
 area: Gloucester
+favourite: true
 mustOrder:
   - lamb curry
 author: Danielle Jeffery

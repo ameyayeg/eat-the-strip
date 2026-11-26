@@ -6,6 +6,7 @@ cuisine: Chinese
 address: "174 Colonnade Rd S Unit #28, Nepean, ON K2E 7J5"
 area: Nepean
 price: $15–$25
+favourite: true
 author: Ameya Charnalia
 date: December 12, 2023 7:51 PM
 thumbnail: /uploads/img_2877.jpeg
