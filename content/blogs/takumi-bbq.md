@@ -9,6 +9,7 @@ price: $15–$25
 author: Ameya Charnalia
 date: September 12, 2023 2:01 PM
 thumbnail: /uploads/img_1826.jpeg
+closed: true
 rating: 5
 positives: 45.381670115201885
 negatives: -75.73351317291204
