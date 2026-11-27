@@ -1,5 +1,9 @@
+/* The system font, which never swaps on load, so chips are the same width
+   from the first paint and the rows don't re-wrap when the web fonts arrive. */
 .filters {
   margin-top: 1.25rem;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial,
+    sans-serif;
 }
 
 .panel {
