@@ -24,16 +24,6 @@ const PRICES = [
   { key: 'over-25', label: 'Over $25' },
 ]
 
-// How many cuisines get a chip; the rest are in the "More cuisines" list.
-const CUISINE_CHIPS = 7
-
-// A cuisine as a short key for the address (?cuisine=), ignoring case,
-// accents and spacing: " Ethiopian " -> "ethiopian".
-const cuisineKey = (value) =>
-  normalizeSearchText(String(value ?? '').trim())
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-
 // "a,b" from the address as a list.
 const readList = (value) =>
   typeof value === 'string' && value
@@ -42,7 +32,7 @@ const readList = (value) =>
 
 // The listing page for one city: heading, filter chips and restaurant cards.
 // The search box lives in the header and puts the search in the address
-// (?q=); the chips do the same (?cuisine=, ?area=, ?price=). `blogs` is the whole city so
+// (?q=); the price chips do the same (?price=). `blogs` is the whole city so
 // search and filters cover every restaurant; with neither, only this page's
 // cards show, with page numbers below.
 const CityListing = ({ cityId, blogs, page = 1 }) => {
@@ -71,140 +61,63 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
     ? blogs.filter((_, i) => searchable[i].includes(normalizedQuery))
     : blogs
 
-  // Filter groups, only in cities with `filters: true` (utils/cities.js):
-  // Cuisine, Neighbourhood (area) and Price, each only if the city has that
-  // data. Options are ordered by how many open restaurants each has across
-  // the city, a fixed order, so chips never move as you filter. Each group's
-  // `valueOf` gives a restaurant's value in that group.
-  const cuisineOf = useMemo(
-    () => Object.fromEntries(blogs.map((blog) => [blog.slug, cuisineKey(blog.cuisine)])),
-    [blogs]
-  )
-  const defs = useMemo(() => {
+  // Price chips, only in cities with `filters: true` (utils/cities.js), and
+  // only once every open restaurant there has a price, so choosing one never
+  // quietly hides restaurants that just haven't been priced yet.
+  const priceOptions = useMemo(() => {
     if (!city.filters) return []
     const open = blogs.filter((blog) => !blog.closed)
-    // Cuisine is typed by hand, so values are grouped ignoring case and
-    // spaces; each is shown with its most common spelling.
-    const cuisines = {}
-    open.forEach((blog) => {
-      const key = cuisineOf[blog.slug]
-      if (!key) return
-      const entry = (cuisines[key] = cuisines[key] || { count: 0, spellings: {} })
-      const spelling = String(blog.cuisine).trim()
-      entry.count += 1
-      entry.spellings[spelling] = (entry.spellings[spelling] || 0) + 1
-    })
-    const cuisineOptions = Object.keys(cuisines)
-      .map((key) => {
-        const { count, spellings } = cuisines[key]
-        const label = Object.keys(spellings).sort((a, b) => spellings[b] - spellings[a])[0]
-        return { value: key, label, total: count }
-      })
-      .sort((a, b) => b.total - a.total || a.label.localeCompare(b.label))
-
-    const areas = {}
-    open.forEach((blog) => {
-      if (blog.area) areas[blog.area] = (areas[blog.area] || 0) + 1
-    })
-    const areaOptions = Object.keys(areas)
-      .sort((a, b) => areas[b] - areas[a] || a.localeCompare(b))
-      .map((area) => ({ value: area, label: area }))
-
-    // Price only once every open restaurant in the city has one, so choosing
-    // a price never quietly hides restaurants that just haven't been priced.
-    const priced = open.length > 0 && open.every((blog) => blog.price)
-    const priceOptions = priced
-      ? PRICES.filter((p) => open.some((blog) => blog.price === p.label)).map((p) => ({
-          value: p.key,
-          label: p.label,
-        }))
-      : []
-
-    return [
-      {
-        id: 'cuisine',
-        label: 'Cuisine',
-        options: cuisineOptions,
-        valueOf: (blog) => cuisineOf[blog.slug],
-        // The most common cuisines as chips, the rest in a drop-down.
-        top: CUISINE_CHIPS,
-        moreLabel: 'More cuisines',
-      },
-      {
-        id: 'area',
-        label: 'Neighbourhood',
-        options: areaOptions,
-        valueOf: (blog) => blog.area,
-      },
-      {
-        id: 'price',
-        label: 'Price',
-        options: priceOptions,
-        valueOf: (blog) => (PRICES.find((p) => p.label === blog.price) || {}).key,
-      },
-    ].filter((def) => def.options.length)
-  }, [blogs, city.filters, cuisineOf])
-
-  // The selection lives in the address (?cuisine=…&area=…&price=…), read
-  // once the router is ready, like ?q=, so going back from a post keeps it.
-  const selected = {}
-  defs.forEach((def) => {
-    selected[def.id] = router.isReady
-      ? readList(router.query[def.id]).filter((value) =>
-          def.options.some((option) => option.value === value)
-        )
-      : []
-  })
-  const activeCount = defs.reduce((sum, def) => sum + selected[def.id].length, 0)
-  const filtering = activeCount > 0
-  // Options within a group combine with OR, groups with AND, all on top of
-  // the text search. Closed restaurants are left out of filtered results and
-  // counts (they still show unfiltered and in search). A chip's count uses
-  // every other group's selection, so it says what pressing it would add.
-  const inGroups = (blog, skipId) =>
-    defs.every(
-      (def) =>
-        def.id === skipId ||
-        !selected[def.id].length ||
-        selected[def.id].includes(def.valueOf(blog))
-    )
+    if (!open.length || !open.every((blog) => blog.price)) return []
+    return PRICES.filter((p) => open.some((blog) => blog.price === p.label))
+  }, [blogs, city.filters])
+  // The selection lives in the address (?price=…), read once the router is
+  // ready, like ?q=, so going back from a post keeps it.
+  const selectedPrices = router.isReady
+    ? readList(router.query.price)
+        .map((key) => priceOptions.find((p) => p.key === key))
+        .filter(Boolean)
+        .map((p) => p.label)
+    : []
+  const filtering = selectedPrices.length > 0
+  // Prices combine with OR, on top of the text search. Closed restaurants
+  // are left out of filtered results and counts (they still show unfiltered
+  // and in search).
   const openMatches = textMatches.filter((blog) => !blog.closed)
 
-  const setFilters = (next) => {
-    const query = { ...router.query }
-    defs.forEach((def) => {
-      const values = next[def.id] || []
-      if (values.length) query[def.id] = values.join(',')
-      else delete query[def.id]
-    })
-    router.replace({ pathname: router.pathname, query }, undefined, {
+  const setPrices = (prices) => {
+    const next = { ...router.query }
+    const keys = prices.map((label) => PRICES.find((p) => p.label === label).key)
+    if (keys.length) next.price = keys.join(',')
+    else delete next.price
+    router.replace({ pathname: router.pathname, query: next }, undefined, {
       shallow: true,
       scroll: false,
     })
   }
-  const toggle = (list, value) =>
-    list.includes(value) ? list.filter((v) => v !== value) : [...list, value]
 
-  const groups = defs.map((def) => {
-    const others = openMatches.filter((blog) => inGroups(blog, def.id))
-    return {
-      id: def.id,
-      label: def.label,
-      top: def.top,
-      moreLabel: def.moreLabel,
-      onToggle: (value) =>
-        setFilters({ ...selected, [def.id]: toggle(selected[def.id], value) }),
-      options: def.options.map((option) => ({
-        value: option.value,
-        label: option.label,
-        selected: selected[def.id].includes(option.value),
-        count: others.filter((blog) => def.valueOf(blog) === option.value).length,
-      })),
-    }
-  })
+  const groups = priceOptions.length
+    ? [
+        {
+          id: 'price',
+          label: 'Price',
+          onToggle: (value) =>
+            setPrices(
+              selectedPrices.includes(value)
+                ? selectedPrices.filter((v) => v !== value)
+                : [...selectedPrices, value]
+            ),
+          options: priceOptions.map((p) => ({
+            value: p.label,
+            label: p.label,
+            selected: selectedPrices.includes(p.label),
+            count: openMatches.filter((blog) => blog.price === p.label).length,
+          })),
+        },
+      ]
+    : []
 
   const restaurants = filtering
-    ? openMatches.filter((blog) => inGroups(blog))
+    ? openMatches.filter((blog) => selectedPrices.includes(blog.price))
     : searching
     ? textMatches
     : pageItems(blogs, page)
@@ -231,8 +144,8 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
           <p>{city.intro}</p>
           <FilterChips
             groups={groups}
-            activeCount={activeCount}
-            onClear={() => setFilters({})}
+            activeCount={selectedPrices.length}
+            onClear={() => setPrices([])}
             status={status}
           />
         </div>
