@@ -5,6 +5,7 @@ layout: blog
 cuisine: Middle Eastern
 address: 2786 Lancaster Rd Unit B, Ottawa, ON K1B 4S4
 area: Gloucester
+price: $15–$25
 mustOrder:
   - lamb rice
 author: Ameya Charnalia

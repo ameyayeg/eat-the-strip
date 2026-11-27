@@ -5,6 +5,7 @@ layout: blog
 cuisine: Lebanese
 address: 332 Boulevard Gréber Gatineau, QC J8T 8H4
 area: Gatineau
+price: Under $15
 author: Ameya Charnalia
 date: March 20, 2023 1:59 PM
 thumbnail: /uploads/img_9296.jpeg

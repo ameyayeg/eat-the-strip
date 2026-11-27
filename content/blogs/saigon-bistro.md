@@ -5,6 +5,7 @@ layout: blog
 cuisine: Vietnamese
 address: 2136 St Joseph Blvd, Orléans, ON K1C 1E6
 area: Orléans
+price: $15–$25
 dietary:
   - Halal
 mustOrder:

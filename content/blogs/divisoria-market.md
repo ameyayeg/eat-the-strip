@@ -5,6 +5,7 @@ layout: blog
 cuisine: Filipino
 address: 943 Carling Ave, Ottawa, ON K1Y 4E3
 area: Central Ottawa
+price: Under $15
 author: Ameya Charnalia
 date: November 1, 2024 1:23 PM
 thumbnail: /uploads/img_6451.jpeg

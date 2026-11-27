@@ -5,6 +5,7 @@ layout: blog
 cuisine: Asian
 address: 706 Somerset St W, Ottawa, ON K1R 6P6
 area: Central Ottawa
+price: $15–$25
 author: Ameya Charnalia
 date: August 30, 2024 12:23 PM
 thumbnail: /uploads/img_5914.jpg

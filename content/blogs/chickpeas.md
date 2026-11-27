@@ -5,6 +5,7 @@ layout: blog
 cuisine: Palestinian
 address: 500 Terminal Ave. A-05, Ottawa, ON K1G 0Z3
 area: East Ottawa
+price: Under $15
 dietary:
   - Vegan options
 author: Ameya Charnalia

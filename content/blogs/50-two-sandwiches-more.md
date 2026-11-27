@@ -5,6 +5,7 @@ layout: blog
 cuisine: North American
 address: 52 Antares Dr, Nepean, ON K2E 7W6
 area: Nepean
+price: Under $15
 author: Sergio Gonzalez
 date: March 22, 2023 4:31 PM
 thumbnail: /uploads/25ca145b-c46d-422e-9330-8d64505ab299.jpeg

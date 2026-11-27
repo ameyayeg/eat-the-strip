@@ -5,6 +5,7 @@ layout: blog
 cuisine: French
 address: 150 Katimavik Rd Suite 119, Kanata, ON K2N 2N2
 area: Kanata
+price: Under $15
 author: Ameya Charnalia
 date: February 9, 2025 7:42 PM
 thumbnail: /uploads/img_7563.jpeg

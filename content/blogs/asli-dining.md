@@ -5,6 +5,7 @@ layout: blog
 cuisine: Somali
 address: 2450 Lancaster Rd Unit 6-7, Ottawa, ON K1B 5N3
 area: Gloucester
+price: $15–$25
 author: Ameya Charnalia
 date: August 8, 2023 12:17 PM
 thumbnail: /uploads/img_1414.jpeg

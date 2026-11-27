@@ -5,6 +5,7 @@ layout: blog
 cuisine: Korean/Japanese
 address: 5754 Hazeldean Rd unit 6, Stittsville, ON K2S 2R1
 area: Stittsville
+price: $15–$25
 mustOrder:
   - dynamite maki special
 author: Ameya Charnalia

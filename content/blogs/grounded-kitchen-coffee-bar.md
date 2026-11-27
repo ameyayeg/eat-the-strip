@@ -5,6 +5,7 @@ layout: blog
 cuisine: North American
 address: 1545 Carling Ave, Ottawa, ON K1Z 8P9
 area: West Ottawa
+price: $15–$25
 mustOrder:
   - chicken parm sliders
 author: Danielle Jeffery

@@ -5,6 +5,7 @@ layout: blog
 cuisine: French
 address: 126 Av. Gatineau, Gatineau, QC J8T 4J6
 area: Gatineau
+price: Under $15
 author: Ameya Charnalia
 date: June 15, 2025 5:50 PM
 thumbnail: /uploads/img_8898.jpeg

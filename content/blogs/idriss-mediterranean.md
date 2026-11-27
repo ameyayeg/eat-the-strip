@@ -5,6 +5,7 @@ layout: blog
 cuisine: Algerian
 address: 319 St. Laurent Blvd, Ottawa, ON K1K 2Z5
 area: East Ottawa
+price: $15–$25
 favourite: true
 mustOrder:
   - tajine

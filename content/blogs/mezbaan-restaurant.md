@@ -5,6 +5,7 @@ layout: blog
 cuisine: Afghan
 address: 3098 Carling Ave Unit 8, Nepean, ON K2B 7K2
 area: Nepean
+price: $15–$25
 mustOrder:
   - qabuli uzbeki
 author: Ameya Charnalia

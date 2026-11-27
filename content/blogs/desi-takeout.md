@@ -5,6 +5,7 @@ layout: blog
 cuisine: Bangladeshi
 address: 1950 Merivale Rd unit 14, Nepean, ON K2G 5T5
 area: Nepean
+price: Under $15
 author: Ameya Charnalia
 date: March 13, 2025 3:49 PM
 thumbnail: /uploads/img_7876.jpeg

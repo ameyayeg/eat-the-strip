@@ -5,6 +5,7 @@ layout: blog
 cuisine: Chinese
 address: 1465 Merivale Rd unit 002, Nepean, ON K2E 5N9
 area: Nepean
+price: $15–$25
 mustOrder:
   - spicy beef brisket noodle soup
 author: Neha Charnalia

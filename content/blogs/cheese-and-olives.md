@@ -5,6 +5,7 @@ layout: blog
 cuisine: Palestinian
 address: 1183 Hunt Club Rd Unit 108, Ottawa, ON K1V 8S4
 area: South Ottawa
+price: $15–$25
 author: Ameya Charnalia
 date: March 20, 2025 3:57 PM
 thumbnail: /uploads/img_7936.jpeg

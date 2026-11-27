@@ -5,6 +5,7 @@ layout: blog
 cuisine: Filipino
 address: 2916 Carling Ave, Ottawa, ON K2B 7J7
 area: West Ottawa
+price: Under $15
 author: Ameya Charnalia
 date: October 1, 2026 2:10 PM
 thumbnail: /uploads/img_3388.jpeg

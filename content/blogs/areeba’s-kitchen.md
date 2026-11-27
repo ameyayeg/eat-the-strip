@@ -5,6 +5,7 @@ layout: blog
 cuisine: Pakistani
 address: 70 Bongard Ave Unit J, Nepean, ON K2E 7Z9
 area: Nepean
+price: Under $15
 author: Ameya Charnalia
 date: August 29, 2026 8:14 PM
 thumbnail: /uploads/img_2924.jpeg

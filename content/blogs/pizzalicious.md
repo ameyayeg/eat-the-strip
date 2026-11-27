@@ -5,6 +5,7 @@ layout: blog
 cuisine: Pizza
 address: 1009 Merivale Rd, Ottawa, ON K1Z 6A6
 area: West Ottawa
+price: $15–$25
 dietary:
   - Vegetarian options
 mustOrder:

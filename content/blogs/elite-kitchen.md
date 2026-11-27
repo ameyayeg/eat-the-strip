@@ -5,6 +5,7 @@ layout: blog
 cuisine: Persian
 address: 407 Laurier Ave W, Ottawa, ON K1R 7Y1
 area: Central Ottawa
+price: Under $15
 author: Ameya Charnalia
 date: October 22, 2026 6:45 PM
 thumbnail: /uploads/img_3630.jpeg

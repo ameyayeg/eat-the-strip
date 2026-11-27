@@ -5,6 +5,7 @@ layout: blog
 cuisine: South Asian
 address: "34 Highbury Park Dr #3, Nepean, ON K2J 5X9"
 area: Nepean
+price: $15–$25
 mustOrder:
   - pizza
 author: Danielle Jeffery

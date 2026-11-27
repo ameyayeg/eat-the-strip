@@ -5,6 +5,7 @@ layout: blog
 cuisine: Yemeni
 address: 5031 Bank St, Gloucester, ON K1X 1G8
 area: Gloucester
+price: $15–$25
 mustOrder:
   - lamb haneeth
   - fahsa

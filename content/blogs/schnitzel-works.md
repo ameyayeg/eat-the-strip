@@ -5,6 +5,7 @@ layout: blog
 cuisine: German
 address: 1400 Cyrville Rd, Gloucester, ON K1B 3L9
 area: Gloucester
+price: $15–$25
 mustOrder:
   - Spanish sandwich
 author: Ameya Charnalia

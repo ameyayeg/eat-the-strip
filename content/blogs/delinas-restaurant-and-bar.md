@@ -5,6 +5,7 @@ layout: blog
 cuisine: "Ethiopian "
 address: 575 Gladstone Ave, Ottawa, ON K1R 5P2
 area: Central Ottawa
+price: Under $15
 dietary:
   - Vegetarian options
   - Gluten-free options

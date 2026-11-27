@@ -5,6 +5,7 @@ layout: blog
 cuisine: Persian
 address: 1729 Bank St Unit 105, Ottawa, ON K1V 7Z4
 area: South Ottawa
+price: $15–$25
 mustOrder:
   - chicken drumsticks
 author: Ameya Charnalia
