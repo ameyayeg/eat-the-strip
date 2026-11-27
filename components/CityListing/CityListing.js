@@ -185,7 +185,7 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
         {restaurants.length === 0 && (
           <p className={styles.noResults}>
             {filtering
-              ? 'No open restaurants match these filters. Try removing one, or clear them all.'
+              ? 'No open restaurants match. Try clearing a filter.'
               : city.noResults}
           </p>
         )}

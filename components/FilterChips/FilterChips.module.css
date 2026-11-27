@@ -57,11 +57,16 @@
   border-color: #ee802f;
 }
 
+/* No matches: faded, so it reads as unavailable without drawing the eye. */
 .chip:disabled {
-  color: #8a8a8a;
-  background: #f7f5f2;
-  border-style: dashed;
+  color: #9a9a9a;
+  border-color: #ebe7e1;
   cursor: default;
+}
+
+.chip:disabled .count {
+  background: #f7f5f2;
+  color: #9a9a9a;
 }
 
 .count {
