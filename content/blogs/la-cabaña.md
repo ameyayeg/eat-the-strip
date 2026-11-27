@@ -8,7 +8,7 @@ area: Central Ottawa
 author: Ameya Charnalia
 date: August 18, 2023 3:31 PM
 thumbnail: /uploads/img_1508.jpeg
-closed: false
+closed: true
 positives: 45.400934637368
 image: /uploads/img_1500.jpeg
 rating: 4
