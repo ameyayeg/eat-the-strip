@@ -129,7 +129,7 @@ const HeaderSearch = ({ isListing }) => {
           id="site-search-input"
           className={styles.searchInput}
           type="search"
-          placeholder="Search by name, cuisine, dish or street"
+          placeholder="Search by name, cuisine or street"
           autoComplete="off"
           enterKeyHint="search"
           value={value}
