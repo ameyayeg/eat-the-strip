@@ -20,7 +20,7 @@ const cities = [
     values: ['Ottawa-Gatineau', 'Ottawa'],
     heading: 'Explore the best local food in the capital region',
     intro:
-      'Search by name, cuisine or street, or browse by cuisine and neighbourhood, to discover the latest Ottawa-Gatineau spots.',
+      'Search by name, cuisine or street to discover the latest Ottawa-Gatineau spots.',
     noResults:
       'No restaurants matched that search. Try another cuisine or reset the search.',
     mapCenter: [45.4215, -75.6972],
