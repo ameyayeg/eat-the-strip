@@ -126,7 +126,12 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
   const restaurants = filtering
     ? openMatches.filter((blog) => selectedPrices.includes(blog.price))
     : searching
-    ? textMatches
+    ? // Closed restaurants still show in search, after the open ones, each
+      // group in its usual order (newest first).
+      [
+        ...textMatches.filter((blog) => !blog.closed),
+        ...textMatches.filter((blog) => blog.closed),
+      ]
     : pageItems(blogs, page)
   const status =
     filtering || searching
