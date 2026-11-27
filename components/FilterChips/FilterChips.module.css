@@ -98,13 +98,6 @@
   min-height: 1.6rem;
 }
 
-.note {
-  margin: 0;
-  color: #4e4e4e;
-  font-size: 0.85rem;
-  line-height: 1.5;
-}
-
 .clear {
   padding: 0.25rem 0;
   background: none;

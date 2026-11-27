@@ -11,8 +11,8 @@ import styles from './FilterChips.module.css'
 // that scrolls sideways. Wider screens always show them.
 //
 // groups: [{ id, label, options: [{ value, label, count, selected }], onToggle }]
-// (The listing heading styles every <p>, so the note and status are <div>s.)
-const FilterChips = ({ groups, activeCount, onClear, note, status }) => {
+// (The listing heading styles every <p>, so the status is a <div>.)
+const FilterChips = ({ groups, activeCount, onClear, status }) => {
   const id = useId()
   const [open, setOpen] = useState(false)
   if (!groups.length) return null
@@ -64,7 +64,6 @@ const FilterChips = ({ groups, activeCount, onClear, note, status }) => {
         ))}
 
         <div className={styles.footer}>
-          {note && <div className={styles.note}>{note}</div>}
           {/* Always in the layout (hidden when unused), so nothing shifts. */}
           <button
             type="button"

@@ -73,10 +73,13 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
       (a, b) => counts[b] - counts[a] || a.localeCompare(b)
     )
   }, [blogs])
-  const priceOptions = useMemo(
-    () => PRICES.filter((p) => blogs.some((blog) => blog.price === p.label)),
-    [blogs]
-  )
+  // Price only once every open restaurant in the city has one, so choosing a
+  // price never quietly hides restaurants that just haven't been priced yet.
+  const priceOptions = useMemo(() => {
+    const open = blogs.filter((blog) => !blog.closed)
+    if (!open.length || !open.every((blog) => blog.price)) return []
+    return PRICES.filter((p) => open.some((blog) => blog.price === p.label))
+  }, [blogs])
   // The selection lives in the address (?area=…&price=…), read once the
   // router is ready, like ?q=, so going back from a post keeps it.
   const selectedAreas = router.isReady
@@ -130,7 +133,7 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
   if (priceOptions.length) {
     groups.push({
       id: 'price',
-      label: 'Price (where noted)',
+      label: 'Price',
       onToggle: (value) => setFilters(selectedAreas, toggle(selectedPrices, value)),
       options: priceOptions.map((p) => ({
         value: p.label,
@@ -171,11 +174,6 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
             groups={groups}
             activeCount={selectedAreas.length + selectedPrices.length}
             onClear={() => setFilters([], [])}
-            note={
-              selectedPrices.length
-                ? 'Only restaurants with a price noted are shown. We’re still filling it in.'
-                : null
-            }
             status={status}
           />
         </div>
