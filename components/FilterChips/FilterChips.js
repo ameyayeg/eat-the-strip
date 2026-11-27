@@ -1,4 +1,4 @@
-import { useId } from 'react'
+import { useId, useState } from 'react'
 import styles from './FilterChips.module.css'
 
 // Filter chips at the top of a listing, in labelled groups. Each chip is a
@@ -6,14 +6,29 @@ import styles from './FilterChips.module.css'
 // shown with 0) unless it is selected, so chips never appear, vanish or
 // reorder as filters change. The listing owns the state and the logic.
 //
+// On phones the groups sit behind a "Filters" button (with the number of
+// active filters) that expands them in place; each group is then one row
+// that scrolls sideways. Wider screens always show them.
+//
 // groups: [{ id, label, options: [{ value, label, count, selected }], onToggle }]
 // (The listing heading styles every <p>, so the note and status are <div>s.)
 const FilterChips = ({ groups, activeCount, onClear, note, status }) => {
   const id = useId()
+  const [open, setOpen] = useState(false)
   if (!groups.length) return null
 
   return (
-    <div className={styles.filters}>
+    <div className={open ? `${styles.filters} ${styles.open}` : styles.filters}>
+      <button
+        type="button"
+        className={styles.toggle}
+        aria-expanded={open}
+        aria-controls={`${id}-panel`}
+        onClick={() => setOpen(!open)}
+      >
+        {activeCount ? `Filters (${activeCount})` : 'Filters'}
+        <span className={styles.chevron} aria-hidden="true" />
+      </button>
       <div id={`${id}-panel`} className={styles.panel}>
         {groups.map((group) => (
           <div

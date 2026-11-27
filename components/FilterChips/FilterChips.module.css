@@ -112,6 +112,63 @@
   visibility: hidden;
 }
 
+/* Phones: a "Filters" button that expands the groups in place, each group
+   one sideways-scrolling row. */
+.toggle {
+  display: none;
+}
+
+@media (max-width: 40rem) {
+  .toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-height: 40px;
+    padding: 0.35rem 0.95rem;
+    background: #fff;
+    border: 1px solid #d9d4cc;
+    border-radius: 999px;
+    color: #111;
+    font-family: inherit;
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+
+  .toggle:focus-visible {
+    outline: 3px solid #111;
+    outline-offset: 2px;
+  }
+
+  .chevron {
+    width: 0.45rem;
+    height: 0.45rem;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: translateY(-2px) rotate(45deg);
+  }
+
+  .open .chevron {
+    transform: translateY(2px) rotate(-135deg);
+  }
+
+  .panel {
+    display: none;
+    margin-top: 0.85rem;
+  }
+
+  .open .panel {
+    display: grid;
+  }
+
+  .chips {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin: 0 -1rem;
+    padding: 0 1rem 0.25rem;
+    scrollbar-width: thin;
+  }
+}
+
 .srOnly {
   position: absolute;
   width: 1px;
