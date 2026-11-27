@@ -25,10 +25,51 @@
   text-transform: uppercase;
 }
 
-.chips {
+/* A group's chips, then its drop-down (if any) at the end of the same
+   wrapping row. On phones the chips scroll sideways and the drop-down sits
+   on its own line below them. */
+.row {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
+}
+
+.chips {
+  display: contents;
+}
+
+/* Styled like a chip. A fixed width, so it never changes size as its
+   options' counts change. */
+.more {
+  width: 11.5rem;
+  min-height: 40px;
+  padding: 0.35rem 2.1rem 0.35rem 0.8rem;
+  appearance: none;
+  background: #fff
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23111' stroke-width='2'/%3E%3C/svg%3E")
+    no-repeat right 0.85rem center;
+  border: 1px solid #d9d4cc;
+  border-radius: 999px;
+  color: #111;
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.more:hover {
+  border-color: #ee802f;
+}
+
+.more:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 2px;
+}
+
+.remove {
+  margin-left: -0.1rem;
+  font-size: 1.05rem;
+  line-height: 1;
 }
 
 .chip {
@@ -162,12 +203,23 @@
     display: grid;
   }
 
+  .row {
+    display: grid;
+    gap: 0.5rem;
+  }
+
   .chips {
+    display: flex;
+    gap: 0.45rem;
     flex-wrap: nowrap;
     overflow-x: auto;
     margin: 0 -1rem;
     padding: 0 1rem 0.25rem;
     scrollbar-width: thin;
+  }
+
+  .more {
+    width: 100%;
   }
 }
 

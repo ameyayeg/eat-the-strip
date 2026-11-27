@@ -24,6 +24,8 @@ const cities = [
     noResults:
       'No restaurants matched that search. Try another cuisine or reset the search.',
     mapCenter: [45.4215, -75.6972],
+    // Show the Cuisine, Neighbourhood and Price filters on its listing.
+    filters: true,
   },
   {
     id: 'fredericton',
