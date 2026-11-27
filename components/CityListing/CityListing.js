@@ -29,13 +29,14 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
   // pre-built page (no flash, no hydration mismatch).
   const query =
     router.isReady && typeof router.query.q === 'string' ? router.query.q : ''
-  // Each restaurant's title, cuisine and address, normalized once for
-  // matching (accents and apostrophes ignored). Built in the browser, so the
-  // page data stays the same size.
+  // Each restaurant's title, cuisine, address and area, normalized once for
+  // matching (accents and apostrophes ignored). Built in the browser.
   const searchable = useMemo(
     () =>
       blogs.map((blog) =>
-        normalizeSearchText([blog.title, blog.cuisine, blog.address].join('\n'))
+        normalizeSearchText(
+          [blog.title, blog.cuisine, blog.address, blog.area].join('\n')
+        )
       ),
     [blogs]
   )
