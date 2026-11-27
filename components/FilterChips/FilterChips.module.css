@@ -1,0 +1,125 @@
+.filters {
+  margin-top: 1.25rem;
+}
+
+.panel {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.group {
+  display: grid;
+  gap: 0.4rem;
+}
+
+/* Same small capitals as the city name above the heading. */
+.groupLabel {
+  color: #111;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 40px;
+  padding: 0.35rem 0.8rem;
+  background: #fff;
+  border: 1px solid #d9d4cc;
+  border-radius: 999px;
+  color: #111;
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.chip:hover:not(:disabled) {
+  border-color: #ee802f;
+}
+
+.chip[aria-pressed='true'] {
+  background: #ee802f;
+  border-color: #ee802f;
+}
+
+.chip:disabled {
+  color: #8a8a8a;
+  background: #f7f5f2;
+  border-style: dashed;
+  cursor: default;
+}
+
+.count {
+  min-width: 1.4em;
+  padding: 0.05rem 0.4rem;
+  border-radius: 999px;
+  background: #f1ece6;
+  color: #4e4e4e;
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+.chip[aria-pressed='true'] .count {
+  background: rgba(255, 255, 255, 0.75);
+  color: #111;
+}
+
+.chip:focus-visible,
+.clear:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 2px;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  min-height: 1.6rem;
+}
+
+.note {
+  margin: 0;
+  color: #4e4e4e;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.clear {
+  padding: 0.25rem 0;
+  background: none;
+  border: none;
+  border-bottom: 2px solid #78c0a8;
+  color: #111;
+  font-family: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.clear[hidden] {
+  display: inline-block;
+  visibility: hidden;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

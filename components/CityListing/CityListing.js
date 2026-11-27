@@ -6,6 +6,7 @@ import { useRouter } from 'next/router'
 import styles from './CityListing.module.css'
 import Pagination from '../Pagination/Pagination'
 import ArchiveNote from '../ArchiveNote'
+import FilterChips from '../FilterChips/FilterChips'
 import { WritersPickIcon } from '../PostSummary/PostSummary'
 import { getCityById, cityPath } from '../../utils/cities'
 import { absoluteUrl, SITE_NAME } from '../../utils/seo'
@@ -16,10 +17,24 @@ import { normalizeSearchText } from '../../utils/searchText'
 // the rest load lazily as the reader scrolls.
 const PRIORITY_CARDS = 3
 
-// The listing page for one city: heading and restaurant cards. The search
-// box lives in the header and puts the search in the address (?q=).
-// `blogs` is the whole city so search covers every restaurant; without a
-// search, only this page's cards show, with page numbers below.
+// Price chips: the CMS values, with short keys for the address (?price=).
+const PRICES = [
+  { key: 'under-15', label: 'Under $15' },
+  { key: '15-25', label: '$15–$25' },
+  { key: 'over-25', label: 'Over $25' },
+]
+
+// "a,b" from the address as a list.
+const readList = (value) =>
+  typeof value === 'string' && value
+    ? value.split(',').map((item) => item.trim()).filter(Boolean)
+    : []
+
+// The listing page for one city: heading, filter chips and restaurant cards.
+// The search box lives in the header and puts the search in the address
+// (?q=); the chips do the same (?area=, ?price=). `blogs` is the whole city so
+// search and filters cover every restaurant; with neither, only this page's
+// cards show, with page numbers below.
 const CityListing = ({ cityId, blogs, page = 1 }) => {
   const city = getCityById(cityId)
   const basePath = cityPath(city)
@@ -42,9 +57,101 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
   )
   const normalizedQuery = normalizeSearchText(query.trim())
   const searching = normalizedQuery !== ''
-  const restaurants = searching
+  const textMatches = searching
     ? blogs.filter((_, i) => searchable[i].includes(normalizedQuery))
+    : blogs
+
+  // Filter chips: Neighbourhood (area) and Price, each only if this city has
+  // that data. Neighbourhoods are ordered by how many open restaurants each
+  // has across the city, a fixed order, so chips never move as you filter.
+  const areaOptions = useMemo(() => {
+    const counts = {}
+    blogs.forEach((blog) => {
+      if (blog.area && !blog.closed) counts[blog.area] = (counts[blog.area] || 0) + 1
+    })
+    return Object.keys(counts).sort(
+      (a, b) => counts[b] - counts[a] || a.localeCompare(b)
+    )
+  }, [blogs])
+  const priceOptions = useMemo(
+    () => PRICES.filter((p) => blogs.some((blog) => blog.price === p.label)),
+    [blogs]
+  )
+  // The selection lives in the address (?area=…&price=…), read once the
+  // router is ready, like ?q=, so going back from a post keeps it.
+  const selectedAreas = router.isReady
+    ? readList(router.query.area).filter((a) => areaOptions.includes(a))
+    : []
+  const selectedPrices = router.isReady
+    ? readList(router.query.price)
+        .map((key) => priceOptions.find((p) => p.key === key))
+        .filter(Boolean)
+        .map((p) => p.label)
+    : []
+  const filtering = selectedAreas.length > 0 || selectedPrices.length > 0
+  // Neighbourhoods combine with OR, prices with OR, the two groups with AND,
+  // all on top of the text search. Closed restaurants are left out of
+  // filtered results and counts (they still show unfiltered and in search).
+  const inAreas = (blog) =>
+    !selectedAreas.length || selectedAreas.includes(blog.area)
+  const inPrices = (blog) =>
+    !selectedPrices.length || selectedPrices.includes(blog.price)
+  const openMatches = textMatches.filter((blog) => !blog.closed)
+
+  const setFilters = (areas, prices) => {
+    const next = { ...router.query }
+    if (areas.length) next.area = areas.join(',')
+    else delete next.area
+    const keys = prices.map((label) => PRICES.find((p) => p.label === label).key)
+    if (keys.length) next.price = keys.join(',')
+    else delete next.price
+    router.replace({ pathname: router.pathname, query: next }, undefined, {
+      shallow: true,
+      scroll: false,
+    })
+  }
+  const toggle = (list, value) =>
+    list.includes(value) ? list.filter((v) => v !== value) : [...list, value]
+
+  const groups = []
+  if (areaOptions.length) {
+    groups.push({
+      id: 'area',
+      label: 'Neighbourhood',
+      onToggle: (value) => setFilters(toggle(selectedAreas, value), selectedPrices),
+      options: areaOptions.map((area) => ({
+        value: area,
+        label: area,
+        selected: selectedAreas.includes(area),
+        count: openMatches.filter((b) => b.area === area && inPrices(b)).length,
+      })),
+    })
+  }
+  if (priceOptions.length) {
+    groups.push({
+      id: 'price',
+      label: 'Price (where noted)',
+      onToggle: (value) => setFilters(selectedAreas, toggle(selectedPrices, value)),
+      options: priceOptions.map((p) => ({
+        value: p.label,
+        label: p.label,
+        selected: selectedPrices.includes(p.label),
+        count: openMatches.filter((b) => b.price === p.label && inAreas(b)).length,
+      })),
+    })
+  }
+
+  const restaurants = filtering
+    ? openMatches.filter((blog) => inAreas(blog) && inPrices(blog))
+    : searching
+    ? textMatches
     : pageItems(blogs, page)
+  const status =
+    filtering || searching
+      ? `${restaurants.length} ${
+          restaurants.length === 1 ? 'restaurant matches' : 'restaurants match'
+        }`
+      : ''
   const pageLabel = page > 1 ? ` – Page ${page}` : ''
 
   return (
@@ -60,12 +167,27 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
           <p className={styles.headingTag}>{city.name}</p>
           <h1>{city.heading}</h1>
           <p>{city.intro}</p>
+          <FilterChips
+            groups={groups}
+            activeCount={selectedAreas.length + selectedPrices.length}
+            onClear={() => setFilters([], [])}
+            note={
+              selectedPrices.length
+                ? 'Only restaurants with a price noted are shown. We’re still filling it in.'
+                : null
+            }
+            status={status}
+          />
         </div>
       </section>
 
       <section className={styles.container}>
         {restaurants.length === 0 && (
-          <p className={styles.noResults}>{city.noResults}</p>
+          <p className={styles.noResults}>
+            {filtering
+              ? 'No open restaurants match these filters. Try removing one, or clear them all.'
+              : city.noResults}
+          </p>
         )}
 
         <div className={styles.restaurantGrid}>
@@ -108,7 +230,7 @@ const CityListing = ({ cityId, blogs, page = 1 }) => {
           ))}
         </div>
 
-        {!searching && (
+        {!searching && !filtering && (
           <Pagination page={page} count={count} basePath={basePath} />
         )}
       </section>
