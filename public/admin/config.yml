@@ -56,6 +56,7 @@ collections:
           widget: 'select',
           options: ['Under $15', '$15–$25', 'Over $25'],
           required: false,
+          hint: 'Required for open Ottawa-Gatineau restaurants: the typical cost for one person, before tax and tip. Leave blank for Fredericton and closed restaurants.',
         }
       - {
           label: 'Dietary options',

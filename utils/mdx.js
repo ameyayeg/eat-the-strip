@@ -12,10 +12,24 @@ export async function getSortedPosts() {
 
       // A City that matches no city would drop the post from every listing
       // and the map without warning, so stop the build instead.
-      if (!cityForPost(matterData.data.city)) {
+      const postCity = cityForPost(matterData.data.city)
+      if (!postCity) {
         const names = cities.map((city) => `"${city.name}"`).join(', ')
         throw new Error(
           `content/blogs/${filename}: City "${matterData.data.city}" isn't a city in utils/cities.js. Use one of ${names}, or leave it blank for "${cities.find((city) => city.isDefault).name}".`
+        )
+      }
+
+      // Price chips only show when every open post in the city has a price,
+      // so a missing one would hide them for the whole city. Stop the build
+      // instead.
+      if (
+        postCity.filters &&
+        matterData.data.closed !== true &&
+        !matterData.data.price
+      ) {
+        throw new Error(
+          `content/blogs/${filename}: open ${postCity.name} posts need a Price (Under $15, $15–$25 or Over $25). Set it in the CMS, or mark the post Closed.`
         )
       }
 
