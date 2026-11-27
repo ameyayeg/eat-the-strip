@@ -5,6 +5,7 @@ layout: blog
 cuisine: Jamaican
 address: 2297 St Joseph Blvd, Orléans, ON K1C 1E7
 area: Orléans
+price: $15–$25
 mustOrder:
   - goat roti
 author: Ameya Charnalia

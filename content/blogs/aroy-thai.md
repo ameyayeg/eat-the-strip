@@ -5,6 +5,7 @@ layout: blog
 cuisine: Thai
 address: 1 Rideaucrest Dr, Ottawa, ON K2G 6A4
 area: Nepean
+price: $15–$25
 author: Ameya Charnalia
 date: July 15, 2026 4:19 PM
 thumbnail: /uploads/img_2240.jpeg

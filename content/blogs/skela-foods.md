@@ -5,6 +5,7 @@ layout: blog
 cuisine: Balkan
 address: 1884 Merivale Rd Unit 15, Nepean, ON K2G 1E6
 area: Nepean
+price: Under $15
 mustOrder:
   - chevapi
 author: Ameya Charnalia

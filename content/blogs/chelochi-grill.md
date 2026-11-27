@@ -5,6 +5,7 @@ layout: blog
 cuisine: Persian
 address: "2900 Gibford Dr UNIT #8, Ottawa, ON K1V 1C3"
 area: South Ottawa
+price: Over $25
 author: Ameya Charnalia
 date: October 9, 2023 12:16 AM
 thumbnail: /uploads/img_2081.jpeg

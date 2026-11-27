@@ -5,6 +5,7 @@ layout: blog
 cuisine: North American
 address: 2241 St. Laurent Blvd, Ottawa, ON K1G 1B1
 area: East Ottawa
+price: $15–$25
 mustOrder:
   - classic Skinny George
 author: Ameya Charnalia

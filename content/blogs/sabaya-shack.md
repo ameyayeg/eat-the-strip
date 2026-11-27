@@ -5,6 +5,7 @@ layout: blog
 cuisine: Somali
 address: 2285 St. Laurent Blvd C7, Ottawa, ON K1G 4Z7
 area: East Ottawa
+price: Under $15
 favourite: true
 author: Ameya Charnalia
 date: February 3, 2024 5:08 PM

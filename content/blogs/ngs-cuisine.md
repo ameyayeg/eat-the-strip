@@ -5,6 +5,7 @@ layout: blog
 cuisine: Chinese
 address: 1499 Merivale Rd, Nepean, ON K2E 5P3
 area: Nepean
+price: $15–$25
 author: Ameya Charnalia
 date: April 21, 2024 2:30 PM
 thumbnail: /uploads/img_4645.jpeg

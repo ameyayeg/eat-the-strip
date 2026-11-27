@@ -5,6 +5,7 @@ layout: blog
 cuisine: Yemeni
 address: 3-1940 Bank St, Ottawa, ON K1V 7Z8
 area: South Ottawa
+price: $15–$25
 mustOrder:
   - fava beans
 author: Ameya Charnalia

@@ -5,6 +5,7 @@ layout: blog
 cuisine: Indian
 address: 1081 Carling Ave, Ottawa, ON K1Y 1V3
 area: Central Ottawa
+price: Under $15
 mustOrder:
   - samosa chat
   - maggi

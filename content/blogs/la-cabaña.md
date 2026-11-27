@@ -5,6 +5,7 @@ layout: blog
 cuisine: Salvadoran
 address: 83 Holland Ave, Ottawa, ON K1Y 0Y1
 area: Central Ottawa
+price: $15–$25
 author: Ameya Charnalia
 date: August 18, 2023 3:31 PM
 thumbnail: /uploads/img_1508.jpeg

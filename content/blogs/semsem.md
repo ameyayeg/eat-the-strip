@@ -5,6 +5,7 @@ layout: blog
 cuisine: Middle Eastern
 address: "2430 Bank Street Unit #11, K1V 0T7 Ottawa, Ontario"
 area: South Ottawa
+price: $15–$25
 dietary:
   - Vegan options
   - Vegetarian options

@@ -5,6 +5,7 @@ layout: blog
 cuisine: Italian
 address: 1387 Carling Ave, Ottawa, ON K1Z 7L6, Canada
 area: West Ottawa
+price: Under $15
 author: Ameya Charnalia
 date: January 19, 2024 12:22 PM
 thumbnail: /uploads/img_3111.jpeg

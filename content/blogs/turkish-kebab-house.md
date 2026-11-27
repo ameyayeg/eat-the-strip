@@ -5,6 +5,7 @@ layout: blog
 cuisine: Turkish
 address: 471 Terry Fox Dr Unit 120, Kanata, ON K2T 0A3
 area: Kanata
+price: Over $25
 mustOrder:
   - beef shish
 author: Marianne Jeffery
