@@ -9,6 +9,7 @@ price: Over $25
 author: Ameya Charnalia
 date: July 31, 2024 12:29 PM
 thumbnail: /uploads/img_5646.jpeg
+closed: true
 rating: 5
 positives: 45.46338578973475
 negatives: -75.7007469931053

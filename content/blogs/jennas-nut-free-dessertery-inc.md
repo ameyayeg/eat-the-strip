@@ -7,7 +7,7 @@ address: 170 Urquhart Crescent, Fredericton, NB E3B 8K5
 author: Ameya Charnalia
 date: November 23, 2025 7:51 PM
 thumbnail: /uploads/img_0319.jpeg
-closed: false
+closed: true
 positives: 45.89989698547267
 negatives: -66.59046398570251
 image: /uploads/img_0312.jpeg
