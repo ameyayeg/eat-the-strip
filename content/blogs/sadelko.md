@@ -11,10 +11,11 @@ mustOrder:
 author: Ameya Charnalia
 date: December 24, 2023 11:44 PM
 thumbnail: /uploads/img_2962.jpeg
-rating: 5
+closed: true
 positives: 45.39717936368766
 negatives: -75.8352922671675
 image: /uploads/img_2965.jpeg
+rating: 5
 ---
 Sadelko—a Cameroonian restaurant that opened just a few months ago in a mall—reminded us recently why Aylmer is one of our favourite food destinations in the region.
 
